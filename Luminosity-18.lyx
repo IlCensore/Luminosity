@@ -1,0 +1,1771 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{17}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Arno Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.3500000000000001
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Clearwater
+\end_layout
+
+\begin_layout Standard
+It wasn't far from La Push to the coastline.
+ Leaving items like my cellphone that would be harmed by the saltwater onshore,
+ I dove into the water and looked for lunch.
+ I didn't find any killer whales, so I had a harbor seal instead.
+ It wasn't nearly as good, but it filled me up.
+ When I'd emerged from the water, I called Edward, told him that I expected
+ to be away from Québec for at least a couple more days but that he shouldn't
+ worry, and asked after Gianna.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's okay,
+\begin_inset Quotes erd
+\end_inset
+
+ he said heavily, “or at least -- well, 
+\emph on
+Gianna
+\emph default
+ is fine, but worried about her brother.
+ The morphine didn't do what we thought.
+ Not long after you took off, he started screaming.
+ Carlisle broke his spine, but it's healed now.
+ And he was able to say that the morphine didn't help -- that it interacted
+ with the venom somehow, and paralyzed him instead of actually dulling the
+ pain.
+ You can imagine how horrified Gianna was, and Carlisle’s decided to start
+ keeping barbiturates on hand at all times so that we can do it the way
+ we did with you every time in the future, even on no notice.”
+\end_layout
+
+\begin_layout Standard
+I sucked in a breath of sea air through my teeth.
+ “
+\emph on
+Eeesh
+\emph default
+.
+ Yeah, good plan.
+ Ilario's nearly done now?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Edward.
+ “Nearly.
+ They'll keep me posted -- I asked them to call my phone instead of yours
+ when possible and let them assume that your carrier has spotty reception
+ here.
+ At least, I think that's what they assumed -- I can't be sure from this
+ far away.
+ Gianna has been informed that you prefer, in spite of your control, not
+ to be around humans when you don't need to and are out hunting most of
+ the time, so she isn't going to let anything slip.
+ Alice did try calling you once, and told me that your power is developing
+ in an interesting and inconvenient way,” he relayed, with some mirth.
+\end_layout
+
+\begin_layout Standard
+He hadn't asked for anything about where I was at, and I was grateful.
+ It had begun to wear on me to be away from him for so long.
+ He could probably hear the ocean through the phone, but he could have asked
+ for more precision about my location -- or my project, or whether I was
+ with anyone, or what I'd been using my shiny black credit card for lately
+ -- and I wouldn't have been able to resist telling him.
+ It 
+\emph on
+ached
+\emph default
+ that I couldn't safely share it all.
+ A little itchy feeling that I must be being too paranoid, that 
+\emph on
+no
+\emph default
+ danger was so great that it should stop me from telling Edward everything,
+ prickled in my mind.
+ Only the notion that Edward's own safety could be on the line if Aro got
+ hold of the wrong information let me hold my tongue.
+\end_layout
+
+\begin_layout Standard
+“I'll be back as soon as I can,” I promised him, not addressing the substance
+ of his statements.
+ “I love you, you know.”
+\end_layout
+
+\begin_layout Standard
+“I love you,” he murmured into the phone.
+\end_layout
+
+\begin_layout Standard
+“You never say `too’,” I observed.
+ “Why not?”
+\end_layout
+
+\begin_layout Standard
+“I got into the habit when you were a human,” he said.
+ “If I said `too’, it would make it sound like my love and yours were comparable
+, when I was quite convinced that you couldn't love me as much as I loved
+ you.”
+\end_layout
+
+\begin_layout Standard
+“That's...
+ very silly, but probably not inaccurate,” I said.
+ “Humans don't have a lot of space in their heads.
+ I love you more now than I did then.”
+\end_layout
+
+\begin_layout Standard
+I heard a smile in Edward's voice as he said, “Do you want me to start saying
+ `too’ now, then?”
+\end_layout
+
+\begin_layout Standard
+“No, don't, it's cute this way.”
+\end_layout
+
+\begin_layout Standard
+“Very well,” he laughed.
+ “When you come back and when Ilario is ready to be in the same house as
+ Gianna, what do you want to do next?”
+\end_layout
+
+\begin_layout Standard
+“I'd like to meet the Denalis soon,” I said.
+ “They didn't come to our wedding, and they're extended family, aren't they?”
+\end_layout
+
+\begin_layout Standard
+“We do tend to consider them so,” Edward acknowledged.
+ “I'm sure they'd be happy to have us visit.”
+\end_layout
+
+\begin_layout Standard
+“Great.
+ But don't schedule anything yet.
+ I don't have a firm timetable.”
+\end_layout
+
+\begin_layout Standard
+“Of course, Bella.” I felt so 
+\emph on
+accommodated
+\emph default
+.
+ I'd told Aro that my coven didn't revolve around me, but in some sense,
+ since I'd entered their sphere of attention, it 
+\emph on
+had
+\emph default
+.
+ Bella asked to see vampires doing tricks; Bella wants us to perform egg
+ extraction surgery on her; Bella has been targeted by an unstoppable tracker;
+ Bella needs to be picked up in Italy; Bella has rendered it necessary that
+ we move to Norway; Bella's turning; Bella's a newborn; Bella's a special
+ snowflake; Bella needs a test human; Bella's getting married; Bella needs
+ a private South Atlantic island on which to honeymoon; Bella wants to rescue
+ a human she met once; Bella wants to throw in the human’s brother; and
+ now Bella's gallivanting around without telling anybody what she's up to...
+\end_layout
+
+\begin_layout Standard
+I hoped someone in my family would want me to do them a favor soon.
+ Ideally when I wasn't up to my neck in werewolf stuff, and able to help.
+\end_layout
+
+\begin_layout Standard
+“And then we can go looking in South America for half-vampires,” I told
+ Edward -- he, at least, I could do 
+\emph on
+something
+\emph default
+ for.
+ He'd seemed to like the idea of having children that were really 
+\emph on
+ours
+\emph default
+ -- and I did too, if only we could expect Gianna to survive.
+ It was worth a while prowling about the Amazon Basin or wherever hints
+ led us.
+\end_layout
+
+\begin_layout Standard
+“Whatever you like, love,” Edward murmured.
+\end_layout
+
+\begin_layout Standard
+I had nothing else I needed to do until regular business hours would let
+ me reserve airline tickets for inactive Quileutes by phone.
+\end_layout
+
+\begin_layout Standard
+I kept Edward on the phone for a long time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I had failed to arrange a rendezvous point at which Rachel would be able
+ to find me, so I stayed put on the beach, hoping she could follow my scent.
+ Failing that, she'd be able to dig up my phone number, as I'd called her
+ to invite her to lunch.
+\end_layout
+
+\begin_layout Standard
+No phone call proved necessary.
+ Rachel, flanked by six of her pack in a V with three per side, found me.
+ They walked together in a coordinated, wary-but-confident motion; Rachel,
+ Seth, and the girl I recognized as Marilyn wore smiles but the others were
+ serious and stone-faced.
+ “Hey, Bella,” said Rachel.
+ “Me and these six are the best bet at convincing the people on the list
+ I gave you to show up on the rez anytime soon.
+ Oh, and if you want to throw money at a problem, it'd be kind of handy
+ if you could order us thirty assorted pizzas and have them delivered to
+ Dad's -- Jake and Embry have enough of a handle on themselves to ferry
+ 'em out to the ravine.
+ Everybody's starving.” Seth's stomach growled, backing up her statement.
+\end_layout
+
+\begin_layout Standard
+“Sure.
+ I'll take somebody grocery shopping later for a longer-term solution to
+ sudden werewolf appetite, too, if you want,” I said agreeably.
+ “How are we doing the plane tickets thing?”
+\end_layout
+
+\begin_layout Standard
+“We've got four cellphones between us -- Seth, Brady, and Lynnie don't have
+ their own -- so we're going to call our respective people and let you know
+ from what airport and at what time to buy tickets for as people get convinced,”
+ she said.
+\end_layout
+
+\begin_layout Standard
+“Sounds good.” The mini-pack dispersed somewhat, so they wouldn't talk over
+ each other; I could hear the voices on the other ends as werewolves stumbled
+ through requests for visits and haphazard prevarications about winning
+ tickets in imaginary contests.
+ I ordered pizza.
+ It was a little tricky to convince the fellow who answered the phone that
+ yes, I said thirty, yes, I 
+\emph on
+meant
+\emph default
+ thirty, yes, the number that was represented by a three followed by a zero.
+ Seth was waiting for someone to loan him a phone, and listened to me try
+ to put in my bulk order with an amused expression.
+ Eventually I got the pizza guy to accept my credit card number and agree
+ to bring thirty pizzas to Billy's house, although he said there would be
+ a wait.
+\end_layout
+
+\begin_layout Standard
+“How come you have so much money?” Seth asked.
+\end_layout
+
+\begin_layout Standard
+“I married into a family of vampires with good investment strategies such
+ as `be hundreds of years old’ or `have precognition’,” I told him.
+\end_layout
+
+\begin_layout Standard
+“Is it nice being a vampire?” he asked.
+\end_layout
+
+\begin_layout Standard
+“I love it,” I said.
+ “Turning into one's not fun, though.
+ You guys have it much easier.”
+\end_layout
+
+\begin_layout Standard
+“Thanks for helping,” he said earnestly.
+ “Those Volturkeys sound pretty bad.”
+\end_layout
+
+\begin_layout Standard
+“I don't like ’em much,” I agreed.
+ “They were useful to me one time, and some law over vampires is better
+ than none, but I think we can do better.”
+\end_layout
+
+\begin_layout Standard
+“You're a nice vampire,” Seth informed me, as though he genuinely thought
+ I might need to be reassured on this point.
+ Perhaps he'd been exposed to too much popular culture in which immortality
+ was something to be angsted about.
+\end_layout
+
+\begin_layout Standard
+“Thank you, Seth,” I said.
+\end_layout
+
+\begin_layout Standard
+“You're welcome!” he said, and then Rachel was finished convincing Becky
+ to fly up and handed him her phone.
+\end_layout
+
+\begin_layout Standard
+“So I'm guessing she'll fly out of Honolulu?” I asked Rachel.
+ “I wasn't paying close attention to the conversation.
+ What's her married name? When should I book her flight for?”
+\end_layout
+
+\begin_layout Standard
+“Her and her husband are both coming,” Rachel said.
+ “Rebecca and Caleb Euta.
+ I told her I won a small lottery and I can cover her lost wages if she
+ takes a few days off -- we might actually have to promise that kind of
+ thing to a few people, I hope it's okay.
+ And book it for three p.m.
+ our time, today, or as soon after as you can.”
+\end_layout
+
+\begin_layout Standard
+“I don't even have to 
+\emph on
+warn
+\emph default
+ Alice unless I want a million bucks very suddenly,” I reassured Rachel.
+ “I can cover lost wages.
+ I can put people up in hotels.
+ I can buy you all thirty pizzas every day.”
+\end_layout
+
+\begin_layout Standard
+“Okay, good,” she said.
+ “Pizza's on its way?” I nodded.
+ “Also good.
+ I could eat a horse.”
+\end_layout
+
+\begin_layout Standard
+“I'm sure if one were around, you could take it down, and probably digest
+ it just fine in wolf form too,” I pointed out.
+ “Although you'd be more likely to find deer or something than horse.”
+\end_layout
+
+\begin_layout Standard
+“Point.
+ Still, one life-changing thing at a time.
+ I don't want to learn to turn into a wolf and then start eating raw meat
+ less than twenty-four hours later.”
+\end_layout
+
+\begin_layout Standard
+“Fair enough.
+ I'll book Becky's flight.” I called a few airlines, eventually finding one
+ that would give Becky and Caleb both seats on an upcoming flight on short
+ notice.
+ Oddly, I didn't have to throw a surcharge in -- I supposed if they had
+ empty seats so soon before takeoff, they'd go to considerable lengths to
+ fly with those seats full for cheap instead of empty for nothing.
+\end_layout
+
+\begin_layout Standard
+By the time I was finished with that, two more werewolves had finished and
+ needed me to buy flights from Florida and Ohio.
+ I did that, noting between calls that Marilyn was having difficulty convincing
+ her person -- apparently an elder cousin -- to agree to suddenly visit.
+ I finished the third airline booking and caught the girl's eye.
+ “Can I help?” I mouthed to her.
+\end_layout
+
+\begin_layout Standard
+“Hang on,” she told her cousin, and she put her hand over the phone.
+ “His girlfriend's in trouble with Immigration and he won't leave town.
+ I don't think you can fix that.”
+\end_layout
+
+\begin_layout Standard
+“Well, don't know till I try,” I said.
+ “Where are they located?”
+\end_layout
+
+\begin_layout Standard
+“Albuquerque,” she said.
+ I quizzed her for more details, mentally scanning the list of contacts
+ licit and illicit that Edward had given me.
+ There weren't any local to New Mexico -- too sunny; we'd never live there
+ if we could help it and wanted to go out during the day.
+ I could probably have managed to get the authorities to leave the girl
+ alone if I'd tried federal law enforcement, but thought it would be potentially
+ conspicuous, depending on how watchful the Volturi were.
+\end_layout
+
+\begin_layout Standard
+“I guess I can make a separate trip to visit him,” I said.
+ “But then he'd be activating all by himself...
+ do you know if your telepathy has a range limit?” Marilyn shook her head,
+ solemn.
+\end_layout
+
+\begin_layout Standard
+I growled to myself, which caused Marilyn to phase.
+ She whined, annoyed; Rachel had brought a few changes of clothes along,
+ and when she noticed the strawberry-blond-furred wolf she waved her behind
+ a rock and left the clothes there.
+\end_layout
+
+\begin_layout Standard
+I picked up Marilyn's phone and handed it to Rachel.
+ “Sorry,” she said to the absent Quileute, “Marilyn had to run all of a
+ sudden -- she may call you back later.” She flipped the phone closed and
+ put it in her pocket.
+ “Don't growl,” she told me.
+ “Even I jumped a bit when I heard it.
+ We're all 
+\emph on
+managing
+\emph default
+ to override the whole `you smell like cyanide and evil, minty flowers’
+ thing, but make it easy on us, please.”
+\end_layout
+
+\begin_layout Standard
+“Sorry.”
+\end_layout
+
+\begin_layout Standard
+Rachel waved a hand, not particularly upset, and moved on.
+ “If we can't get this one guy to show up, we can't get this one guy to
+ show up.
+ You can get him in the next wave when more people have gotten old enough.
+ Although if you wanted to stick around until his girlfriend's situation
+ is resolved...”
+\end_layout
+
+\begin_layout Standard
+“We have no idea how long that will take.
+ Maybe I should leave you a bottle of venom or something.
+ If anything besides a real live vampire will trigger a transition, that
+ should be it.
+ But be careful with it.
+ If it gets into a regular human’s bloodstream it causes turning -- I have
+ no idea what it'd do to one of you.
+ And it needs a glass container.
+ It'll eat through most anything else.”
+\end_layout
+
+\begin_layout Standard
+“What do we do with it?”
+\end_layout
+
+\begin_layout Standard
+“Smelling it might do the trick all by itself, though probably slowly --
+ it's at least ninety percent of why you think I stink, I bet.
+ Failing that, a drop of it on 
+\emph on
+unbroken
+\emph default
+ skin might be safe -- but I'd want to try it on somebody's little toenail,
+ first, so it can be chopped off smart quick if it turns out I'm wrong.”
+\end_layout
+
+\begin_layout Standard
+“Okay.
+ I'll send someone to bring you a glass bottle.
+ We'll be careful,” she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Marilyn's cousin was the only person who absolutely couldn't be persuaded
+ to visit La Push.
+ I bought the rest of the plane tickets, and then simply handed Rachel all
+ the cash I had in my wallet so she didn't need to run smaller purchases
+ by me.
+\end_layout
+
+\begin_layout Standard
+The pack devoured their thirty pizzas, and I was sent on a grocery run (alone,
+ lest a werewolf companion phase in the middle of the store) to buy simple
+ food in large quantities that could be stored unproblematically in the
+ ravine and didn't need to be cooked.
+ I went a ways afield for the trip, to reduce the risk of being recognized,
+ and bought the store out of chips, candy, jerky, bottled juices and energy
+ drinks, Hostess snackfoods, and similar packaged crap, as well as some
+ fruit and bread.
+ “Throwing a big party,” I told the clerk, when he looked at me in bewilderment.
+ I still had the horse trailer attached to my car, which made it a lot easier
+ to fit everything.
+\end_layout
+
+\begin_layout Standard
+I drove cautiously into La Push, but no one seemed to be around, so I risked
+ unhitching the trailer and dragging it out into the woods by hand rather
+ than trying to drive through the trees.
+ Jacob and his friend Embry were waiting at my rock to be food ferries once
+ again, and although they didn't phase as I passed them sacks of munchies,
+ they didn't seem to love being around me, either.
+ I didn't risk aggravating them by trying to strike up a conversation.
+\end_layout
+
+\begin_layout Standard
+I hung out at my rock, waiting.
+ Rachel brought me a rinsed lemonade bottle and I started collecting venom.
+ I was able to exercise some control over the amount I generated -- just
+ concentrating on the right scent memories did it.
+ It didn't take long to have it half-full.
+\end_layout
+
+\begin_layout Standard
+Later, Rachel swung by again.
+ “Jacob thinks, and on reflection I agree, that Dad wouldn't want to be
+ the first older person to try activating.
+ Leah and Seth volunteered to ask their father and they're talking to him
+ now.”
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said.
+\end_layout
+
+\begin_layout Standard
+“I want to see how it works, so I'll hang out if you don't mind.”
+\end_layout
+
+\begin_layout Standard
+I spat more venom between my teeth into the lemonade bottle.
+ “I don't if you don't.
+ Cyanide and evil minty flowers, though.”
+\end_layout
+
+\begin_layout Standard
+“Yeah.
+ It seems to bother some of us more than others.
+ Seth barely minds at all -- and his sister's on the other end of the spectrum.
+ I'm about middling, seems like.
+ What do we smell like to you?” She sat a few feet away from where I was
+ standing.
+\end_layout
+
+\begin_layout Standard
+“Like wolves,” I said.
+ “But not in an earthy pleasant way.”
+\end_layout
+
+\begin_layout Standard
+“Have you, y’know, 
+\emph on
+eaten
+\emph default
+ a wolf -- a regular one?”
+\end_layout
+
+\begin_layout Standard
+“Yeah, but I didn't care for the flavor.
+ Wild boars are better.
+ And killer whales are best.
+ But tastes vary.
+ My husband prefers mountain lions.”
+\end_layout
+
+\begin_layout Standard
+“This is all pretty wild,” remarked Rachel, crossing and recrossing her
+ legs until she found a comfortable position on the forest floor.
+ “I don't think I'd be too surprised right now if I woke up in the hospital
+ in Spokane and found that I'd hurt my head and been having really screwed-up
+ dreams.”
+\end_layout
+
+\begin_layout Standard
+“I thought you were having fun with it now that you've got wolfy company?”
+\end_layout
+
+\begin_layout Standard
+“Don't get me wrong, there's good bits, and I don't want to get picked off
+ in my sleep by an evil Italian vampire who wants to make sure my family
+ stops existing, so I'm glad you showed up -- but it's so 
+\emph on
+crazy
+\emph default
+.
+ I'm Alpha in a pack of twenty-seven -- and I can 
+\emph on
+magically back that up
+\emph default
+ if I want, I just found that out really early this morning.
+ Paul and Sam got into a fight while they and I were all wolves and I thought
+ at them to stop and 
+\emph on
+they stopped just like that
+\emph default
+ -- I have some kind of super commanding mojo going on, I could hear the
+ order echoing funny in all our heads.
+ They were halfway 
+\emph on
+bowing
+\emph default
+ to me before I told them to cut 
+\emph on
+that
+\emph default
+ out.”
+\end_layout
+
+\begin_layout Standard
+“Uh, wow,” I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+With great power, comes great responsibility?”
+\end_layout
+
+\begin_layout Standard
+Rachel snorted.
+ “Yeah.
+ I am going to have to be super careful about using that.
+ I don't know yet if it works out of wolf form.
+ But even if it doesn't -- 
+\emph on
+holy crow
+\emph default
+, Bella, 
+\emph on
+I personally have mind-control powers over a small army of almost thirty
+ telepathic werewolves
+\emph default
+.
+ I'm reeling just a 
+\emph on
+tiny bit
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“Your power's more interesting than mine,” I volunteered.
+ “I don't even get to decide whether to use it.”
+\end_layout
+
+\begin_layout Standard
+“Huh?”
+\end_layout
+
+\begin_layout Standard
+“Oh, some humans -- regular ones -- have a little bit of magic,” I said,
+ pinching the air to indicate the quantity.
+ “Different powers that do random things.
+ Those are called witches.
+ I was one.
+ Turning is supposed to intensify everything, especially witchiness, but
+ so far my power's the same as it always was.
+ I'm immune to some other witch powers -- my husband's, and the mindreader
+ Volturi’s, and some of their guard.”
+\end_layout
+
+\begin_layout Standard
+“Freaky.
+ Is that the deal with your psychic sister?”
+\end_layout
+
+\begin_layout Standard
+“Yeah, she's a witch too, and so’s her husband -- he's like an empath.
+ My parents-in-law and my other brother and sister are just your boring,
+ everyday, bog-standard vegetarian vampires.”
+\end_layout
+
+\begin_layout Standard
+“Bella, dunno if you noticed, but you have a weird family,” remarked Rachel.
+\end_layout
+
+\begin_layout Standard
+“Yep,” I laughed.
+ “Oh, I hear Leah and Seth bringing their dad.” I listened.
+ “Um...
+ It sounds like they're fighting.”
+\end_layout
+
+\begin_layout Standard
+Rachel sat bolt upright.
+ “Fighting? They're having a fight with Mr.
+ Clearwater?”
+\end_layout
+
+\begin_layout Standard
+“Leah is; sounds like
+\begin_inset space ~
+\end_inset
+
+--” Before I could finish the sentence, Rachel had sprung to her feet and
+ phased midstride to plunge into the woods towards the arguing father and
+ daughter.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I didn't follow.
+ I had an idea of what worried her -- she thought Mr.
+ Clearwater would anger Leah to the point where she'd phase and possibly
+ injure him, and wanted to be on the scene to avoid that.
+ My presence wouldn't make it any easier to keep Leah in her skin, and if
+ she did hurt her father, I still didn't know how I'd do around fresh human
+ blood.
+\end_layout
+
+\begin_layout Standard
+And so I listened.
+\end_layout
+
+\begin_layout Standard
+Rachel was taking long, swift strides.
+ Mr.
+ Clearwater's voice was saying, “Young lady, now you listen to me, if you
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Leah interrupted him: “No, you listen to me! I can go wherever I want! I
+ don't need your permission to breathe!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Your brother is only thirteen years old! You can't just take him out camping
+ overnight without telling me where you're going to be! Do you have any
+ idea how frantic I was this morning? Your mother thought I'd have a heart
+ attack, she was worried sick herself
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Seth is fine! Look, he's in one piece!” The in-one-piece boy was making
+ quiet, non-word protestations, trying to calm his family.
+ “You used to trust me with him -- you just don't like that Sam was with
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“And there's another thing! You're too young to be engaged
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And there was a soft, cottony 
+\emph on
+floof
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And a furious snarl
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And screaming.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Clearwater was howling with pain.
+ I heard Seth phasing, and then I could barely decipher the sounds -- three
+ voices barking, one or two wolves tackling a third, snapping jaws and high
+ yelps.
+\end_layout
+
+\begin_layout Standard
+The man's shouts were rapidly weakening.
+\end_layout
+
+\begin_layout Standard
+I picked up my lemonade bottle, took and held a deep breath, and ran.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It took me only a couple of seconds to reach them.
+ When I got there, Rachel had Leah pinned; Leah was a smaller, medium-grey
+ wolf, cringing under presumable mental chastisement by her Alpha.
+ Seth was in his own sandy-furred wolf form not far from them, lifting and
+ dropping his forepaws at irregular intervals as though he wanted to run
+ somewhere but couldn't quite understand where.
+ And a bit beyond him was his father.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Clearwater was an absolute mess.
+ I realized as I looked at him that when Rachel had swiped at me, that had
+ been 
+\emph on
+restrained
+\emph default
+: I was tougher than a human, sure, but this heap of barely-breathing meat
+ had not received one swat to the face, he'd been 
+\emph on
+savaged
+\emph default
+.
+ Blood flowed in rivulets away from his body.
+ I very, very carefully did not inhale.
+\end_layout
+
+\begin_layout Standard
+His heart was still feebly, irregularly beating.
+\end_layout
+
+\begin_layout Standard
+“The hospital's twenty minutes away if you floor it,” I said.
+ “He won't make it that far.” And then, conserving air, I held up the bottle
+ of venom.
+ “Only chance.”
+\end_layout
+
+\begin_layout Standard
+Seth whined.
+ Leah craned her neck from her prone position to see what I was holding,
+ and yelped, but I couldn't discern the meaning.
+ Rachel stared me down; I met her gaze, holding quite still.
+ “He'll die,” I said softly.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Clearwater made a gurgling sound and Seth wailed, pawing at the ground.
+ Rachel got off of Leah, who rolled onto her front but didn't stand, instead
+ bowing her head towards the white wolf.
+ There was a pause that lasted entirely too long.
+\end_layout
+
+\begin_layout Standard
+I considered, but rejected, the plan of saying that if I started turning
+ him and they changed their minds, they could always kill him later.
+ Instead, I used the last of my air to say, “I think I can save him.
+ But it's up to you.”
+\end_layout
+
+\begin_layout Standard
+Rachel hesitated for another half-second.
+ Mr.
+ Clearwater's heart faltered, and I grimaced.
+ Finally, her big white head dipped and rose: a nod.
+\end_layout
+
+\begin_layout Standard
+I was at the man's side instantly, found a big puncture wound next to his
+ heart, and poured the venom in.
+ His heart thudded as though electrocuted, and one of his arms -- apparently
+ the only limb that he could still move -- jerked wildly.
+ A high keen of pain shrieked out of his mouth.
+ I would have broken his spine, but didn't know if he could take much more
+ punishment before even venom wouldn't save him -- I didn't know what to
+ break well enough to aim precisely.
+ At any rate, it looked like some of his nerves were cut off anyway.
+\end_layout
+
+\begin_layout Standard
+I had no breath left.
+ I swept away a swath of forest debris and scratched in the dirt, instead:
+ 
+\emph on
+I'm out of air.
+ I can't risk smelling his blood.
+\end_layout
+
+\begin_layout Standard
+Rachel read the message; I assumed the others could see in her thoughts
+ what I'd written.
+ I cleared the words with a pass of my hand and wrote, 
+\emph on
+It is not safe for a newborn vampire to be near humans.
+ I need to take him to my family's friends in Alaska.
+
+\emph default
+ Rachel read it, nodded, and I replaced the writing several more times.
+ 
+\emph on
+It will take him three days to turn and then he'll be a vampire.
+ Did he already know about us, like your dad?
+\end_layout
+
+\begin_layout Standard
+Rachel picked up a paw and wavered it in a so-so motion -- so he'd probably
+ learned all the stories but not believed them.
+ 
+\emph on
+Vampires who didn't expect to turn, or at least know it was possible, are
+ not as self-controlled.
+ I'm very unusual.
+ He will probably not be able to safely come near humans for at least a
+ year.
+ Our friends have phone service and Internet access and you can keep in
+ touch that way.
+ I will need to tie him up and wrap him in a blanket so no one sees him
+ through my windows, because he will try to thrash around and he looks awful.
+\end_layout
+
+\begin_layout Standard
+Leah whined miserably at that, and Rachel shot her a look; the gray wolf
+ hunkered even lower to the ground, ears flat against her head in submission
+ or guilt or both.
+ Seth looked anxious.
+ 
+\emph on
+It's terrible, but when it's over, it's over -- he'll be fine
+\emph default
+, I promised in writing.
+ 
+\emph on
+I need rope or something like it, and a path no one's looking at to my car
+ so I can bring him to it.
+
+\emph default
+ I spat a mouthful of venom into the emptied bottle and set it on the ground.
+ 
+\emph on
+I'll leave you this so you can activate Becky and the other out-of-towners
+ without me here.
+\end_layout
+
+\begin_layout Standard
+Rachel nodded.
+ I didn't see anyone running to get me what I'd asked for, but she'd probably
+ sent a mental order to another wolf or two.
+ I wrote, 
+\emph on
+It's up to you what you tell his wife, but he will probably want to contact
+ her, which will be less of a shock to her if she knows.
+ Text me, don't call, if you have to communicate something in the next three
+ days.
+ I won't want to breathe with him in the car.
+ If your phone can't do it buy one that can; I'll send you more money as
+ you need it.
+
+\emph default
+ Rachel nodded again.
+ 
+\emph on
+Is there anything else I need to be here for before I get him out of here?
+\emph default
+ She shook her head.
+\end_layout
+
+\begin_layout Standard
+I carefully lifted Mr.
+ Clearwater off the ground, clamping one hand over his mouth to stop his
+ moans of pain from carrying to anyone not in the know, and ran for my car.
+ I saw only werewolves on my way: Embry and Jacob on lookout and Marilyn
+ waiting by the passenger door with a convenient hank of rope and a fleecy
+ comforter.
+ I took them from her without speaking, tied Mr.
+ Clearwater's wrists and ankles together behind his back, rolled him up
+ in the blanket, and put him in the backseat; he bled a little on the fleece,
+ but I could already see his wounds getting shallower as the venom percolated
+ through his system.
+ I slammed the door and got into the driver's seat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I had no idea where in Alaska one would find Denali, nor where in Denali
+ the coven lived.
+ I texted Edward for directions (telling him to direct me there from Seattle)
+ as I hurtled southeast to route around Puget Sound.
+ He replied in installments, and asked if I wanted him to warn the Denali
+ family that I was en route; I said that I'd appreciate it and told him
+ to also warn them that I was bringing another newborn.
+\end_layout
+
+\begin_layout Standard
+Edward said he'd let the necessary border crossing agents know that I wasn't
+ to be troubled, through suitably convincing channels.
+ I hadn't even thought of the difficulty of getting a mid-turning Mr.
+ Clearwater into Canada and then from Canada into Alaska and experienced
+ a surge of gratitude for my husband's support.
+\end_layout
+
+\begin_layout Standard
+He also asked if I wanted him to meet me there.
+ 
+\emph on
+Gianna can't go
+\emph default
+, I wrote back.
+ 
+\emph on
+David would try to eat her.
+ You shouldn't leave her unattended.
+
+\emph default
+ He replied with his acquiescence and asked if there was anything else I
+ needed, which there was not.
+ 
+\emph on
+I love you
+\emph default
+, I concluded my last message.
+ He wrote back in kind, and then my phone went into my pocket.
+\end_layout
+
+\begin_layout Standard
+I had to stop for gas after only forty miles.
+ Luckily, the gas station was under heavy clouds and almost deserted.
+ I closed the door behind me as quickly as I could after getting out, and
+ took a few breaths of fume-scented air.
+ Only the barest whiff of blood, from dried drops clinging to my sleeves
+ where I'd picked Mr.
+ Clearwater up, heated the air: it was tolerable.
+ I filled up the tank and hoped the other patron of the station thought
+ I was splattered with paint.
+ It was fortunate that my shirt was dark brown: it looked damp, but not
+ necessarily bloodstained.
+\end_layout
+
+\begin_layout Standard
+I got back in the car and used my lungful of air to talk to Mr.
+ Clearwater.
+ “I'm Bella, Charlie Swan's daughter,” I told him.
+ “I'm a vampire.
+ You're turning into one.
+ Your children are werewolves.
+ Leah lost her temper and hurt you.
+ This was the only way to save you.
+ I can't talk much because if I smell your blood I may also hurt you.” Mr.
+ Clearwater made a confused wailing noise, but I had no more words.
+\end_layout
+
+\begin_layout Standard
+A few hours later, I decided to try opening my window, sticking my head
+ out, and getting a breath of bloodless air that way.
+ It worked.
+ With clean air in my lungs, I said, “Mr.
+ Clearwater, I'm taking you to Alaska.
+ Some vampires my family is friends with live there and they will take care
+ of you.
+ Being a new vampire is hard, especially if you aren't prepared for it,
+ and you will need help.” I stuck my head out the window again, and kept
+ talking.
+ I gave him the rundown of vampire ins and outs, and got him up to speed
+ on the status of the werewolf pack.
+\end_layout
+
+\begin_layout Standard
+My car was waved through the border when they read the license plate and
+ I continued through British Columbia.
+ I continued talking to Mr.
+ Clearwater with outside air, trying to keep his mind off the pain as much
+ as possible.
+ “Please don't tell my friends that you are from a tribe of werewolves,”
+ I told him.
+ “It's safest if they don't know.” I explained Aro, then repeated myself
+ in case he hadn't been able to follow the entire justification for secrecy
+ through the burning.
+ “Tell them that you're from Forks, that I know you through Charlie, that
+ I ran into you in Seattle while you were there bringing your thirteen-year-old
+ to the Space Needle -- don't give them Seth's name unless you can't avoid
+ it -- and I tagged along, that you were hit by a car, and that I turned
+ you to save you from your injuries.”
+\end_layout
+
+\begin_layout Standard
+It took only two days to get as far as Fairbanks, and Mr.
+ Clearwater wasn't done turning.
+ I didn't want David to kill him, so instead of continuing directly to the
+ coven's home, I parked on the edge of the Denali National Park to wait.
+\end_layout
+
+\begin_layout Standard
+Nobody was liable to interrupt us, so I unwrapped his blanket and untied
+ his ropes.
+ His eyes were scrunched shut.
+ His clothes were still torn and covered in blood, but his wounds were all
+ smoothed over, not even pinkish.
+ The color was mostly drained from his skin -- melanin dissolving, blood
+ converting to vampire fuel.
+ He was slightly ecru, that was all.
+ I pulled up a misty memory of the olive-like hue to Laurent's skin, and
+ wondered if the off-white tinge was because Mr.
+ Clearwater was not finished turning or because he was Native American.
+ I looked completely bleached, but I'd started out pale and Caucasian.
+\end_layout
+
+\begin_layout Standard
+By my estimation, Mr.
+ Clearwater was in his late forties or early fifties, but the transformation
+ was rearranging his features and smoothing out his complexion: it took
+ at least a decade off his apparent age, an effect that I hadn't noticed
+ so much with vampires who'd been turned young or at unknown ages.
+ I could actually see him becoming more symmetrical.
+ A time-lapse movie of his face would have shown his nose tilting out of
+ its crookedness, his left eye drifting south to match the right, puckers
+ and lines in his skin fading into flush smoothness with the surrounding
+ skin.
+\end_layout
+
+\begin_layout Standard
+It occurred to me that I didn't remember his first name.
+ He was one of Charlie's friends, and I had to have heard it before, but
+ I'd always referred to him as “Mr.
+ Clearwater” in writing and couldn't conjure up a human memory of learning
+ his full name.
+ Presumably that wouldn't be something he'd forget, though, and he could
+ tell me when he finished turning.
+\end_layout
+
+\begin_layout Standard
+He was surprisingly quiet.
+ I'd screamed more than he had even with my abbreviated consciousness.
+ He didn't talk, either.
+ Just occasionally whimpered.
+\end_layout
+
+\begin_layout Standard
+I could still hear his heart beating, so he wasn't dead and didn't have
+ to die.
+ I waited, not breathing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As dawn broke on the last day of Mr.
+ Clearwater's turning, I got a series of texts from Rachel: all of the far-flung
+ werewolves except Marilyn's cousin had arrived, and droplets of venom on
+ unbroken skin “hurt a little but didn't injure them and now they're all
+ floofed”.
+ She reported that Becky was black, “like Sam -- so far I'm the only white
+ one, although Nina's kind of pale yellow”.
+\end_layout
+
+\begin_layout Standard
+The twins didn't seem to share the Alpha power.
+ It remained with Rachel.
+ They were considering trying to somehow deliberately split the pack in
+ two so as to make it more manageable.
+ Becky's husband Caleb had been brought into the loop with considerable
+ astonishment, but since I was willing to cover lost wages, his main protests
+ about staying at La Push for a time involved the inferior surfing opportunities
+, which no one, even Becky, took very seriously.
+ (I did have to confirm that it was fine with me if I had to go on covering
+ his surfing instruction money for a bit longer than expected in case he
+ lost clients.)
+\end_layout
+
+\begin_layout Standard
+Sue Clearwater, Leah and Seth's mother, had been told about her husband's
+ situation and was reacting as though he'd died -- that didn't bode well
+ for a later happy reunion.
+\end_layout
+
+\begin_layout Standard
+It occurred to me to wonder whether there was any reason that Mr.
+ Clearwater would, as a vampire, find that his wife was also his supernatural
+ mate.
+ There didn't seem to be any strong reason why he 
+\emph on
+would
+\emph default
+.
+ It was only charitable to assume that they loved each other, but it would
+ be in an entirely human way -- and I knew human things dissolved quickly
+ when the mind was barraged by even a few seconds of ultra-clear vampire
+ sensation.
+ I knew human love could evaporate under lesser pressures than that, and
+ could occur more than once in a lifetime.
+\end_layout
+
+\begin_layout Standard
+Neither of the elder Clearwaters had, so far as I knew, the unusual beauty
+ or witchcraft that seemed to correlate with being turned under the traditional
+ way of things.
+ That meant that if my hypothesis about what created vampire mating bonds
+ was in the right ballpark, it would be extremely unlikely for Mr.
+ Clearwater to be drawn to Mrs.
+ Clearwater the way Edward had been drawn to me.
+\end_layout
+
+\begin_layout Standard
+I was half tempted to say to myself, “But if Sue really loves him, she'll
+ just be glad he's alive!” But according to Rachel, she was acting like
+ he 
+\emph on
+wasn't
+\emph default
+, as though a heartbeat or being above room temperature were somehow more
+ important than the ability to move around and think and talk.
+ And anyway, even if she'd been willing to consider her vampire husband
+ a living creature, it was all too common that real love wasn't as selfless
+ as the fictional kind.
+\end_layout
+
+\begin_layout Standard
+Even Edward, the sincerity of whose affection I had no cause whatever to
+ doubt, had been driven to what was, on reflection, fairly rash behavior
+ in order to be around my human self.
+ Had Alice simply saved me from Tyler's errant van and then evaporated from
+ my life with her family, then I, untouched by magically enhanced emotion,
+ could have finished high school, gone to college, married some arbitrary
+ human when I was at an age more pleasing to my parents -- perhaps without
+ even remembering that Edward existed.
+ I might have been happy, in the way that humans could be happy.
+ But Edward had wanted to be 
+\emph on
+with
+\emph default
+ me, could not but panic at the notion that I might do without him.
+ And so he'd braved my singer's blood, swallowing flames with every breath
+ for the privilege of talking to me.
+\end_layout
+
+\begin_layout Standard
+I tried to think about the situation in reverse, and my imagination failed
+ me.
+ I couldn't imagine Edward as a human, wayward and fickle.
+ Couldn't imagine him willing and able to forget about me.
+ In the entire time I'd known him, it was so core to his personality that
+ I was his top priority.
+ I didn't know how to construct a mental image of him with some other motive
+ driving him.
+ He'd been human, once, had spent many years managing reasonably well without
+ my having even been 
+\emph on
+born
+\emph default
+.
+ But I failed to picture it.
+ And he framed it, when he spoke of those times, as if his life prior to
+ meeting me had just been a drawn-out and unusually elaborate waiting period.
+ Like I was his reason to exist in the first place, and I'd just taken my
+ sweet time getting there.
+\end_layout
+
+\begin_layout Standard
+Somewhere in the world, I expected with sadness, was Mr.
+ Clearwater's reason to exist
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And she probably wasn't Sue.
+\end_layout
+
+\begin_layout Standard
+I could only hope that he'd still love his children the way he should.
+ I had better hopes for this -- I hadn't stopped caring about my parents,
+ after all.
+ They weren't as strongly featured in my thoughts anymore, but I didn't
+ think that their reduced centrality in my life needed further explanation
+ beyond my international change of residence, assorted globetrotting, and
+ new marriage.
+\end_layout
+
+\begin_layout Standard
+But it would be clear soon enough what changes beyond the obvious I had
+ wrought.
+ The sun crept higher in the sky.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Clearwater's heart was beating faster.
+\end_layout
+
+\begin_layout Standard
+I opened all of the windows in the car: his blood had long since dried,
+ and wasn't even as interesting as a live unbleeding human, but it was still
+ better to get fresh air into the enclosed space where he was about to wake
+ up.
+\end_layout
+
+\begin_layout Standard
+I reviewed what Jasper had said on the subject of handling newborns.
+ Don't let them get their arms around you, don't go for the obvious strikes
+ because that's all they expect, let their own momentum wrench off an arm
+ and they'll be distracted enough by pain that you can pin them
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+I was a newborn too, and would therefore have some advantage over most wranglers
+ thereof, but having some strategy was rarely amiss.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Clearwater curled up in the fetal position, moving slowly to clutch at
+ his heart, but only a quiet moan betrayed the enfolding pain in sound.
+ Why wasn't he screaming? Was it because he was old, did he just have a
+ stoic personality, was there some interaction with the werewolf gene
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+His eyes flew open, blazing red, and his body unfolded and propelled itself
+ through, not an open window, but through the door itself.
+ He left a ragged hole.
+ The door didn't cling to him, but it was pulled from its frame and clattered
+ to the ground; Mr.
+ Clearwater ran headlong into the woods.
+\end_layout
+
+\begin_layout Standard
+He was, of course, vampire-fast, but he wasn't making good use of his strength
+ to get the most distance out of each stride.
+ I caught up to him and kept pace rather than trying to tackle him and risk
+ provoking him into fighting me.
+ “Mr.
+ Clearwater!” I yelled.
+ “Hey!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He looked around, grimacing, and then faced forward again and kept running.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Clearwater, please stop,” I said.
+ “I can help you.” He didn't slow down.
+ “There might be humans in the park, if you run into one you could hurt
+ them,” I pleaded.
+\end_layout
+
+\begin_layout Standard
+He scrambled up a tree, and I followed.
+ “You can't outrun me,” I said.
+ “If you don't hold still
+\begin_inset space ~
+\end_inset
+
+--” He flung himself thirty feet to the next branch and I kept chasing him.
+ “
+\emph on
+Mr.
+ Clearwater!
+\emph default
+ Stop!” Was this normal newborn behavior? Had something gone wrong? A drop
+ of lemonade in the venom, a reaction to the werewolf gene...?
+\end_layout
+
+\begin_layout Standard
+When I heard non-animal-like rustling, I didn't have time to indulge his
+ flight any further.
+ That could be a hiker he might run across and kill.
+ I propelled myself directly at him, knocking him out of the air between
+ trees and to the ground.
+ I used a branch to swing away immediately after impact, not wanting to
+ trigger any instinct he might have to grab me and squeeze.
+ I dropped to the ground beside him.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Clearwater,” I began one more time, and then he was off again.
+ I had no patience left: I sprang at him, pushing off from the ground with
+ all the power I had, and tackled him.
+ I managed to get 
+\emph on
+my
+\emph default
+ arms around 
+\emph on
+him
+\emph default
+, and although I had no intention of crushing him to powder, I could hold
+ on more than tightly enough to hold him still.
+ I managed to sort of fold him up, his knees to his chin, so I could prevent
+ him from kicking me or trying to push me over.
+ He wasn't going anywhere.
+ “Mr.
+ Clearwater,” I repeated.
+ “Please say something so I know I didn't find a way to turn you while somehow
+ 
+\emph on
+leaving your brain behind
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+He stared up at me out of confused vermilion eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Bella?” he managed.
+ His voice was a smoother, lower version of the one I'd heard chastising
+ Leah.
+\end_layout
+
+\begin_layout Standard
+“That's me.
+ How do you feel? Are you okay?” I asked encouragingly, slightly relaxing
+ my hold as he'd shown a sign of sanity -- and then he twisted suddenly,
+ springing his shoulders away from his legs like a backwards bear trap and
+ catapulting himself away.
+ He took off at a run again, in the direction of the rustling.
+ I couldn't 
+\emph on
+smell
+\emph default
+ a human, but we were upwind of the area -- I chased him, trying to circle
+ around and drive him the opposite way.
+ “
+\noun on
+Hey
+\noun default
+!” I yelled at the top of my lungs, hoping the hiker or whoever it was would
+ hear me, “I saw a 
+\emph on
+bear
+\emph default
+, if anybody can hear me 
+\emph on
+run
+\emph default
+, I think it's mad!” Not that it'd help a human much to run from a vampire.
+ 
+\emph on
+I should have driven the rest of the way to the Denali’s house as soon as
+ I heard his heart speeding up!
+\emph default
+ I chastised myself.
+ I managed to circle to Mr.
+ Clearwater's left and drive him away from where I'd heard the sound.
+\end_layout
+
+\begin_layout Standard
+It wasn't until I knocked him down again and was struggling to get him into
+ another bear hug without being deprived of a limb that I noticed the rustling
+ was 
+\emph on
+following
+\emph default
+ us.
+\end_layout
+
+\begin_layout Standard
+Very fast.
+\end_layout
+
+\begin_layout Standard
+I felt a hand clap me on the back, not hard enough to hurt but enough to
+ tell me that it was no human hand, and I saw bright sparks running over
+ Mr.
+ Clearwater's skin.
+ He convulsed as if Tasered, breaking my grip but making no further attempt
+ to run.
+ He cringed on the ground and looked up.
+ I risked taking my eyes off him to see who'd joined us.
+\end_layout
+
+\end_body
+\end_document

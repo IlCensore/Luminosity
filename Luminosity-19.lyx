@@ -1,0 +1,2051 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{18}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Arno Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.3500000000000001
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Denali
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How are you on your feet?
+\begin_inset Quotes erd
+\end_inset
+
+ asked the vampire woman.
+ She was gold-eyed -- one of the Denalis, then, not some random nomad.
+ Her platinum blond hair was pulled back into a long ponytail.
+\end_layout
+
+\begin_layout Standard
+“It's nice to meet you too.
+ I'm Bella.” I hadn't received any detailed descriptions of the Denali coven
+ -- I remembered that there were three original sisters, and a mated couple
+ who'd joined them together, and that Laurent had wound up mated to a sister
+ called Irina and then there was David, but I couldn't determine who of
+ four possible women I was speaking to.
+ I didn't remember receiving a rundown of any witchcraft that the coven
+ possessed.
+\end_layout
+
+\begin_layout Standard
+She reached out and poked me in the shoulder, gently; nothing happened.
+ “You're something, Bella,” she told me.
+ “I thought it was just your brain that was all locked up safe.”
+\end_layout
+
+\begin_layout Standard
+“And who might I have the honor of being poked by?” I inquired testily.
+\end_layout
+
+\begin_layout Standard
+“Oh, sorry.
+ I'm Katrina, you can call me Kate.
+ Is this your newborn?” she asked, peering at Mr.
+ Clearwater, still curled up on the ground and staring at her.
+\end_layout
+
+\begin_layout Standard
+“Yes -- what did you do to him?”
+\end_layout
+
+\begin_layout Standard
+“Zapped him.
+ I was trying to get you too, to be honest.
+ Edward said you were a special one, but he's your mate, he'd say you were
+ special if you'd tried to pulverize his head.
+ Couldn't be sure that you hadn't just got into a normal newbie scuffle
+ with this fellow.
+ What's wrong with him, anyway? He should be up by now.
+ I can only down people for a second.”
+\end_layout
+
+\begin_layout Standard
+“I don't know.
+ I can't even tell if it's normal newborn behavior.
+ I'm the only one I've ever met, and Edward wasn't just being a doting husband
+ when he told you about me.”
+\end_layout
+
+\begin_layout Standard
+“I've had to knock David around some, but he gets right up,” said Kate.
+\end_layout
+
+\begin_layout Standard
+I still didn't want to tell the Denalis about the werewolves, but I had
+ plenty of credibility to claim complete ignorance.
+ “I didn't bite him,” I said.
+ “He was beat up pretty bad.
+ I spat some venom into a bottle and poured it into a wound.
+ Would that do it?”
+\end_layout
+
+\begin_layout Standard
+Kate 
+\emph on
+hmmed
+\emph default
+ and looked at Mr.
+ Clearwater.
+ “Not sure.
+ Never tried it that way.
+ But you weren't bitten either, right?” I nodded.
+ “Maybe he's got some witchy sense you're blocking and he's scared of you
+ in particular?” she suggested.
+ “He calmed down when I showed up.”
+\end_layout
+
+\begin_layout Standard
+I backed away, to no discernible reaction from Mr.
+ Clearwater -- but then he'd already quit fleeing at Kate's arrival.
+ “What's his name?” she asked me, tipping her head to look at the crouching
+ vampire from a different angle.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Clearwater,” I said.
+ “He's a friend of my father's -- I probably knew his first name at one
+ point but I can't call it to mind now.
+ I ran into him in Seattle when he was there to take his son to the Space
+ Needle, and then he got hit by a car and I turned him -- I didn't think
+ he'd make it to a hospital.”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Clearwater,” said Kate in a soothing voice, “can you tell me your full
+ name?”
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+I'm...
+ Harry,” he said, flicking his eyes between me and Kate warily.
+ “Harry Clearwater.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you tell me why you ran from Bella, Harry?” asked Kate.
+\end_layout
+
+\begin_layout Standard
+“She's...” He plainly didn't have words to express whatever concept he was
+ using.
+ He settled for, “She's 
+\emph on
+wrong
+\emph default
+.” I didn't protest; Kate was having much more success getting clear sentences
+ out of him than I had.
+\end_layout
+
+\begin_layout Standard
+“Am I wrong?” asked Kate.
+ Harry shook his head, although he didn't look satisfied with the answer.
+ “What's wrong with Bella?”
+\end_layout
+
+\begin_layout Standard
+“There's nothing there,” said Harry.
+ “She's not -- a 
+\emph on
+person
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Kate furrowed her brow.
+ “This sounds like something witch-like to me.
+ We should take him to the house, and see what Eleazar makes of him.”
+\end_layout
+
+\begin_layout Standard
+“Fine by me,” I said.
+ “What does Eleazar do?”
+\end_layout
+
+\begin_layout Standard
+“He's got a meta-power, like yours.
+ He can tell what somebody does without having to ask them or watch them
+ do it,” explained Kate.
+ “Maybe he can tell us why Harry here thinks you're `wrong’.” She offered
+ Harry her hand, and he took it and got to his feet -- not that it was necessary
+, assuming he was physically normal, but it was a gesture indicating that
+ his panic was just about me and not something fundamentally broken about
+ how he'd turned.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kate led me and Harry through the woods.
+ We didn't run, just strolled.
+ “So why’d you start yelling about a bear?” Kate asked me over her shoulder.
+\end_layout
+
+\begin_layout Standard
+“I heard you and thought at first that you were a human -- I didn't want
+ Harry to run into you and eat you.”
+\end_layout
+
+\begin_layout Standard
+“Considerate of you.” She led us to a cluster of three houses, all made of
+ stone but otherwise different: one huge, obviously ancient home of grey
+ rock, one somewhat newer one in a beige color, and one that could have
+ been finished the previous week in white.
+ She directed us to the second house; my guess was that the original coven
+ built the grey structure, added a new house for Eleazar and his mate when
+ they'd arrived, and only a short time ago put up the white manor for Irina
+ and Laurent.
+\end_layout
+
+\begin_layout Standard
+An olive-tinted, dark-haired vampire was sitting in the front room of the
+ beige house, reading a book.
+ For a moment I wondered if he was Laurent with a haircut, but Kate greeted
+ him: “Eleazar,” she said.
+ “Bella and this newborn, Harry Clearwater, are here.
+ He seems to sense something strange about Bella, and I thought you might
+ inspect him and see what that could be.”
+\end_layout
+
+\begin_layout Standard
+Eleazar set down his book and looked at Harry, frowning with concentration.
+ Harry fidgeted uncomfortably, and kept looking at me, still unnerved, but
+ apparently Eleazar didn't share my disconcerting characteristic.
+ “Interesting,” said Eleazar after several seconds.
+ “It doesn't surprise me that a shield like Bella would block him.
+ His power isn't unlike Edward's in scope; he senses people.
+ If I were him I would be quite alarmed to see a face with no detectable
+ presence behind it.
+ It reminds me of what Carlisle has said about his acquaintance Alistair,
+ although I haven't inspected him.”
+\end_layout
+
+\begin_layout Standard
+“Edward didn't freak out and bolt when he realized I was inaudible,” I said.
+\end_layout
+
+\begin_layout Standard
+“Yes, well, Edward's power works via the sense of hearing -- he doesn't
+ use his ears, but he does experience the thoughts he picks up as though
+ they were sound.” This I'd known -- Edward had told me that Carlisle had
+ noticed his mindreading before Edward had, because Edward kept replying
+ to thoughts as though they'd been spoken.
+ “Harry gets his information on another level -- it's about recognition,
+ not sensation.
+ Like seeing someone familiar and identifying them.” Harry nodded emphatically,
+ apparently finding Eleazar's explanation satisfactory.
+\end_layout
+
+\begin_layout Standard
+“At range?” I asked, and Eleazar nodded, still looking steadily at Harry
+ -- I guessed that concentration was required for his power to operate.
+\end_layout
+
+\begin_layout Standard
+“Maybe a better range than Edward's.
+ It may differ for vampires and humans, though,” allowed Eleazar.
+ “A number of powers do.”
+\end_layout
+
+\begin_layout Standard
+“Okay.
+ So, Harry, we know why I don't seem like a person to you, but that's just
+ because I involuntarily block stuff like that,” I said placatingly.
+ “Please don't be scared of me.
+ I'm totally a person.” Harry looked at me uneasily, but nodded.
+ I turned to Eleazar.
+ “You called me a `shield’ -- does that have some special technical meaning?
+ What are you getting from me?”
+\end_layout
+
+\begin_layout Standard
+“Nothing, now,” said Eleazar.
+ “As soon as I said it you started blocking me, too.”
+\end_layout
+
+\begin_layout Standard
+“I didn't do it on purpose,” I said.
+ “I have no control at all -- and this is the first I've heard of it ever
+ lapsing.
+ Edward doesn't hear stray thoughts on alternate Tuesdays or anything.”
+\end_layout
+
+\begin_layout Standard
+“My power requires concentration to work at full strength, and I was focusing
+ on Harry, not you,” said Eleazar, as Kate led Harry away on a tour of the
+ house.
+ “It's possible that I got through your shield only with my sense's indirect
+ form, or only because I was thinking about how Harry's power relates to
+ yours.
+ I might get more information the next time I'm not paying attention to
+ you or the next time I watch you shielding against someone I can examine
+ normally.
+ I'll let you know if it happens.
+ At any rate, `shield’ is a classification the Volturi use to describe defensive
+ powers.”
+\end_layout
+
+\begin_layout Standard
+I sat on a chair opposite Eleazar and leaned my elbows on my knees.
+ “I'm immune to Kate,” I said, “and Edward, Aro, Jane, Alec, and apparently
+ you and Harry.
+ But not Jasper or Alice.
+ I thought I had the pattern of it until Kate couldn't knock me over.
+ I could 
+\emph on
+see
+\emph default
+ the current she was generating when she zapped Harry.
+ That's not a mental thing.
+ And Jasper's ability to work on me confuses me too.”
+\end_layout
+
+\begin_layout Standard
+“No two powers are the same,” said Eleazar, “because no two witches 
+\emph on
+think
+\emph default
+ the same way.”
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “Are you saying that I think of Kate's Taser like a mental phenomenon and
+ not Jasper's empathy?”
+\end_layout
+
+\begin_layout Standard
+“Not necessarily -- it doesn't sound like you do, at any rate,” he replied.
+ “But I think Kate thinks of her power as operating on the nervous system
+ in particular, which is electrical; and Jasper has always described his
+ ability as relating to things like pulse and muscle tension and hormone
+ levels.”
+\end_layout
+
+\begin_layout Standard
+“So you're saying Jasper works on me because I don't think of his power
+ as mental 
+\emph on
+more than
+\emph default
+ he thinks of it as physical, and vice versa with Kate?”
+\end_layout
+
+\begin_layout Standard
+“Something like that,” Eleazar agreed.
+\end_layout
+
+\begin_layout Standard
+Possibilities were bubbling up in my mind.
+ “If I manage to teach myself to think of Jasper as operating on a mental
+ level, could I add an immunity to him?” I didn't mention the analogous
+ Kate possibility; even if my resistance to her shocks made no 
+\emph on
+sense
+\emph default
+, I had no interest in shedding layers of shielding, even against an ally.
+ I would just have to avoid thinking too hard about how 
+\emph on
+absurd
+\emph default
+ it was to consider electrical shocks a mental power.
+\end_layout
+
+\begin_layout Standard
+“I would imagine you could, although I'm at something of a disadvantage
+ trying to guess how you might develop,” he told me wryly.
+\end_layout
+
+\begin_layout Standard
+“Can you give me any tips -- general ones -- on how witches can improve
+ over time?” I asked eagerly.
+ I did 
+\emph on
+like
+\emph default
+ my power -- it was essential to some of what I was doing -- but I 
+\emph on
+had
+\emph default
+ been disappointed that I hadn't turned into a vampire and discovered that
+ I could also become invisible or something similarly spectacular.
+ I hadn't woken up 
+\emph on
+better
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“Kate used to be limited in where she could project her current.
+ She could only radiate it from the palms of her hands.
+ She expanded it with practice -- sheer use of the power.
+ She got into the habit of keeping it active all the time.”
+\end_layout
+
+\begin_layout Standard
+“Mine is already active all the time,” I grumbled.
+\end_layout
+
+\begin_layout Standard
+“I refined my detection very slowly -- not through continuous exercise,
+ but by learning how to concentrate on it.
+ It was most difficult while I was a new vampire,” Eleazar went on, “and
+ was more distractable.
+ I've been able to cut down on the time it takes me to inspect someone.”
+\end_layout
+
+\begin_layout Standard
+That was more promising -- 
+\emph on
+if
+\emph default
+ my power was controllable by a mental state which I just happened to be
+ in 
+\emph on
+all the time
+\emph default
+, learning to intensify or manipulate that state could let me gain control
+ over fine detail.
+ “Anything else?” I asked.
+\end_layout
+
+\begin_layout Standard
+Eleazar pursed his lips.
+ “Most people don't trouble to develop their powers, or if they try, they
+ fail.
+ I suppose Chelsea improved over time...
+ but that was likely another case of mere practice.
+ She is very busy.”
+\end_layout
+
+\begin_layout Standard
+“The Volturi guard member who breaks and bolsters relationships?” I asked,
+ recalling Gianna's mention of her.
+ Eleazar nodded.
+ “I don't know if I'm immune to her or not.”
+\end_layout
+
+\begin_layout Standard
+“I would be very surprised if you were not; Chelsea thinks of her power
+ as operating on a similar wavelength as Harry's, the instinctual realization
+ of another person as friend or foe...
+ Do you know if Marcus can see relationships you are involved in?” Eleazar
+ asked.
+\end_layout
+
+\begin_layout Standard
+“I don't, but Edward might have seen.
+ I 
+\emph on
+think
+\emph default
+ Marcus was in the room when he and Carlisle and Esme picked me up from
+ Italy, although I don't remember for sure, and as far as I know I didn't
+ gain any new shielding when I turned.
+ What would you make of that, either way?”
+\end_layout
+
+\begin_layout Standard
+“I'd conclude more about Marcus than about you from that information.
+ My prediction, though, is that he'd be able to manage it -- I believe his
+ understanding of relationships is derived from a human talent at reading
+ body language, rather than from anything more abstract.
+ If he can't see your connections, then I've misunderstood the basis for
+ his power.” I nodded.
+ Eleazar named more members of the guard, who I hadn't met: “Afton? Corin?
+ Demetri? Heidi? Renata? I suppose if you're alive you didn't test Renata...”
+\end_layout
+
+\begin_layout Standard
+“What do they do?” I asked, after having shaken my head at each name.
+\end_layout
+
+\begin_layout Standard
+“Renata is Aro’s personal bodyguard.
+ She's a shield, somewhat like you,” he said.
+ “Anyone trying to attack either her, or anyone within a few meters who
+ she chooses to defend, will be diverted.
+ She stays quite near Aro nearly always, and will protect Caius and Marcus
+ as well if there is a need.
+ They find themselves going in another direction without realizing it, not
+ remembering what it was they wanted to do -- it's a very disorienting sensation
+ for a vampire, to lack a clear recollection.”
+\end_layout
+
+\begin_layout Standard
+I could imagine.
+ “Well, I didn't try to attack anyone in the compound, so I don't know about
+ Renata.
+ What about the rest from your list?”
+\end_layout
+
+\begin_layout Standard
+Heidi, Eleazar said, mesmerized -- she was as beautiful as Rosalie, but
+ could turn her allure to hypnotic effect.
+ Eleazar noted when I asked that it wasn't a sexual attraction that she
+ projected.
+ Otherwise, he speculated, it would be overridden by mate bonds (which were
+ also impermeable to Chelsea) and wouldn't function on paired vampires.
+ It was just aesthetic intrigue, leading those she targeted to follow where
+ she led so they could continue to look at her.
+ The Volturi used her as a hunter: she brought them takeout, so to speak.
+ “Hunting is illegal within Volterra itself, except when Heidi brings in
+ humans to the Volturi’s own compound,” he explained.
+\end_layout
+
+\begin_layout Standard
+Demetri was the tracker whose skill had rendered James unnecessary to the
+ guard.
+ But Eleazar thought that where James’s scent-oriented power had served
+ well in finding me, Demetri -- otherwise infinitely James’s superior --
+ might be baffled.
+ He followed thoughts, some unique quirk of the mind that he could trace
+ wherever it went -- and I might well be invisible to him.
+\end_layout
+
+\begin_layout Standard
+Afton was Chelsea's mate, but his power was unrelated to hers.
+ He could manipulate the inertia of his own body, as Eleazar described it:
+ unless his opponent had an extra advantage that gave a boost in a physical
+ fight, like Alice or Renata, he was nigh-unbeatable.
+ He could add force to his blows, and check misplaced momentum, with better
+ finesse than even the best-trained normal vampire.
+ Eleazar thought that Afton might win in a sufficiently lengthy footrace
+ with Edward, who was the fastest vampire of whom he was aware.
+ I had no reason to expect to fare well against this power.
+\end_layout
+
+\begin_layout Standard
+Corin was the person that the “shield” category was named after.
+ His power wasn't so comprehensive as Renata's, and worked on a different
+ level.
+ He could throw up invisible barriers near his person that would repel any
+ physical assault, but these barriers had limited area, took focus to create,
+ and didn't move once he called them up except when purposefully dismissed
+ or simply abandoned by Corin moving too far away.
+ He could also only make one at a time.
+ In practice, Eleazar summarized, this was like having an actual 
+\emph on
+object
+\emph default
+ shielding him, albeit an invisible one that could vary in precise shape,
+ phase into and out of existence, and teleport.
+ I didn't expect my own shield to be able to do anything about Corin either.
+ I speculated that Edward could beat Corin up, on the grounds that Edward
+ would know where the shield was by reading Corin’s mind and would be fast
+ enough to get around it before it could be moved; Eleazar agreed.
+\end_layout
+
+\begin_layout Standard
+I asked Eleazar to tell me more about the categories.
+ “They're haphazard groupings,” he cautioned.
+ “Thinking too much in terms of them isn't the best way to make predictions
+ about what a given witch will be able to do.
+ That said, the Volturi classify powers as one of six types: shields, weapons,
+ illusionists, sensors, trackers, and pullers, to use the English terms.
+ There's some overlap between categories, to the point that the only reason
+ trackers have their own is that there are tactical differences in their
+ powers’ use.
+ For example, Jasper's power has a sensory component, and if all he could
+ do were detect others’ moods, he'd be a sensor -- but because he can adjust
+ emotions as well, he'd be classified as a puller.
+ So called because they `pull’ the world around them in ways that suit them.”
+\end_layout
+
+\begin_layout Standard
+“So I'm a shield, Jasper's a puller, I'm going to guess you and Edward are
+ sensors?”
+\end_layout
+
+\begin_layout Standard
+“Yes, and Alice too -- although I've never seen anyone else at all like
+ her, whereas many other powers have similar counterparts in several witches,
+ like Edward and Aro or Harry and Alistair.
+ Kate is a weapon.
+ You might think Jane would be too, but she's categorized as an illusionist,
+ as is her twin.
+ James and Demetri are trackers, obviously -- I'd class Harry as one as
+ well.”
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “So if I've got the hang of this, I'm immune to all illusionists as far
+ as we know, but it's a mixed bag for every other group, if your guesses
+ about the guard are right.”
+\end_layout
+
+\begin_layout Standard
+“Yes, that's what it looks like.
+ I wouldn't expect any power to line up evenly with those divisions, though,
+ Bella.
+ They're convenient inventions, not natural categories.
+ You might meet an illusionist who can get through your barriers.”
+\end_layout
+
+\begin_layout Standard
+Kate re-entered the front room, having finished showing Harry around.
+ “I hope you don't mind, Eleazar,” she said, “but I offered Harry the green
+ room.
+ I don't want 
+\emph on
+two
+\emph default
+ newborns in the main house, and I doubt Irina and Laurent would appreciate
+ sharing their living space so early on.
+ Harry seems less wild than David, anyway, and you shouldn't need me around
+ to knock him down on a daily basis.”
+\end_layout
+
+\begin_layout Standard
+“David's that hard to handle?” I asked.
+\end_layout
+
+\begin_layout Standard
+“He's a newborn,” said Kate, shrugging, and then she glanced at my eyes.
+ “A regular one, I mean.
+ Do you want to meet him?”
+\end_layout
+
+\begin_layout Standard
+“Yes, please,” I said.
+ “I want to meet everyone before I go.”
+\end_layout
+
+\begin_layout Standard
+“Come on, then, we'll let Eleazar get back to his reading,” said Kate with
+ a smile, and she waved me along to follow her out the door.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We went to the main house, and Kate showed me in.
+ Two women, one as pale as me with strawberry blond curls and one olive-tinged
+ with black hair, were playing chess on a checkerboard-patterned table.
+ A man who I presumed was David was pacing before a picture window.
+ When I walked in, he spun around and dropped into a crouch, snarling at
+ me.
+\end_layout
+
+\begin_layout Standard
+I looked at him, nonplussed; I could 
+\emph on
+detect
+\emph default
+ the little instinct jumping up and down in the back of my mind saying 
+\emph on
+unfamiliar vampire! likely threat!
+\emph default
+, but it didn't seem important.
+ I'd known he would be there, and Kate and the other two were present and
+ known to be friendly.
+\end_layout
+
+\begin_layout Standard
+David seemed totally owned by his instinct, though, and none of the other
+ women were surprised by his reaction.
+ Kate motioned for me to stay put and approached him slowly.
+ “David,” she said softly, “this is Bella.
+ Remember that we told you Bella was coming? You've met Edward.
+ She's his mate.”
+\end_layout
+
+\begin_layout Standard
+David looked like he was fighting with himself, like he wanted to run from
+ me or bite my head off.
+ But eventually he straightened up and, with only a slight grimace, said
+ “Hello, Bella.”
+\end_layout
+
+\begin_layout Standard
+“Hi, David,” I said.
+ “It's nice to meet you.”
+\end_layout
+
+\begin_layout Standard
+This bland introduction out of the way, and David apparently unlikely to
+ attack me, Kate turned to her sisters.
+ “This is Carmen, Eleazar's mate, and this is Tanya,” she told me, identifying
+ first the dark chess player and then her fairer counterpart.
+ It looked like Carmen was winning, but I hadn't thought about chess since
+ turning and wasn't confident I remembered the rules.
+ She did have more pieces on the board, though.
+\end_layout
+
+\begin_layout Standard
+“It's good to finally have a chance to get to know you,” said Carmen, looking
+ away from the game.
+ “We've heard some of your story, but we aren't in very regular contact
+ with your family; we only know the basics.
+ It's such a pity that it wasn't possible for us to come to your wedding.
+ So tell me -- how did it happen that you brought a newborn?”
+\end_layout
+
+\begin_layout Standard
+“We're going to be Newborn Central at this rate,” commented Tanya playfully.
+ David started pacing again, like a cat plotting revenge on some innocent
+ woodland creature.
+ “I hope the one you brought is less of a handful.”
+\end_layout
+
+\begin_layout Standard
+“He seems to be.
+ He doesn't like Bella much, though,” joked Kate.
+ She summarized what Eleazar had said about Harry's power, and repeated
+ the fake story of how I'd come to turn him.
+\end_layout
+
+\begin_layout Standard
+I watched Carmen and Tanya play chess, and answered questions about myself,
+ picking up the corresponding information from them.
+ The three original sisters, Tanya, Irina, and Kate, were all about a thousand
+ years old -- calendars had been iffy at the time of their origins, and
+ they hadn't bothered to individually tot up every hour they remembered
+ experiencing and figure it out that way.
+ They'd been turned by a woman named Sasha, the mother of the coven in the
+ same way that Carlisle fathered the Cullens.
+\end_layout
+
+\begin_layout Standard
+“Oh, where is she?” I asked, and immediately regretted it -- the wince on
+ Tanya's face and Kate's hiss told me that this was not a pleasant story.
+ When Kate made that noise it spooked David and he 
+\emph on
+yowled
+\emph default
+, backing into a corner and cowering -- evidently he was a little afraid
+ of her, which only made sense, if she was in charge of keeping him contained
+ and had to resort to her weaponry often.
+\end_layout
+
+\begin_layout Standard
+“David,” sighed Kate, “it's nothing to do with you...”
+\end_layout
+
+\begin_layout Standard
+While she soothed him, Tanya began to tell me the story, in clipped tones.
+ “The Volturi executed her and our brother, Vasilii.
+ Her for turning him, and him simply for being what he was.”
+\end_layout
+
+\begin_layout Standard
+“What he was...?” I asked.
+\end_layout
+
+\begin_layout Standard
+“An immortal child,” murmured Carmen, and Tanya looked away, letting the
+ less emotionally involved person take over.
+ “There were many of them, at one time.
+ Vampires would turn children barely more than infants.
+ And of course they could not grow, could never mature or learn to control
+ themselves.
+ They could destroy towns with temper tantrums, they were impossible to
+ keep from human notice, and secrecy was no less important then.
+ The Volturi exterminated them.
+ But it wasn't a simple matter, because they were so beloved -- you've seen,
+ of course, how the transformation affects adults, how things intensify,
+ but can you imagine the protective instinct generated by a cute two-year-old
+ who's been changed in that way? Entire covens would die to protect their
+ immortal children, the vampire population was diminished immensely in the
+ course of the destruction.”
+\end_layout
+
+\begin_layout Standard
+“Why did Sasha turn Vasilii?” I asked, puzzled.
+ “And how did the coven survive when the Volturi came for her?”
+\end_layout
+
+\begin_layout Standard
+“We don't know why she did it,” Carmen said.
+ “She kept him a complete secret -- to the point that the sisters were held
+ ignorant and therefore blameless, and spared punishment.”
+\end_layout
+
+\begin_layout Standard
+“Wait, 
+\emph on
+what?
+\emph default
+ She managed to keep an immortal child secret from 
+\emph on
+her own coven?
+\emph default
+ I thought they were uncontrollable,” I said.
+ “It's not as though he'd sleep sometimes and she could put in appearances
+ that way -- how could she supervise him without being conspicuous about
+ it?”
+\end_layout
+
+\begin_layout Standard
+Tanya hissed at that, which interrupted Kate's attempts to calm David; Kate
+ muttered something about wishing Jasper could have taken charge of him
+ and hauled the newborn out of the house altogether.
+ “We don't know,” Carmen said.
+ “We have no idea where Vasilii came from, or why Sasha turned him, or how
+ old he was when they were found, or how he was kept a secret.”
+\end_layout
+
+\begin_layout Standard
+“And nobody noticed that she was gone a lot or -- I'm sorry,” I said to
+ Tanya, who swiveled her head around just enough that she'd be able to see
+ me out of her peripheral vision.
+ “I've been rude -- I have this flippant streak, it's not that I don't feel
+ for your loss.
+ I'm so sorry.”
+\end_layout
+
+\begin_layout Standard
+Tanya pursed her lips.
+ “We weren't as tightly knit a coven then,” she allowed.
+ “It was before we became vegetarians...
+ living on animals seems to improve the ability to form close bonds.
+ We traveled together in the sense that we would usually be within a few
+ miles of each other at any given time, and touched base occasionally.
+ We didn't live in houses like this where we could see one another out the
+ windows.”
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ Then, wishing to get away from the hurtful topic, I said, “So what about
+ you and Eleazar, Carmen?”
+\end_layout
+
+\begin_layout Standard
+“We joined the coven after the sisters adopted vegetarianism,” Carmen said.
+ “He was a member of the Volturi guard
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” There had been clues -- he'd kept referring to the Volturi witchcraft
+ classification system, but for all I knew that was a standard thing, it
+ didn't necessarily mean that he'd worked for them any more than all librarians
+ were personally students of Dewey.
+ He could have just visited them to learn all about their powers -- Carlisle
+ had visited, but not actually 
+\emph on
+joined the guard
+\emph default
+.
+ My mental image of Carlisle's time in Volterra had me thinking of him as
+ something like a war correspondent, not an enlisted supporter 
+\emph on
+for the bad guys
+\emph default
+.
+ I'd simply lumped Eleazar into the same bag.
+ Now I was picturing that gentle, patient person in one of those cowls,
+ drifting across a floor to touch Aro's hand...
+\end_layout
+
+\begin_layout Standard
+“He was a member of the Volturi guard,” repeated Carmen slowly, puzzled.
+ “They found it useful that he could identify witches and potential witches
+ with less guesswork.
+ He wasn't one of their warriors, if that's what you mean...”
+\end_layout
+
+\begin_layout Standard
+“Oh! Oh, I see,” I said, letting my eyes fly open.
+ I pretended that this was all that had bothered me about the notion.
+ Carmen was 
+\emph on
+definitely not
+\emph default
+ the place to seek ill judgment of Eleazar.
+ “It was just...
+ I was surprised that a former guardmember would join a coven with the history
+ you just told me about as concerns the Volturi.”
+\end_layout
+
+\begin_layout Standard
+“We developed a very healthy respect for the law,” muttered Tanya.
+\end_layout
+
+\begin_layout Standard
+“Anyway,” said Carmen, looking at me a little strangely, “he wasn't entirely
+ happy with them.
+ He understood the importance of having and enforcing rules, and felt he
+ was working towards the greater good.
+ But he wanted to leave with me, when we met, and he did.
+ Eventually we met Tanya and her sisters.” Carmen gestured at the blonde,
+ who'd relaxed somewhat once we were off the topic of her mother and secret
+ brother.
+ “And never looked back.
+ We like living this way; it suits us.”
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ I wondered just how hard it would be to get the Denalis' support in my
+ project of deposing the serial killers.
+ Maybe Edward would have insights, but I would need to wait until the last
+ possible moment to ask -- although perhaps I was being paranoid, perhaps
+ the Volturi missed momentous events going on all over the world all the
+ time.
+ Perhaps Aro was nearly as dotty as he often seemed, perhaps he only gave
+ crown jewels to people he didn't suspect of crimes, perhaps he'd never
+ read Edward again.
+ Perhaps he had the least hazardous possible form of mindreading, and couldn't
+ learn anything he didn't already suspect.
+\end_layout
+
+\begin_layout Standard
+And perhaps caution 
+\emph on
+still
+\emph default
+ made sense, no matter how much I wanted to run to Edward and tell him everythin
+g as fast as my lips could buzz and beg for help.
+\end_layout
+
+\begin_layout Standard
+Fleetingly, I missed Rachel, who could know everything because if she were
+ ever found, an unsalvageable part of the jig would already be up...
+ but it wasn't really Rachel I wanted.
+ She was a friend, maybe over time she'd be a great friend.
+ But she wasn't 
+\emph on
+mine
+\emph default
+ the way Edward was.
+\end_layout
+
+\begin_layout Standard
+I would finish meeting the Denalis, and then I would 
+\emph on
+fly
+\emph default
+ to Québec, because Harry had busted a door and bled on the interior of
+ my car and even if he hadn't flying was 
+\emph on
+faster
+\emph default
+ and 
+\emph on
+I wanted my Edward
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note to self: It is not fun to be away from Edward.
+ It is not good for your psychological health to be away from Edward.
+ Do less of that.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There had been a silence of a full second, long enough to be awkward for
+ rapid vampires.
+ “Do you want to meet Irina?” Tanya asked.
+\end_layout
+
+\begin_layout Standard
+“Yes,” I said at once, “please.
+ Her and Laurent -- I've technically met him, but I remember so little about
+ it...”
+\end_layout
+
+\begin_layout Standard
+“Oh,” Tanya said, getting up, “Laurent's not here right now.
+ He's used to being a nomad; he's in and out a lot.
+ Irina's gotten settled over time and usually doesn't go.”
+\end_layout
+
+\begin_layout Standard
+In light of the note I'd just made to myself, this was...
+ odd.
+\end_layout
+
+\begin_layout Standard
+“They're...
+ Edward told me that they're mates, not just...” I didn't know how to bring
+ up the “succubus” thing gracefully.
+ But I had 
+\emph on
+definitely
+\emph default
+ been given the impression that it wasn't just a case of Irina trying out
+ a not-so-warm-and-soft boy toy for a novel diversion.
+\end_layout
+
+\begin_layout Standard
+“Oh, they are,” Tanya assured me hurriedly as she led me out of the main
+ house.
+ “It's obvious, the way Irina reacted -- I don't know Laurent as well, obviously
+, but these things always match up from what I've heard.
+ But he's...
+ I'm not sure, actually.
+ Some kind of introvert maybe, although he'd been with a coven...
+ Anyway, he isn't here, but Irina is, and I'm sure she'll be glad to meet
+ you.”
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ “When is he expected back?”
+\end_layout
+
+\begin_layout Standard
+“Any day now.” His departures were measured in 
+\emph on
+days?
+\emph default
+ It wasn't a matter of popping into the Yukon for an afternoon occasionally?
+ It didn't surprise me that he 
+\emph on
+could
+\emph default
+.
+ I didn't understand why he 
+\emph on
+would
+\emph default
+.
+ Was he activating a tribe of Inuits who turned into giant owls, supposing
+ it was safer if his mate didn't know?
+\end_layout
+
+\begin_layout Standard
+We reached the newest house.
+ Irina was in it, draped over an armchair listlessly.
+ Her hair was blonde like her sisters', silverier than Kate's straw-pale
+ and more desaturated than Tanya's strawberry, and shorter than either --
+ it hung just to her chin.
+ There was an actual turntable record player on an end table, which had
+ a record spinning in it -- nothing I recognized, just something gently
+ instrumental.
+ “Hi,” said Irina, twisting her posture so she wasn't looking at us upside-down.
+ “You must be Bella.”
+\end_layout
+
+\begin_layout Standard
+“That's me,” I acknowledged.
+ “It's nice to meet you, Irina.”
+\end_layout
+
+\begin_layout Standard
+And then, really, there was nothing to say, because Irina had no metapowers
+ to give her useful information, and I'd already poked at the family's old
+ abcess enough, and there was no newborn convenient to punctuate our interaction
+ at irregular intervals.
+\end_layout
+
+\begin_layout Standard
+I sat down, even though this was pointless, even though my feet would never
+ hurt and my knees would never creak and my legs would never sway if I wanted
+ to stand still for a month.
+ Tanya stayed put, but helpfully said, “The newborn that Bella brought us
+ is called Harry,” and then the sisters had a trivial question-and-answer
+ session about the new member of the family.
+ I ducked in now and then to fill in details that Kate hadn't repeated in
+ Tanya's presence, but couldn't keep my attention on the conversation.
+ Three or four times a second I would remember that Edward existed, and
+ while this was true and important and good, it was hard to think around.
+\end_layout
+
+\begin_layout Standard
+What was 
+\emph on
+wrong
+\emph default
+ with Laurent? I'd been away from 
+\emph on
+my
+\emph default
+ mate saving lives and I'd had to do it alone because I had a power that
+ 
+\emph on
+Laurent did not have
+\emph default
+ which meant I could keep secrets at a level inaccessible to others.
+ Also, Edward existed.
+ What was wrong with 
+\emph on
+Irina?
+\emph default
+ Why wouldn't she insist on coming along on these trips of his? And Edward
+ existed.
+\end_layout
+
+\begin_layout Standard
+The door opened, and Laurent came in.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The first thing I noticed about Laurent was that he looked just like my
+ (feeble, human) memory of him said he should look.
+\end_layout
+
+\begin_layout Standard
+The second thing I noticed about Laurent was that he looked 
+\emph on
+exactly
+\emph default
+ like my (powerful, vampire) information said he 
+\emph on
+had
+\emph default
+ looked.
+\end_layout
+
+\begin_layout Standard
+As he crossed the room, eagerly, with just enough restraint to leave the
+ furniture intact, and embraced a joyful Irina, I processed this information.
+\end_layout
+
+\begin_layout Standard
+His eyes were still entirely red.
+\end_layout
+
+\begin_layout Standard
+He'd come to Denali months previously.
+ I'd been a vampire for several 
+\emph on
+weeks
+\emph default
+.
+ And 
+\emph on
+my
+\emph default
+ eyes had a thin ring of orange around the edges already.
+\end_layout
+
+\begin_layout Standard
+It was not, quite, damning evidence.
+ For all I knew, a long-term human diet took longer (much, much longer)
+ to be diluted than the mere starting supply of blood coloring a newborn's
+ eyes.
+ I could easily learn this information from Edward, who probably had occasionall
+y consulted mirrors after swearing off the murder of murderers and would
+ be able to tell me how long it had taken him to get his gold.
+ In case I was wrong, I didn't even need to pose a question that made me
+ sound unduly suspicious; I could be all proud of my orange, start a general
+ conversation about vampire eyes.
+ I had the wherewithal to check.
+\end_layout
+
+\begin_layout Standard
+In the meantime, it was rather 
+\emph on
+extremely
+\emph default
+ dodgy.
+\end_layout
+
+\begin_layout Standard
+To be fair, no one had as good as told me that Laurent had changed his dietary
+ habits.
+ I'd assumed it would be a prerequisite for joining the coven, that he'd
+ do it for Irina.
+ But Irina wasn't likely to be any less influenced by him than he was by
+ her, and the taste of human blood was supposedly an overwhelmingly powerful
+ sensation.
+ It wouldn't have astounded me if he'd 
+\emph on
+slipped
+\emph default
+ once, twice, more, if his new family had forgiven 
+\emph on
+that
+\emph default
+ -- but if he was gallivanting off on long trips without his vegetarian
+ mate, for days at a time, that screamed calculation...
+\end_layout
+
+\begin_layout Standard
+But I said nothing, I pasted a smile on my face and waited for Laurent and
+ Irina to finish their hug that could probably have crushed coal into diamonds,
+ I politely reintroduced myself when he'd set her back down on the ground
+ and turned his attention to me.
+\end_layout
+
+\begin_layout Standard
+Laurent, too, received the mostly-fake story of Harry; he too expressed
+ his enjoyment in meeting me; and once, I saw Tanya flick her gaze to his
+ eyes, frown infinitesmally for a sliver of a moment, and abruptly bring
+ up an obviously recurring tease about Irina's choice of music playing equipment.
+\end_layout
+
+\begin_layout Standard
+Also, my brain reminded me helpfully, Edward existed.
+\end_layout
+
+\begin_layout Standard
+I had met all the Denalis, there were no further mysteries or werewolves
+ that I needed to poke at or activate in this time zone, and I wanted to
+ go.
+\end_layout
+
+\begin_layout Standard
+I made my excuses.
+ I ducked into Carmen and Eleazar's house to (carefully, avoiding anything
+ that might cause alarm) bid Harry goodbye and make sure he had all the
+ contact information he might need.
+ I ran out into the wilderness, called around to a few airlines, and bought
+ a flight to Montréal that I could just barely make.
+\end_layout
+
+\begin_layout Standard
+I forced the busted door of my car onto its hinges, clamping metal onto
+ more protesting metal until I thought it would stay put during the drive
+ to the airport.
+ I folded down the ragged edges of the hole as best I could.
+ The window was a loss, but having a rear window missing wouldn't get me
+ pulled over.
+ I inspected my handiwork, decided it would have to do for the upcoming
+ drive, and started out.
+\end_layout
+
+\begin_layout Standard
+I sped.
+ Near the airport, I waited for a moment when the highway was deserted before
+ steering off the road; the car rolled over several times, acquiring enough
+ damage to cover the strange hole and finger-shaped crush marks in the door.
+ I kicked it a few more times for good measure after worming my way out,
+ then ripped off the license plates and other identifying tags, which I
+ buried under a small tree that I picked up and replanted.
+\end_layout
+
+\begin_layout Standard
+I did feel slightly odd about deliberately destroying a functional car that
+ could have just been cleaned and had the one door replaced and then been
+ fine.
+ Overriding this uneasiness was the fact that I felt very strongly that
+ I needed to be in Québec sooner rather than later.
+ I couldn't think of a nice way to give the Denalis such a damaged object
+ as a gift -- “Here, take the car that the newborn I just saddled you with
+ took a chunk out of because I don't want to drive it home”.
+ Rosalie was not on the correct continent to fix the car, and auto body
+ repair wasn't a skill I had.
+ I had no realistic intention to pick the thing up from any shops I could
+ leave it at in Alaska.
+ And if I just abandoned it at a junkyard or somewhere else, however anonymous
+ I rendered it first, the nature of the damage as it had been would be transpare
+ntly unusual to anyone getting a decent look.
+\end_layout
+
+\begin_layout Standard
+My clothes were something of a mess at this point.
+ I didn't exactly look bloodstained and like I'd just suffered a car crash
+ -- but I did look like I'd gone a bit too long without a change of clothes
+ and possibly like I'd obtained my current set by stealing them from their
+ previous hobo owner.
+ I found a dismal little store, bought a new outfit (clothing retailers
+ were going to learn to recognize my credit card number on sight), put in
+ new contact lenses, and proceeded on foot to the airport.
+\end_layout
+
+\begin_layout Standard
+Once in the building, I promptly wished that I'd hunted more recently, but
+ I didn't need to breathe much after checking in and getting through security
+ via typical awkward “I have weird bioelectricity” rigmarole.
+ On the plane I held my breath, pretended to nap, and moved my shoulders
+ occasionally to make it look to the flight attendants and my neighbors
+ like I was drawing in air.
+\end_layout
+
+\begin_layout Standard
+I seriously considered stealing a car when I got off the plane in Québec
+ City.
+ I could note the plate number, get Jasper to look up the pertinent details
+ with his computer hacking skills that might as well have been a second
+ witchy talent, and mail its owner a fat check later, and it would be so
+ much faster than bothering with a rental, which I would have to return
+ later...
+ I didn't have a way to pick a car that wouldn't be urgently needed when
+ its owner arrived to use it.
+\end_layout
+
+\begin_layout Standard
+Somebody else might be trying to get home to 
+\emph on
+their
+\emph default
+ Edward.
+\end_layout
+
+\begin_layout Standard
+Or need to go to work or something like that, but my brain was very insistent
+ that everything be about Edward.
+ I gritted my teeth and tolerated the rental process, stumbling through
+ it with inadequate French until the clerk let on that he knew English.
+ There was not enough attention left in my head to be annoyed with his delayed
+ language switch.
+ I wanted to go, and it could not in any way make that happen faster if
+ I were to chastise this inconsequential human for poor customer service.
+\end_layout
+
+\begin_layout Standard
+I drove as fast as I could without running an unacceptable risk of being
+ pulled over.
+ (I wasn't like Edward, with a built-in police scanner...) I hadn't learned
+ to read the traffic patterns and note the sort of slowing that came with
+ a cop car in the area.
+\end_layout
+
+\begin_layout Standard
+It was dark when I got to the house.
+ As soon as I opened the door I could hear Gianna snoring.
+ I didn't give her another thought beyond that for the next seven hours,
+ which I spent 
+\emph on
+not
+\emph default
+ a thousand miles away from 
+\emph on
+my Edward
+\emph default
+ who not only existed, but was also every bit as pleased to see me as I
+ was to see him.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gianna was an early riser; I heard her getting up and starting to move around
+ only a few minutes past dawn.
+ Then she called her brother, who she spoke to in Italian that I could half-foll
+ow; I asked Edward and he translated the rest.
+ It was easier to learn the language listening to a naturalistic conversation
+ in it, and Gianna didn't mean for the conversation to be private if she
+ was having it in the house.
+\end_layout
+
+\begin_layout Standard
+It sounded like Ilario was handling vampirism better than Harry, but a little
+ worse than me.
+ Alice hadn't yet given the green light to test him near a human, but had
+ indicated that she'd deem it safe “real soon now”.
+ He talked to Gianna at some length about how easy it was for the world
+ around him to distract him, how strange hunting was and how unpleasant
+ animals tasted.
+ He had nice things to say about the portion of my family still in Norway.
+\end_layout
+
+\begin_layout Standard
+He was dealing with some minutiae about getting his possessions and paperwork
+ handled in Volterra -- Carlisle had found it necessary to let out officially
+ that Ilario was dead.
+ However, Ilario was hoping that he could go back to living in Italy once
+ he was shown capable of tolerating human presences, probably not in Volterra
+ proper but possibly near Rome.
+ He'd been informed of Gianna's agreement to serve as a surrogate mother,
+ but wanted her to join him there after this service had been discharged.
+\end_layout
+
+\begin_layout Standard
+“Speaking of that,” I said, leaning on Edward and interrupting his translation,
+ “it probably won't be long before we can send Gianna to Norway again and
+ then run around South America looking for half-vampires.”
+\end_layout
+
+\begin_layout Standard
+Edward smiled and kissed the crown of my head.
+ “Is that what you want to do next?”
+\end_layout
+
+\begin_layout Standard
+“Since I already met the Denalis, yeah, that seems to be next,” I said.
+ And that reminded me of Laurent, and his eyes.
+ “Hey, have you noticed anything different about me?” I asked, attempting
+ to sound perky and proud of myself.
+\end_layout
+
+\begin_layout Standard
+“Hmm,” said Edward, placing his hands on my face to move it into a convenient
+ location for inspection.
+ I laughed while he made an exaggerated show of peering at my features,
+ and then he said, “Of course I saw your eyes, Bella.
+ You're right on schedule.
+ They'll be completely gold in just a few months.”
+\end_layout
+
+\begin_layout Standard
+I grinned, kissed him, and said, “Is it the same schedule for vampires who
+ ate humans first and then stopped?”
+\end_layout
+
+\begin_layout Standard
+“Considerably faster, actually,” said Edward, and my lips compressed.
+ “I'm sure you've noticed that your eyes don't go black.
+ Well, you haven't gone long enough without hunting to really see them go
+ 
+\emph on
+black
+\emph default
+ -- that takes a week or two and you've been very careful -- but they don't
+ darken, because you're a newborn and still using up the supply of your
+ own human blood.
+ A black-eyed vampire who eats an animal will immediately turn gold-eyed;
+ a non-newborn who has eaten humans and has the burgundy colored eyes, who
+ then switches to an animal diet, might take a few days.”
+\end_layout
+
+\begin_layout Standard
+Yep.
+\end_layout
+
+\begin_layout Standard
+Laurent was killing people.
+ The Denalis all knew it, with the possible exception of David and likely
+ exception of Harry (however temporary these exceptions might be).
+ They weren't doing anything about it.
+ They might or might not be aware that I knew.
+\end_layout
+
+\begin_layout Standard
+Now, what was I going to do about that?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quickly rifling through my information, I decided that there was little
+ or no risk associated with telling Edward about Laurent.
+ The Denalis had made no attempt to swear me to secrecy.
+ The Volturi would certainly not care if Laurent was eating people as long
+ as he covered his tracks, which he likely was, so there was no special
+ danger from them if his transgressions became known.
+\end_layout
+
+\begin_layout Standard
+Finally, a problem I didn't have to attack without Edward.
+\end_layout
+
+\begin_layout Standard
+“But I saw Laurent at Denali,” I said.
+ “His eyes were still red.”
+\end_layout
+
+\begin_layout Standard
+Edward stilled, then held me a little tighter.
+ He didn't look shocked, just protective.
+ The information was not alarming to him -- but he realized it might be
+ so to me.
+\end_layout
+
+\begin_layout Standard
+Then again, Edward classed his meta-killing, the slaughter of murderers,
+ on approximately the same moral level as picking an arbitrary person off
+ the street for no special reason and eating them.
+ I tilted my head back to look at his face -- yes, there was that familiar
+ guilty look, begging my forgiveness like I was a divine being of some kind.
+ If I judged Laurent aloud now, without assuaging that, he'd think I was
+ classing them together.
+\end_layout
+
+\begin_layout Standard
+“I don't think he's just slipping up,” I went on, and I described the indication
+s that he was planning extended hunting trips.
+ “And he doesn't have a convenient way to make sure he's only eating people
+ who were about to hurt someone.” I snuggled closer to Edward.
+ “I suppose it's 
+\emph on
+possible
+\emph default
+ that he's doing some kind of detective work and trying to find unsavory
+ targets that way, but it doesn't seem likely...”
+\end_layout
+
+\begin_layout Standard
+“You're right,” said Edward heavily, “it doesn't.”
+\end_layout
+
+\begin_layout Standard
+“David might have no idea, and Harry almost certainly doesn't, yet,” I said.
+ “But the others have to know.
+ 
+\emph on
+They
+\emph default
+ all still have gold eyes, so unless I came at a really odd time and they're
+ 
+\emph on
+omnivorous
+\emph default
+ or whatever the euphemism would be for a mixed diet, it's just him.
+ Why are they putting up with it?”
+\end_layout
+
+\begin_layout Standard
+Edward spoke slowly, measuring his reply.
+ “There's a few possible reasons...
+ First, there's essentially no way they can 
+\emph on
+control
+\emph default
+ Laurent.
+ You can't put a vampire in prison.
+ It wouldn't be any significant deterrent to try to fine him or anything.
+ The only way to make a vampire act, or not act, against his will, is by
+ violence or the threat of it.”
+\end_layout
+
+\begin_layout Standard
+“Kate could take him,” I said.
+\end_layout
+
+\begin_layout Standard
+“I'm sure Kate alone, or any two or three of the others, could take him
+ in a fight,” Edward agreed.
+ “But it's not a live option even if we assume they have no qualms about
+ harming Laurent himself.
+ If they hurt Laurent, they hurt Irina -- possibly literally; she might
+ back him in a physical confrontation.
+ You remember how I reacted when Jasper was trying to talk about manhandling
+ you during your first exposure to a human? That was when you were 
+\emph on
+demanding
+\emph default
+, in so many words, that Jasper be allowed to rip your arm off if it would
+ save `your experimental subject' and I barely managed to tolerate it.
+ And I'm not sure what I would have done if he'd 
+\emph on
+actually
+\emph default
+ had to injure you.
+ Laurent wouldn't be likely to reason with Irina in that way, so to attack
+ him they'd have to contend with their sister as well.”
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said, “so they won't fight her to defend humans they don't know,
+ but why is 
+\emph on
+Irina
+\emph default
+ tolerating it? Why isn't 
+\emph on
+she
+\emph default
+ getting him to stop? He'd have to listen to her.”
+\end_layout
+
+\begin_layout Standard
+Edward chewed on this question for a couple of seconds.
+ “Well,” he said, “the second reason is that the Denalis don't see vegetarianism
+ in quite the same way we do.
+ It was Tanya's idea to call it that, actually, and I think she considers
+ it analogous to the plant-eating version practiced among humans.
+ That is, it's a personal lifestyle choice, perhaps with a moral dimension
+ to it, but nothing worth introducing social strife about.”
+\end_layout
+
+\begin_layout Standard
+“David and Harry
+\begin_inset space ~
+\end_inset
+
+--” I began in horror.
+ David's eyes had been pale orange, but...
+\end_layout
+
+\begin_layout Standard
+“They'll raise their children, so to speak, as vegetarians,” Edward assured
+ me, squeezing my hand.
+ “I don't think you need to worry about David or Harry being encouraged
+ to drink human blood any more than Ilario is now.
+ They won't be stopped if they decide, on their own, to leave and join the
+ ranks of typical vampires -- I wasn't stopped either, for that matter --
+ but if they stay with the coven, they aren't likely to.
+ And Irina's probably not going to return to the practice herself.
+ But she doesn't have enough of a motivation to evangelize that she'll risk
+ relationship strain to argue with Laurent about it.
+ If she did, she probably ran out of impetus months ago and they've settled
+ into an uneasy compromise at this point.”
+\end_layout
+
+\begin_layout Standard
+“He's killing 
+\emph on
+people
+\emph default
+,” I said.
+ “Not pigs and chickens and cows, 
+\emph on
+people
+\emph default
+.
+ That's not a 
+\emph on
+lifestyle choice
+\emph default
+, that's dead mothers and fathers and brothers and sisters and sons and
+ daughters
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+Edward was not happy.
+ I sighed.
+ “Not that I'm saying that you should go 
+\emph on
+back
+\emph default
+ to the vigilante-justice-and-fast-food habit,” I said, smoothing his eyebrow
+ with my thumb, “but it's different.
+ I really do think it's different.
+ If I thought Laurent were capable of distinguishing good and evil people,
+ and choosing to eat only the evil ones who were about to abduct children
+ or set fire to orphanages or whatever, this wouldn't be the most thrilling
+ information I could learn -- but there are plenty of higher priorities
+ in my life than stopping killers from being killed.
+ If Laurent's eating bad humans, though, it's by coincidence.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded mutely.
+ “The third reason,” he said softly, “is that there are a 
+\emph on
+lot
+\emph default
+ of vampires in the world, and just because Laurent lives in Denali now,
+ it might not seem to the sisters and Eleazar that they have more of an
+ obligation to control him than they have to control any vampire outside
+ the family.”
+\end_layout
+
+\begin_layout Standard
+I realized that I probably sounded hypocritical to Edward, complaining about
+ Laurent, because he didn't know that I was laying groundwork to overthrow
+ the Volturi and thereby end a number of objectionable diets.
+ I tried to think of a way to stop sounding like that without giving anything
+ away.
+ “Eleazar mentioned a friend of Carlisle's named Alistair,” I said abruptly.
+ “I assume he's not a vegetarian either and Carlisle calls him his 
+\emph on
+friend
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+He nodded, confirming this fact.
+ “Well, insofar as Alistair has friends.
+ He's the most misanthropic individual I've ever met, and he can stand to
+ have a visit from Carlisle -- his closest acquaintance, as far as I know
+ -- about once every hundred years.
+ There are letters a little more frequently than that.
+ I believe they last wrote in 1982.”
+\end_layout
+
+\begin_layout Standard
+“Are there any other friends of the family I should know about?”
+\end_layout
+
+\begin_layout Standard
+Edward listed them: Jasper's old covenmates Peter and Charlotte.
+ An Irish coven, an Egyptian one, one that lived in the Amazon Basin, solitaries
+ Garrett and Mary and Randall in North America and the pair Charles and
+ Makenna in Europe.
+ “We've 
+\emph on
+met
+\emph default
+ others, of course,” he said.
+ “Chance meetings like our encounter with Laurent and his old coven.
+ But those are the ones with whom we have some ongoing acquaintance.
+ In fact, I think Rosalie and Emmett were thinking of going to Ireland soon
+ to visit Siobhan and her coven -- it used to be just the mated pair, Siobhan
+ and Liam, but they've added a member recently.”
+\end_layout
+
+\begin_layout Standard
+“And these are all...
+ non-vegetarians.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded solemnly.
+ “Vegetarian vampires are very, 
+\emph on
+very
+\emph default
+ rare, Bella.
+ Vampires in general are merely uncommon.”
+\end_layout
+
+\begin_layout Standard
+“Has 
+\emph on
+any
+\emph default
+ effort been made towards deliberately convincing anyone who eats people
+ to stop eating people? Or is it all a matter of waiting for them to show
+ up by themselves -- your return, Carmen and Eleazar showing up on the Denali's
+ doorstep, Alice seeing herself and Jasper join up with us and doing so?”
+\end_layout
+
+\begin_layout Standard
+“There have been some gentle attempts,” Edward said.
+ “They haven't met with much success.
+ You don't 
+\emph on
+know
+\emph default
+ what human blood tastes like, Bella -- it's not a small thing to ask someone
+ to give up, when they've already decided that they accept the cost in human
+ life.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You
+\emph default
+ know what it tastes like,” I said.
+ “Esme knows what it tastes like.
+ Alice knows what it tastes like.
+ Emmett knows what it tastes like.” Jasper was a bad example, so I did not
+ bring him up.
+ “Tanya and Kate and Irina and Carmen and Eleazar know what it tastes like.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Edward said heavily, “we do.
+ Why do you think it makes it so much harder to resist, when you have that
+ knowledge? Gianna's downstairs right now.
+ I 
+\emph on
+know what she would taste like
+\emph default
+.
+ It takes a toll, whenever I'm around a human, that I have to know, that
+ I don't need to merely 
+\emph on
+imagine
+\emph default
+ like you.”
+\end_layout
+
+\begin_layout Standard
+“How could it taste 
+\emph on
+that good?
+\emph default
+” I asked, flopping dramatically backwards onto the floor.
+ The house was irregularly furnished like other Cullen homes, and we were
+ not in a room equipped with a bed -- they had aesthetic purpose, which
+ was why Esme's island had them, but were not necessary for comfort during
+ sleep or at any other time.
+ Gianna was lucky that there was, for some reason, one four-poster in Alice's
+ room here.
+\end_layout
+
+\begin_layout Standard
+“To give you an idea,” said Edward, “before our wedding, I asked my brothers
+ what to expect about the honeymoon, and Jasper's exact words were `second
+ only to the taste of human blood'.
+ Emmett did not disagree with him.”
+\end_layout
+
+\begin_layout Standard
+I stared at him incredulously.
+ “So you're saying that Jasper and Emmett think human blood is better than
+ sex.
+ Than 
+\emph on
+vampire
+\emph default
+ sex, not the human kind.
+ And Jasper's never even run into a singer.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+\end_layout
+
+\begin_layout Standard
+“What's your opinion on this issue?” I asked archly, striking a pose.
+ “Don't feel like you have to lie to spare my feelings.”
+\end_layout
+
+\begin_layout Standard
+My husband's eyes raked appreciatively over me and he said, “I wouldn't
+ have to lie to do that even if you were easily offended.
+ I'm not sure what I would answer if I'd ever tasted 
+\emph on
+your
+\emph default
+ blood, though.”
+\end_layout
+
+\begin_layout Standard
+“I wonder if Irina and Laurent would be inclined to cast votes,” I said.
+ “Or any of the other friends of the family who have the relevant information.”
+\end_layout
+
+\begin_layout Standard
+“Well, I suppose you could ask them,” he said, but his attention was clearly
+ no longer on topic, and I didn't feel like dragging him back towards it
+ right then.
+\end_layout
+
+\end_body
+\end_document
