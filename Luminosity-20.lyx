@@ -1,0 +1,1427 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{19}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.3500000000000001
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Europe
+\end_layout
+
+\begin_layout Standard
+A few hours later, Gianna announced loudly that she was running low on certain
+ food items and needed either permission to take one of the cars or for
+ Edward to bring her to the store.
+ She didn't know I was in the building, apparently.
+ Edward sighed, made himself presentable, and went down to give her a set
+ of keys.
+ While he supplied directions to the grocery store and counted out some
+ Canadian dollars for her, I stared at the ceiling and thought.
+\end_layout
+
+\begin_layout Standard
+Assuming I managed to get rid of the Volturi, the power vacuum 
+\emph on
+would
+\emph default
+ need to be filled or things would only get worse.
+ Vampires were, as a group, violent creatures: force unto intolerable pain
+ or death was the only viable threat and the only realistic means of resolving
+ conflict, and this had to be delivered by more vampires.
+ (Or, I supposed, werewolves.) There wasn't a vampire economy I could corner,
+ influencing its participants to behave themselves thereby.
+ There wasn't a significant vampire 
+\emph on
+society
+\emph default
+ in which reputation was reliably important -- the only social connections
+ that reliably mattered to arbitrary vampires were mate bonds, impermeable
+ to the vicissitudes of crime and punishment and not possessed universally
+ anyway.
+\end_layout
+
+\begin_layout Standard
+If I had about half a dozen of Alec, and they worked for me, something could
+ be set up to work like a prison, without the only options for keeping order
+ involving actions that were themselves repulsive.
+ But I didn't know where to find half a dozen of Alec, let alone how to
+ get them on board with careers as prison guards for a vegetarian vampire
+ regime.
+\end_layout
+
+\begin_layout Standard
+At any rate, I wasn't sure if I could beat the Volturi in a stand-up fight
+ even if my coven, the Denali coven, all the friends of the family, and
+ the entire pack of Quileutes fought at my side.
+ I was the only one immune to Jane and Alec, the weapons -- well, technically,
+ illusionists -- of the guard, and I was not so personally puissant that
+ I could expect to defeat them all by myself.
+ I needed more allies, ready to call into place when they accumulated critical
+ mass.
+ In all probability, I wouldn't be able to move until Gianna had had my
+ baby and said baby had gotten to be old enough to sanely turn -- until
+ then, the child would be a terrible vulnerability that my attempt at rebellion
+ could ill afford.
+ So I had a while to think about where to get six of the anesthetic witch
+ twin, and other details of my intended administration.
+\end_layout
+
+\begin_layout Standard
+It was a bitter leisure.
+ 
+\emph on
+Murders
+\emph default
+ were going on every day, all over the world, at the hands and teeth of
+ hidden but otherwise unchecked vampires.
+ And, at an even more staggering scale, people were dying for more mundane
+ reasons.
+ People like Ilario, except without his convenient connections and massive
+ stroke of luck, were falling prey to disease.
+ Age and injury and human-originated violence claimed more.
+ Perhaps not all of these dying humans would want the rescue of vampirism,
+ but they could not even be 
+\emph on
+offered that choice
+\emph default
+ under Volturi law.
+ I could only pluck a few from the maw of oblivion, here and there, based
+ on 
+\emph on
+excuses
+\emph default
+ and 
+\emph on
+chance
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+It occurred to me that I hadn't checked my e-mail in far too long, and I
+ found my computer.
+ I was looking at my e-mail inbox when Edward had finished teaching Gianna
+ the phrases of French she'd need to buy groceries and returned to the second
+ floor.
+ He didn't look over my shoulder, just peered into the room to see what
+ I was doing and went elsewhere.
+ I heard the piano's trilling notes as he played a sonata to occupy himself.
+\end_layout
+
+\begin_layout Standard
+I had several e-mails from both of my parents, which I scanned first and
+ then replied to together rather than individually addressing each of Renée's
+ dozen three-sentence news updates or Charlie's four giant rants/expressions
+ of affection.
+ I gave them both good-sized replies, telling them what little I could about
+ what I'd been up to and padding with nostalgia and inquiries about their
+ lives.
+ Since they had no reason to expect me to be all that interesting, they
+ were unlikely to find the limited disclosure odd.
+ In most people's lives, having “started to learn Norwegian” would be the
+ most momentous event of an entire month, let alone week.
+ (I didn't mention Italian, French, Portuguese, Ukrainian, or anything else
+ on my list.
+ Humans did not normally try to learn that many languages at once.)
+\end_layout
+
+\begin_layout Standard
+Rachel had also sent me several e-mails, which I didn't think were urgent
+ because she hadn't texted, but which I opened with some trepidation anyway.
+\end_layout
+
+\begin_layout Standard
+One was an update on Sue Clearwater.
+ After a lot of long, loud conversations with her daughter, Sue had apparently
+ come to the conclusion that if Harry was 
+\emph on
+dead
+\emph default
+, then Leah had killed him.
+ This was not an acceptable thing to have happened.
+ Sue didn't want to live in a world where her daughter had killed her husband.
+ And so she'd decided that Harry was not dead -- but progress beyond that
+ was slow in coming, Rachel reported.
+ Sue seemed agnostic as to the question of whether vampirism dissolved human
+ marriage, had no clear opinion about whether she ever wanted to see Harry
+ again, was adamant that Leah and Seth should not attempt to visit him (thankful
+ly -- I didn't want the other Denalis learning about werewolves yet), and
+ was not one bit happy about the entire mess.
+ Rachel added as a footnote here that Leah was grateful for my rescue of
+ her father and that Seth still thought I was a 
+\begin_inset Quotes eld
+\end_inset
+
+nice vampire
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The next e-mail was what Rachel saw fit to relay to me about Harry's electronic
+ correspondence with his children.
+ He did not like Denali very much, and had trouble getting along with everyone
+ in the coven except Carmen and Eleazar (so it was lucky that he was in
+ their house).
+ This was exacerbated by the fact that the sisters and Laurent interpreted
+ any display of significant emotion from a newborn as reason to become wary
+ and occasionally violent, trying to keep things from spiraling out of control.
+ But Harry did not lack for a source of significant emotion: he missed his
+ children.
+ Also, he seemed more interested in soothing Sue's discomfort than I would
+ have predicted.
+ Maybe she was supposed to be his mate after all.
+ I didn't know quite how that would manifest given that they'd never been
+ in one another's physical presence since he'd 
+\emph on
+started
+\emph default
+ turning, let alone opened his eyes, but if it turned out to be the case,
+ I supposed I'd find out.
+\end_layout
+
+\begin_layout Standard
+There was then an e-mail stating that the pack had finally, as a group,
+ gotten sufficiently controlled that Rachel had authorized breaking camp
+ and going back to living full-time in the village.
+ The entire tribe was cleared to know the secret, but under strict instructions
+ from the tribe elders and Chief Rachel not to share it elsewhere.
+ (The elders now included Sue Clearwater, who had taken her husband's place
+ in his absence, and would likely retain it even if he moved back to the
+ reservation due to his being a vampire.) Rachel had not run out of money,
+ but anticipated doing so in relatively short order and wanted more; I called
+ Gianna, asked her to pick up envelopes and stamps while she was out, and
+ looked up the French words she would need to purchase those things.
+ I replied to this e-mail saying I'd get a check in the mail.
+\end_layout
+
+\begin_layout Standard
+And then, after that, I read her latest message.
+ It was about Sam, Leah's fiancé -- but no more.
+ There was one tribe legend I had not happened to hear.
+ Werewolves were supposedly prone to “imprinting” -- which was something
+ like a unidirectional and more psychologically unique version of vampire
+ mating.
+ And Sam had gone and imprinted on Leah's second cousin Emily, who had come
+ for a surprise visit from the Makah reservation where she lived.
+ This was apparently not infrequent; growing up, Leah and Emily had been
+ close as sisters.
+\end_layout
+
+\begin_layout Standard
+Through their shared thoughts, everybody in the pack knew exactly what had
+ happened to Sam.
+ Rachel described it as being like the sudden extinction of the sun: “like
+ there's no other light or warmth in the world except from her,” she'd written.
+ “Being in Sam's head is really weird because he has everybody in the pack
+ half in love with Emily just because he's so anchored to her.
+ It wasn't like that before when it was him and Leah, and that was already
+ plenty.”
+\end_layout
+
+\begin_layout Standard
+However, a unique ability among the pack members -- Leah included -- to
+ empathize intimately with his change of heart didn't prevent it from becoming
+ major drama.
+ Leah was inconsolable at the betrayal, especially on top of her father's
+ sudden absence due to her having lost control, and was staying out of wolf
+ form as much as she could manage to avoid having to run across Sam's thoughts.
+\end_layout
+
+\begin_layout Standard
+Emily had been brought into the know: imprinting overrode even Rachel's
+ echoey Alpha commands for secrecy, and Sam had told his imprintee everything
+ the moment he laid eyes on her.
+ This did not impress her.
+ Emily's loyalty was to Leah, and she didn't show any inclination to accept
+ Sam's mystically acquired devotion.
+ She was crashing at the Clearwater's house to help comfort her cousin,
+ since most of Leah's other friends were in the pack and had trace amounts
+ of sympathy for Sam.
+\end_layout
+
+\begin_layout Standard
+The other wolves were not thrilled about this development.
+ Or at least, most of them weren't.
+ A couple thought that imprinting would be romantic or something and looked
+ forward to it eagerly, although legend had indicated that it was a rare
+ phenomenon even among wolves.
+ But Becky was terrified, as were the handful of other wolves who had significan
+t others and hadn't imprinted on them.
+ The only way to prevent imprinting, according to the corpus of stories
+ available, was to not see the person on whom one would imprint.
+ A few of the pack had accordingly moved out into the woods to camp out
+ again, thereby avoiding most visual contact with humans.
+\end_layout
+
+\begin_layout Standard
+Rachel speculated that with everything going on, I might want to “stay far,
+ far away from Leah -- she doesn't really hate you, and she's still grateful
+ you saved her dad, but you're kind of turning into the herald of all things
+ awful in her life the way she thinks of it”.
+ Since I had no immediate plans to go to La Push, this was fine.
+\end_layout
+
+\begin_layout Standard
+I sent Rachel another reply, asking for more information on how imprinting
+ worked as it became available, and then I went downstairs to listen more
+ closely to Edward's music.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+The following Monday, Alice's vision of Ilario's resistance to human scent
+ shored up.
+ She brought home a human to waft under his nose, and then escorted her
+ out again unharmed, although Ilario had been considerably twitchier and
+ more dependent on water during the exercise than I had with Nils.
+ He didn't want to risk Gianna until he was surer of himself, so he started
+ going on excursions with Alice and Jasper in (sparsely) populated areas
+ of Norway.
+ No one died.
+ That Thursday, Edward, Gianna, and I flew back to Europe.
+\end_layout
+
+\begin_layout Standard
+“I'm going to need to apologize to whoever that car belonged to,” I remarked
+ softly during the flight.
+ Oddly, Edward hadn't asked at all about what had become of it.
+\end_layout
+
+\begin_layout Standard
+“It was mine,” he said.
+ “It's all right; it was hardly a favorite.
+ I thought you'd want something inconspicuous.”
+\end_layout
+
+\begin_layout Standard
+I told him the story of how the car had come to be wrecked, and he didn't
+ bat an eye, just approved of my careful destruction of evidence.
+ Sheepishly, I said, “I'd offer to replace the car, but it's not like any
+ of the money I've been throwing around is 
+\emph on
+mine
+\emph default
+ in a meaningful sense; I didn't earn any of it.” I had written Rachel a
+ rather 
+\emph on
+large
+\emph default
+ check -- just a low enough figure to fly under Alice's threshold of stockbroker
+ terrorizing.
+\end_layout
+
+\begin_layout Standard
+“It 
+\emph on
+is
+\emph default
+ yours,” Edward said firmly.
+ “You're a part of the family.
+ You're my 
+\emph on
+wife
+\emph default
+.
+ Alice handles the investments because she's uniquely qualified and it amuses
+ her.
+ Carlisle holds down a paying job because he loves practicing medicine and
+ it's hard to do it for free in most places with decent cloud cover.
+ But it's shared out among all of us, and you mustn't feel awkward about
+ using it.”
+\end_layout
+
+\begin_layout Standard
+“Well, I know 
+\emph on
+you
+\emph default
+ think I should throw it around, but I haven't really done anything to pitch
+ in -- I don't just mean that I didn't show up with a wad of cash in my
+ pocket, I mean at all.”
+\end_layout
+
+\begin_layout Standard
+“Bella, when I turned you, we were prepared for the possibility that you'd
+ be unable to do anything more sophisticated than growl and hunt for the
+ subsequent decade,” said Edward.
+\end_layout
+
+\begin_layout Standard
+“A decade? Does it sometimes take that long?” I asked.
+ “I thought it was a year.”
+\end_layout
+
+\begin_layout Standard
+“Usually it's a year, but it varies,” said Edward.
+ “It would have been surprising, but less surprising than the reality, if
+ you'd still been acting like a newborn in 2015.”
+\end_layout
+
+\begin_layout Standard
+I thought of David, pacing and frightened, and was alarmed by this possibility,
+ obviated for myself though it was.
+ “Well, even so,” I said.
+ “I'm not going to be careful about money if it's as unnecessary as all
+ that, fine, but I feel like I should make it known that I want to be useful
+ if I can.”
+\end_layout
+
+\begin_layout Standard
+Edward kissed my forehead and murmured in my ear.
+ “Bella, my love, you don't know how glad our family is to have you.
+ Leaving aside my own supernaturally good luck for the moment -- you are
+ Alice's best friend.
+ You are a hope for Rosalie, a role model for Jasper, Esme's pride and joy.
+ Emmett loves your sense of humor and Carlisle admires you.
+ 
+\emph on
+Useful
+\emph default
+ -- you're 
+\emph on
+priceless
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Of course Edward had to tell me I was marvelous, but he also had to tell
+ me the truth.
+ I basked in the compliments and snuggled up for the long flight.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Ilario did not eat Gianna when we got her home, although he didn't like
+ to be in the same room as her for very long at a stretch.
+ He developed a habit of zipping between rooms at high speed, so he could
+ talk to her without breathing the air she occupied.
+ She was so overjoyed that he was healthy and had what he wanted that she
+ didn't seem to mind the part where he craved her blood so much that he
+ couldn't comfortably breathe near her.
+\end_layout
+
+\begin_layout Standard
+By the time we finished carrying luggage out of the car in which Esme had
+ fetched us, Emmett and Rosalie were debating whether to visit the Irish
+ coven by swimming or by catching a plane.
+ (Emmett thought swimming would be more fun, whereas Rosalie cited time
+ and the difficulty of packing for a sea journey.) I announced an interest
+ in acquainting myself with the coven, which caught Edward by surprise,
+ although he didn't protest.
+ Edward was indifferent to modes of transportation, which left me to break
+ Emmett and Rosalie's tie.
+ I voted apologetically for swimming, which 
+\emph on
+would
+\emph default
+ be interesting, wouldn't have me choosing between muteness and a throat
+ full of fire en route, and would mean that the trip wouldn't have to be
+ postponed so I could hunt first.
+ Rosalie rolled her eyes and asked us to wait for ten minutes so she could
+ buy a swim cap and preserve her hair from the ravages of saltwater, and
+ I used the time to find a more swimming-friendly outfit than what I had
+ on somewhere in my giant closet.
+ Eventually I located an actual bathing suit, but I didn't really want to
+ go gallivanting around Ireland in one, so I just wore normal clothes in
+ fabrics that probably wouldn't look terrible after a few days in the ocean.
+\end_layout
+
+\begin_layout Standard
+We all put our handheld electronics in redundant plastic bags, dove off
+ the nearest fjord, and started for Ireland.
+ I was actually able to outpace the others: in water, strength was a significant
+ enough factor in rapid movement that my newborn arms could pull through
+ the water more efficiently than Edward's.
+ I swam ahead, and when I happened upon a luckless orca, I ate it; they
+ caught up to me during this process and thereafter I kept pace.
+\end_layout
+
+\begin_layout Standard
+Edward decided to teach me sign language so we could talk while swimming
+ underwater.
+ It had the convenient feature that I didn't need to learn an accent, that
+ being the factor of language learning least affected by vampire memory
+ and cognitive speed (though those still helped).
+ When I had the alphabet mastered, he could continue teaching me words and
+ grammatical conventions without needing to fall back on English.
+\end_layout
+
+\begin_layout Standard
+By way of vocabulary practice, he told me about the coven we were going
+ to visit.
+ Siobhan was the leader, and as far as she knew she was the oldest vampire
+ who lived in Ireland full time.
+ She was some eight and a half centuries old.
+ Liam was newer, having turned in 1800.
+ Siobhan had not turned him -- he'd been created by a Scottish coven making
+ an excursion to Ireland, and traveled with them until a later excursion
+ saw them run into his mate.
+ She'd extracted him from the coven, and made her disinclination to otherwise
+ share the space clear, by (with Liam's help) killing one of the Scottish
+ vampires and chasing off the other.
+\end_layout
+
+\begin_layout Standard
+Maggie was a little over 150, and had been turned after emigrating to escape
+ the Great Famine by an English vampire.
+ Her creator, who had been solitary until turning Maggie, had been motivated
+ by a suspicion about Maggie's witchcraft potential.
+ This had proven correct.
+ Maggie could tell when people were lying.
+ Homesickness had eventually led Maggie to amicably part from her covenmate
+ and return to Ireland in 1982.
+ She'd managed to completely miss the existence of Siobhan and Liam until
+ ten years later.
+ Then they'd run into each other while simultaneously trying to take advantage
+ of the cover that an IRA attack could provide for feeding.
+ This had nearly turned into a fight: Liam wanted himself and Siobhan to
+ go on being the only vampires in Ireland.
+ Maggie would likely have run to England, enlisted the help of her former
+ covenmate, and fought for the territory, but Siobhan had wanted to add
+ her to the group.
+\end_layout
+
+\begin_layout Standard
+My first thought was that of course Liam would do what Siobhan wanted if
+ she had the stronger preference, but Edward said that Siobhan was a witch,
+ too.
+ According to him, she could 
+\emph on
+will
+\emph default
+ plans to pan out.
+ Siobhan herself did not consider this a talent for anything other than
+ good strategy, and I thought the example of Maggie's inclusion in the coven
+ was a weak one -- Siobhan hadn't needed to sway anyone but 
+\emph on
+her own mate
+\emph default
+ to make it work, for crying out loud.
+ Edward didn't have more examples ready to hand.
+ While he'd met Siobhan before, she didn't tend to discuss or think about
+ situations that could be cases of this power, and so he was taking Carlisle's
+ word for it; Carlisle considered the instance of bringing Maggie into the
+ coven the quintessential one, and hadn't thought of any others while in
+ Edward's range.
+ I was curious enough to ask Carlisle about it later, but for the time being
+ I was skeptical.
+\end_layout
+
+\begin_layout Standard
+While our route was only about eight hundred miles (plus course corrections
+ as needed, vertical or lateral, to avoid boats), swimming was slower than
+ running, and we spent almost half a day in the water.
+ Rosalie had wanted to land near Edinburgh and run across the larger island,
+ then swim the Irish Sea to get to our destination, but Edward thought it
+ would be too hard to avoid notice by boats or onshore observers in Edinburgh
+ given the time of day -- we probably could have managed it at night.
+\end_layout
+
+\begin_layout Standard
+Instead, we got out of the water near Ballycastle, and then, careful to
+ avoid humans, followed Emmett, who'd received instructions on how to find
+ the coven.
+ They moved around, because non-vegetarian vampires staying in one place
+ for too long eventually attracted notice.
+ However well-hidden the bodies, missing persons were recorded; but two
+ in greater Belfast followed by three near Cork and one in Limerick plus
+ two in Galway and then a gaggle of tourists in Dublin didn't form a pattern
+ in the minds of investigators who didn't suspect vampires.
+\end_layout
+
+\begin_layout Standard
+I wondered how many missing persons worldwide were 
+\emph on
+just
+\emph default
+ missing, and how many were vampire food.
+\end_layout
+
+\begin_layout Standard
+The Irish coven were outside a town called Maghera in Northern Ireland.
+ I hypothesized that the top bit of the island was a better hunting ground
+ than the rest of it because casualties were liable to be chalked up to
+ sporadic religious violence, but I didn't speculate aloud.
+ Emmett ranged ahead when we approached the designated area to find them
+ and explain that there were four of us, not two, and to give them fair
+ warning that I had newborn eyes but was not typical of newborns.
+ He came back, gave us the go-ahead, and led us into the wooded area where
+ the other three vampires waited.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Siobhan was a brunette, with a short and well-maintained haircut.
+ She was 
+\emph on
+very
+\emph default
+ tall and broad, and she moved forward to greet us with an undulating smoothness
+ that I considered trying to emulate before deciding that its impressiveness
+ depended on her size.
+ I wondered if she could beat Emmett in a fight and was unsure.
+ She was barefoot, like the others, and they were all dressed in simple
+ outdoor wear.
+\end_layout
+
+\begin_layout Standard
+Her mate, Liam, followed close behind, a grimly noncommittal expression
+ on his face.
+ He didn't make any aggressive moves, but I was inclined to watch for them
+ anyway -- I had the impression that he wasn't happy about the visit.
+ He was only a little shorter than his mate, which made him about Emmett's
+ height.
+ As vampires went, he wasn't particularly attractive; he was more like Harry
+ and David, who'd been turned for reasons unrelating to appearance.
+ Or, I supposed, James, who wouldn't have looked unusually lovely even in
+ a crowd of humans (or so I'd written; vampire vision might have revealed
+ something else).
+ His hair was a shade lighter than Siobhan's, and cut similarly to hers.
+\end_layout
+
+\begin_layout Standard
+Behind the pair followed the newest member, Maggie, who was about my size
+ and had a smiling face wreathed in springy red curls.
+ Except for the telltale wine-colored eyes, she seemed very likeable.
+ She was also the first to speak, in a perky Irish accent.
+ “Hello! It's good to finally meet you!” She was addressing everyone but
+ Emmett, who she'd encountered moments before, but she seemed particularly
+ interested in me -- probably because of the Super Newborn thing.
+ When my eyes were finally gold I could expect to get less (although not
+ much less) attention among the general vampire population.
+\end_layout
+
+\begin_layout Standard
+“Yes, it's been some time,” acknowledged Siobhan, similarly accented.
+ I wondered for half a second why vampires would speak any language with
+ an accent, and then mentally kicked myself for assuming that sounding American
+ meant 
+\emph on
+lacking
+\emph default
+ an accent.
+\end_layout
+
+\begin_layout Standard
+“We're not usually in Europe long enough to make visits,” apologized Rosalie.
+\end_layout
+
+\begin_layout Standard
+“But aren't you all living in Norway now?” inquired Maggie.
+ “Why is it just the four of you?”
+\end_layout
+
+\begin_layout Standard
+“There's another newborn at home,” explained Edward.
+ “He's nearly as controlled as Bella, but not quite.
+ It's better to leave him with supervision.” He omitted mention of Gianna,
+ without whose presence a smaller contingent of babysitters would have sufficed
+ to soothe Ilario's worries about slipping and eating her.
+ I supposed that our hosts would be no less likely than any other vampires
+ to think it was strange and suspicious that we kept a human around, and
+ I wasn't exactly motivated to disclose the details of why she was still
+ human.
+\end_layout
+
+\begin_layout Standard
+“That explains Jasper, and by extension, Alice,” said Siobhan, “but what
+ about Carlisle and Esme? The only reason I've met any of you at all is
+ through Carlisle.”
+\end_layout
+
+\begin_layout Standard
+“Carlisle is still new to his job in Norway, and prefers not to ask for
+ time off so soon,” said Edward.
+ This was 
+\emph on
+true
+\emph default
+ -- I supposed it had to be, if Maggie was to be present -- but not the
+ whole story, of course.
+\end_layout
+
+\begin_layout Standard
+“Well, perhaps they'll pay us a visit soon,” said Siobhan.
+\end_layout
+
+\begin_layout Standard
+Rosalie nodded, and there followed quite a bit of catch-up conversation:
+ the latest developments in our coven and theirs.
+ Rosalie and Emmett had taken Edward's hint about leaving Gianna unmentioned,
+ and they didn't know that I'd left Québec during our trip at all.
+ Edward had successfully kept that a secret.
+ Bearing in mind the topics I should not mention, I chatted away with the
+ others.
+ It was much easier to conduct small talk with family present -- or maybe
+ it was just Edward.
+\end_layout
+
+\begin_layout Standard
+It was interesting, the way we stood.
+ There was, as ever, no reason to sit -- and no chairs that might feel neglected
+ if we didn't, since we were in the middle of the woods.
+ So we were all on our feet.
+ The Irish vampires were in a loose V with Siobhan at the hinge, standing
+ closest to us.
+ Our contingent stood in a line, but clearly divided in half; Emmett had
+ his arm around Rosalie and I was holding hands with Edward, and there was
+ about two feet between my left foot and Rosalie's right.
+ I wondered why Siobhan and Liam weren't touching.
+ They'd been mated longer than we had, which might explain it all by itself.
+ I wondered how we'd have arranged ourselves if the entire family had been
+ present.
+\end_layout
+
+\begin_layout Standard
+The conversation split into numerous simultaneous threads, as statements
+ prompted more than one possible response.
+ We could all hear each other, easily filtering each voice from the others,
+ and keep track of where everyone was looking by virtue of unblurry peripheral
+ vision, so this wasn't as difficult as it would have been for humans.
+\end_layout
+
+\begin_layout Standard
+Maggie was mildly curious about vegetarianism, and wanted to know if we'd
+ tasted human blood.
+ She seemed equally entranced by Rosalie and I, who had not, and our husbands,
+ who had, and interspersed her incredulous questions with remarks to herself
+ about how it was “all really true, 
+\emph on
+huh!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Meanwhile, Rosalie had convinced Liam to break his stony silence by talking
+ about cars, which he liked, and Emmett was trying to persuade Siobhan that
+ they should spar.
+ (Apparently Edward and Alice “cheated
+\begin_inset Quotes erd
+\end_inset
+
+, fighting Jasper got old after a while, and the others weren't usually
+ in the mood.) I was rather interested in acquiring at least a cursory understand
+ing of how to fight, but I could propose this to Emmett (or Edward or Jasper)
+ any time; he probably didn't often have the opportunity to match up with
+ Siobhan.
+\end_layout
+
+\begin_layout Standard
+Eventually she relented, silencing Liam's protest with a look, and they
+ got some distance and sprang at each other.
+ I watched out of the corner of my eye, still keeping up with Maggie's questions
+ about whether I wasn't 
+\emph on
+just a little curious
+\emph default
+ about how humans tasted, etcetera.
+\end_layout
+
+\begin_layout Standard
+“Aren't you curious how animals taste?” I asked, finally, as Siobhan knocked
+ Emmett to the ground and he leapt to his feet to attack again.
+\end_layout
+
+\begin_layout Standard
+“Not really,” said Maggie, wrinkling her nose.
+ “They smell terrible.”
+\end_layout
+
+\begin_layout Standard
+“I can't say eating humans sounds like something I'd enjoy, either,” I said.
+\end_layout
+
+\begin_layout Standard
+“But they taste great!” Maggie enthused.
+\end_layout
+
+\begin_layout Standard
+“So I'm told,” I said.
+ “But you can't be 
+\emph on
+constantly
+\emph default
+ in the process of swallowing their blood.
+ You've only got so much room.
+ Inevitably, you spend more time not eating than you spend eating, and you
+ would still have to do that even if they marched by you in a convenient
+ line and you didn't have to hunt them or conceal evidence.
+ According to the experts,” I tilted my head towards Edward, “eating human
+ blood makes it harder to 
+\emph on
+not be eating
+\emph default
+ at any given time between meals.
+ So I'm making the non-eating parts of my life more comfortable by forgoing
+ some extra yumminess when I eat.”
+\end_layout
+
+\begin_layout Standard
+Maggie blinked at me, and Liam actually let out one low 
+\emph on
+ha
+\emph default
+ of a laugh.
+ “That's something,” he put in.
+ “Carlisle's all about 
+\emph on
+compassion
+\emph default
+ and 
+\emph on
+respect for human life
+\emph default
+, and you have an actual reason.”
+\end_layout
+
+\begin_layout Standard
+“I'm a big fan of compassion and respect for human life 
+\emph on
+too
+\emph default
+,” I said, “but if those things mattered to you, you'd already be vegetarians.
+ It's not like you've been living in ignorance of the fact that we can live
+ off animals and were only waiting for this information before swearing
+ off a human diet; you've known Carlisle for a while.”
+\end_layout
+
+\begin_layout Standard
+“But 
+\emph on
+how
+\emph default
+ do you resist?” exclaimed Maggie.
+ “Perhaps that's a reason to do it, but 
+\emph on
+how?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Don't you ever go someplace where you can't eat the nearest human 
+\emph on
+right then?
+\emph default
+ Walk into some town where there's 50 of them in one place, and you'd have
+ to either kill them all, which would be conspicuous, or kill only some
+ of them, which would also be conspicuous?” Of course they had; Maggie nodded.
+ “So you can clearly refrain from eating humans,” I said.
+ “You don't need me to tell you how.”
+\end_layout
+
+\begin_layout Standard
+Maggie looked vaguely puzzled, but then asked about how animals tasted,
+ which was promising; Emmett even shouted a remark about the superior flavor
+ of ursine creatures in between being used to knock a tree over and successfully
+ depriving Siobhan of one of her feet.
+ Liam clenched his teeth very tightly at that, but Siobhan (while evidently
+ in considerable discomfort) just picked her foot up off the ground without
+ even yelling and attached it to her ankle again.
+ After about a second, during which Emmett graciously did not pounce, the
+ injury knitted, and then she was in motion again.
+\end_layout
+
+\begin_layout Standard
+“I like killer whales best,” I put in, when Liam had relaxed marginally.
+ “Hunting in the water is fun -- the whales are designed to move in the
+ ocean, and while I can do it, it's not what I'm best at.
+ So there's an element of challenge that there isn't to hunting land creatures.
+ Of those, though, I liked the wild boar I ate once.”
+\end_layout
+
+\begin_layout Standard
+“Coyotes,” supplied Rosalie shortly, half-smirking.
+\end_layout
+
+\begin_layout Standard
+“There's all kinds of variety,” said Edward dryly.
+ “Mountain lions, here.”
+\end_layout
+
+\begin_layout Standard
+“I'm really looking forward to being able to go about in public without
+ contact lenses,” I said.
+\end_layout
+
+\begin_layout Standard
+“I just tell everybody I have weak veins in my eyes and they keep bursting,”
+ said Maggie.
+ “Or I say that the red is because of contacts anyway.
+ Or I make up something in fake Latin like ‘iris crimsonus’ and act like
+ I'm really sensitive about it if anyone gets curious.
+ I ask them if they know what it means, and if they know it's not real Latin
+ then I kill them.” She shrugged.
+\end_layout
+
+\begin_layout Standard
+“Sunglasses,” said Liam shortly.
+\end_layout
+
+\begin_layout Standard
+“I've done sunglasses before,” I acknowledged.
+ “Useful things, but anytime we'd be outside so anyone would notice, 
+\emph on
+sun
+\emph default
+glasses are a bit odd.”
+\end_layout
+
+\begin_layout Standard
+“More fake Latin,” advised Maggie.
+ “You have a condition that makes your eyes really sensitive to light.
+ I think that might actually be a real thing.”
+\end_layout
+
+\begin_layout Standard
+I sort of liked her, in spite of the part where she killed people.
+ I was beginning to see how my family could have acquired red-eyed friends.
+ It didn't take the same personality, in a vampire, to kill people that
+ it did in a human.
+ A human who murdered was opposing culture and instinct, risking social
+ censure and societal repercussions from every angle.
+ A normal human had to be put in an unusual context like war, or subjected
+ to enormous stress, before becoming willing to kill.
+\end_layout
+
+\begin_layout Standard
+A normal 
+\emph on
+vampire
+\emph default
+, though, was fitted with a different set of natural impulses.
+ Was normally lifted entirely out of their human context and could not safely
+ continue human relationships (and would be most likely to form new relationship
+s with vampires who already ate people).
+ Did not face significant danger in the process of hunting, as long as they
+ were careful.
+ Had been 
+\emph on
+put
+\emph default
+ in the sort of context that might make a normal human turn dangerous, complete
+ with a label that generally meant “killer” and the ability to live up to
+ it with impunity.
+\end_layout
+
+\begin_layout Standard
+I was the luckiest vampire in the world.
+ I'd walked in with my eyes open, kept hold of my original ties, and landed
+ in the laps of a family that didn't eat people.
+ Carlisle was the impressive one who'd managed it with no help, no precedent,
+ no support, no ability to write home to his human relatives.
+\end_layout
+
+\begin_layout Standard
+But at any rate, the personality types of killer vampires weren't the same
+ as killer humans.
+ Maggie was a perfectly likable person.
+ And when someone saw through her fake Latin, she killed them, that was
+ all.
+\end_layout
+
+\begin_layout Standard
+I was very tempted to make the entire conversation about converting Maggie,
+ to retrieve it from the tangent it began to drift off on about some 
+\emph on
+real
+\emph default
+ Latin that Edward helpfully produced from his medical school days.
+ Maybe the next human Maggie met wouldn't die of excess education.
+ I decided against it.
+ It could just as easily make things worse, and she was already 
+\emph on
+curious
+\emph default
+, which was something.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Eventually Emmett invited me to join the brawl without prompting, and I
+ agreed.
+ He knocked me around, but more gently than he had Siobhan.
+ I tried not to rely too much on my excessive strength, which would be gone
+ soon enough.
+ Instead I learned which instincts were useful and which to suppress, a
+ few things about distinguishing feints and genuine attacks and how to dodge,
+ and fascinating tricks with leverage.
+ Siobhan also took a turn, and her style was noticeably different from Emmett's
+ -- he was playing, and she was doing something more like parkour.
+\end_layout
+
+\begin_layout Standard
+It was fun, and although periodically it hurt rather a lot, I had the sensation
+ that I was learning very efficiently.
+ Learning to fight by sparring wasn't linear, like reading a book and (however
+ quickly) absorbing each word in sequence.
+ The rapid immersion in combat let me engage almost all of my mind on the
+ same task.
+ Every sense had something to tell me about my partner and my environment;
+ all of my muscles could be doing something useful; I needed to model my
+ opponent's strategy and think of a move that he or she hadn't thought I'd
+ make, often stacking up levels of obviousness quite deep and still sometimes
+ being found predictable.
+ It was wholly engaging.
+\end_layout
+
+\begin_layout Standard
+All of this bothered Edward immensely, and after Siobhan clocked me across
+ the ear hard enough that it stopped processing sound for a few seconds,
+ he quietly asked me to stop.
+ I went back to his side and he gathered me into a hug.
+ Rosalie snorted.
+\end_layout
+
+\begin_layout Standard
+“Aw, but she's good at this,” protested Emmett.
+\end_layout
+
+\begin_layout Standard
+“Later,” said Edward tightly.
+ “Not here.”
+\end_layout
+
+\begin_layout Standard
+“Siobhan's got a different style...” I said.
+\end_layout
+
+\begin_layout Standard
+He gritted his teeth.
+ “I know,” he said.
+ “So does Jasper.
+ You can practice at home if you like.” I wondered if Siobhan had thought
+ something in particular, or if he just didn't trust her.
+ Liam looked relieved that she appeared to be done, though, and she went
+ back to stand by her coven with a shrug.
+ Maggie looked briefly wistful.
+\end_layout
+
+\begin_layout Standard
+I tilted my head at her, inviting her to explain this.
+ “Oh,” she said.
+ “Just, I wish 
+\emph on
+my
+\emph default
+ mate would hurry up and find me.”
+\end_layout
+
+\begin_layout Standard
+“If you don't ever leave Ireland, are you very likely to run into him?”
+ I inquired.
+\end_layout
+
+\begin_layout Standard
+Maggie considered this.
+ “Her,” she corrected absently.
+ No one, even my husband from 1901 with oh-so-traditional values, reacted
+ to this.
+ I decided to inquire about that later.
+ “Well, I traveled more before I joined this coven,” she said at last.
+ “And I didn't find her then either.”
+\end_layout
+
+\begin_layout Standard
+I couldn't resist.
+ “Maybe you ate her.”
+\end_layout
+
+\begin_layout Standard
+Siobhan rolled her eyes, but Maggie looked genuinely horrified.
+ “What? That couldn't happen.”
+\end_layout
+
+\begin_layout Standard
+“Of course it could,” I said.
+ “I was human when I met Edward.
+ Not only that,” I added with relish, “I was his 
+\emph on
+singer
+\emph default
+.
+ It's lucky that he had so much practice 
+\emph on
+not eating humans
+\emph default
+.
+ Otherwise I would have been toast.
+ Delicious, dead toast.”
+\end_layout
+
+\begin_layout Standard
+Maggie looked scared.
+ I wasn't sure if that was good or not, so I backed off a little.
+ “You most likely haven't met her yet, though.” I hesitated for a beat, letting
+ the redheaded vampire calm down, and added, “But that doesn't mean she's
+ a vampire.”
+\end_layout
+
+\begin_layout Standard
+“Nnng,” whined Maggie.
+\end_layout
+
+\begin_layout Standard
+Rosalie chuckled darkly and threw in a barb of her own: “Emmett was human
+ when I found him, too.” She paused.
+ “And absolutely 
+\emph on
+covered
+\emph default
+ in fresh blood.”
+\end_layout
+
+\begin_layout Standard
+“Esme was human when Carlisle met her,” put in Edward; I wasn't facing him,
+ instead studying Maggie's face, but I heard a smile in his voice.
+\end_layout
+
+\begin_layout Standard
+Eventually Maggie announced, “Well, maybe I'll just eat men,” which was
+ not really the solution I'd had in mind, but at least she'd found the possibili
+ty compelling.
+ Siobhan sighed but didn't have an interest in encouraging Maggie to be
+ an equal-opportunity predator, and Liam had lapsed into silence again.
+\end_layout
+
+\begin_layout Standard
+The conversation turned to other things, and after about two days, we were
+ done visiting.
+ Siobhan graciously allowed that we might spend a while touring Ireland
+ before going home.
+ So we ran from place to place on the island for a bit, looking at the major
+ attractions.
+ “This part I can tell my parents,” I remarked.
+ “Ireland is totally a normal part of a tour of Europe.”
+\end_layout
+
+\begin_layout Standard
+“If you want, we can look at more of Europe before we go to South America,”
+ offered Edward.
+\end_layout
+
+\begin_layout Standard
+“Let's go to Wales and England and Scotland on our way home,” I decided,
+ “and then I want to hang out there for a while, just like a week, we've
+ spent so little time actually 
+\emph on
+with
+\emph default
+ our family.
+ Then South America.”
+\end_layout
+
+\begin_layout Standard
+Of course he had no problem with this, and so while Emmett and Rosalie swam
+ directly back to Norway after they'd had their fill of Ireland, Edward
+ and I swam east and he spent five days showing me around.
+ He'd been there before, but most of his knowledge came from Carlisle, who'd
+ been born in London.
+ None of the specific locations that had been important to Carlisle's human
+ life were still in their original form, but it was interesting to wander
+ around the city with this information.
+ I wondered if Chicago, Edward's birthplace, would feel similar if I went
+ there.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+We were wandering the streets of Glasgow (me in contact lenses) when I decided
+ to ask Edward why Maggie's correction hadn't elicited a reaction.
+ “Given that you're from 1901, and have used this as an excuse to have outdated
+ values before,” I said.
+ I kept my voice high and fast; passing humans wouldn't notice anything
+ but a couple looking into each other's eyes and walking together.
+\end_layout
+
+\begin_layout Standard
+“Well, first of all,” laughed Edward, “my outdated values, as you call them,
+ apply to 
+\emph on
+me
+\emph default
+.
+ It's not my business whether anyone else obeys them.
+ You haven't heard me complaining about the conduct of the succubus triplets
+ -- I suppose it's down to Tanya and Kate, now -- have you?”
+\end_layout
+
+\begin_layout Standard
+“That's true,” I acknowledged.
+ “And second of all?”
+\end_layout
+
+\begin_layout Standard
+“Second of all, vampires in general don't have much choice but to be relaxed
+ about that in particular,” he said.
+ “There's simply nothing to argue about.
+ Just like with Laurent's eating habits, the choices are permission or violence.
+ There's no legal policy to argue.
+ No social pressure or ethical argument that could ever practically compete
+ with the mate bond.
+ You might have noticed that vampires don't go in for organized religion
+ or, even in opposite-sex couples, have children, so the traditional arguments
+ are moot anyway.
+ There's no reason for anyone to go to the trouble of trying to keep a vampire
+ away from her mate, even if the mate's also a woman.
+ It would be very troublesome and have no point.”
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said.
+ “But apart from the fact that you aren't going to fight Maggie to the death
+ over it, do you have 1901-shaped feelings on the matter?”
+\end_layout
+
+\begin_layout Standard
+Edward shrugged.
+ “Not really.
+ It wasn't something I gave any thought to as a human.
+ That was hardly the hot-button issue at the time.
+ When I was turned, everyone was busy thinking about the Great War -- World
+ War I -- and the flu pandemic.
+ So I didn't enter the vampire world with preconceptions on the subject
+ to set in stone.
+ It's not my cup of tea, but then, you are the only cup of tea in the world
+ for me.” He picked me up by the waist and spun around, then set me back
+ down on the sidewalk; some watching humans 
+\emph on
+awwwed
+\emph default
+ at the display of affection.
+\end_layout
+
+\begin_layout Standard
+I decided this was satisfactory.
+ And then an unrelated question occurred to me: “Am I immune to Maggie's
+ power?”
+\end_layout
+
+\begin_layout Standard
+That brought Edward up short.
+ “I don't know.
+ You didn't lie to her, as far as I know...”
+\end_layout
+
+\begin_layout Standard
+“I didn't,” I confirmed.
+ “Unless sarcasm or speculation or just being mistaken counts...? How sensitive
+ is she?”
+\end_layout
+
+\begin_layout Standard
+“Not very,” he said.
+ “While it's possible for someone very good at controlling their thoughts
+ or very immersed in their duplicity to lie to me, and she'd catch most
+ such deception, I'm more effective overall than she is.
+ She doesn't detect anything at all unless someone deliberately states something
+ they want her to believe which they think is false.
+ If they don't know she's listening, or they're confident they're right,
+ or they think she'll notice that they're uncertain or making a joke instead
+ of trying to share definite information, nothing happens.”
+\end_layout
+
+\begin_layout Standard
+“So if I'm immune to her she wouldn't have noticed,” I said, nodding to
+ myself.
+ “I wish I'd thought to test it there.”
+\end_layout
+
+\begin_layout Standard
+“Do you expect to need to lie to Maggie?” Edward asked, and then he shook
+ his head.
+ “You don't have to answer that.”
+\end_layout
+
+\begin_layout Standard
+“It's okay,” I said.
+ “I don't expect to need to lie to her, but it would be interesting if I
+ found out that I could, or couldn't.
+ I want to know more about how my power works, so I can make it get better.
+ If I didn't start out immune to Maggie, learning how to develop that would
+ be useful practice.
+ I guess I'll just work on hedging out Jasper to start.
+ Not because I expect to need to, just because I want to know how to improve.”
+ I tilted my head curiously.
+ “Have you gotten any better at reading minds since you turned?”
+\end_layout
+
+\begin_layout Standard
+“Not in the way you probably have in mind,” he said.
+ “Since I can follow familiar voices at greater range, it did improve in
+ the sense that I could hear Carlisle from one mile away to begin with and
+ two later and almost five now, but I'm not any better at hearing new people
+ I meet.
+ And it's still just surface thoughts as it's always been.”
+\end_layout
+
+\begin_layout Standard
+“Have you tried to work on that at all?”
+\end_layout
+
+\begin_layout Standard
+“Not really.
+ I do have some qualms about invading people's privacy,” he said, smiling
+ faintly.
+ “In cases where need overwhelms those concerns, the level of discernment
+ that I started with has been serviceable.
+ I did try a little to hear something from you, but failed utterly, and
+ you've made it clear that you don't want me to succeed -- so I stopped
+ working on that.”
+\end_layout
+
+\begin_layout Standard
+“Fair enough,” I replied.
+ 
+\end_layout
+
+\end_body
+\end_document
