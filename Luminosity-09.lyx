@@ -1,0 +1,1955 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{8}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Witches and Werewolves
+\end_layout
+
+\begin_layout Standard
+I wondered, during Biology as the teacher nattered on interminably about
+ cell walls, how much it was going to hurt the Bella-and-Edward-are-Together
+ Show that I'd changed lab partners.
+ Angela and Mike at least knew I'd done it deliberately.
+ I didn't know what they thought my motives really were -- Mike at least
+ had seen the way Edward had first looked at me.
+\end_layout
+
+\begin_layout Standard
+And it would be just 
+\emph on
+like
+\emph default
+ Mike to jump to conclusions about that, decide I was in an abusive relationship
+, and think I must need 
+\emph on
+him
+\emph default
+ available to turn to\SpecialChar \ldots{}
+ I hoped Jessica would distract him enough.
+ If Mike had 
+\emph on
+any
+\emph default
+ sense -- or, if he lacked sense in certain possible ways -- he wouldn't
+ be thrown off by a sappy public image: there was no actual reason it couldn't
+ coexist with dreadful mistreatment behind the scenes.
+\end_layout
+
+\begin_layout Standard
+It wouldn't just be annoying to me if Mike got too nosy -- he could get
+ himself killed or have to be vamped, if he found anything out.
+ (Although\SpecialChar \ldots{}
+ just what surveillance mechanisms did the Volturi have, anyway?
+ Did they have an Alice-equivalent among their guard, or something less
+ effective? If someone bugged the Cullens' house while they were all out,
+ saw some things, figured others out -- could they go to the grave never
+ telling, without being hunted down?)
+\end_layout
+
+\begin_layout Standard
+I crossed my fingers.
+ I didn't think this would accomplish anything, but it was a way to put
+ my hope out in the world without writing anything down, and I knew what
+ it meant whereas Alice would likely be puzzled.
+ Although perhaps, I reflected, I should warn the vampires anyway -- but
+ Mike hadn't shown signs of being insufferable about it, let alone dangerously
+ inquisitive.
+ Yet.
+ I'd make Wednesday my sit-with-the-humans day and check in\SpecialChar \ldots{}
+ or I could let
+ Edward, just him, know, and get him to spy\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+I made a face, tilting my head forward first so my hair would get in the
+ way of Angela or anyone else noticing.
+ Edward had such a 
+\emph on
+convenient
+\emph default
+ power.
+ It was just outrageously tempting to ask him to use it when I wasn't even
+ sure of its necessity.
+ Alice had been right -- show me a mystery and I 
+\emph on
+would
+\emph default
+ poke, poke, poke at it until I figured it out or I was 
+\emph on
+dead
+\emph default
+.
+ I bit my lip: I would not ask Edward to invade Mike's privacy based on
+ vague concerns that I could probably check up on without needing any telepathy
+ at all.
+ I valued 
+\emph on
+my
+\emph default
+ privacy so much -- it would be the absolute height of conceit to assume
+ Mike's was less important.
+\end_layout
+
+\begin_layout Standard
+On that subject, it was about time for me to pin Alice in place long enough
+ to see about getting myself some notebooky privacy, too.
+ I'd visit that afternoon and try to catch her then -- but after that, homework,
+ definitely homework.
+ Negative academic attention -- from teachers or from Charlie -- was the
+ last thing I needed.
+\end_layout
+
+\begin_layout Standard
+I supported my chin with my hand, let jargon about cell anatomy wash over
+ me, and wondered what fjords looked like up close.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I did get Alice to conduct a quick experiment with me as soon as I got to
+ their house.
+ Although vampires could see in the dark, she didn't have the ability to
+ move her vantage point quite as she pleased.
+ She 
+\emph on
+tended
+\emph default
+ not to see things as though she were peering out from under beds or behind
+ picture frames.
+ It was more like she was standing, at her normal height with her normal
+ visual acuity (except for uncertainty-induced blurriness), in whatever
+ place she looked at.
+\end_layout
+
+\begin_layout Standard
+It wasn't 
+\emph on
+impossible
+\emph default
+ that she would be able to see what I typed if I put my keyboard under something
+ opaque and turned off my monitor, but it almost certainly wouldn't happen
+ by accident, and she promised not to try for those visions outside of dire
+ emergencies.
+ (I made her specify, in this promise, that 
+\begin_inset Quotes eld
+\end_inset
+
+dire emergencies” were those where she could see likely futures in which
+ the situation was explained to me and I agreed that she had to look at
+ the writing.
+ I wasn't sure enough about Alice's judgment, this early on in our acquaintance,
+ that I was prepared to leave it entirely up to her.) So I could type in
+ privacy, and if I draped a thick blanket over myself and pressed my nose
+ right up against the backlit screen, I could re-read later in privacy,
+ too.
+\end_layout
+
+\begin_layout Standard
+The notebooks were not as easy to address.
+ I touch-typed, but if I tried to write longhand without being able to see,
+ I wound up with illegible scribbles that meandered all over the page.
+ And if I ducked under a blanket that was thin enough to admit lamplight,
+ it would also be thin enough that a vampire could see through it pretty
+ effectively.
+ They had a better-than-human ability to separate out the noise of an intermedia
+te layer of material from the objects behind it.
+ A vampire would have no trouble telling what was going on behind a screen
+ door, even a painted one with a distracting picture on the near side, as
+ long as there were enough intact little perforations.
+ A human would see the screen and stop there and ignore anything spotted
+ through the holes.
+\end_layout
+
+\begin_layout Standard
+So I decided to continue writing anything private in confusing personal
+ code, and use my computer more, when it was available.
+ This plan had the weak point of relying on my shifty, wobbly memory to
+ fill in the gaps that the shorthand inevitably left, but it was only for
+ a few months -- after that, I expected to need no notebooks at all.
+\end_layout
+
+\begin_layout Standard
+After I'd had this discussion with Alice, I set up at the kitchen table
+ and did homework, only half-concentrating on the worksheets and the index
+ cards for my presentation in Government.
+ Edward sat with me.
+ He was good about not 
+\emph on
+doing
+\emph default
+ anything to distract me; he only watched.
+ No one could hold still like a vampire.
+ But he still had that property, whatever it was, that made my eyes slide
+ towards him; whenever he shifted position to better have a look at what
+ I was doing, my ears perked up to listen.
+\end_layout
+
+\begin_layout Standard
+He was sitting close enough that I could smell his breath -- it didn't smell
+ like a human's breath at all.
+ It didn't smell 
+\emph on
+wet
+\emph default
+ in the same way -- it was almost floral.
+ That was 
+\emph on
+peculiar
+\emph default
+ -- it had to be the venom I was smelling, but why would it smell like lilacs?
+ Or not lilacs -- I wasn't sure what flower to compare it to.
+ Something nice, anyway.
+ But why? It wasn't as though vampires needed to 
+\emph on
+attract
+\emph default
+ prey.
+ They just needed to catch someone alone, somewhere inconspicuous, and once
+ they did that, the result was already overdetermined by their power and
+ speed.
+ Vampires were certainly ridiculously over-engineered, and I couldn't wait
+ to play with all the new abilities\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+With effort, I wrenched my attention back to the rectangle of cardstock
+ I was trying to transfer notes to.
+ 
+\emph on
+The executive branch
+\emph default
+, it said already in my awful handwriting.
+ I made a small grumbling noise and completed the sentence.
+ Perfect recall was going to be mine in a few short months.
+ And I was learning pointless things I wouldn't remember in two weeks, let
+ alone a hundred years, because I was seventeen and that meant I had to
+ go to high school and spit back the right information in the right format
+ at the right time.
+\end_layout
+
+\begin_layout Standard
+“Don't they assign 
+\emph on
+you
+\emph default
+ any homework?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, pulling out a new index card.
+\end_layout
+
+\begin_layout Standard
+“I can do it at night,” he said.
+ The unspoken reason was 
+\emph on
+so I don't have to lose any time with you
+\emph default
+.
+ I was learning to read Edward's face and tone fairly well, at least when
+ his feelings were expressed one at a time, not in a tangle.
+\end_layout
+
+\begin_layout Standard
+“I can't be that interesting to watch.
+ I 
+\emph on
+am
+\emph default
+ me and 
+\emph on
+I'm
+\emph default
+ bored out of my skull,” I muttered, writing a note on the new index card.
+\end_layout
+
+\begin_layout Standard
+“You're the one who wanted to do homework,” he said lightly.
+ “I'm not bored, though, Bella.”
+\end_layout
+
+\begin_layout Standard
+What had put me on Edward's list of possible soul-mates? I took another
+ card and almost wrote that question on it instead of the presentation note
+ that belonged there.
+ I stuck my tongue out at the card, wrote the correct note on it, and then
+ pretended not to know what to write on the next one.
+ What was it about me? He couldn't have known instantly, or he would have
+ acted differently when he'd first seen me.
+ So it probably had nothing to do with my looks.
+ That was comforting, on some level.
+\end_layout
+
+\begin_layout Standard
+I'd thought it correlated with the potential for extra vampire powers, which
+ correlated with actually being turned, to explain how many vampires seemed
+ to pair off without eating their mates first.
+ Or possibly beauty, which was another selection criterion.
+ I didn't think of myself as pretty, and didn't trust my parents' evaluations
+ to the contrary a bit.
+ But even if Edward's feelings could be explained away by magic, Mike's
+ and Eric's couldn't, and it was pushing it to speculate that they'd only
+ been interested because I was new.
+ So maybe I was pretty.
+\end_layout
+
+\begin_layout Standard
+I wrote the next note, pulled out another card, and sighed.
+ I was probably decent-looking enough to make a pretty 
+\emph on
+vampire
+\emph default
+, at least -- I was looking forward to that for so many reasons, and that
+ was a trivial one, but it still existed.
+\end_layout
+
+\begin_layout Standard
+I wrote a note.
+ I grabbed a new card.
+ I hated Government.
+ I normally felt neutral about it -- the material was undertaken laboriously
+ slowly, but at least it was new to me, and the teacher was reasonably competent.
+ But why did it have to assign me a presentation when I wanted so badly
+ to have time to think? I supposed the teacher had no way of knowing --
+ and 
+\emph on
+shouldn't
+\emph default
+ have had any way of knowing -- when these times were.
+\end_layout
+
+\begin_layout Standard
+I wrote another note.
+ I had a little stack of fifteen cards after I added it to the pile.
+ That might be enough.
+ Dealing with my impromptu public speaking issues was on my to-hack list
+ anyway; going on sparser notes would be a potentially useful step towards
+ that.
+ I was rationalizing, of course -- I just wanted to be done with homework.
+ But I really, 
+\emph on
+really
+\emph default
+ wanted to be done with homework, and so as long as there was some way it
+ could be made not to bite me in the rear later, I might as well give in
+ to that want.
+\end_layout
+
+\begin_layout Standard
+“Right, I'm done,” I muttered to myself, and started putting school supplies
+ away.
+\end_layout
+
+\begin_layout Standard
+“What would you like to do with the rest of your day?” Edward asked, smiling.
+ I looked at him.
+ Radiating from his face was the undiluted desire to see to it that I got
+ exactly the Tuesday I wanted.
+ It was gratifying, mostly -- and still a little weird, but I was getting
+ used to it.
+\end_layout
+
+\begin_layout Standard
+“So,” I said, sitting back in my chair and recalling a note to myself from
+ the previous day, “witches and werewolves, hm?”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Witches and we- Oh.
+ I mentioned those when I told you about Carlisle,” remembered Edward.
+ “Well -- yes, they exist.
+ There are actually two kinds of werewolves that I know about, and every
+ witch is different.”
+\end_layout
+
+\begin_layout Standard
+“Besides two kinds of werewolves, witches, and vampires, is there anything
+ else mythical that I should know about?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Not as far as I know,” said Edward.
+ “But I might not have seen everything.
+ Anyway, witches.
+ That's the technical term for a human with a power -- the kind that turning
+ into a vampire generally intensifies.”
+\end_layout
+
+\begin_layout Standard
+“I didn't know witches were the sorts of things that would have technical
+ terminology about them,” I said, and then I sat up suddenly.
+ “Wait a minute, that would make me a witch, wouldn't it?”
+\end_layout
+
+\begin_layout Standard
+“It would,” agreed Edward.
+ “Although you wouldn't have been the sort of witch that used to be burnt
+ at the stake if you'd lived earlier -- your power seems only to protect
+ you from mine, and maybe others.
+ It doesn't seem to do anything otherwise detectable.”
+\end_layout
+
+\begin_layout Standard
+“Were you a witch? Jasper?”
+\end_layout
+
+\begin_layout Standard
+“I don't think either of us would have qualified.
+ Extra vampire powers don't 
+\emph on
+have
+\emph default
+ to be preceded by witchcraft.
+ My ability to read people and Jasper's charisma proved useful, but were
+ quite natural when we were human.
+ Alice was probably a witch, but we don't know.”
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “And the two kinds of werewolves? Do they have other names, to tell them
+ apart?”
+\end_layout
+
+\begin_layout Standard
+“The Eurasian variety,” said Edward, “are sometimes also called Children
+ of the Moon.
+ They're much closer to myth than the other sort.
+ Silver won't do anything -- that's a human myth to make it sound to one
+ another like they'd have a fighting chance, if they ran into one.
+ But they do infect humans by biting, and change during the full moon.
+ They're fierce, solitary creatures in wolf form, not at all the sort of
+ animal you'd want to meet.”
+\end_layout
+
+\begin_layout Standard
+“Are they normal humans during the rest of the month?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I think so.
+ I haven't actually encountered any of them.
+ They're extinct now, or close to it -- Caius doesn't care for them a bit
+ and had them hunted down.
+ I only know what Carlisle's told me, and he learned it all from the Volturi.”
+\end_layout
+
+\begin_layout Standard
+“Hunted to extinction with, not silver, presumably -- what?”
+\end_layout
+
+\begin_layout Standard
+Edward tilted his head back a little and laughed.
+ “With members of the Volturi guard, of course.
+ I'm sure there were casualties on their side.
+ Werewolves -- either sort -- can give vampires a run for our money in a
+ fight.
+ But a transformed Child of the Moon isn't very intelligent.
+ That is, they're smarter than normal wolves, but they don't retain their
+ human intellects.
+ A group of vampires bent on hunting one down could accomplish it.
+ Especially if they managed to work out who it was as a human.
+ Then it would be quite easy.” He kept switching tenses -- I supposed that
+ made sense when talking about the traits of a species that might or might
+ not be extinct.
+\end_layout
+
+\begin_layout Standard
+“Okay.
+ What about the other kind? Where do they live?” I prompted.
+\end_layout
+
+\begin_layout Standard
+“Not far from here, actually,” Edward said, “but I doubt there are any of
+ them left, either.
+ We were here seventy years ago and met a pack of them.
+ They don't like vampires, but we were able to convince them we didn't prey
+ on humans, and made a treaty -- we stay off their land and don't bite anyone,
+ and they don't attack us unless we're on their turf.
+ But it takes vampire presence to activate the genes that let them shapeshift.
+ The pack that was active seventy years ago is likely all inactive now,
+ or dead.
+ And we haven't been close enough to their land to trigger any new changes.”
+\end_layout
+
+\begin_layout Standard
+“Where do you mean by `not far from here'?” I asked, aware that vampires
+ might easily conceive very differently of distances.
+\end_layout
+
+\begin_layout Standard
+“The Quileute reservation, La Push,” Edward said.
+ “They probably still tell the stories, even if the actual wolves are all
+ gone now.”
+\end_layout
+
+\begin_layout Standard
+“That's 
+\emph on
+quite
+\emph default
+ close,” I said.
+ It was just over a half an hour away -- driving like a 
+\emph on
+normal
+\emph default
+ person.
+ “I know some people from La Push.”
+\end_layout
+
+\begin_layout Standard
+“You do?” Edward asked, looking interested.
+\end_layout
+
+\begin_layout Standard
+“Charlie's old friends with a guy from there called Billy Black.
+ He sold Charlie my truck.
+ I used to play with Billy's daughters sometimes, Rachel and Rebecca, when
+ I was little.
+ I've been out of touch with them lately, though.
+ I think they had a younger brother.
+ I can't think what his name was, though.”
+\end_layout
+
+\begin_layout Standard
+“I don't know either,” shrugged Edward.
+ “They might be descendants of one of the wolves we met, though -- same
+ surname.”
+\end_layout
+
+\begin_layout Standard
+“So how do the -- do they have their own name besides `wolves'?” Edward
+ shook his head.
+ “The Quileute wolves, then, how do they work?”
+\end_layout
+
+\begin_layout Standard
+He explained.
+ They were indistinguishable from normal humans until the gene was activated
+ by vampire presence.
+ Wolves were quite fast and strong enough to kill vampires, at least when
+ they worked as a pack.
+ They also healed with extraordinary rapidity, and retained some of these
+ powers even in their human forms.
+ When the gene woke up and did its work, a gradual buildup of emotion eventually
+ provoked the first shift, which, while potentially dangerous to people
+ around the wolf (as they expanded quite a bit in size very rapidly) was
+ not harmful to its subject.
+ Shifting continued to be provoked by lost temper until more practice managing
+ both shifting and temper accumulated.
+ After that, it was possible to “quit one's wolf” and go back to being a
+ relatively normal human.
+ A Quileute wolf who 
+\emph on
+didn't
+\emph default
+ quit, also didn't age.
+\end_layout
+
+\begin_layout Standard
+“What makes you so sure the ones you met seventy years ago aren't still
+ alive, then?” I asked.
+\end_layout
+
+\begin_layout Standard
+“They have secrets to keep, too,” Edward said.
+ “If they're alive, they've probably faked their deaths and moved away.
+ The tribe council likely knows, or at least has enough details to recognize
+ the events if anyone should activate now.
+ But arbitrary Quileutes, like your friends, almost certainly think of the
+ wolves as mere legends.”
+\end_layout
+
+\begin_layout Standard
+I nodded, and sighed, dropping my chin onto my arms where they lay folded
+ across the table.
+ “Why -- 
+\emph on
+why
+\emph default
+ -- don't people want to be immortal? Why don't people 
+\emph on
+care
+\emph default
+ that everyone is dying? Why do they want to cure 
+\emph on
+some
+\emph default
+ deadly things like cancer and malaria and then the Quileutes had a 
+\emph on
+cure for aging
+\emph default
+ handed to them on a silver 
+\emph on
+platter
+\emph default
+ and they gave it up? Is everyone in the world but me 
+\emph on
+actually suicidal
+\emph default
+ and I just never noticed because they aren't all taking razors to their
+ wrists?”
+\end_layout
+
+\begin_layout Standard
+“It's natural,” murmured Edward.
+\end_layout
+
+\begin_layout Standard
+“Cancer's natural.”
+\end_layout
+
+\begin_layout Standard
+“Cancer isn't inevitable,” he said.
+\end_layout
+
+\begin_layout Standard
+“Neither is 
+\emph on
+aging!
+\emph default
+” I cried, sitting up and gesturing emphatically at Edward.
+ “You're going to be seventeen forever.
+ 
+\emph on
+I'm
+\emph default
+ going to be seventeen forever once we've got everything sorted out.”
+\end_layout
+
+\begin_layout Standard
+“What, do you want to turn everyone into a vampire?” asked Edward.
+\end_layout
+
+\begin_layout Standard
+“I told you already, I can't.
+ I can't turn everyone or it'll be entirely counterproductive,” I said,
+ folding my arms and resting my head on them again.
+ “The Volturi want to be immortal, I suppose, but they don't want to 
+\emph on
+share
+\emph default
+, do they?”
+\end_layout
+
+\begin_layout Standard
+Edward reached out to stroke my hair.
+ It was a soothing, regular motion.
+\end_layout
+
+\begin_layout Standard
+“I'm tempted to find Rachel and Rebecca's phone numbers.
+ And their brother's.
+ And call them all up, and demand that they come visit right away, and have
+ 
+\emph on
+you
+\emph default
+ all sitting there when they show up, so they can live forever -- it wouldn't
+ be as bad as turning them without permission, I think, since if they were
+ 
+\emph on
+insane
+\emph default
+ and decided they 
+\emph on
+didn't
+\emph default
+ want superpowers and the chance to live forever they could quit their wolves.
+ If they were 
+\emph on
+insane
+\emph default
+,” I growled.
+\end_layout
+
+\begin_layout Standard
+He kept stroking my hair.
+ I closed my eyes and tried to calm down, concentrating on the cool, careful
+ touch.
+ “Is there,” I asked, after having managed some success at this task, “any
+ reason I 
+\emph on
+shouldn't
+\emph default
+ collect all the Quileutes I can, here on ‘your turf’ where you're allowed
+ to be, and activate them?”
+\end_layout
+
+\begin_layout Standard
+“Immature werewolves are dangerous,” Edward said softly.
+ “The connection between their transformations and their tempers means the
+ latter is unstable until they learn control.
+ They aren't 
+\emph on
+as
+\emph default
+ likely to kill as newborn vampires, but it is not out of the question,
+ and injuries wouldn't be surprising.”
+\end_layout
+
+\begin_layout Standard
+I inhaled as deeply as I could, held the breath until it hurt, and then
+ let it out slowly.
+ “We could set up a werewolf summer camp,” I said.
+ “Put them someplace away from anyone who can't heal like they can, help
+ them\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“The presence of vampires would 
+\emph on
+not
+\emph default
+ help them.
+ They instinctively see us as enemies,” Edward said.
+ “Vampires and Quileute wolves do not smell pleasant to one another or serve
+ as comforting presences for one another.”
+\end_layout
+
+\begin_layout Standard
+“Jasper,” I said, desperately.
+ It was a sign that I was very serious, wanting to bring in Jasper...
+ “He could activate them, then help them stay calm until they could do it
+ themselves, until they were safe.”
+\end_layout
+
+\begin_layout Standard
+“Maybe,” said Edward, surprising me.
+ He was still petting my hair.
+ “That might work.
+ But the Volturi don't know about the Quileutes, I think\SpecialChar \ldots{}
+ and are unlikely
+ to come to know about them, unless Aro reads one of us, which might not
+ happen for centuries if we fly under their radar.
+ At least, as long as they remain as unobtrusive as they presently are.”
+\end_layout
+
+\begin_layout Standard
+I swore.
+ Edward did not, apparently, share Angela's philosophical dislike of strong
+ language.
+\end_layout
+
+\begin_layout Standard
+And then I swore again.
+ “Edward, you said the treaty is that you won't 
+\emph on
+bite
+\emph default
+ a human.
+ And seventy years ago, if you were rounding, could have been after Carlisle
+ turned Emmett.
+ He's the most recent turning.
+ Was it?
+\end_layout
+
+\begin_layout Standard
+“Yes,” he said.
+ “Does rounding count as lying? I don't understand.”
+\end_layout
+
+\begin_layout Standard
+“Have any of the slip-ups in the family been since then?”
+\end_layout
+
+\begin_layout Standard
+He shook his head, slowly.
+\end_layout
+
+\begin_layout Standard
+“Will it break the treaty if you turn me? Even if you don't do it here?”
+\end_layout
+
+\begin_layout Standard
+Edward was silent.
+ “Technically,” he said.
+ “Yes.”
+\end_layout
+
+\begin_layout Standard
+I thought quickly.
+ “Does the treaty say 
+\emph on
+bite
+\emph default
+ -- that exact word?”
+\end_layout
+
+\begin_layout Standard
+“It does,” he confirmed.
+ His hand had stopped moving over my head and was resting on the back of
+ my neck.
+\end_layout
+
+\begin_layout Standard
+“Can you turn me without actually biting me? Alice said something about
+ crying into an open wound\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“She did? That's a bit of a fanciful way of putting it.
+ We 
+\emph on
+have
+\emph default
+ venom in our eyes\SpecialChar \ldots{}
+ but we don't really 
+\emph on
+cry
+\emph default
+.
+ You'd have to collect it over a long time, and get it into the bloodstream
+ indirectly.
+ I can't think of anything less efficient.
+ The mouth is the better source.”
+\end_layout
+
+\begin_layout Standard
+“But it doesn't absolutely have to be a bite.
+ You could fill a syringe and inject it, maybe.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” he said.
+ “Yes, that would work.”
+\end_layout
+
+\begin_layout Standard
+“All right,” I said, letting out another sigh.
+ “So if I figure out a way to activate some wolves without getting the Volturi's
+ attention, I won't necessarily have a war on my hands over my having been
+ turned.”
+\end_layout
+
+\begin_layout Standard
+“Ambitious, aren't you,” he remarked in a soft, almost admiring tone.
+\end_layout
+
+\begin_layout Standard
+I lifted my head, and he drew his hand back to the table in front of him.
+ “It shouldn't 
+\emph on
+be
+\emph default
+ ambitious,” I said.
+ “It shouldn't be uncommon or special or rebellious or anything like that
+ to want people to live.
+ If I were holding down a job and giving half my income to oncology researchers
+ or something, I wouldn't be 
+\emph on
+ambitious
+\emph default
+.
+ Altruistic -- plenty that -- but not 
+\emph on
+ambitious
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“You know, if you keep saying this sort of thing, eventually I might agree
+ with you,” Edward said lightly.
+\end_layout
+
+\begin_layout Standard
+“I can't help but see that as a good result,” I said, fussing with the end
+ of my sleeve.
+ “It looks from here like you don't have any sound reasons for believing
+ the way you do -- just tangled-up emotions that won't let you hear what
+ I'm saying as though I'm talking clear English.
+ If I can get through to you in spite of that by saying that death is bad
+ a lot, well, then, I guess I'll say it a lot.
+ Death is bad.
+ Death is bad.
+ Death is bad.”
+\end_layout
+
+\begin_layout Standard
+“It really bothers you, what I said about souls,” he observed in a low voice.
+\end_layout
+
+\begin_layout Standard
+“It did, I guess, at the time.
+ Now I'm just sort of 
+\emph on
+generally
+\emph default
+ bothered by 
+\emph on
+everyone
+\emph default
+ who wants to tolerate death like it's their annoying-but-harmless old uncle
+ who comes round every Thanksgiving and without whom the family would be
+ incomplete, or something.
+ It's not harmless.
+ And there's no ineradicable reason it has to exist at all.”
+\end_layout
+
+\begin_layout Standard
+“Let's talk about something else,” said Edward, breaking eye contact and
+ frowning.
+\end_layout
+
+\begin_layout Standard
+“I'll dole it out in small doses, if you need me to, but I'm not apt to
+ quit,” I warned him.
+ “Ask Alice.
+ You'd have to stay away from me entirely to avoid hearing about it.”
+\end_layout
+
+\begin_layout Standard
+“I could never stay away,” he said, looking back into my eyes.
+ “I thought at first that I should...
+ but Alice was right, when she told me I wasn't strong enough to do that.”
+\end_layout
+
+\begin_layout Standard
+“Good,” I whispered.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I got home late -- well after Charlie had already given up on a fresh dinner
+ and microwaved himself some leftovers.
+ “Hey, Bells,” he said when I let myself in.
+ He turned off the TV and turned half-around on the sofa to look at me.
+ “Where were you?” He didn't say it accusingly or as though he were disappointed
+; he didn't think I'd been spraying graffiti on buildings or knocking over
+ mailboxes, and wasn't upset that I hadn't been home to cook one night out
+ of the week.
+ He was taking an interest in my life.
+\end_layout
+
+\begin_layout Standard
+I had taken a little time to think through how Charlie modeled me, and according
+ly, what the best way to convince him that I was plausibly going to elope
+ with Edward in the summer would be.
+ And so I had a script ready.
+\end_layout
+
+\begin_layout Standard
+“Oh,” I said, with an absent sort of smile on my face, “I was with Edward.”
+\end_layout
+
+\begin_layout Standard
+Charlie raised an eyebrow.
+ “Edward Cullen?”
+\end_layout
+
+\begin_layout Standard
+I nodded rapidly.
+ “Yes, you met him on Saturday when he came by...”
+\end_layout
+
+\begin_layout Standard
+“Studying Biology again?” asked Charlie, although he didn't sound like this
+ was his first guess.
+\end_layout
+
+\begin_layout Standard
+I shook my head, carelessly letting a lock of hair fall into my face and
+ then tucking it behind my ear again.
+ “We did some homework,” I said slowly (well, between the two of us, some
+ homework had gotten done), “but mostly we were just 
+\emph on
+talking
+\emph default
+\SpecialChar \ldots{}
+” I let my eyes fly wide open, and said, “I mean, I'm friends with his sisters.
+ I hung out with Alice some too, that was the first thing I did when I got
+ to his house.”
+\end_layout
+
+\begin_layout Standard
+“I see,” muttered Charlie.
+ And he didn't pry.
+ I hadn't expected him to.
+ But I thought I'd pretty effectively planted the idea.
+ Charlie would probably grill Edward a little bit the next time he was by
+ the house to pick me up for some outing.
+ Sometime during the ensuing week I would have to casually drop the word
+ “boyfriend” in Charlie's earshot -- possibly on the phone to Jessica or
+ Angela.
+\end_layout
+
+\begin_layout Standard
+I smiled brightly at him, promised that there would be dinner at dinnertime
+ on Thursday, and trotted up the stairs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sort-of-pretending with Edward was more fun than it had any business being.
+\end_layout
+
+\begin_layout Standard
+He was imaginative about it, never indulging the temptation to repetitiveness
+ that could have given us away.
+ He snuck up on me between classes one morning, dipped me, and planted a
+ kiss on my forehead.
+ He joined me and my human friends at lunch when I sat with them instead
+ of the vampires, sending Jessica into such paroxysms that I thought she
+ might need to be carried off to the nurse.
+ He walked me from the cafeteria to the science building every day, linking
+ arms or holding hands or putting his arm around me.
+ He did all of this with a proud, smug expression on his face, to the point
+ where onlookers must have thought he'd landed a movie star or a supermodel
+ if they looked only at him and not at me.
+\end_layout
+
+\begin_layout Standard
+He sent a perfect little paper airplane towards me during Biology, timed
+ so the teacher couldn't see -- but Angela could, when it made its landing
+ right on my open textbook.
+ She didn't lean over and demand to see the note written on it, but I showed
+ her anyway, with a not-entirely-affected grin on my face: he'd transcribed
+ flowery poems onto the sheet before folding it up.
+ Angela smiled and patted my hand in a supportive, friendly manner.
+ I folded up the paper into a square and kept it in my pocket.
+\end_layout
+
+\begin_layout Standard
+I was not quite so creative, and found it much easier to play the part of
+ the infatuated girl swept off her feet.
+ I giggled more than I was accustomed to giggling, and leaned towards him
+ when he touched me -- which was whenever I was within arm's reach.
+ I accepted and often wore his jacket.
+ (He wasn't bothered by the February chill, and only owned the jacket for
+ aesthetic and disguise reasons; but it was a visible token of his affection
+ I could put on.) I spent a lot of time looking up at him through my eyelashes,
+ admiring the planes of his face and trying to seem adoring.
+\end_layout
+
+\begin_layout Standard
+There was one omission: I hadn't quite had the temerity to ask about the
+ finer points of vampire venom as it applied to kissing, and without that
+ information wasn't prepared to attempt to kiss him on the lips.
+ He was quite free with them elsewhere: my neck and forehead and nose and
+ cheeks and the top of my head and my fingers did not lack for attention.
+ But the longer he went without taking that liberty, or even asking if he
+ might, the more I suspected that there must be some risk of premature infection
+ associated with it -- and so I let it lie.
+ I was quite suffused with affection as it was and in a few months I would
+ not be at any such risk.
+\end_layout
+
+\begin_layout Standard
+Away from school, it was different -- although depending on how one counted,
+ it wasn't necessarily any less romantic.
+\end_layout
+
+\begin_layout Standard
+Edward 
+\emph on
+was
+\emph default
+ the reason for the piano on the dais.
+ Rosalie also played; actually, all of them 
+\emph on
+could
+\emph default
+ play, the way anyone with perfect recall living in a piano-occupied house
+ would pick up the skill.
+ But Edward was the musician.
+ He 
+\emph on
+composed
+\emph default
+.
+ He wrote a song for me.
+ I suspected it might be about some more specific subject than me, Bella
+ Swan, in my entirety -- but he declined to specify, and I didn't press
+ the subject.
+\end_layout
+
+\begin_layout Standard
+He took me out to lunch most weekends.
+ He knew I wanted to be home to cook dinner for Charlie more days than not,
+ but when I consented to be whisked away in the evenings, whisked I was.
+ He lingered at my house after taking me home from these outings.
+ Charlie approved quietly of Edward, who called him “sir” and behaved very
+ deferentially.
+ There were fewer flagrant displays of couplehood when we were there, but
+ Edward did an excellent job of making it look as though he 
+\emph on
+wished
+\emph default
+ there were more.
+ That might have been for Charlie's benefit -- or not.
+\end_layout
+
+\begin_layout Standard
+Whenever I was within arm's reach, he touched me, with or without an audience.
+ I went about dressed more warmly than the weather called for to be comfortable
+ with the chilly caresses.
+ He was always gentle, always cautious, forever moving my hair out of my
+ face or stroking my cheek or kissing the back of my neck.
+ He acted as though he was taking advantage of a rare, prized opportunity
+ every time, but he did it so often that it didn't feel that way to me.
+ I felt like half of a comfortable, longstanding couple -- and I 
+\emph on
+liked
+\emph default
+ it, far more than I'd have expected if I had been polled in the fall.
+ It was easy, it was soothing.
+ My parents were neither of them very cuddly people -- and Charlie less
+ so than Renée.
+ I wasn't used to much physical contact beyond handshakes and, sometimes,
+ hugs on special occasions.
+ But it was nice to have -- to have 
+\emph on
+without
+\emph default
+ having to awkwardly say, “Hug?” to a relative before he or she got on an
+ airplane or any similarly forced direct request.
+ I could just sit next to Edward and lean on him if I felt like it, and
+ get a kiss in the part of my hair as a bonus.
+\end_layout
+
+\begin_layout Standard
+Not all of the shivering I did had to do with the winter 
+\emph on
+or
+\emph default
+ Edward's low body temperature.
+\end_layout
+
+\begin_layout Standard
+Valentine's Day was a Monday.
+ Edward managed to leave a small item at my seat in every one of my classes,
+ including the mat in the corner of the gym where I did my yoga -- he must
+ have ducked into the classrooms between bells to leave them.
+ By lunch, I'd acquired two thematically appropriate packets of candy, a
+ sparkly bracelet that\SpecialChar \ldots{}
+ 
+\emph on
+probably
+\emph default
+ wasn't covered in 
+\emph on
+rhinestones
+\emph default
+\SpecialChar \ldots{}
+ and a 
+\noun on
+cd
+\noun default
+ accompanied by a note stating that it contained recordings of Edward's
+ compositions.
+ I slipped the bracelet over my left hand.
+ When I arrived at the vampire table for lunch, Edward's eyes rested on
+ it for a moment, and he had a look of satisfaction on his face when he
+ looked up at me.
+ “I wasn't sure if that was going to be too much,” he said.
+\end_layout
+
+\begin_layout Standard
+“It's beautiful,” I said.
+ “It's entirely too much, I would have told you not to buy it, but I'm not
+ planning to give it back.” I jangled it on my wrist a little.
+ “No more jewelry, though, or Jessica will have a stroke.
+ The candy was delicious and I can't wait to listen to the music.
+ Thank you.”
+\end_layout
+
+\begin_layout Standard
+“No more jewelry 
+\emph on
+ever?
+\emph default
+” he asked, like he was asking permission to do something far more self-indulgen
+t than shower me with gifts.
+ My right hand was occupied with stabbing a fork into my meatloaf, but he
+ took my left hand and clasped it in both of his.
+\end_layout
+
+\begin_layout Standard
+“Nothing remotely this nice for the next two months,” I said, “at least.”
+ I tilted my head to one side and quickly looked at Alice's and Rosalie's
+ ears: neither had them pierced.
+ “If I get my ears pierced, will they heal closed when I turn?” I asked.
+\end_layout
+
+\begin_layout Standard
+“If you're not wearing earrings at the time, they will,” Rosalie said.
+ “If you have earrings in, they might stay.
+ But then you have to count on that being in fashion for hundreds and hundreds
+ of years.”
+\end_layout
+
+\begin_layout Standard
+“True.
+ I've done without this long.
+ And there are clips and magnets -- I guess magnets would rely less on the
+ earlobe being easily compressible.”
+\end_layout
+
+\begin_layout Standard
+“I have loads of magnet earrings,” Alice said.
+ “I just don't wear them to school much because once about twelve years
+ ago I got into a very annoying conversation with someone who thought that
+ if I liked earrings enough to wear them every day, I ought to go get my
+ ears pierced at her aunt's parlor, and she wouldn't leave me be.
+ It's not that hard to fix up a regular earring to attach with magnets,
+ if you know how.
+ I'll show you sometime.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After lunch, Edward did not run ahead of me to biology in order to leave
+ a gift at my table -- he must have done it before lunch.
+ I unwrapped it; it was a hair clip.
+ It was very nice, but made mostly of wood, so I supposed it might not technical
+ly count as jewelry (and at any rate he'd put it there before I'd said to
+ hold off on more.) I gathered my hair together and pinned it back; Edward
+ heard the clip snap closed with a soft 
+\emph on
+tok
+\emph default
+, and looked around to smile at me.
+\end_layout
+
+\begin_layout Standard
+At gym, it was just a note: it said that, as I read it, he was installing
+ a stereo in my truck.
+ I laughed softly and put the note into my bag.
+ His last class was Spanish, and the teacher knew perfectly well that he
+ was fluent (in fact, better than she was); he had de facto permission to
+ cut whenever he pleased.
+\end_layout
+
+\begin_layout Standard
+The stereo, which was so perfectly installed that it looked like it had
+ come with the truck apart from being a hundred times newer than everything
+ around it, was well equipped to play my new 
+\noun on
+cd
+\noun default
+.
+ Edward readily played whatever songs I liked whenever we were at his house,
+ but it was nice to have them in a portable form.
+\end_layout
+
+\begin_layout Standard
+A disturbing thought occurred to me, as I drove home -- to do my schoolwork
+ without Edward's distracting presence before meeting him at the Cullen
+ house, as had become my habit.
+\end_layout
+
+\begin_layout Standard
+With as little history experiencing and labeling romantic emotions as I
+ had, I might not even be able to tell when I stopped pretending.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I was not able to start my homework as soon as I'd expected.
+ When I got home, Billy Black -- and his son, a teenager now, whose name
+ I couldn't quite call to mind -- were there.
+ I thought at first that it was simply a visit to Charlie.
+ If Billy couldn't drive, it would only make sense that he'd enlist his
+ son to cart him about occasionally -- was the boy old enough to drive?
+ I knew he was younger than me, but wasn't sure how much.
+ He looked about fourteen or fifteen, but might be sixteen.
+ I didn't play with boys as a ten-year-old girl, whatever their ages, when
+ there were girls like his sisters handy, so the fact that I didn't recall
+ him clearly was no clue.
+ With Billy in the passenger seat, perhaps still licensed to drive even
+ if no longer physically capable of it, the kid could probably play chauffeur
+ with only a learner's permit.
+\end_layout
+
+\begin_layout Standard
+Billy and Charlie were watching a game on TV, but whatever it was didn't
+ interest the younger Black, who was sitting in the kitchen and appeared
+ to be doing his own homework.
+ He looked up and offered a friendly smile when I walked in.
+ “Hi, Bella!” he said.
+\end_layout
+
+\begin_layout Standard
+Well, that made it awkward that I didn't know his name.
+ “Hi,” I replied cheerfully, dumping my bookbag on the kitchen table and
+ sitting down to be sociable.
+ “I'm afraid I don't\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“I'm Jacob,” he supplied, interrupting me; I gritted my teeth, told myself
+ that if he'd known me well enough to avoid that, I would have 
+\emph on
+known
+\emph default
+ his name and he wouldn't have needed to do it.
+\end_layout
+
+\begin_layout Standard
+“Hi, Jacob,” I said.
+ “Sorry about that.
+ I know who you are, but I mostly remember Rachel and Rebecca.” And even
+ them, I hadn't seen much after I managed to make my distaste for fishing
+ sufficiently clear.
+ That was Charlie's primary reason for bringing me to visit, was to instill
+ his love for yanking ichthyoids out of the water into his child on large
+ joint excursions.
+\end_layout
+
+\begin_layout Standard
+“Yeah, it's okay,” Jacob said amiably.
+ I hoped suddenly that Edward would not approach the house, looking to see
+ where I'd gotten to.
+ I wasn't sure if I could politely excuse myself now that I'd gotten into
+ a conversation with Jacob.
+ If I didn't turn up after a reasonable homework-doing period of time had
+ elapsed, Edward might wonder what had happened.
+ I didn't have a plan yet for safely dealing with Quileute wolves, which
+ Jacob could quite likely become if he hung out with vampires at all.
+ “Billy was hoping to talk to you,” the maybe-future-werewolf went on.
+ “I think he's really invested in this game, now, though, so would you mind
+ hanging out until it's over? I don't know if you were planning to go anywhere.”
+\end_layout
+
+\begin_layout Standard
+“Usually I come home, do my work,” I gestured at Jacob's own textbooks,
+ “and then hang out at my boyfriend's house for a few hours before dinner.”
+ I unzipped my knapsack and retrieved the brick that was my Trig book.
+ “I don't know how long the game's going to be, but I can hang back a little.
+ Might want to call my boyfriend, though, so he knows what's up.” I said
+ the word “boyfriend” twice quite deliberately.
+ I didn't want to have to play matchmaker again.
+ There was no reason to expect Jacob in particular to need deflecting, but
+ since he didn't go to my school and hadn't seen the flagrant display of
+ the last couple weeks, it seemed prudent.
+\end_layout
+
+\begin_layout Standard
+“Okay,” Jacob said.
+\end_layout
+
+\begin_layout Standard
+I took out all the other materials I'd need to do my homework, then got
+ up and dialed the phone.
+ Jasper picked it up; I recognized his low, controlled voice.
+ The Southern accent he employed privately was practiced away in case I
+ was someone else.
+ “Cullen residence,” he said.
+\end_layout
+
+\begin_layout Standard
+“Hi, Jasper,” I said.
+ “It's me.
+ Can I talk to Edward?”
+\end_layout
+
+\begin_layout Standard
+Edward's voice replaced Jasper's immediately.
+ “Hello, Bella.
+ What is it?”
+\end_layout
+
+\begin_layout Standard
+“Ch- Dad has some guests over,” I said, remembering half a syllable into
+ Charlie's name that he preferred I not call him that, and that he was within
+ earshot.
+ “Remember I told you about Billy? It's him and his son Jacob.
+ I'm going to stay and be sociable, and make sure they eat a nice dinner.
+ I might not be over today at all.
+ So please don't be alarmed and come wondering what the holdup is.” 
+\emph on
+Please don't come and activate the wolves
+\emph default
+, I meant, and hoped he'd understand.
+\end_layout
+
+\begin_layout Standard
+“Do you think you'll be able to come over at all today?” he asked.
+ “It 
+\emph on
+is
+\emph default
+ Valentine's day\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“I know it's Valentine's day, I really wanted to come over,” I said, sounding
+ too clingy even to myself -- I saw Jacob make a face out of the corner
+ of my eye.
+ “You didn't have anything planned that depends on me being there today
+ in particular, did you? Chocolates taste just as good on the fifteenth.”
+\end_layout
+
+\begin_layout Standard
+“It's all right,” Edward said, soothing even over the phone -- there might
+ or might not be reservations or plans in place, but he clearly didn't want
+ me to fret over them.
+ “Oh, and Bella -- Billy may well know about us, and about Quileute wolves.
+ If he hints about it enough that you think he does, and you're talking
+ to him alone, it won't put anyone in additional danger for you to speak
+ freely.”
+\end_layout
+
+\begin_layout Standard
+“Do you think that's likely?” I asked.
+ I wondered suddenly what Billy was even doing here -- usually Charlie went
+ to the reservation.
+ Jacob had said he wanted to talk to me.
+ Was he going to say something about the vampires?
+\end_layout
+
+\begin_layout Standard
+“Possibly,” Edward said.
+ “Will you call me after they've gone and let me know what, if anything,
+ happens?”
+\end_layout
+
+\begin_layout Standard
+“Of course,” I said.
+\end_layout
+
+\begin_layout Standard
+“I'll see you tomorrow, at the latest, then,” Edward said.
+\end_layout
+
+\begin_layout Standard
+There was a pause, where it sounded like he was thinking the words 
+\emph on
+I love you
+\emph default
+ very hard and not saying them because Alice had said to go 
+\emph on
+slow
+\emph default
+ -- and I said, “Yes, tomorrow.
+ Happy Valentine's Day!” and hung up.
+\end_layout
+
+\begin_layout Standard
+Had Alice been specific about the meaning of “
+\emph on
+slow
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+“His name is `Edward'?” Jacob asked, sounding like he didn't much care for
+ the name.
+\end_layout
+
+\begin_layout Standard
+“Yes,” I said, flipping my math notebook open and finding the assigned problem
+ set in the text.
+ “Do you or Billy have any food issues I should know about?”
+\end_layout
+
+\begin_layout Standard
+“I'm not sure if we're staying for dinner, actually,” Jacob said.
+ “If we do, Billy's diabetic, don't feed him anything too loaded up on carbs
+ but otherwise he's not that careful about it.
+ I'm not picky.”
+\end_layout
+
+\begin_layout Standard
+The game ended, and I heard the 
+\noun on
+tv
+\noun default
+ power off.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Billy, rolling into the kitchen.
+ “It's good to see you again.
+ Could I trouble you to join me for a walk, or are you very busy?” He looked
+ at my homework.
+\end_layout
+
+\begin_layout Standard
+“I've barely started,” I said.
+ “I'd be happy to go with you.”
+\end_layout
+
+\begin_layout Standard
+Charlie and Jacob got Billy's wheelchair over the single front step with
+ some effort, and then I stepped out after him.
+ “If you could just push me around the block,” Billy asked politely; the
+ roads were in poor repair and couldn't be easy to navigate for him on his
+ own.
+\end_layout
+
+\begin_layout Standard
+I took hold of the handles sticking out of the back of the chair and propelled
+ him down the driveway at a steady pace.
+ “So,” I said, “what did you want to talk to me about?”
+\end_layout
+
+\begin_layout Standard
+“Charlie tells me you've been spending a lot of time with the Cullens,”
+ he said without further preamble.
+\end_layout
+
+\begin_layout Standard
+I maneuvered him around a pothole.
+ “That's correct,” I said.
+\end_layout
+
+\begin_layout Standard
+“You probably don't know this,” Billy continued, “but the Cullen family
+ has an unpleasant reputation on the reservation.”
+\end_layout
+
+\begin_layout Standard
+“I'd heard something about that, in fact,” I said.
+ “It seems to me that more than enough time has passed and it really should
+ have died down by now.” If Billy didn't know the details, if he were just
+ warning me away from an outcast family, this would sound like I was siding
+ with Charlie and thought they'd proven themselves worthy.
+ If he did, he'd know I was talking about the seventy years since the vampires
+ had last come to Forks.
+\end_layout
+
+\begin_layout Standard
+“You seem well-informed,” Billy said slowly.
+ I wasn't positioned to see his face, but he sounded like he was speaking
+ too deliberately -- trying not to mess something important up.
+\end_layout
+
+\begin_layout Standard
+“Oh, I'm sure Charlie talks all the time about how I will poke and poke
+ at an unanswered question that happens to strike my fancy, until I know
+ the answer,” I said lightly.
+ “I know all 
+\emph on
+kinds
+\emph default
+ of things.”
+\end_layout
+
+\begin_layout Standard
+“Mmm.
+ Does Charlie know all kinds of things?” Billy asked, probing.
+\end_layout
+
+\begin_layout Standard
+“I find he doesn't have at all the same attitude towards mysteries,” I said.
+ “I also find that he finds me trustworthy in general and has respect for
+ my judgment.
+ And I find that some people are very, 
+\emph on
+very
+\emph default
+ attached to their secrets, and might not care for the people who stumble
+ across them.”
+\end_layout
+
+\begin_layout Standard
+Billy was silent for a minute; I pushed him around a car parked on the street,
+ undercorrected for the slope, and narrowly avoided steering him into the
+ gutter.
+ “Sorry,” I said.
+\end_layout
+
+\begin_layout Standard
+“Don't worry about it,” Billy said.
+ Ironically, I was less clumsy piloting the chair than I was walking about
+ in its absence -- it gave me something to hang onto.
+ “You're probably right about Charlie,” he said after another pause.
+ “What are 
+\emph on
+you
+\emph default
+ going to do about the\SpecialChar \ldots{}
+ secret-keepers?”
+\end_layout
+
+\begin_layout Standard
+“If you can't beat 'em,” I said cheerfully, “join 'em.”
+\end_layout
+
+\begin_layout Standard
+Billy went rigid where he sat.
+ “Bella,” he said warningly.
+\end_layout
+
+\begin_layout Standard
+“I know the details.
+ Believe me, I do.
+ And I know about the treaty,” I went on, after checking for neighbors out
+ strolling -- there were none.
+ “It's got some very specific language in it, which leaves a handy loophole
+ for me to hop through.
+ I'll be just fine, Billy.”
+\end_layout
+
+\begin_layout Standard
+He was gripping his armrests and his knuckles were white.
+ “
+\emph on
+Bella Swan
+\emph default
+,” he said again.
+ “You have no idea
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I bit my lip, fighting the urge to cut in and tell him that I had a very
+ 
+\emph on
+good
+\emph default
+ idea indeed, but words failed him and after a few seconds I said it aloud.
+ “I've been filled in to my own satisfaction on the important parts.
+ I'm not sure how much 
+\emph on
+you
+\emph default
+ know,” I said.
+ “Edward said you might know about his family, and about, well, 
+\emph on
+yours
+\emph default
+ -- but didn't specify the level of detail.
+ Anything I can fill you in on, to put you at ease?”
+\end_layout
+
+\begin_layout Standard
+Billy swiveled his head to look at me, incredulity on his face.
+ He turned back around without saying anything.
+\end_layout
+
+\begin_layout Standard
+“I'd actually like to talk to you about\SpecialChar \ldots{}
+ your own sort,” I said.
+ We had somehow gotten into the pattern of using indirect words and it was
+ difficult to be the first to break it.
+ “It sounds like there've been some old skills lost.
+ I think that's sad -- I'd like to help you get them back, if you're willing.”
+\end_layout
+
+\begin_layout Standard
+“I'm too old,” Billy murmured, and I couldn't make out the emotion behind
+ it -- did he want to be a wolf, as I thought sane, and feel sad that he
+ couldn't? Was he glad to be safe from my machinations? Perhaps he'd 
+\emph on
+been
+\emph default
+ a wolf, seventy years ago, and kept it long enough to look only a little
+ past fifty now -- and now either regretted it or felt he'd had good reasons
+ to quit.
+\end_layout
+
+\begin_layout Standard
+“Not everyone is.
+ Jacob,” I suggested.
+\end_layout
+
+\begin_layout Standard
+“You don't know what you're playing with, Bella,” Billy said warningly.
+\end_layout
+
+\begin_layout Standard
+“I've told you several times that I know quite a bit.
+ But I'm not planning to do anything very soon that directly concerns you,”
+ I said.
+ “Or anything that involves uninformed parties ever.
+ I'm not going to show up in the night and restore all the old Quileute
+ traditions unexpectedly.
+ Everyone needs to make their own choices.
+ I've picked out one for myself, and I hope you understand that.”
+\end_layout
+
+\begin_layout Standard
+We'd gone full circle around the block.
+ I pushed Billy up the driveway and then opened the door so less accident-prone
+ persons could haul him over the step.
+\end_layout
+
+\begin_layout Standard
+The Blacks stayed for dinner; Billy kept giving me strange looks, but didn't
+ say anything else hinting while Charlie and Jacob watched.
+ I baked fish, and then made small talk with Jacob over our respective homeworks
+ for about an hour, before I finished my work, decided I'd put in enough
+ of an appearance, and escaped to visit my boyfriend.
+\end_layout
+
+\end_body
+\end_document

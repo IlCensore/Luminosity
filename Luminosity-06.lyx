@@ -1,0 +1,1570 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{5}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Edward
+\end_layout
+
+\begin_layout Standard
+I hurried through Friday trying as hard as I could to avoid more 
+\emph on
+vampire stuff
+\emph default
+ to process.
+ I stuck to my human friends, finding someone to walk with between each
+ class and sitting with them at lunch.
+ During lunch I made homework buddy plans with Angela that involved me driving
+ her to my house immediately after school.
+ (Angela lived near enough to walk between school and home, and wouldn't
+ leave a car behind that she'd have to fetch later.) When I met up with her
+ right after gym, it successfully deterred Edward from catching up with
+ me (I caught a glimpse of him in the parking lot, and his expression said
+ that he certainly 
+\emph on
+would
+\emph default
+ have).
+\end_layout
+
+\begin_layout Standard
+Angela hopped into my truck and we rumbled down the highway and to my house.
+ I fixed us celery sticks and plopped some dip into a bowl, and then it
+ was several hours solid of homework.
+ At least ostensibly.
+ Angela subscribed to the 
+\begin_inset Quotes eld
+\end_inset
+
+work next to each other
+\begin_inset Quotes erd
+\end_inset
+
+ theory of group studying, and didn't look over my shoulder.
+ I finished everything that was due on Monday so it wouldn't hang over my
+ head on the weekend.
+ But after that, I pulled out my personal, non-school notebook, and thought
+ in plain sight.
+\end_layout
+
+\begin_layout Standard
+I had reasonably strong evidence that vampires “mated for life”, so to speak.
+ I didn't know if they ever engaged in casual friends-with-benefits arrangements
+, but from what Edward had said, if they actually went so far as to fall
+ in love, there they stayed.
+ Alice had said only that Edward “liked” me.
+ But she had a strong motive to avoid spooking me and sending me out of
+ Forks on the next plane.
+ She'd asked me to promise not to stop speaking to her brother, and she'd
+ approached me before I'd made any mental threats to go to Charlie about
+ the family -- she'd approached me at the first available opportunity after
+ I'd decided to treat Edward's staring as a harassment issue.
+ (Well, she had also saved me from Tyler's van, but that was the sort of
+ thing that would have likely turned up in any future-peeking she did about
+ me.)
+\end_layout
+
+\begin_layout Standard
+I wasn't sure if this particular aspect of vampirism “worked” with humans
+ like me.
+ But\SpecialChar \ldots{}
+ If I would be easy for Edward to forget about, if I were just an arbitrary
+ human who caught his fancy, there was no reason for the vampires to have
+ any collective interest in me at all.
+ There would be no reason for Edward to follow Alice's guidelines about
+ what would set me off.
+ There would be no reason for him to put himself through the ordeal of being
+ around my super-yummy self.
+ There would be no reason for his family to trouble themselves to welcome
+ me.
+ There would be no reason for Alice to see me eventually becoming a vampire.
+ He would have every motivation in the world to go chew on elephants in
+ Kenya or otherwise be not-here until I graduated and went off to college.
+\end_layout
+
+\begin_layout Standard
+If Alice saw me as her future sister-in-law, though\SpecialChar \ldots{}
+ eternally and vampirically
+ bound to Edward\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Yes, then I could see Edward's family rallying around him, glad that the
+ odd one out of their number had at last found his eternal bride -- just
+ add venom.
+ I could see them graciously agreeing to satisfy my curiosities -- which
+ would have been dismissible at best and a death sentence at worst for anyone
+ else.
+ I could see Alice focusing on me, thinking of what I would do if Edward
+ pursued me any of a hundred ways, coaching him\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+I uttered a quiet curse.
+ Angela looked up and I thwacked my trig book in plausible annoyance.
+ She politely told me that her father was a minister and she'd be much obliged
+ if I didn't swear at triangles around her, then looked back at her English
+ essay.
+\end_layout
+
+\begin_layout Standard
+I was suddenly reminded of something I'd written -- at least a year and
+ a half ago, I thought.
+ That meant it would be in my computer, with my compiled and archived older
+ thoughts, not in my notebook.
+ I got up and fetched it; Angela wasn't curious, and I supposed she expected
+ I'd be typing up my essay.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I tried a few too-generic keywords, searching through my logs and turning
+ up a lot of redundancy.
+ Finally I typed the phrase “romance novel”, and my word processor took
+ me directly to the correct section.
+ A little under two years previously, I'd been the beneficiary of my great-aunt'
+s sudden conversion to Catholicism and her disposal of her “sinful” book
+ collection.
+ She'd actually given the volumes to Renée, but Renée left them lying about,
+ and I'd been bored one afternoon.
+\end_layout
+
+\begin_layout Standard
+At a first glance, it was bewildering that women read the things.
+ The formula, at least of the type my great-aunt had preferred, was not
+ one that my fifteen-year-old self had found appealing.
+ My first writings about the novels complained that they all put their heroines
+ in helpless situations -- often, they were chased by some relentless hero
+ who could not, if it came down to it, be deterred.
+ My great-aunt had liked fantasy romances in particular, and it was not
+ at all uncommon for the male leads to be various types of supernatural
+ creature with unusual mating habits such that they were committed to attaining
+ the heroine from the moment they spotted her.
+\end_layout
+
+\begin_layout Standard
+My original notes about this trend were scoffing, contemptuous.
+ I'd thought the women in those books were all idiotic ninnies for “giving
+ in”.
+ I thought the authors were backwards and sexist for writing situations
+ like that.
+\end_layout
+
+\begin_layout Standard
+My next relevant entry was about a month and a half afterward.
+ I'd happened to acquire the soundtrack to “The Beauty and the Beast” (I
+ had a soft spot for the story due to name similarities), and noticed that
+ there was a similar pattern.
+ Belle was, of course, trapped in the Beast's castle.
+ If she annoyed him, he certainly had the capacity to do her immense harm,
+ and he frightened her with this power.
+\end_layout
+
+\begin_layout Standard
+What he couldn't do was exercise this option one 
+\emph on
+iota
+\emph default
+ more than she cared to forgive, without sabotaging himself.
+\end_layout
+
+\begin_layout Standard
+Beauty and the Beast was an unusual story of the pattern in that there was
+ an explicit result the Beast wanted and had to earn by getting Belle to
+ love him.
+ The romance novels tended to leave that embedded in a way that was too
+ subtle for me to get at first.
+ In the fairy tale (as retold by Disney with singing tea services, of course),
+ love was the prerequisite for the Beast to be de-beastified.
+ In the novels, love was the goal itself.
+\end_layout
+
+\begin_layout Standard
+What Belle and the other heroines had was absolute power over whether their
+ romantic interests got to win the prizes they were after.
+\end_layout
+
+\begin_layout Standard
+The 
+\emph on
+only
+\emph default
+ way the Beast could get what he wanted -- and it wasn't even a sure thing
+ -- was to throw himself into becoming who 
+\emph on
+Belle
+\emph default
+ wanted and doing what 
+\emph on
+Belle
+\emph default
+ wanted.
+ He 
+\emph on
+needed
+\emph default
+ her; 
+\emph on
+she
+\emph default
+ was merely under his power.
+ If there had been no time limit, if he could have kept her stuck in his
+ castle forever, all the roaring and destruction he could bring to bear
+ wouldn't become any more effective.
+ He couldn't win by coercing her into saying certain words or performing
+ certain acts; he had to win by making her feel a certain way.
+\end_layout
+
+\begin_layout Standard
+As a romance trope, where the entire point of the book was for the couple
+ depicted on the cover art to be together in the end, this pattern was subject
+ to a certain condition.
+ Specifically, there could not be any non-personal reason for the heroine
+ to reject her suitor.
+ His personality was malleable -- she could ask for whatever she liked,
+ holding all the cards as she did -- but if he happened to be poor or ugly
+ or otherwise objectionable in some less readily addressable way, the book
+ would a) make a worse wish-fulfillment story for the target audience, and
+ b) feel implausible.
+\end_layout
+
+\begin_layout Standard
+It was a very strange feeling, to have landed in a romance novel.
+\end_layout
+
+\begin_layout Standard
+Because unless I was very much mistaken, I had acquired for myself a vampire
+ who had one chance at love, inexplicably me; who knew that he could only
+ get what he wanted if I was happy; and who was most definitely 
+\emph on
+not
+\emph default
+ poor, ugly, or otherwise objectionable.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Angela completed her essay, and asked to be driven home.
+ I closed my laptop and managed to get her to her house without driving
+ us into any trees, despite my mind's insistence on continuing to reel.
+ I thought I knew the situation; I just didn't know what I 
+\emph on
+wanted
+\emph default
+ out of it, and that was a very uncomfortable thing to not know.
+\end_layout
+
+\begin_layout Standard
+I drove home alone, frowning at the road.
+\end_layout
+
+\begin_layout Standard
+Charlie had returned from work by the time I pulled into the driveway.
+ I blew into the house, put a pot of water on the boil, and made spaghetti;
+ I didn't have the energy for anything complicated.
+ There were meatballs in the freezer and jars of sauce in the pantry.
+ I threw everything together once the pasta had cooked, brought Charlie
+ his plate in the family room, and ate mine at the kitchen table.
+\end_layout
+
+\begin_layout Standard
+Exactly one minute after I'd finished my helping of food, the doorbell rang.
+\end_layout
+
+\begin_layout Standard
+“I got it,” I called to Charlie, and I went to answer the door, expecting
+ one or another of the vampires.
+ I was right.
+ It was Alice.
+\end_layout
+
+\begin_layout Standard
+“Your future went all 
+\emph on
+dizzy
+\emph default
+,” she said, accusation in her voice.
+ She spoke softly enough that there was no way for Charlie to hear her over
+ the television.
+ “I have an awful headache.
+ Can I come in?”
+\end_layout
+
+\begin_layout Standard
+“Fine,” I said, standing aside.
+ They weren't going to let me think alone very much, were they? I supposed
+ that was why Alice saw me going “dizzy”.
+ My only plans right now were to make up my mind.
+ But that was exactly what muddied her visions.
+\end_layout
+
+\begin_layout Standard
+I showed Alice up to my room, and sat on my bed.
+ She took my desk chair, spun it around to face me, and planted her elbows
+ on her knees.
+ “Edward's going out of his mind,” Alice said baldly.
+\end_layout
+
+\begin_layout Standard
+“You know,” I said, “until yesterday I didn't think he knew you'd told me
+ that he ‘liked’ me.”
+\end_layout
+
+\begin_layout Standard
+Alice winced.
+ “He didn't, until yesterday.
+ I'm usually fairly good at avoiding thoughts I don't want him to catch.
+ I slipped up.”
+\end_layout
+
+\begin_layout Standard
+“I do need 
+\emph on
+time
+\emph default
+ to think things through, and make decisions,” I complained.
+ “I don't like to issue snap judgments about anything important.
+ I have to figure out what I want, and make sure that I approve of the reasons
+ I have for wanting it, and pick the best way available to get it, and I
+ prefer to do this in writing, but I don't like to write too much with anybody
+ around, and so I have to wait until I'm alone or near somebody who thinks
+ I'm taking some other kind of notes and won't look.
+ I was going to block out all Saturday to do it.
+ You couldn't wait?”
+\end_layout
+
+\begin_layout Standard
+“Edward couldn't wait.
+ He 
+\emph on
+begged
+\emph default
+ me to talk to you,” said Alice.
+ “Begged.
+ Bella, I think he 
+\emph on
+would
+\emph default
+ have given you lots of time, all the time you wanted, he probably would
+ have told us all to stay away from you and give you plenty of space, but
+ -- oh, you should have seen him the day you switched lab partners!” she
+ exclaimed.
+ “He was practically in a panic.
+ He thought he could take off for a week and you'd be right where he left
+ you, waiting for 
+\emph on
+him
+\emph default
+ to sort 
+\emph on
+his
+\emph default
+ thoughts out.
+ But you didn't.
+ He went back to school and found out that you were trying to get away from
+ him and couldn't stand it -- you're smart, I know you've figured this all
+ out, I saw you writing it.” She waved a hand.
+\end_layout
+
+\begin_layout Standard
+With a sharp shock, I realized that Alice's power wasn't necessarily more
+ ethically innocuous than Jasper's or Edward's.
+ “Alice,” I started hotly.
+\end_layout
+
+\begin_layout Standard
+She shook her head, causing her short black hair to fly around.
+ “No.
+ Sorry to interrupt, but no.
+ Later.
+ Later, we will have that conversation.
+ Promise.
+ Right now, we will talk about Edward.
+ You figured it out, you're very smart, be proud of yourself, 
+\emph on
+please
+\emph default
+ don't run away someplace inaccessible just because the situation is horribly
+ awkward.”
+\end_layout
+
+\begin_layout Standard
+“Am I allowed to say 
+\emph on
+anything
+\emph default
+, or are you just here to plead for Edward's sanity?” I asked, perturbed.
+\end_layout
+
+\begin_layout Standard
+“I just want to stick to the topic.
+ You can talk,” Alice huffed.
+\end_layout
+
+\begin_layout Standard
+“What do you -- or Edward, or anybody -- expect me to 
+\emph on
+do?
+\emph default
+” I inquired, spreading my hands helplessly.
+ “Does he really think it's going to 
+\emph on
+speed things up
+\emph default
+ to not give me Saturday to get my head straight?”
+\end_layout
+
+\begin_layout Standard
+“No.
+ I don't think 
+\emph on
+he
+\emph default
+ even knows what he wants to happen here.
+ He thinks I'm going to pick magic words that will magically make you 
+\emph on
+magically
+\emph default
+ decide that you're 
+\emph on
+magically
+\emph default
+ in love with him.
+ Jasper was on edge all through lunch today, picking up Edward's mood when
+ you didn't sit with us, it was awful.” Alice shook her head disgustedly.
+ “I told him, 
+\emph on
+I told him
+\emph default
+, that he needed to go 
+\emph on
+slow
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+I took a very deep breath.
+ “What's it 
+\emph on
+like?
+\emph default
+” I asked.
+ My voice came out soft and earnest where I'd been expecting exasperation
+ -- that was interesting.
+\end_layout
+
+\begin_layout Standard
+“I don't think I'm typical there,” Alice frowned.
+ “I'd been a vampire for almost twenty-eight years when I started seeing
+ Jasper in my visions.
+ I knew just what to expect.
+ I waited for him in a diner, and he showed up, and I walked right up to
+ him and said “You've been keeping me waiting a long time,” and he ducked
+ his head like a good Southern gentleman and said, “I'm sorry, ma'am.” And
+ then I held out my hand and he took it and we were...
+ whole.
+ Emmett has a better story,” she said.
+ “I think he'd prefer to tell it himself, though.”
+\end_layout
+
+\begin_layout Standard
+“I'm right, then,” I said, “that it doesn't matter if I'm a human or a vampire,
+ it works the same way?”
+\end_layout
+
+\begin_layout Standard
+“It works the same on Edward,” Alice said.
+ “You're still human in every way.” She paused.
+ “You know, if you get turned, it 
+\emph on
+will
+\emph default
+ work on you.
+ It'd be very convenient,” she pleaded.
+\end_layout
+
+\begin_layout Standard
+“If I get turned? I thought you were sure about that?”
+\end_layout
+
+\begin_layout Standard
+“You were about to figure out the part where as soon as you turn, the falling
+ in love part is symmetrical,” grumbled Alice.
+ “That'd unmake your mind right there until you figured out Edward, and
+ 
+\emph on
+that
+\emph default
+ could go any which way as far as 
+\emph on
+I
+\emph default
+ can see.”
+\end_layout
+
+\begin_layout Standard
+“But when I'm turned, I had the impression that there was an adjustment
+ period.
+ I probably shouldn't do it on a school night, for example,” I said wryly.
+ “I was thinking maybe summer -- I could tell Charlie I'm going to tour
+ Europe or something while I work on conquering my baser impulses.”
+\end_layout
+
+\begin_layout Standard
+“Well, the adjustment period is usually longer than that,” said Alice.
+ “Although, when I 
+\emph on
+did
+\emph default
+ see you crystal-clear as a vampire, you had newborn colored eyes and there
+ were a couple of images of you being around humans.
+ Carlisle thinks you might adjust better because you're expecting to be
+ turned, can go in a little prepared, and none of us were.
+ So a summer might work for you -- but you might need a backup story about
+ having suddenly been accepted to early college somewhere.”
+\end_layout
+
+\begin_layout Standard
+“But upon being turned, I'll be just as smitten with Edward as he is with
+ me?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Right,” said Alice.
+ “I mean, if not before -- but yes, at least by then.”
+\end_layout
+
+\begin_layout Standard
+I drew my knees up to my chest and rested my chin on them.
+ “I don't know what to think about that.”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+know
+\emph default
+,” grumbled Alice.
+ “It's making my head hurt to keep looking at it.”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” I mumbled.
+ I liked Alice, and didn't want to give her headaches, but I didn't see
+ how I could think any faster.
+\end_layout
+
+\begin_layout Standard
+“I saw you and Edward together after you turned,” cooed Alice coaxingly.
+ “You looked so happy.
+ I saw Jasper following you around all the time, just to soak it up, he
+ likes to be around happy people.”
+\end_layout
+
+\begin_layout Standard
+I turned my face down, hiding it against my jeans.
+ “I barely know Edward,” I whispered.
+\end_layout
+
+\begin_layout Standard
+“He's not going to push you to get turned,” Alice said, surprising me.
+ “He still thinks you'd be better off as a human.
+ Even with the lack of fated togetherness.
+ He just wants\SpecialChar \ldots{}
+ he wants you 
+\emph on
+around
+\emph default
+.
+ You know, I think he might even settle for it if you just wanted to be
+ his friend -- as long as he got to spend time with you.
+ He can't tolerate being away from you for long before he starts getting
+ very annoying.
+ He 
+\emph on
+paces
+\emph default
+.” She wrinkled her nose.
+ “I mean\SpecialChar \ldots{}
+ given that he thinks you should stay human and that you are very,
+ 
+\emph on
+very
+\emph default
+ fragile, his best-case scenario probably looks like being just friends
+ from a spectator's perspective anyway.”
+\end_layout
+
+\begin_layout Standard
+Right.
+ Man of steel, woman of Kleenex.
+\end_layout
+
+\begin_layout Standard
+“You still don't see me dead?” I checked.
+ “I mean, not of unnatural causes?”
+\end_layout
+
+\begin_layout Standard
+“Still don't see you dead,” Alice confirmed.
+ “With a heartbeat or without, you're walking around as far as I can see.”
+\end_layout
+
+\begin_layout Standard
+I considered this.
+ It was not that much to ask.
+ I didn't have any spite for Edward, let alone enough to drive him up the
+ wall when the remedy was easily enough at hand.
+ “I will,” I said, “be Edward's friend, for the time being.
+ And I will think.”
+\end_layout
+
+\begin_layout Standard
+Alice nodded.
+ “I'll let him know.” And she got up and glided out of my room to let herself
+ out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On Saturday, Edward visited.
+\end_layout
+
+\begin_layout Standard
+He arrived shortly after Charlie and I had split the last of breakfast's
+ blueberry pancakes.
+ Charlie answered the bell and seemed pleasantly surprised to find Edward
+ on the doorstep.
+ He invited the vampire in without even consulting me, though Edward mentioned
+ that he was here to see me (“to study for Biology”, he said).
+\end_layout
+
+\begin_layout Standard
+“It's a pity you weren't here in time for breakfast,” Charlie remarked as
+ Edward strolled into our house.
+ Of course Edward had probably been parked outside, listening to Charlie's
+ thoughts until the food was all gone.
+ Or hiding far away, someplace with a direct line of vampirically-enhanced
+ sight in through our window.
+\end_layout
+
+\begin_layout Standard
+“I had breakfast earlier,” Edward said smoothly.
+ His eyes were still gold, so I supposed that was probably true.
+ “Bella? Where is the best place to study?” He lifted his prop of a knapsack
+ and tilted his head inquiringly.
+\end_layout
+
+\begin_layout Standard
+“My room,” I said shortly, and I showed him up the stairs.
+\end_layout
+
+\begin_layout Standard
+“I'm going to go fishing, Bells,” Charlie called as I went up the stairs.
+ “I'll be home late.”
+\end_layout
+
+\begin_layout Standard
+“Okay,” I hollered back.
+\end_layout
+
+\begin_layout Standard
+I sat on my bed.
+ Edward took my chair, as Alice had during her visit.
+\end_layout
+
+\begin_layout Standard
+“I somehow don't think you really want to study Biology,” I told him.
+\end_layout
+
+\begin_layout Standard
+“You're right,” he grinned.
+ I wasn't sure if he could tell that I was in a poor mood and was trying
+ to fix it, or hadn't noticed.
+\end_layout
+
+\begin_layout Standard
+“I do that sometimes.” I had questions pending, anyway -- I might as well
+ ask the one applicable to Edward while he was around.
+ “So\SpecialChar \ldots{}
+ want to tell me the story of how you became a vampire?”
+\end_layout
+
+\begin_layout Standard
+“If you like,” he said, although it sounded like he didn't prefer to tell
+ the story.
+ “It was in 1918.
+ I was seventeen, dying of the Spanish influenza.
+ My parents were already dead -- Carlisle could change me without anyone
+ noticing, there were so many victims of the outbreak.
+ I was the first one he added to the family\SpecialChar \ldots{}
+” -- I'd guessed that, from the
+ portraits -- “but he found Esme soon after.
+ She'd\SpecialChar \ldots{}
+ fallen from a cliff.”
+\end_layout
+
+\begin_layout Standard
+I frowned.
+ “So he saved your life.
+ You don't 
+\emph on
+have
+\emph default
+ to be mortally ill or injured to turn, do you?” Of course, this was the
+ obvious impetus to turn someone -- clearly it could save an otherwise unsalvage
+able life.
+ But if it was necessary\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Edward shook his head.
+ “That's the only way Carlisle does it.
+ He wouldn't take anyone's mortal life from them if they had one to live.
+ But no, it's not strictly necessary.”
+\end_layout
+
+\begin_layout Standard
+“So Rosalie and Emmett, too? They were dying?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Edward.
+ Then he looked puzzled.
+ “I know Alice told you about how she doesn't know what happened to her
+ when she was human, and I guess if Carlisle had turned her it would be
+ reasonable that he'd have told her something about where she came from,
+ but how did you know that Carlisle didn't turn Jasper?”
+\end_layout
+
+\begin_layout Standard
+“I'm guessing,” I said.
+ “From the portraits on the second floor of your house -- Jasper and Alice
+ arrived together, didn't they? If Carlisle turned Jasper and not Alice,
+ it would be a huge coincidence for her to show up close enough to his turning
+ that they'd show up in the same picture.
+ Also, it would be peculiar for him to turn up at the diner full of humans
+ where he met her, if he were new at the time.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ “Perceptive.”
+\end_layout
+
+\begin_layout Standard
+“Thank you.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I heard the door to Charlie's car slamming, and I leaned to look out the
+ window.
+ He pulled out of the driveway and headed out -- presumably to pick up a
+ fishing buddy or two before going to try and catch dinner.
+\end_layout
+
+\begin_layout Standard
+“My turn,” said Edward lightly, and my head turned back towards him automaticall
+y.
+\end_layout
+
+\begin_layout Standard
+“Your turn?” I asked, confused.
+\end_layout
+
+\begin_layout Standard
+“For a story,” he said, smiling faintly.
+ “Why don't you tell me about how you came to move to Forks?”
+\end_layout
+
+\begin_layout Standard
+I was briefly nonplussed by this request.
+ It wasn't a particularly interesting story.
+ “My mother remarried,” I said.
+ Edward, to his credit, didn't interrupt me with some guess about my not
+ getting along with Phil.
+ “He's fine,” I said, in case he was thinking it, “but he plays baseball
+ for a living, and has to move around a lot.
+ Renée couldn't travel with him because she had to be home with me most
+ of the time, and that made her unhappy, so I decided to come and live with
+ Charlie.”
+\end_layout
+
+\begin_layout Standard
+“You care about her a lot,” he murmured.
+\end_layout
+
+\begin_layout Standard
+“She's my 
+\emph on
+mom
+\emph default
+,” I said.
+\end_layout
+
+\begin_layout Standard
+“Tell me about her,” Edward invited.
+\end_layout
+
+\begin_layout Standard
+“She looks a lot like me, but with shorter hair...” I began.
+\end_layout
+
+\begin_layout Standard
+There was no further pretense of taking turns -- the conversation proceeded
+ organically.
+ Edward was fascinated by the smallest details about me (he wanted to know
+ about my decision to do yoga instead of conventional gym; he wanted to
+ hear all about the classes I'd taken in Phoenix; he wanted to learn about
+ my extended family; he wanted to memorize my favorite color; he was curious
+ about my taste in movies).
+\end_layout
+
+\begin_layout Standard
+I didn't get caught up in 
+\emph on
+quite
+\emph default
+ so many minutiae about him -- but that was largely because Edward was more
+ than a hundred years old.
+ He knew his birthdate, unlike Alice -- they were probably the same chronologica
+l age, though she'd been turned two years later -- and also unlike Alice,
+ he remembered being human.
+ That added up to more than a century of material, and once he caught the
+ trend of what interested me, he catered to it -- there was no need to dwell
+ on tiny things like favorite color with all that to talk about.
+ From his vast available supply, he handpicked the very best stories of
+ traveling around the country and the world, offering as topics learning
+ everything from how to fly a plane to foreign languages.
+ At first, he seemed hesitant to go on talking as long as was necessary
+ to do justice to some of his memories, but I made every effort to look
+ as rapt as I felt.
+ He still asked me questions when something he was curious about came up
+ -- wanted to know what my favorite flowers were when he mentioned a botanical
+ garden, things like that -- but he did more of the talking than I did,
+ overall.
+\end_layout
+
+\begin_layout Standard
+It really should have occurred to me that Edward would be 
+\emph on
+interesting
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+He hadn't just seen and done dozens of amazing things -- he had a wonderful
+ way of telling them.
+ Apparently his pre-turning ability to read people had not been 
+\emph on
+completely
+\emph default
+ supplanted with mindreading and made rusty from disuse, and he rapidly
+ picked up on what had me on the edge of my seat and what left me cold,
+ adjusting accordingly.
+ By the time my rumbling stomach announced that it was time for lunch, rather
+ than a continued description of the Great Barrier Reef around which a vampire
+ could safely dive free of equipment, Edward had figured out how to have
+ me hanging off his every word.
+ His beautiful voice didn't hurt -- but I was pretty sure I'd have been
+ thrilled to read his stories in an e-mail, too.
+\end_layout
+
+\begin_layout Standard
+“You're hungry,” he said, pausing in the middle of explaining how little
+ octopi cared to be near vampires.
+\end_layout
+
+\begin_layout Standard
+“A bit.
+ I'll just go down and get some carrots and ranch; I'm sure Charlie will
+ bring home more fish than I know what to do with and I should make sure
+ I have an appetite for dinner.”
+\end_layout
+
+\begin_layout Standard
+Edward let me finish my sentence, although as soon as I said 
+\emph on
+carrots
+\emph default
+ it looked like it was very hard for him to do so.
+ “You could let me take you out to lunch,” he said quietly.
+\end_layout
+
+\begin_layout Standard
+“You don't think it would look a bit odd for us to walk into a restaurant
+ and have only one of us eat?” I asked.
+ I didn't bring up the financial imposition.
+ (It would be ridiculous and probably insulting.
+ If they hadn't already thought of sending Alice and a spare thousand dollars
+ to toy with Wall Street, they should all have been set on fire for stupidity:
+ they had to be many times richer than they looked.
+ Also, Edward was from 1901, and accordingly I felt no obligation to haul
+ out modern rights and responsibilities for my gender that didn't happen
+ to suit me.) I didn't protest the suspiciously date-like nature of the invitatio
+n, either.
+ I'd agreed to be his friend, and friends sometimes had lunch together;
+ and five solid hours of continuous, un-awkward conversation had done a
+ lot to push me towards the “okay, give it a shot” plan.
+\end_layout
+
+\begin_layout Standard
+“Not enough to cause a problem,” he assured me.
+ “If you're worried about it, we can order two things, and you can have
+ half of each and bring the rest home.
+ I can always take a bite or two if the waitstaff do get suspicious, but
+ it's unlikely.
+ You really have to act a 
+\emph on
+lot
+\emph default
+ stranger than what passes for normal to get serious attention.”
+\end_layout
+
+\begin_layout Standard
+That was a good plan.
+ My stomach gurgled again.
+ “I don't know any good restaurants around here.”
+\end_layout
+
+\begin_layout Standard
+“What kind of food do you like?” Edward asked.
+ Oh -- right.
+ Perfect recall.
+ He didn't need to 
+\emph on
+eat
+\emph default
+ to know what was to be had, he only needed to have heard of the choices,
+ in speech or in thought.
+\end_layout
+
+\begin_layout Standard
+“All kinds,” I said, “but right now I think I'm in the mood for Italian.”
+\end_layout
+
+\begin_layout Standard
+“There's nothing worthwhile in Forks,” Edward said, “but there's a nice
+ place in Port Angeles.”
+\end_layout
+
+\begin_layout Standard
+“That's an hour away,” I said.
+\end_layout
+
+\begin_layout Standard
+“Not if you let me drive,” Edward said, “in a car other than your truck,
+ fast.”
+\end_layout
+
+\begin_layout Standard
+I gritted my teeth.
+ “Let me think,” I said.
+\end_layout
+
+\begin_layout Standard
+He nodded, and watched me; I shut my eyes.
+\end_layout
+
+\begin_layout Standard
+What were my 
+\emph on
+real
+\emph default
+ reasons for preferring not to speed, and did they apply?
+\end_layout
+
+\begin_layout Standard
+Well, Charlie 
+\emph on
+would
+\emph default
+ be scandalized.
+ Why did that matter to me? I trusted Charlie's judgment in general\SpecialChar \ldots{}
+ he was
+ level-headed, not rash, those seemed like good qualities.
+ “Don't speed” was the essence of being unrash.
+ But only because it was dangerous, physically and legally -- when a human
+ was behind the wheel.
+ A human who couldn't psychically detect things like road rage and didn't
+ have extranormal reflexes.
+ Charlie didn't know that Edward wasn't one of those, and I didn't know
+ how that knowledge would change his reaction.
+ It was still illegal.
+ But the only 
+\emph on
+good
+\emph default
+ reason to have a speeding law was the danger.
+ It was\SpecialChar \ldots{}
+ not very dangerous with a vampire behind the wheel, and not very
+ likely to get us in trouble with the law with his mindreading.
+ But\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+“What,” I asked, “would you do if, in spite of everything, we 
+\emph on
+did
+\emph default
+ crash?”
+\end_layout
+
+\begin_layout Standard
+“Claw open the roof of the car, grab you, jump out, and then bang up the
+ car enough that no one would notice the suspicious part of the damage,”
+ he told me at once.
+ “It would actually be safer for you 
+\emph on
+not
+\emph default
+ to wear a seatbelt.
+ I could snap one, but it'd take me an extra moment.”
+\end_layout
+
+\begin_layout Standard
+The people who skipped seatbelts in the expectation of being “thrown clear”
+ were morons.
+ But Edward's scenario seemed plausible.
+ Any others involved in the crash would probably be too distracted to see
+ anything unusual about our departure from the car.
+\end_layout
+
+\begin_layout Standard
+My only good reasons to say no to the 
+\emph on
+driving
+\emph default
+ part were not applicable.
+ Accordingly, if I were to say no, it would have to be for other reasons,
+ and I had none.
+\end_layout
+
+\begin_layout Standard
+“Fine, then, lunch in Port Angeles,” I said.
+\end_layout
+
+\begin_layout Standard
+“Really?” Edward asked.
+\end_layout
+
+\begin_layout Standard
+“Really.
+ Are you going to just run to your house and get a fast car?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I can do that,” he said slowly.
+ I wondered why the reluctance, and then he answered my unspoken question.
+ “Or 
+\emph on
+we
+\emph default
+ could run there, and then you wouldn't need to wait for me to bring it
+ here to pick you up.”
+\end_layout
+
+\begin_layout Standard
+“All right,” I said.
+ 
+\emph on
+That
+\emph default
+ transportational issue had already been resolved to my satisfaction.
+ “Hold your breath if you need to.” I got up and exited the house, hearing
+ his quiet footsteps behind me as I went.
+\end_layout
+
+\begin_layout Standard
+Once we were outside and I'd locked the door, Edward looked at me questioningly
+ -- to make sure I was ready, I guessed -- and I nodded to him.
+ He picked me up very carefully, the same way Esme had.
+ “Comfortable?” he asked.
+\end_layout
+
+\begin_layout Standard
+“I'm fine,” I breathed.
+ I was not uncomfortable, but I 
+\emph on
+had
+\emph default
+ underestimated how I would react to Edward picking me up.
+ Maybe he'd been hesitant to suggest it and had asked Esme to carry me on
+ Thursday because he was trying to follow Alice's instructions about going
+ 
+\emph on
+slow
+\emph default
+ with me\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+And then he took off, and the colors around me became lightning streaks
+ retreating into the distance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Esme 
+\emph on
+had
+\emph default
+ been jogging.
+ This was a 
+\emph on
+run
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+I turned my face into Edward's chest and tucked my arms in close to my body,
+ trying to reduce the surface area exposed to the whistling, humid wind.
+ I didn't believe he was running flat-out.
+ I'd watched him practically teleport across the vampires' baseball field,
+ and I didn't think I was quite sturdy enough to deal with that much safely.
+ But it was very fast.
+\end_layout
+
+\begin_layout Standard
+In an odd way, it was pleasant to be so securely held at such a high speed.
+ It was poking some subconscious reptile-brain piece of me, I guessed, some
+ part that wanted a protector and wanted to be sure that protector would
+ suffice in extreme circumstances.
+ The reptile-brain piece did not have the sophistication to realize that
+ its would-be protector was also causing the extremity of the circumstances.
+ It just noticed that I was going abnormally fast, and that a person it
+ had other reasons to like was holding me nice and tight, preventing the
+ speed from bringing me to harm.
+\end_layout
+
+\begin_layout Standard
+And this was accompanied by a nice, warm feeling that quite compensated
+ for the whooshing wind.
+\end_layout
+
+\begin_layout Standard
+In only a few minutes we were at the Cullen house -- or rather, in the forest
+ near it.
+ A white outbuilding, painted to match the main house, was nestled among
+ the trees, with a smooth dirt track leading from it to the road connecting
+ their driveway to the highway.
+ I estimated that it would hold a dozen cars -- there were three doors,
+ each with room for the adjacent passage of two cars, but the building was
+ deep enough that it could be the same on the other side.
+ Edward put me down on my feet, and let me hang on his arm for a moment
+ while I reassured myself that my legs were not too wobbly to work.
+ Upon confirming that they functioned normally -- which is to say, that
+ I was only four or five times more likely than a normal human to fall on
+ my rear -- I stood up unsupported.
+\end_layout
+
+\begin_layout Standard
+Edward reached into his pocket and presumably pressed a remote for one of
+ the doors.
+ The middle one on our side peeled open to reveal the familiar Volvo that
+ the Cullens drove to school.
+ Beside it sat another silver car, bearing a logo with wings -- a vampire
+ would have been able to read its text from my vantage point, but I couldn't,
+ and I didn't know cars.
+ “Volvo, or the other one?” I asked Edward.
+\end_layout
+
+\begin_layout Standard
+“The other one,” he said, sounding amused by my designation.
+ I approached the car, and he appeared at the driver's side door in the
+ blink of an eye to unlock it and get in before I arrived.
+ I sat down, closed the door gently to avoid harming the likely-valuable
+ car, and consciously reminded myself not to fasten my seatbelt.
+ The interior was comfortable and fancy.
+\end_layout
+
+\begin_layout Standard
+I closed my eyes for most of the ride, and brushed out the running-induced
+ tangles from my hair with my fingers.
+ Once Edward was done accelerating, and when we were not in the middle of
+ a curve, I couldn't feel the speed much; I didn't want to see it either.
+ On the highway, he picked up storytelling right where he'd left off with
+ the coral reef.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward got us to Port Angeles in twenty minutes without crashing or even
+ having to swerve.
+ I didn't hear any sirens, which was good (it hadn't occurred to me to ask
+ whether his policy was to stop for cops or to simply 
+\emph on
+outrace
+\emph default
+ them) and he found a parking space immediately, possibly with the help
+ of mindreading.
+\end_layout
+
+\begin_layout Standard
+The restaurant was an intimate, warmly decorated establishment.
+ Awnings sheltered the interior from what little sunlight filtered through
+ the clouds, and it was mostly illuminated by candles.
+ I wondered if this was the nicest Italian place in town or just the one
+ Edward most wanted to take me to.
+\end_layout
+
+\begin_layout Standard
+We received our menus after we'd sat down at our little table in the back
+ corner.
+ I scanned it, trying to pick two things -- I eventually decided on a pasta
+ primavera entrée and minestrone soup.
+ I thought I could probably finish the whole bowl of soup and a third of
+ the pasta, which would have to do for alleviating odd looks.
+ Edward received my whispered ordering instruction with a nod, and faithfully
+ reported my soup request as though it were his own when the waiter wandered
+ by.
+\end_layout
+
+\begin_layout Standard
+My bread basket and glasses of water for each of us arrived promptly, and
+ I took a sip from mine.
+ Then I glanced around the restaurant; it wasn't very crowded.
+ “I know you don't like food,” I murmured to Edward, “but what about drinks
+ -- water?”
+\end_layout
+
+\begin_layout Standard
+He blinked.
+ “You know, it never occurred to me to try drinking water?” he said wryly.
+ He picked up his glass and took a swallow, then set it down again, smacking
+ his lips thoughtfully.
+\end_layout
+
+\begin_layout Standard
+“Verdict?” I asked.
+ “You know your usual diet is ninety-five percent water.”
+\end_layout
+
+\begin_layout Standard
+“Somewhat warmer water,” said Edward, a little absently, looking at the
+ glass.
+ “It doesn't taste like anything.
+ It doesn't seem to affect my thirst either way.
+ I suppose it'd contribute to the disguise if we were seen drinking water
+ occasionally.”
+\end_layout
+
+\begin_layout Standard
+“Considerably,” I speculated.
+ “It never occurred to any of you?”
+\end_layout
+
+\begin_layout Standard
+“I'm sure at least one of ‘us’ in 
+\emph on
+general
+\emph default
+ tried it at one time,” he said, avoiding the word “vampire” -- either he'd
+ noticed someone listening, or thought there might be a spectator with my
+ same mental opacity.
+ “I don't know about my family, but I doubt it.”
+\end_layout
+
+\begin_layout Standard
+“Huh.” I wondered what other things they'd simply not tried.
+ “Do you want to taste the broth of my soup?”
+\end_layout
+
+\begin_layout Standard
+“No, the soup is for you,” he said.
+ “If it seems appropriate to try more liquids I can do it without helping
+ myself to your lunch.”
+\end_layout
+
+\begin_layout Standard
+I shrugged and took a roll, which I buttered.
+ “Tell me what happened after you found the shark,” I said encouragingly,
+ trying to get him to pick up his story where he'd been at the end of the
+ drive.
+\end_layout
+
+\begin_layout Standard
+“You don't think I've talked too much about myself for an entire year?”
+ he asked wryly.
+\end_layout
+
+\begin_layout Standard
+“It's interesting,” I said.
+ “You've got fewer constraints and more time than\SpecialChar \ldots{}
+ than most people, and
+ you use it well.”
+\end_layout
+
+\begin_layout Standard
+“Well,” said Edward, “why don't you tell me what you would want to do with
+ all that time and without all those constraints?”
+\end_layout
+
+\begin_layout Standard
+I bit into my roll.
+ “Why don't you want me to have that?” I asked quietly, after I swallowed
+ it.
+\end_layout
+
+\begin_layout Standard
+He looked pained.
+ “This is a bad place, I think,” he said.
+ “I'm -- I'm trying not to keep secrets.
+ But this is a bad place.”
+\end_layout
+
+\begin_layout Standard
+It really was, I supposed.
+ “In the car, then,” I said.
+\end_layout
+
+\begin_layout Standard
+“All right,” Edward replied, softly.
+\end_layout
+
+\end_body
+\end_document

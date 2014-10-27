@@ -1,0 +1,2003 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{6}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Souls
+\end_layout
+
+\begin_layout Standard
+My soup was tasty.
+ The pasta was all right, although the cook took the idea of 
+\begin_inset Quotes eld
+\end_inset
+
+al dente” more seriously than I preferred.
+ My estimates about my appetite proved basically accurate, and when I'd
+ finished eating and gotten a box for the remaining food, Edward paid the
+ bill and we left the restaurant.
+ “It's a nice place,” I said.
+\end_layout
+
+\begin_layout Standard
+“I'm glad you liked it,” he said heavily -- nervous about having to tell
+ me why he didn't care to have me immortal? -- and unlocked his car.
+ I got in; he waited for a gap in traffic, then ducked into the driver's
+ seat and pulled out.
+\end_layout
+
+\begin_layout Standard
+“So,” I said.
+\end_layout
+
+\begin_layout Standard
+“Right,” he sighed, taking the exit onto the highway and rapidly getting
+ up to speed.
+ “I'm not expecting you to understand this.”
+\end_layout
+
+\begin_layout Standard
+“Try me,” I said peevishly.
+\end_layout
+
+\begin_layout Standard
+“First,” he said, “can you tell me about your religious leanings?”
+\end_layout
+
+\begin_layout Standard
+This didn't make a lot of sense.
+ “Why is that relevant?”
+\end_layout
+
+\begin_layout Standard
+“I'm asking this first because otherwise I'm not sure how to present my
+ position,” he said.
+\end_layout
+
+\begin_layout Standard
+“I don't think about religion much,” I said.
+ “Renée tries out new churches like some people try on shoes.
+ She never made a habit of bringing me along.”
+\end_layout
+
+\begin_layout Standard
+“What do you believe about souls?” asked Edward, and I had an inkling of
+ where this was going.
+\end_layout
+
+\begin_layout Standard
+“Edward, if you're going to tell me that I have a soul because I'm a human
+ and you don't because you're a vampire, that's a 
+\emph on
+ridiculous
+\emph default
+ objection.
+ What is it that you think souls 
+\emph on
+do?
+\emph default
+ What functionality do you think you 
+\emph on
+lost
+\emph default
+ back in 1918? You can clearly think, so if you're right about who's got
+ a soul, then souls don't do that.
+ You can make the decision to not slaughter everybody around you even when
+ they'd be delectable, so if you're right, souls don't handle moral reasoning.
+ You've got memories, so your soul wasn't storing those for you until it
+ left.
+ And it would be remarkably 
+\emph on
+original
+\emph default
+ theology if you said that the soul was responsible for making humans breakable
+ and slow and weak and mortal, but if that's what souls do, I'm not sure
+ why anybody would 
+\emph on
+want
+\emph default
+ one.”
+\end_layout
+
+\begin_layout Standard
+“What about an afterlife?” Edward murmured.
+\end_layout
+
+\begin_layout Standard
+“What about it? Suppose there's a God,” I humored him.
+ “Suppose there's a God and he likes to stash dead people in afterlives
+ appropriate to them when they die.
+ Why would a soul be called for? If for some reason one 
+\emph on
+were
+\emph default
+ essential, why couldn't you just be issued a new one if something unfortunate
+ happened to your first one? This is God we're talking about.
+ He isn't going to run out of ectoplasm to make souls out of.
+ He's not going to forget who you are because you don't have your soul attached.
+ Or maybe that's not what you mean,” I said.
+ “Maybe you mean vampires automatically go to hell, when you play with matches
+ a little too much -- but think about that, really.
+ You didn't hold a flamethrower to Carlisle's head and demand to be changed,
+ did you?”
+\end_layout
+
+\begin_layout Standard
+“No,” Edward murmured.
+\end_layout
+
+\begin_layout Standard
+“Right, you were delirious with the flu, most of the way to dead.
+ Scarcely in a position to be held responsible for anything you did.
+ But let's say that you're destined for hell for something you didn't do
+ anyway.
+ If that's the sort of thing that can get you damned, I'm probably already
+ in trouble for having divorced parents, or for having eaten non-kosher
+ baby food, or something like that.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You
+\emph default
+ won't be delirious with the flu,” Edward said darkly.
+\end_layout
+
+\begin_layout Standard
+“You're right.
+ I won't.
+ But I thought you were talking about a property of vampires in general,
+ not just willfully turned ones,” I said.
+ “Right? No fiddling around with your theory while we're in the middle of
+ a conversation about it, please.”
+\end_layout
+
+\begin_layout Standard
+“\SpecialChar \ldots{}
+ Right.”
+\end_layout
+
+\begin_layout Standard
+“Now when Carlisle turned -- let's not use you as an example.
+ When Carlisle turned Esme, she had just fallen off a cliff and was dying.
+ At that time, she had a soul, right?”
+\end_layout
+
+\begin_layout Standard
+Edward made an awful face.
+ “Okay, okay,” he said.
+ “Never mind about souls.”
+\end_layout
+
+\begin_layout Standard
+I sighed.
+ “Do you actually no longer believe that turning into a vampire makes an
+ important thing called a `soul' evaporate, or do you just not want to think
+ about Esme being someone who lacks an important thing called a `soul'?”
+\end_layout
+
+\begin_layout Standard
+He was silent, and I sighed heavily and closed my eyes again to avoid looking
+ at the whoosh of trees to either side of the highway.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward dropped me off at my house.
+ “Have a good weekend, Bella,” he said tightly.
+ I'd pushed him a little too far -- he'd remained silent throughout the
+ rest of the drive back from Port Angeles even when I tried to get him to
+ resume telling the story about the shark.
+ He drove away with no mention of the possibility that he might come in
+ and continue talking to me and no attempt to make more plans.
+ I practically flounced into the house and up to my room.
+\end_layout
+
+\begin_layout Standard
+I gave myself a little shake.
+ I hadn't screwed anything up permanently.
+ I was literally 
+\emph on
+incapable
+\emph default
+ of screwing things up permanently with Edward.
+ The worst I could do would be to die of old age out of spite.
+\end_layout
+
+\begin_layout Standard
+That didn't mean I should abuse this freedom.
+ (In particular, it would be very foolish of me to die if it turned out
+ there was no good reason I ought to.) But it did mean that it wasn't very
+ productive of me to fret about things I'd already done.
+\end_layout
+
+\begin_layout Standard
+Bringing up Esme had clearly been the sticking point, but he hadn't seemed
+ very comfortable before that, either.
+ It was probably a touchy subject.
+ If I thought souls were important and that I didn't have one I probably
+ wouldn't want to talk about them at all, I guessed.
+ He'd only felt it relevant because it was part of why he wanted me to stay
+ human.
+\end_layout
+
+\begin_layout Standard
+I wondered if the other vampires believed the same thing as Edward, about
+ souls.
+ I wrote down that I should ask them this.
+ I also wrote, while I had my notebook out, that Alice had promised we'd
+ have the conversation about her powers 
+\begin_inset Quotes eld
+\end_inset
+
+later
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Once I'd written this down, I felt strangely\SpecialChar \ldots{}
+ blank.
+ I'd been looking forward to a nice, empty Saturday to do my thinking with.
+ Then my hand had been forced on the decision all that thinking was 
+\emph on
+for
+\emph default
+: Alice had shown up and cornered me into agreeing to be friends with Edward.
+ (And this was shaking out to mean that I agreed to go out to lunch in a
+ cozy Italian restaurant in Port Angeles with Edward on his dime after listening
+ breathlessly to his exciting stories for hours on end.
+ No wonder Alice had found my concession satisfactory.) All I had left to
+ do was ask more questions, not process existing knowledge.
+ And I'd gone and done all my homework.
+\end_layout
+
+\begin_layout Standard
+Well, maybe I wasn't completely out of things to mull over.
+ I could probably kill at least an hour producing an updated approximation
+ of how I felt about Edward.
+\end_layout
+
+\begin_layout Standard
+But I didn't really want to write that sort of thing down until I'd dealt
+ with the fact that Alice could see me writing anything I decided to write.
+ Would she be able to read things I wrote if I typed them, with a box over
+ my keyboard and a blanket over the monitor and my head? My spelling would
+ suffer, but not irretrievably.
+ She only 
+\emph on
+saw
+\emph default
+ things, visually, so that should do it unless her vantage point was so
+ flexible that it could be between my face and the screen -- but it called
+ for a test.
+ A 
+\emph on
+real
+\emph default
+ test, where I only had a guess, not an expectation.
+\end_layout
+
+\begin_layout Standard
+I wrote that down.
+ (If Alice saw 
+\emph on
+that
+\emph default
+ and had the afternoon free maybe she'd show up and we'd conduct the experiment
+ right away.)
+\end_layout
+
+\begin_layout Standard
+I tried to push the problem around in my head without writing anything.
+ It was hard -- I kept not trusting conclusions I'd gotten to and having
+ to backtrack and reestablish them.
+ My independence from my notebooks, which I'd thought so well-honed when
+ I first arrived in Forks, was not solid enough to hold up to serious problems.
+ My unaided brain was fine for little things.
+ But thinking back, I'd needed three pages to decide to leave Phoenix at
+ all.
+ I frowned to myself.
+ This was a problem.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Wean self from notebooks
+\emph default
+, I wrote under my to-hack list.
+ I crossed off the line about looking at pretty people: I was pretty sure
+ they didn't mind.
+ And then I spent my afternoon thinking kind thoughts about rain.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Clouds
+\emph default
+, I thought, 
+\emph on
+will help me hide when I am a vampire
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I did not see any vampires on Sunday.
+\end_layout
+
+\begin_layout Standard
+I got lonely (Charlie had to work), and so I called and convinced Angela,
+ Jessica, and even Lauren to all join me for a movie.
+ There were no proper theaters in Forks, so we all piled into Jessica's
+ mother's car and drove to Port Angeles.
+ The theater we found was still showing the Phantom of the Opera movie,
+ which Jessica badgered us all into seeing.
+\end_layout
+
+\begin_layout Standard
+Lauren complained about the movie selection, citing the “incredible lameness”
+ of musicals, but went in with us instead of buying a ticket to something
+ else.
+ When we walked out, she was swooning over Gerard Butler, talking over Jessica's
+ attempt to claim all the credit for the movie's highlights.
+ I dismissively told her that he looked like a grown up version of Eric.
+ This was a blatant lie (the coloring was right, but nothing about their
+ features matched), but it seemed like a convenient way to have her thinking
+ about Eric without thinking that I was after him myself.
+ I couldn't tell by looking at her if this had worked.
+\end_layout
+
+\begin_layout Standard
+We got lunch, wandered around the city, and stopped in a few stores to admire
+ articles of clothing, to justify the trip with more than just the one movie.
+ Angela bought a sweater and Jessica succumbed to the temptation of a pair
+ of heels.
+ I considered buying a ruffly red blouse, but eventually skipped it.
+ Lauren tried on everything she saw but didn't want to make any purchases.
+\end_layout
+
+\begin_layout Standard
+We ran out of steam at about five p.m.
+ and decided to go back to Forks instead of getting an early dinner in Port
+ Angeles.
+ I made fried fish -- Charlie had our freezer packed from top to bottom
+ with fish from his Saturday trip -- and then baked a pan of brownies just
+ to have something more to do.
+ If I had been a vampire, I wouldn't have needed baked goods to occupy myself.
+ If I'd been a vampire, I could have run all the way to Port Angeles, doing
+ gymnastics on the way without putting a foot wrong, and bought that blouse
+ and run back.
+ If I'd been a vampire, I could do all the thinking I wanted to do in my
+ 
+\emph on
+head
+\emph default
+ where it was 
+\emph on
+safe
+\emph default
+ with my vampire total recall supplanting my notebooks.
+ If I'd been a vampire, I could have just been stuck like Edward, stuck
+ 
+\emph on
+with
+\emph default
+ Edward, and wouldn't have needed to do so much thinking in the first place.
+\end_layout
+
+\begin_layout Standard
+I frowned to myself as I took the brownies out of the oven and immediately
+ cut one for myself, letting it cool faster on a plate of its own.
+ I shouldn't 
+\emph on
+not want to think
+\emph default
+; that seemed bad.
+ I caught myself trying to amend the thought and quickly muttered to myself,
+ “I don't want to think about whether I want Edward and don't know why”
+ too quietly for Charlie to hear and too indistinctly for Alice to be likely
+ to be able to read my lips.
+ It wasn't as good as writing, but it moved the idea from my vague memory
+ of my own thoughts into my slightly more reliable auditory storage.
+\end_layout
+
+\begin_layout Standard
+I ate my brownie slowly and pondered.
+ Dealing with Edward did show signs of being the single most momentous decision
+ of my life.
+ I had thought it was a big deal when I moved out of Arizona for Renée's
+ sake, but changing residence didn't hold a candle to changing species and
+ acquiring a mate-for-life.
+ I was 
+\emph on
+seventeen
+\emph default
+.
+ Renée talked constantly about how she'd gotten married too young, and she'd
+ already been twenty when I was born very soon after the wedding.
+ (I was only barely not a honeymoon baby.
+ She took great care to emphasize that she did not regret having 
+\emph on
+me
+\emph default
+, but I'd found it surprisingly easy to come to terms with the fact that
+ if my parents had been smarter, I wouldn't exist.) Renée had drilled into
+ my head that marriage was something mature and smart people took seriously,
+ something that was not good or sane to rush into, something that she swore
+ up and down not to prod me about until I was at least thirty.
+\end_layout
+
+\begin_layout Standard
+Edward had not presented me with jewelry of any kind, let alone an engagement
+ ring, but from what Alice said, my merely being turned would drop me into
+ something a good deal 
+\emph on
+more
+\emph default
+ serious than a marriage.
+ Renée's rash action had only landed her a daughter and the need to spend
+ time with a divorce lawyer and, likely, some emotional turmoil.
+\end_layout
+
+\begin_layout Standard
+Edward was already stuck, but I didn't have to be.
+ If I got myself stuck, and it was a bad idea, I could 
+\emph on
+never
+\emph default
+ undo it unless I had some quality no other mated vampire known to Edward
+ had ever had.
+\end_layout
+
+\begin_layout Standard
+I considered the possibility that he was lying about what he had and had
+ not heard of.
+ (I had finished my brownie by this point, and was muttering to myself freely
+ in the relative privacy of my room.
+ As an added layer of precaution, I buried my face in my pillow.) He had
+ been prepared to go to some trouble to avoid it in other situations, after
+ Alice's advice.
+ And it didn't seem like he had any reason to believe that I'd find the
+ prospect of an unbreakable commitment 
+\emph on
+more
+\emph default
+ enticing than a merely intense and magically propped-up one.
+ No motive.
+ Probably wasn't a lie, then.
+\end_layout
+
+\begin_layout Standard
+I wondered by what mechanism vampires were stuck.
+ Edward had been quite capable of becoming cross with me and ending our
+ day together when I said something he didn't like.
+ He wasn't physically prevented from leaving my side.
+ He wasn't limited exclusively to positive emotions towards me.
+ I wondered what he would do if I told him I never wanted to see him again
+ and that he should go away.
+ I didn't want to test that -- that much I knew -- but it would be useful
+ information to have.
+ What happened if vampires 
+\emph on
+tried
+\emph default
+ to break up?
+\end_layout
+
+\begin_layout Standard
+I was going about this the wrong way, I decided.
+ The effect was probably more to do with the selection process.
+ Edward had been around for quite some time and it took him that long to
+ find me.
+ There were too many vampire couples running around for it to be a matter
+ of finding one's One True Soulmate out of all the world -- there were just
+ too many people.
+ There had to be a pool of possible soulmates that only narrowed to one
+ when that one was encountered.
+\end_layout
+
+\begin_layout Standard
+I didn't know if most vampires met their fated beloveds after they'd both
+ been turned, like Alice and Jasper, or when one was human, like Carlisle
+ and Esme.
+ If it was the former, then whatever it was that narrowed down the potential
+ candidates probably correlated with something that was likely to get those
+ candidates turned into vampires, too.
+ That held with 
+\emph on
+me
+\emph default
+, at least -- I had my mental privacy (a million thanks to whatever quirk
+ had given me that) and humans with promising talents were commonly turned.
+ If it was the latter\SpecialChar \ldots{}
+ then I could only imagine a lot of vampires who ate
+ humans and didn't take the time to introduce themselves first were going
+ to wander alone forever, but that was beside the point.
+\end_layout
+
+\begin_layout Standard
+If it was the latter, and not every coven had an Alice to give them instructions
+ and assure them that vampirehood was in their target's future, then I could
+ only imagine that most humans selected in this way were turned against
+ their wills.
+ Most vampires thought nothing of slaughtering people left and right; leaving
+ their only shot at having companionship up to the wayward affections of
+ the human companion would not be the sort of thing they'd opt to do when
+ they could just take a bite.
+\end_layout
+
+\begin_layout Standard
+But it was hard for them to stop when they hunted.
+ Probably, turning instead of killing was also hard\SpecialChar \ldots{}
+ Carlisle had turned
+ Edward, Esme, Rosalie, and Emmett.
+ He was the one with the extra, special ability to resist the lure of blood.
+\end_layout
+
+\begin_layout Standard
+And there were supposed to be a lot of married vampires, not just among
+ the Cullens.
+\end_layout
+
+\begin_layout Standard
+So most likely, vampire couples typically met as vampires and were symmetrically
+ attached from day one.
+\end_layout
+
+\begin_layout Standard
+Drat.
+ No readily available precedents to anchor on.
+ Unless the Cullen couple I hadn't learned as much about -- Rosalie and
+ Emmett -- had a story relevant to the situation.
+\end_layout
+
+\begin_layout Standard
+And I was back to having questions to ask, not previously acquired information
+ to turn over in my head.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I sat with the vampires at lunch again on Monday.
+ I wasn't sure, as I approached the cafeteria, whether they'd welcome me,
+ but Alice flitted by and murmured that I could join them, and so once I'd
+ collected my food I took the empty chair at their table.
+ All of them had bottles of water; Jasper sipped from his constantly, making
+ it look like a nervous habit, and every now and then, one of the others
+ would take a swallow as well.
+\end_layout
+
+\begin_layout Standard
+When I got there, Rosalie was dominating the conversation, monologuing about
+ how she was not happy with the photos on her current passport and driver's
+ license and planned to major in photography in college so as to be able
+ to get better pictures.
+ (I assumed she left off the phrase “this time around” only because we were
+ in a room full of humans, and relied on stereotypes of blondes to save
+ her from someone remembering that people, even photographers, generally
+ didn't take their own ID snapshots.)
+\end_layout
+
+\begin_layout Standard
+Emmett told her, “But it's your turn to go to medical school next, Rose.”
+\end_layout
+
+\begin_layout Standard
+“I've already been,” she grumbled.
+ “Why don't you go? Or Alice? There's no reason it has to be just me and
+ Edward taking turns.
+ Anyway, I think Carlisle can wait a little longer.”
+\end_layout
+
+\begin_layout Standard
+“Wait, what?” I put in eloquently.
+ Rosalie rolled her eyes and looked away, somewhat vacantly, apparently
+ not wishing to be part of any conversation in which I participated.
+\end_layout
+
+\begin_layout Standard
+Edward answered my question.
+ I'd avoided looking directly at him since I'd sat down, unsure how or when
+ he wanted to pick back up being “friends
+\begin_inset Quotes erd
+\end_inset
+
+.
+ But when he spoke, my head turned automatically, and he didn't appear upset,
+ just interested in satisfying my curiosity: “Carlisle needs updates on
+ how medicine is advancing, every now and then,” Edward said.
+ “He returns to medical school himself sometimes, but to reduce the chances
+ he'll be recognized by a colleague, I've also been twice and Rosalie once,
+ to update him.
+ She graduated 
+\emph on
+summa cum laude
+\emph default
+ from Columbia,” he added, glancing at his sister; I guessed that he had
+ hoped to flatter her back into the conversation by mentioning this achievement.
+ I thought I saw a flicker of a smile on her face before she resumed staring
+ out the window.
+\end_layout
+
+\begin_layout Standard
+“Reading journals won't do?” I asked blankly.
+ I wondered, but didn't ask, why Rosalie hadn't mentioned Jasper.
+\end_layout
+
+\begin_layout Standard
+“Carlisle has to be able to seem like he's fresh out of med school,” Alice
+ put in.
+ “He reads journals, too, but they don't necessarily say much about what
+ they're saying to new students straight out of pre-med.”
+\end_layout
+
+\begin_layout Standard
+“Makes sense,” I acknowledged.
+ I considered offering to go next, but I wasn't even a vampire yet, let
+ alone an acknowledged fixture of the Cullen family who could do such things
+ as go to medical school on Carlisle's behalf.
+ Being a doctor wasn't my life's ambition, but it sounded like something
+ I'd like to get around to with forever to spend learning anything I liked.
+ “How do you deal with being around blood? I assume you have to be around
+ blood in med school.”
+\end_layout
+
+\begin_layout Standard
+“I held my breath,” said Edward, “and didn't go to work thirsty.”
+\end_layout
+
+\begin_layout Standard
+Rosalie tossed her hair and didn't answer; I wasn't sure if that meant that
+ Edward's reply held for her as well, or if she just didn't feel like sharing.
+\end_layout
+
+\begin_layout Standard
+“So,” I asked, as the topic dwindled to a halt, “where did your last names
+ come from?”
+\end_layout
+
+\begin_layout Standard
+“Cullen was Carlisle's last name as a human, and he kept it,” Edward said.
+ “I didn't always use it -- at first, I used to pretend to be his brother-in-law
+, a younger brother to a fictional dead wife, and I used my original last
+ name, `Masen'.
+ I pretended to be Esme's brother when she joined us and used her maiden
+ name, which was `Platt', for some time.
+ When Rosalie arrived, she preferred to keep her real last name, `Hale';
+ then to explain ourselves we started using the template you're familiar
+ with, where Esme and Carlisle are adoptive parents to the rest of us, so
+ I took the Cullen name.
+ Emmett did the same when he arrived, and so did Alice, but Jasper took
+ advantage of his and Rosalie's similar coloring and pretends to be a Hale.”
+\end_layout
+
+\begin_layout Standard
+“I suppose it would be awkward for you four to present as unmarried couples
+ if there weren't at least two last names between you,” I mused, waving
+ vaguely at Alice, Jasper, Emmett, and Rosalie.
+ “Even given that you advertise you're adopted.
+ Still, why use real names? Surely that would make it easier to follow you
+ if anyone got suspicious? You could just make things up.”
+\end_layout
+
+\begin_layout Standard
+“Rosalie is attached to her name,” said Edward.
+ “And Carlisle has used his for more than three hundred years without anyone
+ successfully following him.
+ Although we may need to change policies as computers start leaving more
+ easily discoverable traces in more places.”
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Your first names are all real?”
+\end_layout
+
+\begin_layout Standard
+There were four nods and one, “I think so,” from Alice.
+\end_layout
+
+\begin_layout Standard
+“You don't remember that either?” I asked, turning to the little vampire
+ on my right.
+\end_layout
+
+\begin_layout Standard
+“It feels like `Alice' is my name,” said Alice.
+ “And it felt like my name when I woke up.
+ I just have no way to be sure.
+ I don't have a guess about a last name, or a middle one.”
+\end_layout
+
+\begin_layout Standard
+“I should probably learn all your full original names at some point, but
+ if I try to do it all at once I'll never remember,” I said.
+ “How's the water working out for you all?”
+\end_layout
+
+\begin_layout Standard
+“I can't believe we never thought of it,” laughed Emmett boomingly.
+ “Makes us look that much more natural.”
+\end_layout
+
+\begin_layout Standard
+“It helps.
+ I noticed my first day here that none of you seemed to be eating anything.”
+\end_layout
+
+\begin_layout Standard
+“You're unusually observant,” remarked Edward.
+ I thought for a moment that this was a compliment, and then I realized
+ that he probably knew just how much other students did and didn't notice.
+\end_layout
+
+\begin_layout Standard
+“Well, I probably wouldn't have thought much of it, but it was 
+\emph on
+really
+\emph default
+ conspicuous that day I sat with Alice,” I said.
+ “I guess you don't normally pull aside random humans and sit down with
+ them, though.”
+\end_layout
+
+\begin_layout Standard
+“Not likely,” hissed Rosalie under her breath; I barely caught it.
+ Emmett nudged her with his elbow.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The middle of the cafeteria is not the correct place to ask an impolite
+ vampire what her problem is
+\emph default
+, I reminded myself, and Alice neatly diverted the subject to the reception
+ of the vampire family by Forks's residents in general.
+ Some had made an effort to be friendly -- Esme had been invited to a garden
+ party, things like that -- but they had no close neighbors, did not initiate
+ social plans of their own, and Carlisle was sure to be merely cordial to
+ his co-workers and those he encountered as patients.
+ Over time, as usual, people stopped going out of their way to befriend
+ the vampires.
+\end_layout
+
+\begin_layout Standard
+“Charlie thinks the world of you all, you know,” I commented.
+ This seemed to elicit surprise -- even from Edward.
+ “You didn't notice?” I asked him, confused.
+ “Even when you showed up at my house -- he wasn't thinking anything like
+ that? I don't 
+\emph on
+think
+\emph default
+ he lied\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+Edward blinked, then gently smacked himself in the forehead just softly
+ enough to avoid making a telltale noise audible to nearby humans.
+ “Of course,” he said.
+ “Of 
+\emph on
+course
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“What?” I asked, quite bewildered.
+\end_layout
+
+\begin_layout Standard
+“Bella, I'm sorry to say that I always thought of your father as a man who
+ simply didn't think very much,” said Edward.
+ “I typically don't get words from him -- just some images, some feelings,
+ all a bit vague.
+ I couldn't tell what he thought of the family at all even when I was standing
+ right next to him.
+ But with your complete inaudibility -- it must be genetic, that's all.
+ I imagine he thinks as much as anyone and I simply can't make it out clearly.
+ I wonder what your mother sounds like! What combination would have created
+ you and your silent mind?”
+\end_layout
+
+\begin_layout Standard
+“Oh.” I frowned.
+ “You thought he was stupid?”
+\end_layout
+
+\begin_layout Standard
+“No,” Edward said quickly, then he winced and amended.
+ “Not unusually so.
+ I didn't give it much attention,” he pleaded, trying to backpedal.
+ “I'm usually not 
+\emph on
+trying
+\emph default
+ to listen to anyone.”
+\end_layout
+
+\begin_layout Standard
+“When would you have met him before, anyway?” I asked.
+\end_layout
+
+\begin_layout Standard
+“We actually do buy food,” Alice said.
+ “To keep up appearances.
+ Mostly nonperishables we can save up and dump at a food drive in Seattle
+ around the holidays.
+ It would look odd if we just never turned up at the grocery store; someone
+ would notice.
+ And we're around town to buy other things, sometimes -- lightbulbs, clothes,
+ car parts, music, that sort of thing.
+ At least one of us has probably encountered any given person who lives
+ here, though we rarely chat.”
+\end_layout
+
+\begin_layout Standard
+“Just the car parts? Is one of you a mechanic?” I asked.
+\end_layout
+
+\begin_layout Standard
+“That would be Rose,” said Emmett, chucking his wife under the chin affectionate
+ly.
+ She smirked, more than smiled, but did acknowledge the gesture and turn
+ to face the table again.
+\end_layout
+
+\begin_layout Standard
+It was an incongruous image, the vain model elbow-deep in engine oil, but
+ I didn't tease -- I wasn't entirely sure she wouldn't eat me, for one thing,
+ and for another, it only sounded silly for bad reasons.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The lunch bell rang.
+ Edward escorted me to biology, any traces of annoyance over the souls thing
+ having evaporated, and then diverted course to sit in his own seat while
+ I joined Angela.
+\end_layout
+
+\begin_layout Standard
+I was starting to regret having switched lab partners by the time I was
+ a quarter of the way through the class.
+ Angela was nice and didn't drag me down in the grades department, but she
+ was not one for talking in class -- and anyway, if I wanted her to hear
+ me I would have to speak up enough that I'd risk being heard.
+ And we were 
+\emph on
+still covering cell anatomy
+\emph default
+.
+ If I'd had a way to trade my mitochondria for the chance to never hear
+ the biology teacher drone on about them ever again, I might well have done
+ it.
+\end_layout
+
+\begin_layout Standard
+How much worse must it be for Edward? He had several times more relevant
+ education than the man proposing to teach him about cells.
+ He hadn't even forgotten anything since the last time he heard it; I had
+ to admit, however grudgingly, that every seventh or eighth thing that came
+ up in the lecture was something I might have missed if it had appeared
+ on a pop quiz.
+ And yet he was, apparently, in high school voluntarily.
+ Maybe he just found it easy to think about other things.
+\end_layout
+
+\begin_layout Standard
+I wondered what he was thinking about.
+ Coral reefs and sharks? Portuguese verb conjugations?
+\end_layout
+
+\begin_layout Standard
+Me?
+\end_layout
+
+\begin_layout Standard
+What was I going to do about the souls thing anyway? It was really a problem
+ if Edward thought souls were important and vampires couldn't have them.
+ For one thing, I didn't think it would be good for his self-esteem.
+ Clearly, he could love and admire Esme and the other members of his family.
+ But on some level, this was hypocritical.
+ How could he care for vampires and find humans in general “boring
+\begin_inset Quotes erd
+\end_inset
+
+, as Alice had put it, while simultaneously thinking us mortals to be possessed
+ of some spectacular commodity that outweighed every vampire advantage all
+ by itself and ought to be preserved even at the cost of life itself? It
+ would be as though I decided that the objective content of moral worth
+ was the color yellow, and then went on sacrificing bananas and eggs and
+ squash so that Charlie could eat well because, even though he was not yellow,
+ I preferred to 
+\emph on
+act
+\emph default
+ as though he were more important than the yellow things to which I'd assigned
+ primacy.
+\end_layout
+
+\begin_layout Standard
+If Edward really believed as he claimed, why hadn't he executed Emmett the
+ first time he'd eaten someone, or at least tried? If it were more valuable
+ to live as a human than as a vampire, then any vampire who was a danger
+ to any human ought not to exist, intent or no.
+ Dangerous dogs were executed even though no one held them morally culpable,
+ simply because they might hurt humans, a more valued species.
+\end_layout
+
+\begin_layout Standard
+Edward might believe in souls, might believe they were important, might
+ believe vampires had none -- but he did not 
+\emph on
+act
+\emph default
+ this way -- except when he was trying to decide what advice to give 
+\emph on
+me
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+There were several ways to explain this.
+\end_layout
+
+\begin_layout Standard
+One: Edward was not actually in love with me.
+ He'd fooled his entire family (including Alice's visions of us being 
+\emph on
+so happy
+\emph default
+), or had gotten them in on it, and was carrying on an elaborate subterfuge
+ for unclear reasons, but didn't want to have to keep it up for all eternity,
+ or deal with fallout after I turned and was not magnetically drawn to him.
+ Implausible in the extreme -- too complicated, and no sensible motive in
+ sight.
+\end_layout
+
+\begin_layout Standard
+Two: Edward did not realize that he didn't act like he believed what he
+ said about souls.
+ This was more likely -- in particular, it explained why he'd find it uncomforta
+ble to talk about Esme as a soulless creature, because it would expose the
+ disparity between his words and behavior.
+ It was also not incompatible with other explanations.
+\end_layout
+
+\begin_layout Standard
+Three: Edward had difficulty balancing selfish and selfless motives.
+ While he genuinely believed it would have been better for
+\emph on
+ Esme
+\emph default
+ if she'd died at the bottom of the cliff, he thought it was better for
+ 
+\emph on
+him
+\emph default
+ that she be an immortal vampire who could remain a part of his family forever
+ -- now that his own soul was unsalvageable, anyway.
+ Thinking about how glad he was that she was alive made him feel bad about
+ himself, but the magical vampire love thing made him more enforceably concerned
+ with what he thought was best for me for my own sake.
+ This seemed plausible, although it relied on an assumption I wasn't sure
+ I could support about how vampires worked.
+\end_layout
+
+\begin_layout Standard
+Four: Edward thought I would snap and kill people if I turned, and the souls
+ thing was a gentler way of advising me to stay human than saying “Bella,
+ love, I think you're likely to be a murderer.” But he had gone to some trouble
+ to avoid lying to me.
+\end_layout
+
+\begin_layout Standard
+I mulled this over, writing indecipherable shorthand in my notebook as a
+ reference (“
+\emph on
+Lying, Confused, Selfish, Snap
+\emph default
+” -- I hoped Alice wouldn't be able to make sense of that if she saw it).
+ The only way to figure out which it was would be to talk to Edward more,
+ but I suspected some combination of two and three.
+\end_layout
+
+\begin_layout Standard
+Biology dragged on.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gym was a little better than Biology.
+ (I almost laughed out loud wondering what I'd have said if I'd been told
+ back in December that I'd think that.) Edward was on my mind, but at least
+ not in the room tantalizingly unadjacent.
+\end_layout
+
+\begin_layout Standard
+After I'd dragged myself through an hour of yoga poses and left the gym,
+ Edward appeared beside me right on schedule.
+ “Hello, Bella,” he said warmly.
+\end_layout
+
+\begin_layout Standard
+Had he 
+\emph on
+completely
+\emph default
+ forgotten the conversation on Saturday? “Hello, Edward.”
+\end_layout
+
+\begin_layout Standard
+“Would you like to visit us again today?” he invited.
+\end_layout
+
+\begin_layout Standard
+“I don't see why not,” I replied.
+ “Unless you're still upset about the souls thing and you're just a very
+ good actor.”
+\end_layout
+
+\begin_layout Standard
+“There's no reason to talk about it,” Edward said.
+\end_layout
+
+\begin_layout Standard
+“There is,” I said, “if you don't want me to be a vampire for reasons I
+ don't understand.
+ I ought to have all the information before I decide -- headaches for Alice
+ or no -- right?”
+\end_layout
+
+\begin_layout Standard
+“Bella,” he said pleadingly.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry I brought up Esme as an example.
+ Would it be easier if we talked about someone else? Rosalie?” I suggested.
+\end_layout
+
+\begin_layout Standard
+Edward frowned.
+ “I don't want to argue with you.”
+\end_layout
+
+\begin_layout Standard
+“It doesn't 
+\emph on
+necessarily
+\emph default
+ have to be a fight,” I said.
+ “But maybe -- I don't know, do any of the others agree with you? I could
+ talk it over with someone else.”
+\end_layout
+
+\begin_layout Standard
+Edward was silent, looking somewhat brooding.
+ “No,” he said finally, “but Carlisle's familiar with my views on the matter.”
+\end_layout
+
+\begin_layout Standard
+“Will he have a while to talk to me about it today?”
+\end_layout
+
+\begin_layout Standard
+“Most likely,” grumbled Edward.
+\end_layout
+
+\begin_layout Standard
+“You don't sound happy about it,” I said.
+ “Why?”
+\end_layout
+
+\begin_layout Standard
+“I was hoping to keep you to myself all day,” he said with a faint smile.
+ “Even though I said `us'.”
+\end_layout
+
+\begin_layout Standard
+“You still owe me the rest of the story about the shark, so you'll get at
+ least some of my afternoon,” I reminded him.
+ We arrived at my truck.
+ “Are you going to ride with me to your place?”
+\end_layout
+
+\begin_layout Standard
+“You could let me drive,” he said.
+\end_layout
+
+\begin_layout Standard
+“The way you speed, you'd break the poor thing even without crashing.
+ I 
+\emph on
+like
+\emph default
+ my truck.”
+\end_layout
+
+\begin_layout Standard
+“I can keep it slow, for the truck's sake,” Edward laughed.
+ “I'm not sure I can promise it won't break down, though.
+ This thing's not likely to last out the year.
+ It might choose today to die.”
+\end_layout
+
+\begin_layout Standard
+“Well, lucky me,” I said, walking around the front to get to the passenger
+ seat, “I can't be stranded with you around.”
+\end_layout
+
+\begin_layout Standard
+“It is an advantage,” Edward acknowledged, sliding into the driver's seat
+ and holding out his hand for the keys.
+ I dropped them into his palm and he started the engine.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After I had gotten the shark story -- and three more -- out of Edward, Carlisle
+ came home.
+ Esme flew to the door to greet him as he came in.
+ They looked and acted more like newlyweds than a long-married couple, and
+ it was cute to watch from my vantage point at the dining table.
+\end_layout
+
+\begin_layout Standard
+“Bella, hello,” said Carlisle after Esme had flitted up the stairs to return
+ to whatever she'd been doing.
+ “How are you?”
+\end_layout
+
+\begin_layout Standard
+“I'm well, thanks,” I replied cheerfully.
+ “Hey, if you have a bit, I wanted to ask you something.”
+\end_layout
+
+\begin_layout Standard
+“Oh? I don't have anything pressing to do,” Carlisle said genially.
+ “We can talk in my office if you like.”
+\end_layout
+
+\begin_layout Standard
+I got up and followed the doctor up the stairs.
+ I thought I might have heard Edward say something, but it was too low for
+ me to make out; if it wasn't my imagination, he'd surely intended the utterance
+ for Carlisle, who didn't visibly react.
+\end_layout
+
+\begin_layout Standard
+Carlisle's office was cozy, and he gave me his undivided attention once
+ we had both taken seats.
+ “What did you want to ask me?” he inquired.
+\end_layout
+
+\begin_layout Standard
+“Did Edward tell you anything about the conversation we had on Saturday
+ -- about souls?” I asked.
+\end_layout
+
+\begin_layout Standard
+“No,” said Carlisle, furrowing his brow.
+ “What happened?”
+\end_layout
+
+\begin_layout Standard
+“Apparently he thinks vampires don't have any souls, and that they're important,
+” I said.
+ “I just don't see how that could be.
+ All of the things humans can do that might be what souls handle, vampires
+ can do too -- you can think, you have memories better than mine, you can
+ do moral reasoning.
+ I said as much and Edward mentioned the idea of an afterlife.
+ Even if I grant for the sake of argument that that's in the picture, and
+ it's hardly a trivial assumption -- 
+\emph on
+why
+\emph default
+ would he believe that vampires have a different afterlife situation than
+ humans? Are there vampire ghosts floating about as cautionary tales that
+ he didn't mention or something?
+\end_layout
+
+\begin_layout Standard
+“And,” I went on, knowing Carlisle would have no difficulty keeping track
+ of my questions, “he doesn't want to talk about it any more, even to answer
+ those questions.
+ I upset him on Saturday when I brought up Esme as an example.
+ If it's really better for a person to be a human and eventually die than
+ it is for them to live potentially forever as a vampire, it 
+\emph on
+would
+\emph default
+ follow -- mind, I don't agree with this -- that it would have been better
+ for Esme if you'd let her die instead of turning her.
+ But Edward doesn't seem to think so.
+ He only doesn't want 
+\emph on
+me
+\emph default
+ to be a vampire.
+ He said you wouldn't turn anybody who had a life to live, at least under
+ normal circumstances.
+ I don't know who Alice saw turning me back when she saw clearly; it might
+ not have been you.
+ But if I stay human, I 
+\emph on
+will
+\emph default
+ eventually die, because that is just something humans 
+\emph on
+do
+\emph default
+, pretty darn reliably.
+ And if I'm 
+\emph on
+not
+\emph default
+ going to stay human, there's no obvious reason to wait until I'm dying
+ of something to turn me.
+ Edward's basically saying that he wants me dead so I can keep my soul,
+ and doesn't have a coherent explanation of why I should be willing to die
+ to keep it.”
+\end_layout
+
+\begin_layout Standard
+Carlisle took all this in fairly calmly, although I'd gotten reasonably
+ animated towards the end.
+ “I take it you aren't a religious sort,” he said.
+\end_layout
+
+\begin_layout Standard
+I shrugged.
+ “I can tell a nest of bad logic when I see one, religion or no.
+ Charlie's Lutheran but doesn't go to church, and Renée's flavor of the
+ week is Episcopalian, I think.
+ I don't think I'm anything.”
+\end_layout
+
+\begin_layout Standard
+“Well, there's a lot of myth and legend that holds that vampires are damned
+ in exchange for our immortality on earth,” said Carlisle.
+ “Bad logic or not, it's hardly an uncommon view, if you start from the
+ premise that vampires exist.”
+\end_layout
+
+\begin_layout Standard
+“Is that what Edward thinks, then?”
+\end_layout
+
+\begin_layout Standard
+“No, actually,” he replied.
+ “Edward doesn't believe there is any afterlife at all for our kind.”
+\end_layout
+
+\begin_layout Standard
+“But he thinks there is one for humans.
+ Does he think there's a deity orchestrating everything?”
+\end_layout
+
+\begin_layout Standard
+“He's never put forth an opinion on that for sure, one way or the other,”
+ Carlisle said.
+ “You probably noticed that his is a vague sort of belief.”
+\end_layout
+
+\begin_layout Standard
+“A deity would make less sense.
+ There's no reason to 
+\emph on
+automatically
+\emph default
+ obliterate vampires -- involuntary ones, willing ones, nice ones, mean
+ ones, ones that lived for ten years and ones that lived for a thousand,
+ all indiscriminately -- instead of providing an afterlife.
+ You haven't 
+\emph on
+all
+\emph default
+ killed people, have you?” I asked.
+\end_layout
+
+\begin_layout Standard
+“We have not all killed people,” Carlisle agreed.
+\end_layout
+
+\begin_layout Standard
+“So no deity sane enough that Edward or anybody else could guess at its
+ reasoning would take vampires, as a group, off the guest list for the afterlife
+,” I said.
+ “If it does, then it's acting so arbitrarily that it might just as easily
+ boot you for owning white socks.
+ You can't base decisions on something like that, even if it were true.”
+\end_layout
+
+\begin_layout Standard
+“You seem very open to the possibility of religions having some things right,
+ for someone who `isn't anything',” Carlisle observed.
+\end_layout
+
+\begin_layout Standard
+“Not that long ago, I discovered that vampires exist,” I pointed out.
+ “It's making it seem more likely that something about how I evaluate supernatur
+al claims is off, so I'm trying to be more careful.
+ Anyway.
+ A force of nature doesn't need to act for reasons,” I continued.
+ “So it could do something mean and pointless like not letting vampires
+ have an afterlife if there were one available.
+ But the problem with that hypothesis is that because you can't reason from
+ 
+\emph on
+motives
+\emph default
+ about the impersonal laws of the universe, the only way to know what they
+ do is to watch them doing it.
+ I don't suppose Alice can see souls as they float off to their final destinatio
+ns?” I guessed.
+\end_layout
+
+\begin_layout Standard
+“She cannot,” Carlisle confirmed.
+\end_layout
+
+\begin_layout Standard
+“Edward can't read the minds of dead people? Jasper doesn't get mood readings
+ off corpses? None of the Volturi or anybody have empirical data on what
+ happens to vampires, or humans, once they pass on?”
+\end_layout
+
+\begin_layout Standard
+Carlisle shook his head.
+ He was a good audience -- inserting facts where I needed them and otherwise
+ letting me think aloud.
+\end_layout
+
+\begin_layout Standard
+“Is there 
+\emph on
+any
+\emph default
+ observation that 
+\emph on
+anyone
+\emph default
+ has plausibly claimed to make 
+\emph on
+ever
+\emph default
+ indicating that an afterlife exists and that vampires don't get in?” I
+ inquired, and Carlisle shook his head again.
+\end_layout
+
+\begin_layout Standard
+“Then that leaves us with a few possibilities consistent with vampires losing
+ the ability to go to an afterlife,” I said.
+ “There is a deity sorting souls which dislikes vampires, and it acts so
+ inscrutably in so disliking that there's no way to follow its reasoning
+ and be sure to get good results by acting in ways it likes.
+ Or, there is a law of nature governing the afterlife which prohibits vampires
+ from getting in, which nobody has any way of observing, and which we therefore
+ have no reason to believe exists.
+ Am I missing something?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Not as far as I can tell,” Carlisle said.
+\end_layout
+
+\begin_layout Standard
+“And neither of those situations leaves me with a good reason not to become
+ a vampire,” I concluded.
+ “In either case, there's just no information.
+ A deity, if one exists, either acts for consistent reasons that our minds
+ can approximate, or it can't be tracked in such a way that there's potentially
+ efficacious things we can do to try and please it.
+ A naturally-arranged afterlife, if one exists, either admits vampires or
+ doesn't -- for that matter, it either admits 
+\emph on
+humans
+\emph default
+ or doesn't -- and there is absolutely no way to tell.
+ And furthermore, there's no reason to believe that an afterlife of 
+\emph on
+any
+\emph default
+ kind exists, given that there are no observations of it and the universe
+ in general doesn't seem like someone sane is running it.
+ And all of that means that the only criteria on which I should base my
+ decision about becoming a vampire on are how my 
+\emph on
+life
+\emph default
+ -- the part spent kicking about on Earth with my eyes open and my brain
+ running -- will be as a vampire or a human.
+ And that seems to come firmly down on the side of vampire, with the whole
+ immortal and superpowered thing.
+ There are a couple of disadvantages, but none worth literally dying to
+ avoid.”
+\end_layout
+
+\begin_layout Standard
+I heard Alice's voice from down the hall hollering, “Thank youuuuuuuu,”
+ in relieved tones.
+ Apparently my future had snapped back into place.
+\end_layout
+
+\begin_layout Standard
+“You've given this a lot of thought,” said Carlisle.
+\end_layout
+
+\begin_layout Standard
+“Most of it just now,” I said.
+ “It helps to have an audience -- usually I write, and that does the job,
+ but if I 
+\emph on
+just
+\emph default
+ think, I wind up revising things so they're pleasant instead of trying
+ to make sure they're true.”
+\end_layout
+
+\begin_layout Standard
+“I'm glad I could help.” He sounded very genuine when he said it -- he was
+ really pleased to have been able to serve as a sounding board and fact-checker
+ for my thought process.
+\end_layout
+
+\begin_layout Standard
+“Yeah, thank you,” I said brightly.
+ “Now I just have to figure out how to explain this to Edward so he doesn't
+ avoid the topic like the plague or continue to complain about me wanting
+ to be a vampire.
+ Although I suppose he heard this entire conversation, unless he left the
+ house and got out of thought range or is tuning you out.”
+\end_layout
+
+\begin_layout Standard
+Carlisle nodded.
+ “I somehow doubt that he did leave,” he said.
+\end_layout
+
+\begin_layout Standard
+“I guess I'll go see.
+ Thanks again,” I said with a warm smile.
+\end_layout
+
+\begin_layout Standard
+And I left the office and descended the stairs to see what Edward thought
+ of the entire mess.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I tiptoed down three stairs, foolishly hoping to sneak up on Edward and
+ get a clue of his reaction before he noticed my approach, and then I realized
+ this was stupid -- I couldn't possibly walk quietly enough that he wouldn't
+ hear from any point in the house.
+ So I clomped down the stairs normally, and when my view of the first floor
+ came to include Edward, I found I needn't have bothered to tiptoe even
+ if it would have hidden me.
+ He wasn't making any effort to conceal his body language -- it screamed
+ tension.
+ His hands were clenched in his hair and he was bent forward with his elbows
+ planted on the table.
+ I couldn't see his face, but guessed it was in some contortion of displeasure.
+\end_layout
+
+\begin_layout Standard
+“Edward?” I murmured.
+\end_layout
+
+\begin_layout Standard
+“Hello, Bella,” he said, just loud enough for me to hear.
+ I reached the bottom of the stairs and walked towards him.
+ When I retook my chair, he murmured, “There's no convincing you, is there?”
+\end_layout
+
+\begin_layout Standard
+“If I'm missing some facts, or I made a bad inference somewhere, please,
+ tell me,” I replied.
+ “I realize there are drawbacks to being a vampire, but\SpecialChar \ldots{}
+ unless you're missing
+ something 
+\emph on
+huge
+\emph default
+ in your informational brochure\SpecialChar \ldots{}
+ none of it looks worth dying to avoid.
+ And that's what it 
+\emph on
+would
+\emph default
+ be to stay human.
+ You know that.”
+\end_layout
+
+\begin_layout Standard
+“There's no need for it to be 
+\emph on
+soon
+\emph default
+, though,” he said.
+ Apparently he'd either been convinced by my exchange with Carlisle, or
+ considered 
+\emph on
+me
+\emph default
+ so entrenched in my existing reasoning that he'd given up attacking it.
+ “You could wait.
+ Finish high school, go to college.”
+\end_layout
+
+\begin_layout Standard
+“What's the advantage to doing that while human?” I asked.
+ I could see 
+\emph on
+disadvantages
+\emph default
+: if I waited too long to turn, I'd be stuck looking like a cougar forever
+ once I wound up inevitably-vampire-married to Edward, who'd been turned
+ when he was seventeen and would stay that way.
+ Some cause of death Alice couldn't predict well in advance could get me
+ -- an indecisive murderer or something.
+ I would have imperfect recall of the experiences I accumulated during those
+ years (or even, depending on what had caused Alice's amnesia and how common
+ it was, none at all).
+ The Volturi could discover and get annoyed with my continued status as
+ a human in-the-know, and force the issue at a time not of my choosing.
+\end_layout
+
+\begin_layout Standard
+Surprisingly, Edward didn't deflect the question or answer with floaty vagueness.
+ “Timing,” he said.
+ “You 
+\emph on
+might
+\emph default
+ be able to safely return to high school after only a summer to adjust --
+ you might not.
+ And `not' is the sort of thing that we would find out for sure only if
+ you actually killed someone, so pushing it wouldn't be wise.
+ In particular, you'd need to avoid your family.
+ Even after we were sure it was safe for you to be around humans, the change
+ would be very noticeable.
+ You'll look different, you'll move differently, you won't want to eat human
+ food or go out in the sun publicly -- all of these are things that people
+ who know you would pick up on.
+ If anyone got inquisitive enough to find something out, we'd need to turn
+ them, too, whether they liked it or not, or hide them from the Volturi
+ well enough to keep them from getting killed -- impractical, you should
+ know.”
+\end_layout
+
+\begin_layout Standard
+“That it?” I asked, when he seemed to have finished.
+\end_layout
+
+\begin_layout Standard
+“That's all I think you're likely to find swaying,” he said.
+\end_layout
+
+\begin_layout Standard
+I frowned -- that wasn't a good sign regarding Edward's own opinion of what
+ was and wasn't worth consideration -- but chose to put off pressing the
+ issue.
+ “Okay,” I said.
+ “How does this timeline sound? You and I make it known that we're an item,
+ for setup purposes -- tomorrow, perhaps, I'll tell Jessica and she can
+ tell the whole school.
+ We finish out the school year as the showiest, most sickeningly inseparable
+ couple in the universe.”
+\end_layout
+
+\begin_layout Standard
+I closed my eyes, envisioning how the rest of the scenario would play out,
+ and went on.
+ “We let out that your family is going on vacation to Europe for the summer
+ and I go along.
+ Carlisle already looks 
+\emph on
+suspiciously
+\emph default
+ young for the age he's claiming -- you couldn't have planned to stay here
+ much longer; I expect you were going to split once you got out of high
+ school.
+ We could really go to Europe, or someplace else, depending on how curious
+ Charlie seems and accordingly how likely we are to need to verifiably prove
+ it -- he's the most likely point of failure here, since he has the most
+ interest in my personal life and the most resources to poke around with.
+ As soon as we get wherever we go, you turn me and I start adjusting --
+ I'll be `sick' for three days, if anybody asks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I can keep in touch with my family by e-mail and phone.
+ Maybe I'll get a webcam with a really terrible picture and use it in a
+ room with bad light so they can see me without noticing I'm suddenly even
+ paler and have different colored eyes.
+ And then I tell them we've eloped and I'm going to take a super-long honeymoon-
+cum-gap year.
+ That should be long enough, since Alice saw me with newborn eyes near live
+ humans without being in the process of sucking their blood.
+ Then I enroll in a college someplace really inconvenient for either of
+ my parents to travel to, maybe in Australia, with a forged high school
+ transcript if necessary, and keep up with the electronic communication.
+ We send them photos where we're really tiny figures in the background,
+ and/or where we touch up the images so I look suitably pink and we both
+ look the right non-seventeen age.”
+\end_layout
+
+\begin_layout Standard
+I opened my eyes.
+ Edward looked some awkward combination of impressed, hopeful, and despairing.
+ “Well?” I said.
+\end_layout
+
+\begin_layout Standard
+“You're going to tell the entire school that we're an `item'?” he said.
+\end_layout
+
+\begin_layout Standard
+“If I'm going to turn, it's going to happen eventually,” I said.
+ “And it lends plausibility to the rest of the story.
+ I can't tell Jessica the entire slew of details if I want her to live.”
+\end_layout
+
+\begin_layout Standard
+“It's interesting that you're so eager to be a vampire yourself, but you
+ don't want to change everyone you know, too,” Edward said slyly.
+\end_layout
+
+\begin_layout Standard
+“That's not it,” I said.
+ “It would be wonderful if Jessica and Angela and Charlie and Renée and
+ everyone else could all live forever.
+ But I'd need to 
+\emph on
+inform
+\emph default
+ them of what that would entail before I did it, to satisfy my conscience.
+ I can't assume they'll agree with me.
+ And if I informed them, and they 
+\emph on
+didn't like
+\emph default
+ the idea, then they'd have to be hidden from the Volturi forever, or they
+ 
+\emph on
+and
+\emph default
+ I would be killed for breach of masquerade.
+ I'd be risking my life to force anyone I told into a choice between untimely
+ death or potentially unwanted vampire life.
+ Do I have that about right?”
+\end_layout
+
+\begin_layout Standard
+Edward nodded, looking disappointed that he hadn't actually found a chink
+ in my logic.
+\end_layout
+
+\begin_layout Standard
+“Alice could probably see that I would like the idea of becoming a vampire,
+ before she told me the whole story,” I said, excusing my own case.
+ “And I think it 
+\emph on
+would
+\emph default
+ be a good use of time to see if she can check the likely reactions of a
+ handful of favorite people, although I can already guess that Charlie and
+ Renée would probably say no.
+ But I 
+\emph on
+also
+\emph default
+ suspect that if this coven suddenly tripled in size, the Volturi would
+ take that as some kind of power grab.
+ I certainly don't want them to think we're challenging them, or about to.
+ So even that, it wouldn't be safe to overdo.”
+\end_layout
+
+\begin_layout Standard
+(I didn't want the Volturi to 
+\emph on
+think
+\emph default
+ I was trying for a coup.
+ I might want to actually commit one eventually -- they seemed overfond
+ of the death penalty and excessively dependent on secrecy.
+ But Edward was not immune to Aro, their mindreader -- and I might well
+ be.
+ Any such plans I might develop had to stay safely in my head, initial steps
+ concealed by other overt reasons, until they were just about ready to spring
+ into existence.)
+\end_layout
+
+\begin_layout Standard
+“The one thing left that I don't think I know,” I said, “which might be
+ relevant, is the concern of Rosalie's you alluded to.
+ Do you think she would be willing to share it, or let you tell me?”
+\end_layout
+
+\begin_layout Standard
+“Perhaps,
+\begin_inset Quotes erd
+\end_inset
+
+ Edward said, looking suddenly hopeful.
+ “I'll go speak to her.” And he got up and disappeared up the stairs.
+\end_layout
+
+\end_body
+\end_document

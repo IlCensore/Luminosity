@@ -1,0 +1,3172 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{2}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Reveal
+\end_layout
+
+\begin_layout Standard
+When the bell rang, I was at the stove, giving the lentils a stir and pouring
+ in a little more water.
+ I left the spoon in the pot and went to answer the door.
+ It was Alice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can I help you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+May I come in, please?
+\begin_inset Quotes erd
+\end_inset
+
+ Alice asked.
+\end_layout
+
+\begin_layout Standard
+I thought about this.
+ Charlie wouldn't likely object to my having her over; although I didn't
+ have any classes with Alice, she was a peer in some sense, and he swore
+ up and down that she and her family were the ideal sort of people.
+ Besides, if I was ever going to figure out the answers to my questions,
+ it would probably involve talking to some Cullens at some time.
+ I stood aside and waved Alice into the house; she pranced inside.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want some lentils?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked idly, gesturing at the pot on the stove.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They're sort of related to chickpeas, I think.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I already ate,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Thank you very much anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I nodded and sat down at the kitchen table; Alice did the same.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What's up?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Be patient with me, please,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said, looking pained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have a lot to tell you and I've never had to explain it before and it's
+ 
+\emph on
+really complicated
+\emph default
+ and my family is going to be angry at me, but there's no other way, I 
+\emph on
+looked
+\emph default
+, there's really not.
+ You've got to know, and sooner's safer than later.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I, um, register a general approval of knowing things rather than not, and
+ of safety,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you think you're going to be able to explain what you want to explain
+ before Charlie -- I mean, my dad -- gets home?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice confidently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He won't get back until after eight.
+ The basics won't take longer than that.
+ You're going to want extra proof, but we can meet some other day and take
+ care of it.
+ So, uh, first -- I can predict the future.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I nodded slowly, inviting her to go on.
+ My crazy idea was looking less crazy.
+ If Alice believed of 
+\emph on
+herself
+\emph default
+ that she could predict the future, 
+\emph on
+and
+\emph default
+ I'd independently thought of it -- it was still wildly unlikely, but she
+ was willing to let me test it, apparently, and that sure was 
+\emph on
+something
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, passing me a folded sheet of paper.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's the weather for the next week.
+ I know that weather reports are sometimes right and that Forks is easier
+ to guess than anywhere else, but weather's easy for me, and I put everything
+ down to the minute.
+ I can do physical events like that with no trouble.
+ I can tell what people are going to do if they've made their decisions
+ -- if they might do any of several things I get less clear images, but
+ not nothing -- but minds can always change.
+ So weather's one of the best tests.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I unfolded the sheet of paper.
+ It specified heavy rain until 11:09 that evening, after which brief sleeting
+ was called for, and then a subdued drizzle would dominate the night.
+ She'd thrown in a rainbow for Thursday morning.
+ I folded the paper back up.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dice?
+\begin_inset Quotes erd
+\end_inset
+
+ I proposed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Cards would be better.
+ How you shake the dice matters, but once you shuffle cards they stay put,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can do better than chance with dice if you prefer them, though.
+ Oh, but you have a dice cup.
+ I can do perfectly with dice too that way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I got some of both from the cabinet under the stairs and offered Alice a
+ sheet of paper.
+ I shuffled the deck several times and she filled her page with predictions,
+ writing rapidly and with perfect penmanship.
+ Then I took the paper and flipped through each card in succession.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She got them all right.
+ I didn't bother repeating the cards right away; time was limited and I
+ already had more information than I could readily explain.
+ Charlie indeed owned a dice cup, which Alice said would let her get all
+ of the dice perfect as long as I hid the cubes under it for a moment after
+ shaking them.
+ She was right sixteen times in a row, at which point I swept the dice out
+ of the way and planted my elbows on the table.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do you do it?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I honestly 
+\emph on
+don't
+\emph default
+ know,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I've been able to as long as I could remember.
+ I focus on people, or things, and the possibilities show themselves in
+ visions.
+ No audio, but I'm okay at lipreading; they're not always very clear, and
+ it gives me headaches to focus on really indecisive people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+As long as you can remember is -- how long?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're, what, my age? A year older?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm at least a hundred years old,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice evenly, maintaining steady eye contact.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What? Wait -- at least?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I woke up in 1920 with no memories and looked about as old as I do now.
+ I think I'm physically nineteen, but if I look old for my age -- I mean,
+ the age I was when it happened -- then I could have been born as late as
+ 1905 or so,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And when you woke up you could see the future,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I wasn't sure if I was playing along or if I really bought the rest of
+ the story along with her casino-busting tricks, but even if she were playing
+ with me, outright lies were a change of pace from cryptic eccentricity.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not -- none of my family is -- human.
+ But I'm the only one who can't remember being one.
+ We're not sure what happened to me; I can't see the past the same way I
+ can see the future.
+ The rest of them know more about where they came from.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And so you are a\SpecialChar \ldots{}
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Vampire,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, wincing a little.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please don't freak out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I\SpecialChar \ldots{}
+ really 
+\emph on
+don't
+\emph default
+ think I want you to prove that to me,
+\begin_inset Quotes erd
+\end_inset
+
+ I began carefully.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, nonononono,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, her eyes flying open very wide, 
+\begin_inset Quotes eld
+\end_inset
+
+we don't drink human blood.
+ Not my family.
+ Animals only.
+ Although it wouldn't be smart for you to watch us eating them, either.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay\SpecialChar \ldots{}
+ That's why you guys never eat anything at school?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice winced.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know it's kind of conspicuous.
+ It's not physically impossible for us to swallow normal food, but it's
+ really, really unpleasant.
+ And we can't digest it, so it just all comes back up later.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Charming mental image,
+\begin_inset Quotes erd
+\end_inset
+
+ I remarked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is that why you all look like you're made of chalk, too?
+\begin_inset Quotes erd
+\end_inset
+
+ Alice nodded.
+ I asked, 
+\begin_inset Quotes eld
+\end_inset
+
+Did you ever consider wearing makeup?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They don't make the stuff to stay on our skin,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, holding out an arm.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Go ahead,
+\begin_inset Quotes erd
+\end_inset
+
+ she added.
+\end_layout
+
+\begin_layout Standard
+I laid my palm on the back of her hand.
+ She felt like a piece of rock.
+ Cold, smooth, unyielding rock.
+ I nodded.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It'd all rub off as soon as we touched anything,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, putting her arm back down.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So before you ask, most of the myths are false.
+ We do drink blood, but have no unusual relationship with bats, no aversion
+ to garlic in particular over anything else you might eat, don't sleep in
+ coffins -- or at all, actually -- can't turn into smoke, and aren't harmed
+ by sunlight.
+ Although sunlight does make us kind of conspicuous, so we avoid going out
+ in it in public.
+ That's why we pick places like this to live -- cloud cover.
+ A stake through the heart would be impossible -- there's no way you could
+ drive a piece of wood through my eye, let alone my ribcage -- and decapitation'
+s only an issue if we don't get everything reattached in a hurry.
+ We can catch fire, though, so please don't try that one.
+ We are very fast, agile, and strong, and have very acute senses.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice decided to illustrate this last sentence by getting up, jumping into
+ the air, and landing on one hand, which she used to support herself with
+ no visible effort.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+One comes to have more vampires than one had before by taking a human and
+ adding venom.
+ Easiest way to get that is from a bite, but according to Carlisle, if I
+ cried into an open wound I could turn someone that way too.
+ The process is not fun.
+ I can't remember mine, and wasn't there for any of the others', but I am
+ told that it takes three days and is emphatically not fun.
+ You can't undo it.
+ Afterward we don't age.
+ We have to move around a lot so people don't wonder about that too much.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I stared at her.
+\end_layout
+
+\begin_layout Standard
+She pushed off the ground, did a little flip, and landed on her feet, then
+ sat back in her chair.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Questions?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did I actually summon you here by deciding to go to Charlie, or was that
+ a coincidence?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You summoned me, sort of, but please don't make too much of a habit of that,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When 
+\emph on
+that
+\emph default
+ firmed up we all flew into a panic.
+ It would be a huge problem if police started investigating us.
+ We'd have to move.
+ Probably abroad for a while just to be safe, maybe split up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is this all of you, or are you split up from some others now?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This is all of our family.
+ We have some friends up in Denali, and a few acquaintances scattered around
+ elsewhere,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Uh\SpecialChar \ldots{}
+ why wouldn't it be a good idea for me to see you eat?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because when we hunt we're not thinking very clearly,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Humans smell a lot more appetizing than animals do.
+ If we're hunting, and a human wanders by -- we might be able to pull back,
+ I know Carlisle -- our father, Dr.
+ Cullen -- could at least, but there'd be more risk than there is just attending
+ school with us.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And attending school with you is\SpecialChar \ldots{}
+ how much risk, approximately?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ A little shiver ran up my back.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+With me -- not much,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said soothingly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or Rosalie or Emmett.
+ Jasper has more trouble than most of us, but we look out for him -- if
+ I saw him losing it I'd get him out of the building in plenty of time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She hadn't mentioned Edward.
+ I looked at her pointedly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Edward is\SpecialChar \ldots{}
+ very controlled,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Normally I wouldn't think he'd ever be a danger.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Normally,
+\begin_inset Quotes erd
+\end_inset
+
+ I prompted.
+\end_layout
+
+\begin_layout Standard
+Alice winced.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Um.
+ Will you promise that you won't flip out and run away and never talk to
+ Edward again?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will promise no such thing!
+\begin_inset Quotes erd
+\end_inset
+
+ I exclaimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If Edward's going to drain my fluids like I'm a Cadbury creme egg I 
+\emph on
+really think I ought to know
+\emph default
+, whether or not this will cause me to do something that will hurt his 
+\emph on
+feelings
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I really really really don't think he will!
+\begin_inset Quotes erd
+\end_inset
+
+ shrilled Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't see it -- not anymore -- but you're right, you should know.
+ Um, humans smell very tasty.
+ And some humans smell\SpecialChar \ldots{}
+ tastier\SpecialChar \ldots{}
+ than\SpecialChar \ldots{}
+ others.
+ To\SpecialChar \ldots{}
+ specific vampires.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I dropped my head into my hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ And I smell very, very yummy to Edward.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You should put more water in your lentils,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They'll burn soon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I went to the sink to fill up a cup.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why,
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, 
+\begin_inset Quotes eld
+\end_inset
+
+did he come back to school? I realize it's a 
+\emph on
+hassle
+\emph default
+ to move, but if he's likely to lose it around me, why didn't he just stay
+ wherever he went that week he was gone? I think my 
+\emph on
+life
+\emph default
+ ought to be worth some hassle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He went to visit our friends in Denali,
+\begin_inset Quotes erd
+\end_inset
+
+ supplied Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He came back because\SpecialChar \ldots{}
+ It's complicated.
+ We missed him -- especially our mother Esme.
+ And he\SpecialChar \ldots{}
+ is curious about you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wants to know what I taste like with Dijon mustard?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked scathingly, returning to my seat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ew,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, wrinkling her nose.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, I mean -- I'm not the only one with a power.
+ Edward -- and Jasper -- have them too.
+ Edward can\SpecialChar \ldots{}
+ read minds.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I stood up so fast my chair fell over.
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+What in the name of everything decent and sane is he doing around people?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I screeched, pulse racing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella! Bella, please! Calm down!
+\begin_inset Quotes erd
+\end_inset
+
+ begged Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's not as bad as you think!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How could 
+\emph on
+reading minds
+\emph default
+ be anything other than a 
+\emph on
+flagrant and unconscionable
+\emph default
+ violation of privacy that everyone around him has every reason to expect?
+\begin_inset Quotes erd
+\end_inset
+
+ I cried.
+ I'd been worried someone would steal my 
+\emph on
+notebook
+\emph default
+, would make my thoughts public in that condensed and encoded form.
+ (I'd once considered actual code -- some simple cipher to make the writing
+ opaque to a casual observer -- but I hadn't managed to develop one 
+\emph on
+I
+\emph default
+ could read fluently.
+ It was a tradeoff.) It had never crossed my mind that anyone would be able
+ to wander by and casually pluck them directly from my brain.
+\end_layout
+
+\begin_layout Standard
+They.
+ Were.
+ 
+\emph on
+Mine
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+I was evaluating escape plans -- ways to get to Phoenix, ways to get my
+ grandma to take me in, ways to get anywhere but near the mind-reader --
+ but Alice rushed through a series of placating sentences: 
+\begin_inset Quotes eld
+\end_inset
+
+Bella, he can't read 
+\emph on
+you
+\emph default
+.
+ You're completely opaque to him.
+ You're the only one he's never been able to hear, but he can't, he really
+ can't, Bella, it's 
+\emph on
+okay
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I decided to provisionally act as though I believed her -- there was no
+ way I could be out of Forks for the long term in the hour remaining before
+ eight o'clock anyway -- and forced myself calm.
+ I picked up my chair.
+ I sat in it.
+ I folded my arms.
+ I frowned at Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And everyone else?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+In the family we're all used to it, we don't mind, it's useful sometimes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice earnestly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Like, he can see what I see -- honestly, if he couldn't, we wouldn't be
+ having this conversation now.
+ He's very trustworthy -- if he reads something we don't want shared he
+ keeps it to himself.
+ And Edward thinks other people -- humans -- are 
+\emph on
+boring
+\emph default
+.
+ He tunes them out ninety-five percent of the time.
+ He can't turn it off entirely, but he doesn't have to 
+\emph on
+listen
+\emph default
+ any more than you have to concentrate on what people are saying at a crowded
+ party.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ I said grudgingly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This has what to do with him being 
+\emph on
+curious
+\emph default
+ about me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He won't go into much detail\SpecialChar \ldots{}
+ but he's really frustrated that he can't read
+ you.
+ I'm not sure why, he thinks everyone else is so boring.
+ But he's been watching you through other people's eyes
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I recoiled again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice, those are my 
+\emph on
+friends
+\emph default
+.
+ I 
+\emph on
+care
+\emph default
+ if Edward has been 
+\emph on
+reading their minds without permission
+\emph default
+.
+ That's not 
+\emph on
+okay
+\emph default
+.
+ It's also not okay for him to 
+\emph on
+eavesdrop
+\emph default
+ on private conversations.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll tell him that you -- I'll remember when he's nearby that you said that,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice promised.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that likely to matter?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked skeptically.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Actually, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+\end_layout
+
+\begin_layout Standard
+That was surprising.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why would he care what I think of what he does?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice wrung her hands, and now I realized that the stony scraping noise
+ I'd heard at lunch was her 
+\emph on
+hands
+\emph default
+, not a pebble in her boot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm spilling the beans 
+\emph on
+so much
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ she moaned.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Didn't you come here specifically 
+\emph on
+to
+\emph default
+ spill the beans?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ I got up to add more water to my lentils and stir them again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only 
+\emph on
+most
+\emph default
+ of them.
+ So you wouldn't\SpecialChar \ldots{}
+ poke around too much.
+ When I decided to come talk to you, the future where you talked to your
+ father 
+\emph on
+did
+\emph default
+ go away.
+ I don't see us moving anymore,
+\begin_inset Quotes erd
+\end_inset
+
+ she said defensively as I re-took my seat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, yes, I have no plans to send Charlie to annoy a pack of vampires who
+ could pop him like a water balloon to cover their tracks,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We wouldn't hurt him\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice uncertainly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm glad of that.
+ I still wouldn't send him after you.
+ Suppose you didn't hurt him, just startled him with one of your super-strength
+ tricks or something, and he shot to subdue, and noticed that you are made
+ of 
+\emph on
+rock?
+\emph default
+ And then he tried to go to the media? Do you let him go? Do you put him
+ under house arrest in a bunker in Nunavut for the rest of his life and
+ send forged notes to his friends claiming that he's Patient Zero of the
+ chartreuse death plague and under quarantine at the 
+\noun on
+cdc
+\noun default
+? Or do you have a snack? Suppose he followed you really persistently, thought
+ you were up to something big, and ran into one of you stalking a delicious
+ bunny? Snacktime? Would Charlie look better or worse than the bunny after
+ that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If he tried to go to the media, 
+\emph on
+we
+\emph default
+ wouldn't have to hurt him.
+ There are other vampires -- who 
+\emph on
+do
+\emph default
+ eat humans -- and some of them take it on themselves to keep us a secret
+ from humans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I clonked my head on the table.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ How long do I have to live, dear helpful Alice?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Actually\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice with great reluctance.
+\end_layout
+
+\begin_layout Standard
+I sat up instantly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I -- dear lord, did you 
+\emph on
+genuinely
+\emph default
+ put my life in danger by telling me this? Are the vampire masquerade organizers
+ going to swoop into Forks under cover of night and snuff me because you
+ didn't want to 
+\emph on
+move?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't see that!
+\begin_inset Quotes erd
+\end_inset
+
+ squeaked Alice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+What do you see?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+You're going to be a vampire!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ she shrieked.
+\end_layout
+
+\begin_layout Standard
+I sat back.
+\end_layout
+
+\begin_layout Standard
+I blinked.
+\end_layout
+
+\begin_layout Standard
+Alice peered up at me through her eyelashes, looking a thousand times more
+ fragile than she really was.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's something.
+ Turning is a get-in-on-the-secret-free card? No awful death?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice nodded mutely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It 
+\emph on
+will
+\emph default
+ happen\SpecialChar \ldots{}
+ but I don't know when.
+ You don't look a lot older in the visions I've had of it, though, so --
+ soonish?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Soonish
+\emph default
+.
+ Incongruous sort of word to attach to the timing of my impending vampirization.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I looked at the clock.
+ Charlie would be home in half an hour.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have a few more questions left,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Fire away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One: What does Edward care what I think?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ Alice grimaced; apparently she'd been hoping I'd forgotten that.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Two: What's Jasper's power? And three: Who are the vampire masquerade organizers
+, and what else pisses them off?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice made a small, unhappy huffing noise at having to answer these, but
+ apparently saw that I wasn't going to let it go if she kept evading.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Edward 
+\emph on
+likes
+\emph default
+ you,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, getting the first part over with in three reluctant words.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jasper can sense and affect moods in the people around him -- it's not a
+ mental effect, just physical, things like pulse rate.
+ The vampire masquerade organizers' are called the Volturi.
+ They live in Volterra, Italy.
+ We have to keep our secrets, which means that if we create new vampires
+ they have to be kept under control and we can't be conspicuous ourselves.
+ Inconspicuousness doesn't usually mean avoiding feeding on humans, it just
+ means doing it discreetly -- most vampires move around a lot so they don't
+ kill too many in any one place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I inhaled deeply, then let out a tired sigh.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have a lot to process,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll let you know when I think I've ground through it all.
+ By some more conventional means than deciding to out your family.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said wryly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll see you tomorrow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bye,
+\begin_inset Quotes erd
+\end_inset
+
+ I said absently, staring at the bright yellow kitchen cabinets as though
+ if I did it hard enough I could count our plates.
+ Alice let herself out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At 11:09, it sleeted, and a few minutes later it began to drizzle slowly.
+\end_layout
+
+\begin_layout Standard
+I did not sleep well.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I cut English the next morning.
+ Just didn't go.
+ I'd drop by after school to hand in my homework.
+ I was at home, abusing my notebook.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\noun on
+stuff i know
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Cullens (& Hales) are weird in many ways.
+ (See last page.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Alice exhibits freaky abilities consistent with telling the future (van,
+ interrupting-w/o-interrupting, showing up yesterday, 
+\noun on
+cards
+\noun default
+ & 
+\noun on
+dice
+\noun default
+, weather so far (keep checking that)).
+ No other hypotheses.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\noun on
+stuff alice said
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Cullens & Hales are vampires.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Vampires have superpowers, drink blood, are 
+\begin_inset Quotes eld
+\end_inset
+
+conspicuous
+\begin_inset Quotes erd
+\end_inset
+
+ in sun, are made out of humans (not fun), don't age.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Some have extras: Alice can see the future (seen evidence of this), Edward
+ reads minds (not mine), Jasper messes with (physical) components of mood
+ (do not want).
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+I am extra yummy smelling to Edward.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Edward likes me.
+ (
+\noun on
+wtf
+\noun default
+.
+ This sort of thing did not happen in Phoenix.
+ Worth cutting Govt.
+ too to figure out general plan for this & Mike & Eric??)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Lots of vampires around.
+ Most eat people.
+ Cullens & Hales (& their friends? didn't specify) don't.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Bad idea to be around hunting vampires.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+Vampires sorta ruled (unclear on govt.
+ system) by vampires called Volturi in Volterra, Italy.
+ Volturi like secrets & kill to enforce rules.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+-
+\begin_inset space ~
+\end_inset
+
+I will be a vampire.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Soonish
+\begin_inset Quotes erd
+\end_inset
+
+.
+ (!!!!!!!!!!)
+\end_layout
+
+\begin_layout Standard
+I drew arrows between things, circled key words in red, scribbled phrases
+ and punctuation in the margins so small that I couldn't read them, and
+ finally tore out the page and copied just the important parts onto the
+ next sheet more neatly.
+\end_layout
+
+\begin_layout Standard
+Then I turned the page again and thought of experiments.
+\end_layout
+
+\begin_layout Standard
+I couldn't come up with an ethical way to test Jasper's special ability
+ without letting him use it on me.
+ Which I emphatically did not want to do.
+ Enlisting an informed outside party would spill the family's secret if
+ it was true; using uninformed outsiders would wrong them; using one of
+ the other vampires would be a test of their acting skills, not necessarily
+ Jasper's mood-altering mojo.
+ After a moment's consternation, I decided to skip that test.
+ I didn't think Alice would be lying or mistaken about Jasper's power 
+\emph on
+and nothing else
+\emph default
+.
+ If my other results all pointed at 
+\begin_inset Quotes eld
+\end_inset
+
+yep, magical vampires
+\begin_inset Quotes erd
+\end_inset
+
+, I'd take the specific claim about Jasper as part of the package unless
+ I discovered that there was some ulterior motive such that Alice might
+ have chosen that particular supernatural claim to fabricate.
+ For safety reasons, I also did not invent a test for the 
+\begin_inset Quotes eld
+\end_inset
+
+drink blood
+\begin_inset Quotes erd
+\end_inset
+
+ claim.
+ I came up with some relatively inexpensive tests of several of the other
+ statements.
+ They would not be Absolutely Conclusive; I didn't expect to publish anything
+ in a journal, though, I just wanted to be sure that I wasn't reading way
+ into a few little quirks.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+1.
+ Get a vampire to pick up something very big.
+ Maybe a fallen log from the woods or a boulder if one can be found.
+ (Fear damage to truck -- not designed to be lifted)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+2.
+ Find a wide open space and a spot with a good view of it, measure it, get
+ a vampire to beat the world sprinting record running it in plain sight.
+ Or send one from several miles from my house to retrieve something from
+ my house.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+3.
+ Quietly murmur things far away from vampires & test if they heard.
+ (Not Alice, or Edward who can read Alice.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+4.
+ Write things and hold them up to far away vampires & test if they read.
+ (As above.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+5.
+ Find out Edward's range.
+ Write numbers, show them to a different vampire, have Edward sit in mindreading
+ range but out of (vampire!) earshot & eyeshot where he will write down
+ what he reads in the other vampire's mind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+6.
+ Look at a vampire in the sun.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+7.
+ Continue checking Alice's weather predictions.
+ (All good as of morning 01/26/05)
+\end_layout
+
+\begin_layout Standard
+I closed my notebook and looked at the clock.
+ To make it to Government in time, I didn't have to leave for another four
+ minutes, but if I went promptly I could drop off my homework at English
+ first instead of waiting until the end of the day.
+ I decided not to skip another class just to figure out why I was suddenly
+ all kinds of popular with the opposite sex.
+ I packed up my things and left.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The teacher didn't seem to care about my poor attendance and accepted my
+ homework with only a small sigh, no ominous remarks about penalties for
+ lateness.
+ I went to my next class, and the two after that, without incident, and
+ then came lunch.
+\end_layout
+
+\begin_layout Standard
+Alice popped up next to me as I approached the door with Jessica again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Bella!
+\begin_inset Quotes erd
+\end_inset
+
+ she said in her characteristically musical voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want to sit with us today?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I needed to present my test ideas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jessica, with an edge of a whine to her voice.
+ Uncharitably, I thought 
+\emph on
+Aw, poor Jessica, the vampires are stealing your shiny new friend
+\emph default
+, but I shoved that thought in a back corner where it wouldn't do any harm.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, we were going to figure out when to study for the trig test,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, turning to Jessica instead of impolitely continuing to face Alice
+ as I had the previous day.
+ I didn't think that was why she didn't like that I would be sitting with
+ the vampires, but it was a kinder assumption, and it was a plan we'd actually
+ had.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Uh, call me after school and we'll pick a time then? My plans are kinda,
+\begin_inset Quotes erd
+\end_inset
+
+ I made a wild gesture, 
+\begin_inset Quotes eld
+\end_inset
+
+and I don't think I could nail down a spare couple hours now anyway.
+ Okay?
+\begin_inset Quotes erd
+\end_inset
+
+ I smiled apologetically.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jessica in an automatic sort of tone, and I widened my smile a bit
+ before following Alice to the vampire table.
+ Halfway through the trip across the room, she remembered that I needed
+ food and she needed props, and we detoured to fetch them, then resumed
+ course.
+\end_layout
+
+\begin_layout Standard
+Alice told me that I could whisper without interfering with her family's
+ ability to hear me, while preventing any other humans from getting an earful;
+ the vampires would speak loud enough to hear but choose moments when no
+ humans were nearby to speak.
+ Alice announced that this wouldn't happen to break up the flow of conversation
+ much.
+\end_layout
+
+\begin_layout Standard
+I wound up sitting at a corner, across from Edward, next to Alice.
+ On Alice's other side was Jasper, who sat opposite Rosalie, and Emmett
+ between her and Edward.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jessica is going to demand an explanation later,
+\begin_inset Quotes erd
+\end_inset
+
+ Edward murmured to me when I sat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you read her mind to find that out?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, carefully cooling the hostility in my voice, and he started to
+ nod, then glanced at Alice and stopped.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice said she'd tell you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said carefully, 
+\begin_inset Quotes eld
+\end_inset
+
+but I should probably tell you myself.
+ That is incredibly not okay.
+ I understand that to whatever extent you can't help it, well, you can't
+ help it, and I can't actually 
+\emph on
+verify
+\emph default
+ to what extent you can't help it and will give you some benefit of the
+ doubt.
+ But 
+\emph on
+please
+\emph default
+ don't, not on purpose, not my friends, not when it's not even important.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jessica's not much of a friend to you,
+\begin_inset Quotes erd
+\end_inset
+
+ he muttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She thinks some very unkind things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who doesn't? Don't 
+\emph on
+check
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I added hastily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Angela,
+\begin_inset Quotes erd
+\end_inset
+
+ he answered anyway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+From memory, at least.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Great, yay for Angela, but I think unkind things about Jessica occasionally
+ too and it doesn't mean I'm not much of a friend to her, I hope,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She has flaws, I have flaws, there's lots to go around, sometimes people
+ will notice them, and unless she chooses to act on her thoughts in ways
+ that harm me, I'm not going to act on her thoughts in ways that harm 
+\emph on
+her
+\emph default
+.
+ Especially since I shouldn't even have access to that information.
+ Her thoughts are 
+\emph on
+hers
+\emph default
+.
+ What kind of policy are you advocating, anyway? Weren't you considering
+ 
+\emph on
+eating
+\emph default
+ me, the first day I was here? What an unkind thought, surely I should shun
+ you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward winced terribly, and Emmett chuckled.
+ Jasper cracked a smile but didn't make a sound.
+ Rosalie looked bored and Alice conflicted.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Speaking of magical powers, Jasper, I never want to be on the receiving
+ end of yours except in the unlikely event that I explicitly, verbally request
+ help.
+ Alice didn't make it sound involuntary -- right?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, turning to the blond boy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's voluntary,
+\begin_inset Quotes erd
+\end_inset
+
+ he confirmed, looking wary.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I'm not sure I can promise that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you can't promise that, then I need to find some other way to protect
+ myself,
+\begin_inset Quotes erd
+\end_inset
+
+ I said firmly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It is possible, but unlikely, that you will prefer whatever I come up with.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Some emotional states aren't safe,
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you're flailing around hysterically near something sharp and also near
+ Edward\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ He trailed off as Edward made a small growling noise.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ I considered, wondering what he thought the obvious consequence of this
+ situation might be.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Then I'll start bleeding and smell even more delicious and I'm a snack?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jasper.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You'd want me to calm you down then.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd want to 
+\emph on
+be calm
+\emph default
+ then,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But not to be 
+\emph on
+made calm
+\emph default
+.
+ The reason I'm asking you to leave 
+\emph on
+my
+\emph default
+ emotions alone, instead of telling you to stay away from my friends and
+ whatnot, is that I can deal with my own and most people can't.
+ If I start flailing hysterically near something sharp and also near Edward,
+ you can warn me that hysteria is dangerous to me at that time.
+ You know, using words.
+ I do 
+\emph on
+have
+\emph default
+ a self-preservation instinct; I would not 
+\emph on
+choose
+\emph default
+ to be hysterical if it would likely get me killed.
+ Although,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, turning back to Edward, 
+\begin_inset Quotes eld
+\end_inset
+
+it may be that 
+\emph on
+you
+\emph default
+ should avoid simultaneously being around 
+\emph on
+me
+\emph default
+ and sharp objects.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Edward 
+\emph on
+is
+\emph default
+ a sharp object,
+\begin_inset Quotes erd
+\end_inset
+
+ rumbled Emmett.
+ He looked a lot more lighthearted than the other vampires.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Point,
+\begin_inset Quotes erd
+\end_inset
+
+ I acknowledged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Uh, no pun intended.
+ But anyway, Alice, you see me being a vampire, definitely, not a corpse?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+but even a very solid vision can change, if someone makes an unlikely decision.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So it is something to be sure I'm sane about, but not something to rearrange
+ my life over,
+\begin_inset Quotes erd
+\end_inset
+
+ I decided.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I wear a seatbelt; but I don't walk to school.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The vampires actually looked confused by my analogy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Car accidents are a fairly common cause of death among us fragile folk,
+\begin_inset Quotes erd
+\end_inset
+
+ I reminded them, and comprehension dawned.
+ Of course.
+ If a vampire got in a car accident the worst case scenario -- the only
+ scenario worth worrying about -- would be catching fire, and comparatively
+ few accidents had that feature, in spite of cinematic embellishment making
+ it look like cars were just 
+\emph on
+begging
+\emph default
+ to burst into flames on impact.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I find myself pretty much taking what Alice said at face value, given the
+ available snippets of evidence.
+ However, as she predicted, I would like a little more proof.
+ I've got a list.
+ Two tests require somebody other than Edward or Alice to be valid tests
+ of the things I'm looking for, and one is specifically of Edward.
+ Can't compel participation, but I would appreciate it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What've you got?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Emmett.
+ I took out my notebook, tore out the page, and handed it to the large vampire.
+ Edward leaned slightly to look at it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're all going to do them except Rosalie,
+\begin_inset Quotes erd
+\end_inset
+
+ reported Alice.
+ Rosalie sniffed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aw, Rose,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't want to pick up a tree?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Or even let Bella admire you in the sun?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Edward in a low voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't.
+ You don't need me anyway; the four of you can satisfy her curiosity doing
+ whatever tricks she likes if that's how you want to spend your afternoon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Carlisle and Esme,
+\begin_inset Quotes erd
+\end_inset
+
+ added Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They'll be there.
+ But not this afternoon.
+ We're doing it Thursday.
+ There'll be a little sun around four p.m.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rosalie snorted and Emmett rolled his eyes.
+ I had a moment of unkind speculation about the depth of that relationship.
+ But for all I knew they'd been together for seven hundred years and there
+ were vast reams of subtext I couldn't detect; at any rate, I had no reason
+ to act on information about their love lives, so it didn't bear investigation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tomorrow?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I guess that works; I need to study for trig with Jessica this afternoon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice nodded.
+ With the important orders of business out of the way I took a bite of my
+ macaroni and cheese, then started peeling my orange.
+ The macaroni had flecks of bacon in it.
+ I wondered if vampire taste sensations were anything like human ones --
+ I'd have to ask a non-Alice vampire about that.
+ It would be sad to give up normal food.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lunch ended, and I -- flanked by Edward -- caught up with Angela and Mike.
+ Mike gave Edward an annoyed look, which Edward responded to with a tight-lipped
+ smile and narrowed eyes.
+ None of us talked on the way, but I suspected we all had different reasons:
+ Angela didn't mind silence, Mike didn't want to talk to Edward, Edward
+ didn't want to talk to humans who weren't me, and I knew all of that and
+ didn't want to oblige anyone to talk.
+ We arrived at Biology and went to our respective seats.
+\end_layout
+
+\begin_layout Standard
+The class was, as usual, something I'd done before -- the syllabus indicated
+ we'd get to some fresh material in the next unit, which I hoped would be
+ interesting, because Biology was increasingly tiresome as we went over
+ more and more that I already knew.
+ It occurred to me to wonder why the vampires were in high school.
+ They moved a lot -- did they have to repeat high school over and over again?
+ Or did they just do this occasionally, and at other times spend their days
+ pretending to 
+\begin_inset Quotes eld
+\end_inset
+
+homeschool
+\begin_inset Quotes erd
+\end_inset
+
+ and secretly pursuing whatever interested them?
+\end_layout
+
+\begin_layout Standard
+The latter would make more sense.
+ I could see attending high school anew once every thirty years or so to
+ get an update on the state of education -- they would always need to be
+ able to pull off having attended high school 
+\emph on
+recently
+\emph default
+ -- but even if that was the goal, it would make more sense to go to college
+ repeatedly and at least choose a different major each time.
+ There was no reason the vampires couldn't pass as youthful college students,
+ especially at a large, prestigious school that would tend to attract prodigies.
+ Maybe they liked continuity more than I would have guessed, and preferred
+ to segue into college with genuine secondary school histories.
+ (Living as they did there had to be a source of forged records, of course,
+ but they might not use them for absolutely everything.)
+\end_layout
+
+\begin_layout Standard
+While the teacher talked about ribosomes I started speculating pointlessly
+ on what sort of knowledge they must have acquired over their lives.
+ Alice had hinted at knowing Korean.
+ I couldn't think of any other clues, so I made things up to entertain myself,
+ fabricating long lists of languages they'd speak and cities they'd explored
+ and skills they had mastered and books they'd read and performances they'd
+ attended -- there was so much to 
+\emph on
+do
+\emph default
+ with life as soon as you took a few of the bars off the cage.
+\end_layout
+
+\begin_layout Standard
+The thought of how much time would be freed up by the mere lack of a need
+ for sleep was staggering.
+ Not only the time spent sleeping, but also the time preparing for sleep,
+ waking up from sleep, ensuring the comfort of the place in which one might
+ sleep, managing threats to the peaceful environment such that one might
+ sleep, and dealing with the interruption to any long-term pursuits due
+ to sleep.
+ That, and there was little to no risk attached to anything they could do
+ that didn't call for sunbathing.
+ No reason not to skydive.
+\end_layout
+
+\begin_layout Standard
+I was warming up considerably to the idea of joining their ranks.
+ Three days of 
+\begin_inset Quotes eld
+\end_inset
+
+not fun
+\begin_inset Quotes erd
+\end_inset
+
+, a loss of my love of bacon, and the introduction of a temptation to slurp
+ up the fluids of those around me notwithstanding, I wanted immortality
+ and 
+\emph on
+real
+\emph default
+ twenty-four-hour days.
+\end_layout
+
+\end_body
+\end_document

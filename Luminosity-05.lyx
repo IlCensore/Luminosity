@@ -1,0 +1,1390 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Vampires 101
+\end_layout
+
+\begin_layout Standard
+There was no point in hating, resenting, or even shouting at Edward, or
+ Emmett, or any other Cullen family vampires who had slipped up in the past.
+ It would not bring any victims back to life.
+ To the extent that any of them thought much of my opinion, they could guess
+ it.
+ Adding strident yelling wouldn't be a significantly greater deterrent.
+ And I didn't even know if it was 
+\emph on
+reasonable
+\emph default
+ to expect perfect behavior from vampires.
+ How many were there in the world? It didn't matter very much.
+ “Most” vampires ate humans.
+ And all vampires were made 
+\emph on
+from
+\emph default
+ humans, most of whom were not actionably inclined to murder.
+ Something about the transition -- something I didn't know much about --
+ turned humans into blood-drinking killers most of the time, and the Cullens,
+ plus their friends from Denali, were doing their best to avoid it.
+ They could not be turned back into a less bloodthirsty species.
+ All that was left was damage control.
+ I took a quick assessment of myself and determined that even if I'd had
+ the ability, I hadn't the stomach to do the family in to protect future
+ victims of unknown number.
+\end_layout
+
+\begin_layout Standard
+There 
+\emph on
+was
+\emph default
+ a point in seriously assessing whatever factor made it happen, and determining
+ whether or not I could handle it, before 
+\emph on
+I
+\emph default
+ turned in my mortality.
+ I had to ask them about that.
+ I considered starting with Edward, but it would be too awkward -- Alice
+ seemed safer to start with.
+\end_layout
+
+\begin_layout Standard
+Edward obliged me with details anyway after we'd been on the road for a
+ minute.
+ “Left up here,” he murmured.
+ “It wasn't\SpecialChar \ldots{}
+ 
+\emph on
+as
+\emph default
+ bad as you might be thinking,” he said.
+\end_layout
+
+\begin_layout Standard
+“I didn't have a specific body count in mind,” I said levelly.
+ “Was it just one?”
+\end_layout
+
+\begin_layout Standard
+“No,” he said.
+ “No, it wasn't.
+ But -- I know you don't like that I can read minds, but I can, and that
+ let me be selective in some ways.” I made a skeptical face, although I didn't
+ take my eyes off the road.
+ Edward continued.
+ “When Carlisle turned me, at first, of course I could read him.
+ His perfect sincerity.
+ I understood immediately why he lived the way he did.
+ It was hard, but for almost a decade I had a perfect record.
+ And then I decided -- I'm not going to pretend to you that I snapped and
+ in a fit of passion did what I did.
+ I decided to experiment with a different way of life.
+ But I was selective, like I said.
+ I went to big cities, found some truly evil people.
+ I told myself that if I happened to run across a murderer stalking a girl
+ down an alley, and I saved her, then surely, I wasn't so terrible.
+ It was only a rationalization.
+ I'm still a murderer.
+ But\SpecialChar \ldots{}
+” He paused, awaiting my reaction.
+\end_layout
+
+\begin_layout Standard
+“Oh,” I breathed.
+ That was\SpecialChar \ldots{}
+ that was better.
+ He seemed to think it was 
+\emph on
+worse
+\emph default
+ that it had been a conscious choice instead of a moment of failed control.
+ I didn't agree.
+ This was partly because it made me safer.
+ If he decided to eat humans again, well, I was a little more 
+\emph on
+appealing
+\emph default
+ than some potential victims, but I was appealing in an impulse way more
+ than in a deliberative way.
+ If I wasn't in a room with him, and he mulled to himself that he really
+ preferred to go back to munching humans, it would be more likely that he'd
+ hie himself off to another big city, find another suitably depraved victim,
+ and eat them instead.
+ He knew I had family -- in particular, Charlie could make things inconvenient;
+ even a dead cop who went abruptly missing or dead-with-no-blood-left could
+ get the attention of other police.
+ And I suspected that Alice would be at least annoyed with him if he ate
+ me.
+\end_layout
+
+\begin_layout Standard
+So I was likely to be safer from him than I'd thought.
+ It would still be foolish to tempt impulse too rashly.
+ For example, I still did not think it would make sense to have him carry
+ me at high speed when the wind would waft extra-concentrated Essence of
+ Bella right into his lungs.
+\end_layout
+
+\begin_layout Standard
+“So after a little under five years of that,” said Edward guiltily, “I went
+ home to Carlisle and Esme.
+ They welcomed me back with open arms.
+ Like the prodigal son.
+ It was far more than I deserved.”
+\end_layout
+
+\begin_layout Standard
+“That actually makes me feel considerably safer,” I said honestly.
+ I was about to ask why he didn't make a habit of going on with the Batman
+ routine sans complimentary beverages -- at night, perhaps, when he didn't
+ have to sleep and for the thematic appropriateness -- but then I realized.
+ That would be conspicuous.
+ To 
+\emph on
+eat
+\emph default
+ humans was fine, and the Volturi apparently cared not a whit for selection
+ algorithm.
+ To tie them up and deposit them unbloodied with lists of their crimes pinned
+ to their shirts, at the doorstep of the local police department\SpecialChar \ldots{}
+ would probably
+ put a dent in the collective vampire artifice.
+\end_layout
+
+\begin_layout Standard
+Edward looked bewildered.
+ I clarified: “I feel safer in comparison to when I didn't know the details.
+ Not in comparison to when I didn't realize you'd killed anybody at all.”
+\end_layout
+
+\begin_layout Standard
+“You're a very puzzling girl, Bella Swan,” Edward muttered.
+ “Take this exit.
+ Must you drive so slowly?”
+\end_layout
+
+\begin_layout Standard
+I was going precisely the speed limit.
+ “I don't think my truck could take much more, honestly,” I said.
+ “Perhaps I should have let you drive, given that -- since you do have the
+ better reflexes between the two of us.”
+\end_layout
+
+\begin_layout Standard
+“I think that would be worse.
+ I like to drive fast,” said Edward, grinning slightly.
+ “It's not quite as awful to be driven slowly as it would be to drive this
+ pokey thing myself.”
+\end_layout
+
+\begin_layout Standard
+“All right, then I'm the designated driver,” I said.
+\end_layout
+
+\begin_layout Standard
+“Next time you should just let me run you there.”
+\end_layout
+
+\begin_layout Standard
+I wasn't aware of plans for a next time, but I supposed the way things were
+ going I'd visit the vampires again eventually.
+ “I'm not sure you ought to pick me up, even with the feeling safer bit,”
+ I said.
+ “If you run, that'll just blow my scent in your face unless I ride piggyback
+ -- and I'm not at all confident I could hold on piggyback at high speed.”
+\end_layout
+
+\begin_layout Standard
+“Did Alice tell you during Vampires 101 that we don't actually have to breathe?”
+ asked Edward.
+\end_layout
+
+\begin_layout Standard
+Oh, that was interesting.
+ “You don't breathe?”
+\end_layout
+
+\begin_layout Standard
+“We do,” he corrected.
+ “We can smell, which requires breathing, and we talk, which requires air.
+ But if we don't care to do either of those things, it won't harm us to
+ simply stop breathing.” He paused.
+ “That's how I managed the first day you came to Biology.
+ As soon as I got ahold of myself I didn't breathe until the class ended.”
+\end_layout
+
+\begin_layout Standard
+“And this wouldn't make it any harder for you to run?”
+\end_layout
+
+\begin_layout Standard
+He shook his head and smiled.
+ “Air isn't fuel to us the same way it is to humans.”
+\end_layout
+
+\begin_layout Standard
+“Perhaps, then, although I have to admit it doesn't sound comfortable.” That
+ part would apply to his siblings just as much, though.
+ “But if you were doing that we couldn't be having this charming conversation
+ about how you can do that.”
+\end_layout
+
+\begin_layout Standard
+That got an outright laugh, which added charming color to the sentence “pull
+ in at the big house there”.
+ I rolled up the driveway, admiring the home.
+ It was indeed big.
+ I'd noticed that we'd actually left Forks proper, having bridged the Calawah
+ River and continuing north through scarcely marked roads.
+ A good chunk of the drive had been through very thick forest.
+ I wondered if the vampires had had to clear a lot of trees to make driving
+ possible.
+ The ride was surprisingly smooth; they probably didn't care to jostle their
+ pretty car every time they drove to school.
+ The house itself was a faded white, with graceful architecture, and when
+ I got out of the truck I noticed that the entire south wall was one enormous
+ window: just glass.
+ The effect was very striking.
+\end_layout
+
+\begin_layout Standard
+“Do you like it?” asked Edward, shutting the passenger behind him after
+ he hopped out.
+ I nodded, smiling.
+ “Esme has a fondness for architecture,” he said affectionately.
+\end_layout
+
+\begin_layout Standard
+“She built this house?” I could see it now -- a vampire easily lifting beams,
+ pushing nails into their proper places by tapping them like piano keys,
+ cutting glass by stroking it with one of those stony fingers.
+\end_layout
+
+\begin_layout Standard
+“Restored it,” Edward said.
+ “She likes to fix up old historical places.
+ But there's a lot of her in it.” He cocked his head slightly.
+ “Here she comes now,” he went on.
+ “Bella, it looks like it's time for you to meet my parents.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Carlisle and Esme exited their house, closed the doors behind them, and
+ then -- having no reason to hide their speed -- appeared before us, from
+ thirty feet away, too quick for me to follow their paths.
+ When they stopped, Carlisle had an arm around Esme's shoulders and she
+ had one around his waist; they looked very picturesque indeed.
+\end_layout
+
+\begin_layout Standard
+The good doctor looked like his biggest problem in life was probably having
+ nurses and patients hit on him.
+ He looked like he was in his twenties -- his 
+\emph on
+early
+\emph default
+ twenties.
+ The only way I could imagine him ever passing for thirty-five would be
+ by living someplace for fifteen years and betting on the sheer unbelief
+ of the people around him.
+ He was blond, his skin the same chalk color as the others, and his eyes
+ were black -- not gold.
+ I needed to ask what that meant -- it probably wasn't random.
+ He wore a warm, paternal smile, which he turned on Edward first before
+ looking at me.
+\end_layout
+
+\begin_layout Standard
+Esme looked a little older, and that probably helped with the subterfuge,
+ but she was still clearly young and lovely.
+ (Did no one ever turn octogenarians? Or did the turning process cure wrinkles?)
+ Her hair was a dark reddish blond -- sort of butterscotch -- and she had
+ topaz-colored eyes, darker than the golden color on Edward but not as black
+ as Carlisle's.
+ She was roundish -- not heavy, but huggable-looking (which I knew wasn't
+ accurate) and several inches shorter than her husband.
+ Everything about her face -- heart-shaped and every bit as pretty as Alice's
+ -- made her look motherly; it didn't surprise me that it was the role she
+ occupied.
+\end_layout
+
+\begin_layout Standard
+“Welcome, Bella,” said Esme in a warm, loving voice to match her appearance.
+ “We're so glad to finally meet you.” I felt comfortable at once -- no Jasperish
+ sorcery, just my lie detectors going completely quiet as they listened
+ to Esme express that she was pleased to have me at her home.
+ I smiled back, nearly grinning, and thanked her.
+\end_layout
+
+\begin_layout Standard
+Carlisle extended his hand for me to shake.
+ “It's good of you to come,” he said.
+ “I understand we'll be demonstrating various features of the species for
+ you?” He had a kind, soft voice, which I imagined helped greatly with his
+ bedside manner.
+\end_layout
+
+\begin_layout Standard
+“That's the plan, although I'm beginning to think they're redundant,” I
+ admitted.
+ “I'm pretty sure you're all actually vampires who actually have superpowers
+ and will be able to pick up any heavy object I happen to point out to you,
+ plus everything else my list calls for.
+ I mostly haven't canceled just because you were all led to expect the tests
+ to happen, and so I don't feel like an idiot in the unlikely event that
+ you later turn out to be stage magicians with poor circulation.”
+\end_layout
+
+\begin_layout Standard
+Carlisle laughed.
+ “It's no trouble,” he said, “and it will give us a chance to get to know
+ you better.
+ Alice has informed us that you're going to be part of the family.”
+\end_layout
+
+\begin_layout Standard
+I wasn't sure if he meant that Alice thought I'd be a vampire, or that she
+ had recently seen me marrying Edward or something like that -- and with
+ Edward standing right there, I couldn't ask.
+ So I just smiled back at him and said, “Where are we headed?”
+\end_layout
+
+\begin_layout Standard
+“The clearing where we play baseball,” Edward said.
+ “Emmett, Alice and Jasper are already there.” He paused, and then said,
+ “Esme, would you carry her?”
+\end_layout
+
+\begin_layout Standard
+I had not expected that.
+ We'd discussed the fact that he didn't need to breathe -- was there some
+ other reason it was dangerous that he'd only just thought of? He'd been
+ all for the idea minutes earlier.
+ Esme didn't look like it made a lot of sense to her either, but she looked
+ to me for confirmation, and I nodded.
+ She took two steps toward me and then scooped me up gently in her arms,
+ one behind my back and one under my knees.
+ It wasn't as uncomfortable as I would have thought, although I wouldn't
+ have chosen to sit that way while trying to read or otherwise relax.
+\end_layout
+
+\begin_layout Standard
+Esme looked to Carlisle, who nodded, and the three vampires took off.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Esme was fast.
+ And she didn't even seem to be pushing herself.
+ The impression I had of her gait was that it resembled a jog more than
+ a run, even as she moved through the trees so fast that they blurred around
+ me and wind forced me to close my eyes to the indistinguishable color.
+ But her strides were very level -- I bobbed up and down a little bit, but
+ overall found the experience less physically exhilarating than a typical
+ roller coaster.
+ On a mental level, it was 
+\emph on
+really
+\emph default
+ cool that a vampire was carrying me through the woods at high speed.
+ I'd expected to be terrified, but Esme was calming.
+ Perhaps that was why Edward had asked her to be the one to carry me.
+\end_layout
+
+\begin_layout Standard
+After about a minute and a half of gently whizzing along, Esme came to a
+ halt and I opened my eyes.
+ Carlisle, Edward, and Esme, who was still holding me, all stood at the
+ edge of a clearing about twice the size of a baseball stadium.
+ (I had seen one of those up close while Phil had been attempting to bond
+ with his future stepdaughter.)
+\end_layout
+
+\begin_layout Standard
+Emmett, Alice, and Jasper were already present.
+ Alice skipped up to me, grinning, and Esme put me down.
+ “I think it would be most impressive if I were the one to pick something
+ heavy up,” Alice said brightly.
+ “Since I'm smaller than everyone else.
+ Want to go hunting for a good log or do you just want me to tell you which
+ one you're going to pick?”
+\end_layout
+
+\begin_layout Standard
+I didn't really want to go hunting for a good log.
+ It was wet out, and I didn't care very much anymore about doing controlled
+ tests.
+ “Lead the way,” I told Alice, and she traipsed back into the forest with
+ me following.
+ It was difficult to pick my way through the thick undergrowth, and I was
+ glad I was in unfavorite pants.
+\end_layout
+
+\begin_layout Standard
+The log was a monstrosity.
+ The tree that had died to create it must have been many times older than
+ me.
+ I gave it a kick; it was sturdy, not particularly rotted, and didn't budge
+ a bit with the force my human leg could offer.
+ It was satisfactory.
+ I stepped back -- I thought Alice could pick up the tree, but I didn't
+ think she could prevent damp debris from falling off of it as she did,
+ and I didn't care to have to pick it out of my hair.
+\end_layout
+
+\begin_layout Standard
+Alice sauntered up to the log, found a good spot in the middle to lift it
+ from, and hefted it high above her head in a single motion.
+ Leaves, bits of bark, and droplets of moisture rained down around her;
+ she shook her head back and forth so fast that her face was a blur, shaking
+ off most of it.
+ Then, just to top it all off, she started doing a little Celtic-ish dance
+ while carrying the dead tree.
+ It was a reasonably comical sight.
+ Tiny Alice -- two inches shy of five feet, her limbs a fraction of the
+ diameter of the log she was holding, leaping about and kicking the air
+ as though unburdened and also the star of Riverdance.
+ I laughed, and Alice tossed the tree into the air, swept herself into a
+ curtsey, and caught it as it fell.
+ Then she swiftly dug a hole in the dirt with one foot -- I winced on behalf
+ of her shoe -- and 
+\emph on
+planted
+\emph default
+ her log, root end first, in the ground.
+ It sank quite a bit deeper than the hole should have allowed, and stayed
+ in place once she let go.
+\end_layout
+
+\begin_layout Standard
+My mouth was hanging open by the end of her performance, and Alice smirked
+ at me.
+ “Cross off test one?” she asked smugly.
+\end_layout
+
+\begin_layout Standard
+I managed to get my jaw closed, and nodded at her.
+ I followed her back to the clearing.
+ “Edward is fastest,” said Alice, “and it's pretty flat here, so we probably
+ don't need to put you up a tree so you can see.”
+\end_layout
+
+\begin_layout Standard
+Wordlessly and with the edge of a smile on his face, Edward walked into
+ my field of vision, spread his arms as though to simply remark that he
+ was present, and then spun 180° like a top and was at the far edge of the
+ field in a moment.
+ Once there, he paused long enough to be visible and just barely recognizable,
+ waved, and was back at my side before my vision had completely refocused.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Wow
+\emph default
+,” I breathed.
+ I was beginning to think that the only reason Alice hadn't seen me calling
+ off the “experiments” on account of un-curiosity halfway through was because
+ they were just that fascinating to watch.
+ I didn't want to know what would happen, I wanted to 
+\emph on
+watch
+\emph default
+ it happen.
+ With a pang, I realized this made the entire exercise considerably more
+ like what Rosalie had called it -- “tricks”.
+ But Alice had seemed to be having fun, at least.
+ It was at least possible that they thought it was amusing to show off to
+ someone who didn't find their abilities commonplace.
+ At any rate, none of them had complained much about Rosalie's declining
+ to participate, so I had to conclude that they were all there of their
+ own free will.
+\end_layout
+
+\begin_layout Standard
+Edward smiled at me.
+ It was somewhat dazzling, and I found that I needed to check my list of
+ tests to find what was next.
+ It was the vision and hearing ones -- not as spectacular, but impressive
+ in their own right.
+ I explained the protocol, and Jasper volunteered silently for the first:
+ he raced to the opposite edge of the clear spot -- staying in sight --
+ almost as fast as Edward had done.
+ (I wasn't sure if my impression that he went slower was due to my having
+ been told that Edward was faster, or due to Jasper deliberately going under
+ his top speed, or due to my actually having the ability to detect a difference
+ in vampiric levels of rapidity over short distances.) I muttered under my
+ breath a series of digits that I'd invented and memorized earlier: “two,
+ five, two, one, eight, eight, zero, three, nine, four, two, three, seven,
+ one, five, six, zero, four.
+ All done.”
+\end_layout
+
+\begin_layout Standard
+Jasper zipped up to me, took my list of tests and my pencil deftly from
+ my hands, and wrote “252188039423715604” next to the third description.
+ He returned the objects and went to stand next to Alice.
+\end_layout
+
+\begin_layout Standard
+Carlisle obliged me with the vision test, reading from across the field
+ handwriting so tiny that I could barely make it out with my eye right next
+ to the paper.
+\end_layout
+
+\begin_layout Standard
+Emmett was Edward's source of information for the mindreading test.
+ The range of mental hearing was a few miles for familiar “voices” like
+ Emmett's, if they were being deliberately sought, and so Edward simply
+ went back to the Cullen house in order to attend to the various things
+ I showed his brother.
+ As with the other tests of senses, Edward returned to the group and reproduced
+ everything with perfect fidelity.
+\end_layout
+
+\begin_layout Standard
+“Do vampires,” I wondered aloud when I'd heard Edward's verbatim recital,
+ “have perfect recall? Is that another one of your things?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Edward, “but only of memories we form as vampires.
+ It's very hard to hold onto human experiences.”
+\end_layout
+
+\begin_layout Standard
+“That must be 
+\emph on
+nice
+\emph default
+,” I said with an envious moan, checking off #5.
+ “Alice, when can we expect sunshine?”
+\end_layout
+
+\begin_layout Standard
+Alice said serenely, “Right\SpecialChar \ldots{}
+ about\SpecialChar \ldots{}
+ now.” As she spoke the last word, she pivoted
+ and shoved Esme a few feet forward; Esme, though she looked startled, still
+ kept her footing and managed to look graceful in her trajectory.
+ It took her right in the middle of a single sunbeam that broke the clouds
+ overhead.
+\end_layout
+
+\begin_layout Standard
+Esme, posed with perfect stillness once she noticed the sun and realized
+ what Alice had done, shone with brilliant color.
+ No longer chalk -- she was crushed diamonds, each speck of her skin throwing
+ light from a thousand facets.
+ She'd been beautiful.
+ Now she was spectacular.
+ I could barely take my eyes off her.
+\end_layout
+
+\begin_layout Standard
+Esme looked at me and smiled.
+ “It's a pity Rosalie wasn't here,” she said, as the sunbeam was obscured
+ by encroaching clouds and the gem sparkle faded.
+ “That's one thing she does like.”
+\end_layout
+
+\begin_layout Standard
+I could imagine.
+ It would be implausible to be as gorgeous as Rosalie without developing
+ at least a little vanity.
+ Edward's comment about letting me admire her in the sun made more sense
+ now -- I enjoyed a brief mental image of a golden-haired statue of a goddess
+ showering everything around her with tiny rainbows.
+\end_layout
+
+\begin_layout Standard
+Yep.
+ I was leaning towards liking the idea of being a vampire again.
+ I could probably not eat anybody.
+ Vampires were 
+\emph on
+so cool
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+With all the tests complete, the vampires decided -- too rapidly for me
+ to have any input -- that it was time for us all to retire to the drier,
+ more comfortable location of their house.
+ Esme waited for another nod from me before lifting me into her arms again
+ and taking off after the group.
+\end_layout
+
+\begin_layout Standard
+She put me down on the porch, which was a wide and well-furnished affair
+ that wrapped around the entire first floor.
+ I was the last through the door (Edward held it for my benefit).
+ The entire interior of the house was done in white: the walls, the carpet,
+ the furniture, almost all the decor.
+ Little shadows and flecks of color, here and there, stood out brightly.
+ I'd walked into an enormous, high-ceilinged hall -- it had to have been
+ several large rooms originally, with walls and floors knocked out.
+ From the south wall, made entirely of glass, I could see the river flowing
+ by not far from the building.
+\end_layout
+
+\begin_layout Standard
+On my left, a raised part of floor, just one step up, held a grand piano.
+ Beyond that, I saw the open door into the kitchen -- I supposed houses
+ in general came ready-made with kitchens and there was no strong reason
+ to rip it out of the house, especially if they might sell it and move later.
+ The dining room was screened off from the front hall with a low, curving
+ wall, over which I spied a table surrounded by eight chairs.
+ I supposed it wasn't that odd that they'd have an extra, given that seven
+ was an odd number and would make the furniture look asymmetrical arranged
+ around the rectangular table.
+ The vampires all took off their shoes, which were covered with mud, and
+ I followed suit, dropping my knapsack next to my sneakers.
+\end_layout
+
+\begin_layout Standard
+I saw a wide, swooping staircase, and looked up.
+ It led to a landing, visible from the ground floor through its railing,
+ but the halls on either side were hidden by walls.
+ They wound in a semicircle, leaving the main hall room for its vaulted,
+ high-beamed ceiling.
+ I'd seen three stories total from outside, and supposed the rooms on the
+ third floor were stacked on top of the ones from the second.
+ It looked like they didn't jut up against the glass wall -- the far point
+ of the staircase, which extended beyond the horseshoe of higher stories,
+ admitted enough room for someone to walk between it and the giant window.
+\end_layout
+
+\begin_layout Standard
+“Want a tour?” Edward asked in my ear.
+ Suddenly distracted from my admiring gaze at the house, I jumped just a
+ little, then tried to cover it by turning to look at Edward.
+ He seemed to have been enjoying my appreciation of the architecture.
+\end_layout
+
+\begin_layout Standard
+“All right,” I said.
+ After I'd agreed and Edward was gliding towards the stairs with the expectation
+ that I'd follow, it occurred to me that invitations like that 
+\emph on
+might
+\emph default
+ mean, “Do you have an interest in looking at this pretty house?”, but might
+ 
+\emph on
+also
+\emph default
+ mean, “Are you interested in me, as a person of the opposite sex, such
+ that you are willing to be conducted around this pretty house by me?” I
+ was not sure which he'd meant.
+ I still hadn't gotten all the time I needed to think about that.
+ Why did I have to go to school? Why did school have to assign homework?
+ Why couldn't Charlie cook to save his life? Why did I have to 
+\emph on
+sleep?
+\emph default
+ The day after tomorrow would be Saturday and I'd have some unclaimed time,
+ but what if I had to make a decision 
+\emph on
+before
+\emph default
+ then about something I hadn't given enough thought?
+\end_layout
+
+\begin_layout Standard
+I must have had a ridiculous look on my face when I thought this, because
+ when Edward looked over his shoulder to confirm that I was following him,
+ he looked concerned.
+ He stopped in his tracks, waiting for me to catch up.
+ “Bella, are you all right? I know we must be a lot to get used to\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“No, I'm fine,” I said at once, and I sped up a little to prove it.
+ “It 
+\emph on
+is
+\emph default
+ a lot to handle, but I think I'm adjusting to it okay.
+ Let's see the house.” And I started marching up the stairs.
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Edward, catching my shoulder.
+ I stopped and turned around, and, of course, fell off the step and directly
+ onto him.
+ He caught me just as before, and set me down on my feet on the ground floor.
+\end_layout
+
+\begin_layout Standard
+“What?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Are you sure you're all right?” he asked.
+\end_layout
+
+\begin_layout Standard
+I thought about this.
+ “I'm sure I don't want to discuss it right now,” I said finally.
+\end_layout
+
+\begin_layout Standard
+Edward looked disappointed.
+ It was really a strange expression on him -- he made it seem more like
+ he was 
+\emph on
+wronged
+\emph default
+ than, say, 
+\emph on
+foiled
+\emph default
+ or 
+\emph on
+unlucky
+\emph default
+ as some disappointed people appeared.
+ I supposed he wasn't used to having to wait until people wanted to talk
+ about things before he got to find out what they were.
+ It probably didn't feel fair, from his end, but I was grateful in the extreme
+ for my privacy.
+ “What do you want?” he asked.
+\end_layout
+
+\begin_layout Standard
+“To see the h-” I began.
+ My stomach growled; I looked at my watch, which identified the time as
+ seven-thirty.
+ “To eat my sandwich,” I corrected, “and then to see the house later.” I
+ went over to my knapsack, pulled out my wrapped-up dinner, peeled it open
+ and took a big bite.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You're welcome to have a seat at the dining room table,” Edward invited.
+ I, concerned with the possibility of getting crumbs on the nice white carpet,
+ went where he directed and sat.
+ He took a chair beside me.
+ I didn't see any of the other vampires; they must have scattered elsewhere
+ through the house while I'd been in the middle of blinking or otherwise
+ paying insufficient attention.
+\end_layout
+
+\begin_layout Standard
+Edward sighed -- this had to be for effect, if vampire breathing was only
+ for the purpose of speech and smell.
+ “Alice told me a lot about you,” he murmured, “but I'm still constantly
+ surprised.”
+\end_layout
+
+\begin_layout Standard
+I looked up from my food.
+ “What did she say?” I hadn't known Alice that long -- I wasn't sure where
+ she'd have gotten a good read on my personality unless\SpecialChar \ldots{}
+ Oh, of course.
+ If she felt like it, she could see how I'd react to all kinds of possible
+ situations, when my tendencies were consistent enough that I wouldn't deliberat
+e about it too much before doing something.
+\end_layout
+
+\begin_layout Standard
+“She told me not to interrupt you,” said Edward.
+ “I slipped up once there, and I'm sorry.
+ She told me that if I ever lied to you it would end badly.
+ She told me that it wasn't safe for you to have secrets kept, because if
+ you knew something was missing, you'd look for it until looking got you
+ killed.”
+\end_layout
+
+\begin_layout Standard
+I nodded slowly; that all sounded about right -- although if I knew that
+ a secret would kill me, I thought I could leave well enough alone, I didn't
+ believe I'd do the same with a secret of unknown hazard.
+ “Alice is pretty smart,” I said.
+\end_layout
+
+\begin_layout Standard
+“She is,” laughed Edward wryly.
+ “And she told me to go slowly.”
+\end_layout
+
+\begin_layout Standard
+I froze, my partially-finished sandwich halfway through my mouth.
+ “Well,” I quipped, “you were the one who did the speed test.”
+\end_layout
+
+\begin_layout Standard
+“That's not what I mean,” he said in a low voice.
+\end_layout
+
+\begin_layout Standard
+I hadn't thought it was.
+ Now I knew that he knew that Alice had told me that -- my head spun.
+ But I still didn't want to talk about it.
+ I needed to think, I needed to think when Edward wasn't 
+\emph on
+there
+\emph default
+ being beautiful and solicitous and possibly thirsty.
+ “You know,” I said, “I have a huge list of questions about how vampires
+ work.
+ I take it you're going with Alice's advice on not keeping secrets?”
+\end_layout
+
+\begin_layout Standard
+Edward nodded slowly, keeping his eyes fixed on mine.
+ I broke eye contact, popped the last bite of my sandwich into my mouth,
+ and crossed the room to retrieve my notebook.
+ From it, I started reading off questions.
+ Edward looked frustrated, but did his best to answer them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He didn't know some of them.
+ He didn't know what it was about vampire physiology that Jasper controlled;
+ he didn't know why he couldn't read me; he didn't know whether or not Alice
+ had a time limit (but noted that he'd never heard of a vision more than
+ a few months in advance); he didn't know what power I had but suspected
+ it would be related somehow to my unreadability; he knew the procedure
+ but not the mechanism of turning.
+\end_layout
+
+\begin_layout Standard
+The things I learned were fewer than I'd hoped.
+ Alice could “get to know” people through visions of futures that wouldn't
+ happen, because they displayed their personalities even in such unreliable
+ visions; that was fairly obvious, and Edward had no less plain applications.
+ Although exact duplicate powers were unheard of, there were some that were
+ similar -- for instance, one of the Volturi, a fellow named Aro, was a
+ mind-reader like Edward, but limited in range to those he physically touched,
+ and broader in scope to the point of learning “every thought you've ever
+ had in your life”, as Edward put it.
+ (Edward could only read current surface thoughts, not draw out specific
+ items he wanted to hear.) Strength and speed in vampires were correlated
+ with the same abilities in human life, and varied similarly, but with a
+ longer right tail on the distribution.
+ Eating humans made vampires physically stronger, but mentally weaker, in
+ the sense that if they did it they were less likely to be able to resist
+ continuing to do it except inasmuch as it relieved thirst.
+\end_layout
+
+\begin_layout Standard
+Eye color depended on diet.
+ One that had recently fed on a human had burgundy-colored ones.
+ Feeding on animals resulted in the gold color I'd seen more of.
+ With breaks between meals, these colors changed over time.
+ A hungry vampire had black eyes -- that helped explain why Edward had been
+ especially perturbed on my first day of school; he'd been without food
+ for a while.
+ A brand-new vampire's eyes were bright blood red; the color faded over
+ a year or so, faster with animal blood than human.
+\end_layout
+
+\begin_layout Standard
+Not all vampires were pretty.
+ However, prettiness, like other traits, was intensified by the turning
+ process -- and vampires looking for someone to turn 
+\emph on
+would
+\emph default
+ preferentially turn attractive humans.
+ This also explained the spread of ages the Cullens exhibited.
+ (And selection effects like that helped explain why I would ultimately
+ be a vampire: empowered as I was to resist Edward's mindreading, I was
+ likely to turn up an interesting power as one of the undead, and I could
+ easily imagine vampires picking over the human population looking for talents
+ like that.) I was a little confused by 
+\emph on
+Carlisle
+\emph default
+ having chosen who to turn on the basis of prettiness, but couldn't think
+ of a polite way to ask -- I'd get individual backstories from each of the
+ others later and try to put together a pattern myself.
+\end_layout
+
+\begin_layout Standard
+Vampires were made of cells, not rocks, and their strength matched their
+ rigidity pretty neatly -- vampires felt as malleable to each other as humans
+ did to other humans.
+ They weren't brittle, just tough, like steel cables.
+ Accordingly, they bent, as opposed to breaking or grinding themselves to
+ powder, when they moved around.
+ Vampire hair did grow, albeit slowly -- it wasn't much different from human
+ hair, and broke sometimes, so if it didn't grow at all, a vampire Carlisle's
+ age would necessarily be bald.
+\end_layout
+
+\begin_layout Standard
+It was uncommon for vampires to live in groups that resembled the Cullens.
+ The theory was that eating animal blood “civilized” them -- the other family-st
+yle assembly of vampires that the Cullens knew about, their Denali friends,
+ also abstained.
+ (Apparently the in-joke was to call vampires who didn't eat people “vegetarians
+”.) “Normal” vampires lived in small groups called “covens” -- two, three,
+ sometimes four.
+ They were likely to travel a lot rather than settling down and enmeshing
+ themselves in human civilizations.
+ However, pairing off romantically was not limited to the Cullens -- a lot
+ of vampires did it.
+\end_layout
+
+\begin_layout Standard
+Edward had never heard of a vampire couple breaking up.
+\end_layout
+
+\begin_layout Standard
+Edward had never heard of a vampire surviving the death of his or her mate
+ and then finding another one later.
+\end_layout
+
+\begin_layout Standard
+Edward had heard of quite a few vampires.
+\end_layout
+
+\begin_layout Standard
+Oh 
+\emph on
+yikes
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+I went right to the question about the Volturi, trying not to be too overt
+ about my reaction to 
+\emph on
+that
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+The Volturi were a coven of five: three male vampires and the wives of two.
+ (The third used to have a wife, but she was dead.
+ And, of course, had not been replaced since then.) The wives were not public
+ figures -- only the males, Aro, Caius, and Marcus, were the active face
+ of the Volturi.
+ (Aro was not the only one with an extra power; Marcus apparently “saw”
+ relationships between people.) Edward was fuzzy on their earlier history,
+ and suggested that I ask Carlisle if curious about that.
+ The doctor had apparently spent some time among their guard (a considerably
+ larger extension of the coven, including many vampires handpicked for promising
+ talents).
+\end_layout
+
+\begin_layout Standard
+Edward speculated that humans smelled tastier than other species because
+ vampires had been humans in the past and survived most effectively on the
+ same blood that had sustained their prior existences, but he wasn't sure.
+\end_layout
+
+\begin_layout Standard
+I took copious notes.
+ There was so much I had to think about and process already, and I was just
+ adding more.
+ I wondered if it would be best to forego the tour, but decided that I was
+ already there and ought to have a look.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The first floor contained the hall I'd seen, the kitchen I'd gotten a peek
+ at, the piano dais I'd noticed, the dining section I'd sat in, and also
+ a bathroom, some communal offices for things like household bookkeeping
+ and investment portfolios, and a seating area around a large flatscreen
+ television and several computers.
+\end_layout
+
+\begin_layout Standard
+The second floor included the suite Carlisle and Esme shared, with their
+ studies and Carlisle's library as well as another bathroom.
+ (I was briefly puzzled about why the vampire bathrooms had shampoo and
+ soap in them.
+ They were clearly not trying to blend in for surprise visitors, or they
+ would have included toilet paper.
+ Then I realized that even without the habits of sweating and shedding skin
+ that we humans had, vampires could accumulate dirt from their environments
+ at normal rates.) Besides the suite were Rosalie and Emmett's room, which
+ I didn't get to see as Rosalie didn't want to be disturbed, and an adjoining
+ pair of rooms shared by Jasper and Alice.
+\end_layout
+
+\begin_layout Standard
+I noticed along the wall in the hallway floor that there were a lot of photograp
+hs, and paused to look at some of them.
+ I saw a wedding photo -- an old photo -- for Carlisle and Esme.
+ There was also a wedding photo for Alice and Jasper -- so they were married,
+ then, and not just “together” as Jessica had artlessly put it.
+ And Rosalie and Emmett had six.
+ In each, they stood against a different backdrop, and Rosalie wore a different
+ dress.
+ I wasn't sure why anyone needed to get married six times, but I suspected
+ that dresses were a motivating factor.
+ Besides the wedding photos, I also noticed a series of family portraits.
+ Carlisle and Edward were alone together in the first one -- interesting.
+ Edward had been earliest.
+ Esme appeared in the next.
+ Rosalie was the next addition, followed by Emmett.
+ Then, it seemed, Alice and Jasper had arrived as a pair.
+\end_layout
+
+\begin_layout Standard
+On the top floor was a library -- or Edward called it that; I peeped inside
+ and saw fewer books than Carlisle had in his personal library.
+ There were more computers there, and some broad tables accompanied by chairs.
+ I asked whether it was really much of a library, and Edward grudgingly
+ told me that it was more like their preferred venue for document forgery
+ and computer cracking and the like.
+ This didn't faze me particularly; it was inevitable that they'd need skills
+ and the wherewithal to pull them off in order to persist unaging in a human
+ society.
+\end_layout
+
+\begin_layout Standard
+Also on the top floor was Edward's room.
+ It jutted up against the south wall, and accordingly shared part of the
+ enormous window.
+ It was late enough to be dark, but I knew in the daylight the view would
+ be spectacular indeed.
+\end_layout
+
+\begin_layout Standard
+Edward's room had its own closet and bathroom, like Rosalie and Emmett's.
+ Unlike the entire rest of the house, it wasn't decorated in white: his
+ carpet was gold, and he'd draped the walls completely over with darker
+ golden fabric.
+ The only furniture was a black leather sofa, a desk, and a desk chair.
+ He had his own computer (how many computers did they need? I'd counted
+ fourteen, and I hadn't even looked in all of the rooms) and shelves upon
+ shelves of 
+\noun on
+cd
+\noun default
+s.
+ Apparently, he was a music buff -- I wondered if he was responsible for
+ the piano in its place of honor on the ground floor.
+\end_layout
+
+\begin_layout Standard
+“Is that the whole house?” I asked.
+\end_layout
+
+\begin_layout Standard
+“There's a basement, which I can't think of a safe way to get you into,”
+ he said.
+ “It's meant to be difficult to access if you aren't a vampire.
+ There's also an outbuilding we converted into a garage.”
+\end_layout
+
+\begin_layout Standard
+I didn't have a strong enough interest in cars to want to hike -- or be
+ carried -- to an outbuilding distant enough that I hadn't seen it.
+ “I'll skip the garage,” I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Very well,
+\begin_inset Quotes erd
+\end_inset
+
+ said Edward.
+ “What's next?”
+\end_layout
+
+\begin_layout Standard
+“I think I'm about ready to go home,” I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Charlie might worry.”
+\end_layout
+
+\begin_layout Standard
+Edward offered to take me home, and while I knew he could just run back
+ to the Cullen house and therefore there weren't vehicular logistics issues,
+ I declined.
+ I wanted to think.
+ I wanted to think without Edward nearby.
+ I wanted to think alone, secure in my truck where no one could hear me,
+ as I talked aloud to compensate for the fact that I couldn't write while
+ driving.
+\end_layout
+
+\begin_layout Standard
+Edward walked me to the door, bade me a polite goodbye accompanied by a
+ freezing touch to my arm, and watched me as I got behind the wheel and
+ pulled away from the vampire house.
+\end_layout
+
+\begin_layout Standard
+Charlie was embedded in the couch, watching a sporting event I didn't bother
+ to identify, when I got home.
+ He yelled his gratitude for the sandwiches as I ascended the stairs, and
+ I called back that it was no trouble.
+\end_layout
+
+\begin_layout Standard
+It was late.
+ I had school in the morning.
+ Most of my homework wasn't done.
+ And I had more “vampire stuff” to work through than I had ever had of any
+ kind of work all at one time.
+\end_layout
+
+\begin_layout Standard
+I weighed my options, but finally decided that cutting English twice in
+ so short a time frame would be bad, and I slept.
+\end_layout
+
+\end_body
+\end_document

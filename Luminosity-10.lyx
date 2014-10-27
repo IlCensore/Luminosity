@@ -1,0 +1,1842 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{9}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Coven
+\end_layout
+
+\begin_layout Standard
+The next month was nearly uneventful.
+\end_layout
+
+\begin_layout Standard
+On the first Thursday in March, Edward and I cut Biology together: he warned
+ me that the lesson plan involved blood typing.
+ Although he remarked that hanging around me as much as he did, he had probably
+ developed the ability to tolerate 
+\emph on
+other
+\emph default
+ blood just fine even if it were exposed to the air, there was no sense
+ in taking the risk with as much of a pass to skip as he had.
+ And I would likely have passed out -- which I explained to the teacher
+ the next day, in apologetic tones that avoided me detention.
+\end_layout
+
+\begin_layout Standard
+The subsequent Saturday, my human friends and I took our planned trip to
+ the beach.
+ I wanted to invite Edward along -- with Mike and Jessica finally having
+ declared themselves mutual significant others, and Eric and Lauren vaguely
+ wending that way, it looked a little couple-y apart from Angela.
+ But Edward wasn't allowed on Quileute land, and First Beach was in the
+ relevant area.
+\end_layout
+
+\begin_layout Standard
+Some Quileute kids turned up while we were there; Jacob, among them, made
+ a beeline for me.
+ I complained conspicuously about Edward's absence after greeting him.
+ This prompted Jacob to tell me “scary stories
+\begin_inset Quotes erd
+\end_inset
+
+ about the Cullens, once he realized that it was that particular Edward
+ whom I was dating.
+ They added no factual data to my supply, except for the tidbit that it
+ remained against tribal law to kill wolves.
+ I did get him to flesh out the cast of characters a little: Jacob 
+\emph on
+was
+\emph default
+ descended from tribal elders, and pointed out others on the beach who also
+ had interesting ancestry.
+ I was pretty sure they could all become wolves under the right conditions,
+ assuming the genes had stuck around.
+ What I didn't know was whether this was a good sampling of young-enough
+ Quileutes -- it was possible that potential wolves hung around together
+ more often and that was why this group had arrived together.
+\end_layout
+
+\begin_layout Standard
+On the thirteenth, a Sunday, I visited the vampires' baseball field again,
+ this time to watch it used for its customary purpose.
+ The Cullens all liked baseball, but because a vampire hitting a ball with
+ all of his or her strength was very 
+\emph on
+loud
+\emph default
+, they elected to play only when there was thunder nearby to cover their
+ activity.
+ Constraining game dates also by the desire not to be rained on where they
+ played, this left them with precious few appropriate days, but Alice was
+ well able to predict them in advance.
+ Edward picked me up at my house to convey me there (by car most of the
+ way, and carrying me himself from the house to the field).
+\end_layout
+
+\begin_layout Standard
+As the resident psychic had predicted, the field was completely dry while
+ Forks proper was deluged in torrential rain and illuminated by lightning.
+ I sat on the grass, beside Esme, who refereed while the others played,
+ leaving even teams of three.
+ Vampire baseball was about what I'd expected: too fast for my eyes to follow.
+ I mostly enjoyed the expressions on the players' faces when they were still
+ between moments of action -- variations on frustration and triumph.
+ Sometimes they heckled each other, coming up with reasonably creative insults
+ (although I had no way of knowing if they were original to this occasion).
+ Esme and I chatted idly when she didn't need to call out declarations of
+ safety and outness.
+\end_layout
+
+\begin_layout Standard
+Fifteen minutes into the game, Alice froze in place between first base and
+ second.
+ Emmett tagged her out, actually knocking her over with his momentum.
+ She hopped to her feet again, looking frustrated and shooing Emmett and
+ his protests away.
+ Edward, in the outfield, flashed in closer, to stand by his sister.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice,” he murmured.
+ I saw their lips moving, and I knew the other vampires could hear what
+ passed between them, but I couldn't.
+ She was seeing something and he was watching it and it alarmed them both\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Edward appeared next to me.
+ The others approached more slowly, forming a loose semicircle.
+ “Bella,” Edward said, “there are three other vampires, not our friends,
+ in the area.
+ Alice saw them before but they firmly intended to head north without getting
+ very near, until they heard the game and could tell it wasn't thunder.
+ They're curious.
+ I can't travel as quickly carrying you as I can alone.
+ Even if I could, your scent would still be on the field, obviously new,
+ and the last thing we want is for them to start hunting you.” He said all
+ this barely slowly enough for me to keep up with the words, and as soon
+ as he'd finished informing me he turned towards his family and they began
+ talking very rapidly.
+ I caught a handful of the words.
+\end_layout
+
+\begin_layout Standard
+“\SpecialChar \ldots{}
+ thirsty?” said someone's voice, possibly Esme's.
+ Edward shook his head -- I 
+\emph on
+thought
+\emph default
+ at that question -- and that seemed a small relief.
+\end_layout
+
+\begin_layout Standard
+“Only three\SpecialChar \ldots{}
+” scoffed Emmett.
+\end_layout
+
+\begin_layout Standard
+“How soon?” I thought this was Carlisle.
+ The answer contained the number “five
+\begin_inset Quotes erd
+\end_inset
+
+, but I didn't catch the unit -- minutes were most likely, I judged\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+“Everyone,” said Carlisle over the hum of agitated chatter, and the others
+ quieted.
+ “Let's just continue the game.
+ Edward said they are simply curious.”
+\end_layout
+
+\begin_layout Standard
+“Esme, you catch,” Edward said in a hard voice.
+ “I'll call.” She didn't protest, and flitted over to her place.
+ Edward positioned himself in front of me, looking furiously into the distance,
+ at the direction I guessed the other vampires would approach from.
+\end_layout
+
+\begin_layout Standard
+“Is there anything I can do to smell less obvious?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Take your hair down,” Edward said, growling under his breath -- clearly
+ anticipating a fight.
+ I pulled it out of my ponytail and shook it down over my face.
+ I huddled as small as I could under my coat.
+ 
+\emph on
+Look undelicious
+\emph default
+, I told myself, but I didn't know how to do that.
+ If it came to a fight, the Cullens would win, I thought -- by the numbers
+ -- but there could be casualties.
+ Someone could die.
+ 
+\emph on
+Edward
+\emph default
+ could die.
+ I looked up at him, peeping through the gaps in the curtain of my hair,
+ and knew he'd do it without hesitating if it would save me.
+\end_layout
+
+\begin_layout Standard
+I clamped my lips down on the words I wanted to say, provoked by the danger
+ -- it was not a good time to have that conversation; it would be dramatic,
+ but not clever, and I didn't want to be dramatic if it would put anyone
+ in more danger\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+The game proceeded tensely.
+ The batters all bunted, not wanting to send anyone running after a ball
+ that careened out of the field as most of the solid hits did.
+ The outfielders stalked the edges of the clearing, paying less attention
+ to the game.
+\end_layout
+
+\begin_layout Standard
+And then the other vampires arrived.
+ There were three: a nondescript male with sandy hair entered the clearing
+ first, then fell back to let a darker-haired, more muscular man with an
+ odd olive hue to his chalky skin take the lead.
+ Last to arrive was a woman with brilliant orange hair, which was long,
+ curly, and full of forest debris.
+ All of them had feral, catlike gaits, obviously predatory, and wore backpacking
+ outfits but no shoes.
+\end_layout
+
+\begin_layout Standard
+Their eyes were a dark wine red.
+\end_layout
+
+\begin_layout Standard
+Carlisle approached them with his arms spread non-threateningly; Emmett
+ followed slightly to his left and Jasper on his right.
+ It was a small comfort to notice that the leader of the unfamiliar coven
+ was just Jasper's match in size, and dwarfed by Emmett's great bulk.
+ I wasn't sure how much that mattered, but it looked like it did.
+ The visitors (I kept forcing myself to choose alternatives to the word
+ “enemies” in my mind -- they hadn't yet proven themselves that, not so
+ directly) dropped into more casual poses, and the olive-pallored leader
+ smiled, showing off bright and even teeth.
+ Between stabs of fear, I had a vague intellectual interest in watching
+ the covens meet; it was the sort of thing about vampire behavior I'd need
+ to know later -- if I didn't die then and there.
+\end_layout
+
+\begin_layout Standard
+“We thought we heard something interesting,” the dark-haired one said.
+ “I'm Laurent; these are Victoria and James.” He indicated the flame-haired
+ woman and the ordinary-looking man beside her.
+ Victoria and James exchanged a look; I had the sudden intuition that they
+ were mates, with Laurent either without one of his own or separated therefrom.
+\end_layout
+
+\begin_layout Standard
+“I'm Carlisle.
+ This is my family, Emmett and Jasper, Alice, Rosalie and Esme, Edward and
+ Bella,” Carlisle said.
+ He waved towards us in vague groups, avoiding drawing attention to individuals.
+ I was momentarily surprised that he included me in the family -- but of
+ course he didn't want to pick me out as a mere future in-law for Laurent's
+ benefit.
+\end_layout
+
+\begin_layout Standard
+Laurent took in the baseball equipment.
+ “Do you have room for a few more players?” he asked, sounding friendly
+ and inquisitive.
+ I wondered if I looked suspiciously un-vampiric, crouched under my jacket
+ when no vampire would have been bothered by the cold.
+ None of them had yet tried to eat me.
+ I tried to hold still the way I could if I were inedible.
+\end_layout
+
+\begin_layout Standard
+“Actually, we were just finishing up,” Carlisle said, matching Laurent's
+ tone, sounding vaguely regretful as though he'd have liked nothing more
+ than to have a catch with the anthropophagic creatures standing before
+ him.
+ “But perhaps another time.
+ Are you planning to stay in the area for long?”
+\end_layout
+
+\begin_layout Standard
+“We're headed north,” said Laurent, “but were curious to see who was in
+ the neighborhood.
+ We haven't run into any company in a long time.” Except for their dinner.
+ Dinner probably made terrible company, though, gibbering and begging for
+ its life, and that was if you paused to let it talk\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+“This region is usually empty except for us and the occasional visitor,
+ like yourselves,” said Carlisle.
+ Laurent's coven looked relaxed and casual; I wondered if Jasper was leaning
+ on them, and decided to thank him fervently if he were.
+\end_layout
+
+\begin_layout Standard
+“What's your hunting range?” Laurent inquired, tone casual.
+ The question didn't assume 
+\emph on
+outright
+\emph default
+ that the Cullens hunted humans -- they had to have seen the gold eyes,
+ but did they know what that meant?
+\end_layout
+
+\begin_layout Standard
+Carlisle described the environs of Forks, covering the La Push area in his
+ claim even though the Cullens didn't venture there, and then said, “We
+ maintain a permanent residence nearby.
+ There's another permanent settlement like ours near Denali.”
+\end_layout
+
+\begin_layout Standard
+“Permanent?” asked Laurent, looking interested.
+ “How do you manage that?” Had they still not noticed I was human? My scent
+ was supposedly strong on the field -- the wind had been wrong, but if they
+ would supposedly have smelled me even if I were 
+\emph on
+gone
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“It's rather a long story,” Carlisle said, and then he invited them to their
+ home -- I had no idea what he was thinking.
+ There was no way for me to get out of that field without revealing human
+ clumsiness or being implausibly carried.
+ Was he planning to take them there in a splintered group while Edward circled
+ around via some other direction with me? Did he think he had Laurent intrigued
+ enough to avoid hunting me as long as there was information to be had?
+ Laurent 
+\emph on
+did
+\emph default
+ look curious -- James and Victoria less so.
+\end_layout
+
+\begin_layout Standard
+Laurent said the invitation was welcome.
+ Carlisle then put in a request that they not hunt in the Cullens' range,
+ on the grounds that they needed to stay inconspicuous.
+ Laurent agreed readily; his coven had just eaten.
+ (I restrained a shudder.) And then as Carlisle began to say something else,
+ a breeze wafted by me in exactly the wrong direction\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Edward went entirely stiff and James was suddenly, as though under a strobe
+ light, posed facing me in a hungry crouch, teeth bared, nostrils flaring
+ wide.
+\end_layout
+
+\begin_layout Standard
+Edward snarled like some sort of animal, not the harmless little grumbles
+ I'd heard the vampires make -- it was a threat, full of menace, a declaration
+ that Edward was prepared to kill if James took one step too close.
+ I had so many reasons to be afraid: 
+\emph on
+My boyfriend can sound like that.
+ Those vampires might kill me.
+ They might kill Edward.
+ He might kill them.
+ If they have friends and he kills them, they might find us\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+“What's this?” asked Laurent, clearly astounded.
+ He didn't seem to have caught my scent as strongly as James -- and Victoria
+ barely reacted at all except to fix her attention on her mate -- but he
+ clearly knew the situation now.
+\end_layout
+
+\begin_layout Standard
+“She's with us,” Carlisle told them, aiming the statement more at James
+ than Laurent.
+\end_layout
+
+\begin_layout Standard
+“You brought a snack?” Laurent asked incredulously.
+ His foot moved forward.
+ Edward's lips curled back, showing all his teeth, and he let out another,
+ more ferocious snarl.
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+said
+\emph default
+,” corrected Carlisle sharply, “she's with us.”
+\end_layout
+
+\begin_layout Standard
+Laurent was dumbfounded.
+ “But she's 
+\emph on
+human
+\emph default
+.” He didn't sound hostile -- but nor did he make a move to check James,
+ who still looked ready to pounce.
+ Emmett shifted position a little, and James slowly straightened up, but
+ went on staring at me -- Edward didn't budge.
+\end_layout
+
+\begin_layout Standard
+“It appears we have a lot to learn about each other,” Laurent said, trying
+ to defuse the hostility.
+ If Jasper was using his talents, they were not as effective as I'd imagined.
+\end_layout
+
+\begin_layout Standard
+“Indeed,” said Carlisle tightly.
+\end_layout
+
+\begin_layout Standard
+Laurent went on.
+ “But we'd like to accept your invitation.
+ And, of course, we will not harm the human girl.
+ We won't hunt in your range, as we said.”
+\end_layout
+
+\begin_layout Standard
+James looked at Laurent unbelievingly and then glanced to Victoria, whose
+ eyes were flicking from face to face without settling in any one place
+ for more than a moment.
+ She looked edgy, but not very interested in eating me -- if I was reading
+ her right.
+\end_layout
+
+\begin_layout Standard
+Carlisle looked steadily at Laurent, and then said, “We'll show you the
+ way.” And then he called Jasper, Rosalie, and Esme to join him and the foreign
+ coven.
+ They formed a line that blocked me from view.
+ Alice appeared at my side as soon as it was clear he didn't want her with
+ the larger group; Emmett fell back more reluctantly and kept his eyes on
+ James as he backed towards us.
+\end_layout
+
+\begin_layout Standard
+I was still sitting on the grass, rigid with fear.
+ Edward picked me up without ceremony and clutched me so tightly that it
+ was almost uncomfortable, but it was better than huddling in my coat.
+ The four of us were off through the forest.
+ Under the trees, it was pitch black; not even the tendrils of cloud-filtered
+ sunset that had lit up the field were visible through the leaves.
+ Edward normally seemed exhilarated when he ran, but not this time -- he
+ was running off pure rage.
+ I wondered how difficult it had been for him to avoid attacking James the
+ instant my species had been revealed.
+\end_layout
+
+\begin_layout Standard
+We reached Emmett's gigantic Jeep, and Edward tossed me into the backseat.
+ Emmett slid in beside me, Alice took the passenger seat, and Edward was
+ starting the engine.
+\end_layout
+
+\begin_layout Standard
+“Where are we going?” I asked in a low voice, when I'd found where my vocal
+ cords had gotten to.
+\end_layout
+
+\begin_layout Standard
+“Away,” said Edward tightly.
+ He sounded like he didn't want to answer me, he was just mechanically answering
+ me because I had to be answered.
+ The speedometer was overtaxed by the crazy velocity he was undertaking.
+ I couldn't tell where the car was hurtling in the dark.
+ “We have to get you far away from here.
+ Now.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Why?” I asked.
+ “That doesn't make sense; Laurent said they wouldn't hunt in your range,
+ it's safer for me to stay here.”
+\end_layout
+
+\begin_layout Standard
+“James won't abide by that agreement,” said Edward tightly, forcing each
+ word through his throat with immense effort.
+ “He's a tracker.”
+\end_layout
+
+\begin_layout Standard
+Emmett reacted to this word considerably more than I did, going stiff in
+ his seat.
+ Alice seemed to recognize it too.
+ I said, “A what?”
+\end_layout
+
+\begin_layout Standard
+“He's got a power,” Edward said.
+ “Hunting is his passion, his obsession.
+ And he wants you in particular.
+ You're the most irresistible sort of prey -- a single vulnerable element
+ in a large coven of protectors.
+ He's committed to the hunt now and he can't be stopped unless we kill him.”
+\end_layout
+
+\begin_layout Standard
+“Then why run? If he'll follow me wherever I go until he's dead or I am,”
+ I said, “then it will come to a fight, won't it? There's got to be some
+ advantage to having it out on your turf.
+ Or do you mean he'll stop when I'm turned and you need to put me in a bunker
+ in Alaska where I can be hidden for the three days it'll take me to vamp
+ up ahead of schedule?”
+\end_layout
+
+\begin_layout Standard
+“He's no match for us, Edward,” Emmett said.
+ He sounded like he relished the possibility of a fight.
+\end_layout
+
+\begin_layout Standard
+“The female, she's with him,” Edward said.
+ “And if it turns into a fight, their leader will go with them, too.”
+\end_layout
+
+\begin_layout Standard
+“There are enough of us,” scoffed Emmett.
+\end_layout
+
+\begin_layout Standard
+“I'm sure you could beat them,” I said, “but I'm not sure you could do it
+ without casualties.
+ Edward, 
+\emph on
+will
+\emph default
+ he lose interest if I'm turned? Is that the plan, or were you just thinking
+ I could live the rest of my life on a series of airplanes until there's
+ a chance to put me on a space colony or something?” Edward didn't answer.
+ Perhaps he didn't know -- his brand of mindreading picked up only surface
+ thoughts, and could leave gaps like that.
+\end_layout
+
+\begin_layout Standard
+Alice said, “I don't see him attacking.
+ He'll try to wait for us to leave her alone.”
+\end_layout
+
+\begin_layout Standard
+Edward growled.
+ “It won't take him long to realize that's not going to happen.”
+\end_layout
+
+\begin_layout Standard
+“If he finds it interesting to hunt protected, vulnerable people, what would
+ be the point of waiting until you left and then finding me at home or someth-”
+ I choked on the rest of that word.
+ “Charlie.
+ If he crosses my scent anywhere in town he'll find Charlie.”
+\end_layout
+
+\begin_layout Standard
+“She's right,” said Alice.
+\end_layout
+
+\begin_layout Standard
+“And wouldn't it be 
+\emph on
+interesting
+\emph default
+,” I said, “wouldn't that make it so much more fun for James, if he had
+ my father hostage and had me desperately working against you to get away
+ from my protections in exchange for Charlie's life?”
+\end_layout
+
+\begin_layout Standard
+Edward snarled again; I started to fear for the structural integrity of
+ the steering column.
+\end_layout
+
+\begin_layout Standard
+“So we'll pick him up,” Emmett said.
+ “If James is still waiting for us to leave her alone, that's safe, isn't
+ it?”
+\end_layout
+
+\begin_layout Standard
+“Turning Charlie isn't part of the plan!” I cried.
+ “If we grab him, even if you manage to fake being human perfectly, the
+ choices are still run forever or eventually fight James.
+ And you don't think he'll come quietly, do you?” Charlie was far more closely
+ tied to Forks than I was.
+ He had a job he loved, longstanding friendships he cared about, he was
+ on the Quileute reservation 
+\emph on
+all
+\emph default
+ the time\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+Edward clenched his jaw.
+ “The coven has visited the house.
+ Laurent is still there, talking to Carlisle; James and Victoria looked
+ around a little, and excused themselves,” he reported.
+ He was driving quickly but I supposed his family's minds might still be
+ just in range.
+ “They claimed to plan to continue their original route, and headed in the
+ correct direction as far as Carlisle could see, but could easily have doubled
+ back.
+ Laurent is expressing an interest in visiting the Denalis.”
+\end_layout
+
+\begin_layout Standard
+“Look,” I said.
+ “We're going about this in a completely confused way.”
+\end_layout
+
+\begin_layout Standard
+“What's your idea?” asked Alice.
+\end_layout
+
+\begin_layout Standard
+“I don't have one yet.
+ Hang on.” I took a deep breath.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What do I want?
+\end_layout
+
+\begin_layout Standard
+I wanted to live.
+ I wanted Charlie and all of the Cullens to live.
+ In -- I had to admit to myself to have the 
+\emph on
+best
+\emph default
+ chance of getting what I wanted -- roughly that order.
+ It felt awful to realize that I wouldn't die for Charlie, and I hoped never
+ to be in a position where that was actually the trade-off, but I knew 
+\emph on
+Charlie
+\emph default
+ would insist that I be the one to live if it did come to that, which was
+ something of a salve for the guilt.
+\end_layout
+
+\begin_layout Standard
+I felt less terrible about preferring myself to the Cullens.
+ Edward, probably even more so than Charlie, would fling himself into any
+ danger if it would give me a better chance.
+ I half-suspected that he was sufficiently emotionally vulnerable that he
+ literally could not live without me -- that if I turned up dead he'd calmly
+ douse himself in napalm, hoping, in his confused theological muddle, to
+ somehow join me.
+ The others were friends -- Alice in particular was a good friend -- but
+ I simply hadn't known them that long.
+ Also, they would not want Edward to feel compelled to napalm himself either.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+If
+\emph default
+ everyone's life were assured, I wanted everyone involved to have mutual
+ knowledge of that survival.
+ I wanted to stick to my original plan -- finishing out the school year,
+ dramatically eloping to Europe, and bringing my parents and friends into
+ the fold one by one in any case where Alice said we could do it safely.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What do I have?
+\emph default
+ And the sub-question, 
+\emph on
+What do I know?
+\end_layout
+
+\begin_layout Standard
+Edward's absolute top priority was my life -- but he was susceptible to
+ bad reasoning about what that meant and would not necessarily be easy to
+ bring into an agreement about how best to secure it.
+ Emmett was itching to fight.
+ The other Cullens, as a group, were prepared to treat me as a member of
+ the family and would probably defend me as well.
+ There were seven of them; even split up in two groups, each half was at
+ least an even match for Laurent's group.
+\end_layout
+
+\begin_layout Standard
+James was a tracker whose purpose in life was to pick interesting targets
+ and commit himself absolutely to getting them.
+ At least under the condition where I remained human, he'd follow me until
+ at least one of us was dead.
+ He probably didn't know about Edward's and Alice's powers, although he
+ might have an inkling of Jasper's.
+ He 
+\emph on
+had
+\emph default
+ seen Edward's display in the field, and could likely figure out that there
+ was an eternal vampy soulmate thing going on there, and knew that Edward
+ (and by extension the entire family) thought he was a threat to me.
+ Victoria had his back, the typically devoted vampire mate.
+ Although apparently hunting was not her own hobby, or Edward would probably
+ have been able to pick up similar intentions from her.
+ Laurent was not personally hostile, but would take his coven's side in
+ a confrontation.
+\end_layout
+
+\begin_layout Standard
+As far as the Cullens were concerned, money was no object.
+ I did not think it was 
+\emph on
+possible
+\emph default
+ for me to come up with a plan that didn't involve the outright purchase
+ of a small country, which could tax their finances irrecoverably.
+ As long as I got a Cullen, at least one of them, on board with whatever
+ plan I invented, I could freely call for financial expenditure.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is the best way to use what I have to get what I want?
+\end_layout
+
+\begin_layout Standard
+Wild plans spun to life in my mind and I tried to sort them, dividing plausible
+ from untenable.
+\end_layout
+
+\begin_layout Standard
+At least one of two things 
+\emph on
+had
+\emph default
+ to happen in the reasonably short term, unless Edward was wrong about James's
+ implacability: James had to die or I had to turn.
+ Turning might not be a guarantee of deterring the hunter, but it would
+ make me less vulnerable if he got through my protectors.
+ (I did not expect to emerge into vampirehood equipped with expert fighting
+ skills, but at least I wouldn't so closely resemble a melting marshmallow
+ in texture and menace.) The process would take three days, but it might
+ be possible for the vampires to move me while I was incapacitated.
+\end_layout
+
+\begin_layout Standard
+“James hunts alone?” I asked Edward.
+\end_layout
+
+\begin_layout Standard
+“Yes,” he grunted.
+ He was still driving absurdly fast.
+ I had no idea where he was going.
+\end_layout
+
+\begin_layout Standard
+“Alice, can you see if Laurent and Victoria are really going to Denali?”
+\end_layout
+
+\begin_layout Standard
+Alice closed her eyes; I saw her in the rearview mirror, concentrating.
+ “Laurent is,” she said finally.
+\end_layout
+
+\begin_layout Standard
+“Laurent's really only with them for convenience,” said Edward.
+ “I said he'd stand with them in a fight, but that's if they were all attacked
+ together\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“Someone should call the Denali group and ask them to keep Laurent occupied
+ for a while if they can,” I said.
+ Emmett had a cellphone on him; he flipped it open and dialed a number,
+ murmuring a summary of the situation and request to the friend on the other
+ end once he was answered.
+ “Where is Victoria going?” I asked Alice.
+\end_layout
+
+\begin_layout Standard
+“It looks like she's going to sort of\SpecialChar \ldots{}
+ loiter, north of where Carlisle said
+ our hunting range was,” Alice reported.
+ “And wait there for James to contact her or come back.”
+\end_layout
+
+\begin_layout Standard
+“She'll wait alone?” I confirmed.
+ Alice nodded.
+ “How long will James wait for me to be left by myself before he'll change
+ plans?”
+\end_layout
+
+\begin_layout Standard
+“Maybe...\SpecialChar \ldots{}
+ two days? Three? He hasn't decided yet,” she said.
+\end_layout
+
+\begin_layout Standard
+“What would happen,” I said, “if, in that time, you 
+\emph on
+kidnapped
+\emph default
+ Victoria?”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The car was filled with another hubbub of vampires talking too fast for
+ me to follow, and I frowned, annoyed.
+ Was it a good idea or not? If there was anything James cared about more
+ than getting me dead, of course it would be Victoria -- if we had a little
+ leeway of time, five of the Cullens could go get her while two at home
+ still left James outnumbered if he made an unexpected early move on me.
+ And then there'd be leverage over James, or bait, depending -- if I'd missed
+ something important I wished they'd tell me.
+ I listened harder.
+ The words I did catch were names -- Cullens and the other coven's members
+ -- and that told me almost nothing.
+\end_layout
+
+\begin_layout Standard
+“Hey,” I said.
+ “I don't really appreciate being left out of a conversation like this.”
+\end_layout
+
+\begin_layout Standard
+“Sorry, Bella,” said Alice.
+ “We like your idea.
+ We were discussing strategy -- who should stay to watch you and who should
+ go get her, and how to hold her once we have her, and then what happens
+ next.”
+\end_layout
+
+\begin_layout Standard
+“Is there a way to hold a vampire short of, you know, actually holding her?”
+ I asked, miming grabbing a wrist and hanging on.
+\end_layout
+
+\begin_layout Standard
+“Not really -- not without powers we don't have,” said Emmett.
+ “But two could do it, especially if Jasper's one.”
+\end_layout
+
+\begin_layout Standard
+“With Laurent out of the way, that leaves five more of us to split up between
+ making sure he doesn't free Victoria and making sure he doesn't get you,”
+ Edward muttered.
+ “If Jasper and, let's say Esme, hold Victoria, and Alice and I watch you,
+ and Emmett, Rosalie, and Carlisle confront James in a group\SpecialChar \ldots{}
+ One of them
+ would have to stay on the phone with Alice so she could direct them.
+ Or maybe Alice should go and Rosalie or Carlisle should stay with you\SpecialChar \ldots{}
+”
+ He fretted, but he wasn't as obviously full to bursting with terror on
+ my behalf and fury at James as he had been before.
+ This was planning, not despairing flight.
+\end_layout
+
+\begin_layout Standard
+“Where are we going?” I asked pointedly.
+\end_layout
+
+\begin_layout Standard
+“Oh.” Edward frowned and started to slow down.
+ “I was driving to the airport.
+ I suppose we should take you home.
+ You can tell Charlie you want Alice to sleep over; I'll go in through the
+ window,” he suggested.
+ The Jeep slowed enough to allow him to execute a safe U-turn.
+\end_layout
+
+\begin_layout Standard
+“That works,” I agreed.
+ “How are we going to keep Charlie from getting taken hostage when I have
+ to go to school? Should I fake sick?” Alice saw that as long as I got good
+ long vampire hugs for a few minutes before telling Charlie I didn't feel
+ well, I'd be easily cold and clammy enough to get him to let me stay in.
+ She'd be able to stick by me openly by getting Carlisle's “permission”
+ over the phone and protesting that I shouldn't be left home alone while
+ Charlie was at work.
+ Edward, of course, would be hiding.
+\end_layout
+
+\begin_layout Standard
+“Should we even keep Victoria alive?” Emmett asked.
+ “That's two fighters she'll tie up just by being kidnapped.
+ I think we should kill her.
+ Grab some hair first to prove we got to her, and maybe hang on to her long
+ enough to ask personal questions and have Ed pull the answers so we can
+ `prove' to James that we've got her someplace.
+ But then -- I mean, we're going to have to kill James, you know.
+ She's not gonna put up with that.
+ Sooner's easier than later.”
+\end_layout
+
+\begin_layout Standard
+Edward and Alice seemed to consider this a fair question.
+ I felt a little queasy plotting Victoria's death.
+ I knew she was a murderer, and probably had no realistic chance of ceasing
+ to be one, and that she probably 
+\emph on
+wouldn't
+\emph default
+ nonviolently tolerate her mate's death, which was likely necessary for
+ self-defense\SpecialChar \ldots{}
+ but Victoria hadn't 
+\emph on
+personally
+\emph default
+ done anything to me 
+\emph on
+yet
+\emph default
+, or even formed the intention to do so, and that seemed to put it on different
+ footing.
+ I didn't bring it up.
+ 
+\emph on
+I want to live
+\emph default
+, I told myself.
+ And it was true: my discomfort over orchestrating Victoria's execution
+ didn't compare to the sick fear I'd felt when James had looked at me like
+ a delicious beverage.
+\end_layout
+
+\begin_layout Standard
+Whoever she'd have eaten next probably wanted to live, too.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward drove less manically towards my house.
+ Emmett called his wife while we were on the way, uttered some overdone
+ mush to Rosalie so she'd have a good excuse to get out of Laurent's earshot,
+ and then summarized the plan to her.
+ We got to my place at about ten, and I bounced in, arm-in-arm with Alice,
+ pleading with Charlie for a sleepover and leaning very hard on my limited
+ acting skills.
+ Alice was much better at it than me, and jabbered about painting our nails,
+ and how she couldn't 
+\emph on
+wait
+\emph default
+ to braid my hair because hers wasn't long enough and Rosalie and Esme wouldn't
+ let her do theirs, and she just 
+\emph on
+had
+\emph default
+ to dish dirt on her boyfriend to someone who didn't live in their same
+ house and -- Charlie finally waved us upstairs, overwhelmed by girly excitement.
+ Alice followed me up the stairs with a gleeful squeal that I thought was
+ probably uncalled for.
+\end_layout
+
+\begin_layout Standard
+When we got to my room, Edward was waiting there -- pacing.
+ “Will you face one wall long enough for me to change, please?” I asked
+ him pointedly.
+ He sighed slightly and obediently looked at the door to my closet.
+ I hopped into my pajamas gratefully -- I kind of wanted a shower, too,
+ but I wasn't sure Edward would tolerate me spending that long out of his
+ line of sight until he'd calmed down a bit more.
+ It could wait.
+ If the vampires had a problem with how I smelled, it wasn't with the fact
+ that I was gross.
+ My outfit of the day had dirt on it from where I'd sat in the field, and
+ it was covered with the sweat that apparently came with the immediate fear
+ for one's life.
+ I dumped it into the hamper.
+\end_layout
+
+\begin_layout Standard
+As soon as Alice saw that Laurent had left the Cullen home, she called Esme
+ and asked for an overnight bag (which was to contain a number of non-overnight-
+bag-ish contingency items, like several thousand dollars cash, in case we
+ had to bolt).
+ Esme was obliged to make two minutes of small talk with Charlie about how
+ her silly daughter had spontaneously organized the sleepover without thinking
+ to pack anything, ha ha, and she'd just take this upstairs and be on her
+ way.
+ She dropped it off with us, gave Alice and Edward each a kiss on the forehead,
+ patted my hair, and then went out again.
+ To go help kill Victoria.
+\end_layout
+
+\begin_layout Standard
+I hoped Victoria wouldn't kill any of them.
+\end_layout
+
+\begin_layout Standard
+Five vampires, including Jasper, should be enough to take down one who had
+ no power or one so inconspicuous that neither Alice nor Edward had caught
+ it.
+ Should.
+ And if they didn't die, but were merely torn to parts, they could be put
+ together again -- she wouldn't have the chance to grind them up into powder
+ or the materials to set them on fire
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+It hurt to think about it.
+ I got into bed and buried my head in pillow.
+ Alice stood by the window and Edward by the door, unsleeping, watchful,
+ as I effortfully nodded off.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward and Alice were my near-constant companions for the next three days,
+ which I spent entirely in my own room or five feet down the hall in the
+ bathroom.
+ (Edward glared at Alice when she suggested that perhaps I did not need
+ to be accompanied to the bathroom when her sight was clear of James, and
+ thereafter she went with me; I got accustomed to it after a while.) They
+ hid when Charlie was nearby; luckily, he didn't go through my stuff.
+\end_layout
+
+\begin_layout Standard
+On Monday, very early in the morning, Edward briefly traded his guard duties
+ with Carlisle in order to enact Emmett's idea of retrieving personal informatio
+n from Victoria without her enthusiastic cooperation.
+ He was back a couple of hours later, grim but looking marginally more comfortab
+le with the state of the world and its population of hostile vampires.
+ Victoria had had a phone, but not a number with which to call James: he
+ was supposed to call her first.
+ So there was no immediate use for her as bait to lure James into a trap.
+ She'd only be useful as a way to throw him off balance when the time to
+ fight came.
+\end_layout
+
+\begin_layout Standard
+Esme and Rosalie trailed my father as he went about his work, in case James
+ tried for him.
+ Carlisle went to work as usual and let out that all his children had some
+ illness that he'd troubled to make medically plausible.
+\end_layout
+
+\begin_layout Standard
+James was indecisive.
+ The tenth time Alice growled to herself about headaches, I started to suspect
+ that he somehow knew about her power.
+ If he were such a great hunter, why would he make such fragile plans, and
+ discard them so readily? It was thwarting 
+\emph on
+us
+\emph default
+, and rather neatly, but it could only slow him down with most targets.
+ Maybe he didn't care about being leisurely as long as he got to destroy
+ his prey in the most elegant way possible.
+\end_layout
+
+\begin_layout Standard
+But Alice did keep seeing fairly stable flashes of his immediate plans,
+ too near at hand to conceal with indecision.
+ And from these she was able to conclude, on Tuesday morning, that he was
+ in Arizona.
+\end_layout
+
+\begin_layout Standard
+Extracting this information from Alice was like pulling teeth.
+ I knew she'd seen something, because she and Edward made faces at each
+ other the way they did when he was reading her mind and he was talking
+ too softly for me to hear 
+\emph on
+anything
+\emph default
+, even an excessively rapid babble.
+\end_layout
+
+\begin_layout Standard
+“Why,” I asked, when I'd finally prodded her to give up this information,
+ “didn't you want to tell me that James is in Arizona? It would be better
+ if he were in Siberia, but relative to, say, Seattle, Arizona's pretty
+ good.”
+\end_layout
+
+\begin_layout Standard
+“Because your mother lives in Arizona,” Edward said reluctantly.
+\end_layout
+
+\begin_layout Standard
+“Yes,” I said, “but she isn't there 
+\emph on
+now
+\emph default
+.
+ She's in Florida, with Phil.” One thing that was very easy to do without
+ leaving my room (along with the homework that Angela brought me every day,
+ forcing me to look convincingly sick) was keep in touch with Renée by e-mail,
+ but the vampires didn't spy on my correspondence, apparently.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Oh
+\emph default
+,” said Alice, and she looked like she felt very silly.
+\end_layout
+
+\begin_layout Standard
+“Then why would James be there?” asked Edward, flinging his hands up.
+\end_layout
+
+\begin_layout Standard
+“I don't know,” I admitted, and I didn't.
+ Of course it could have something to do with Renée, but he might have other
+ tasks in his life that he wanted to accomplish.
+ That involved going to Arizona, when he'd been headed north from Washington
+ before\SpecialChar \ldots{}
+ and which he wanted to do while his mate waited for him (so he thought)\SpecialChar \ldots{}
+
+ and that didn't make sense after all.
+ Maybe he 
+\emph on
+thought
+\emph default
+ Renée was there, and would leave when he found she wasn't.
+ I tried to think whether there would be any way he'd be able trace her
+ to Florida.
+ Perhaps his tracking powers wouldn't be deterred by airplanes, but neither
+ of my guardians knew.
+ There was no one she'd leave a note for.
+ Evidence of Phil's occupation was scattered around the house, though, and
+ could let a clever person determine his whereabouts -- and hers by extension.
+ It was a lead.
+ More of a lead than I wanted James to have.
+\end_layout
+
+\begin_layout Standard
+“Is he going to be in Florida?” I asked Alice, apology in my voice for the
+ probable headache.
+ “Or stay in Arizona for very long?”
+\end_layout
+
+\begin_layout Standard
+She scrunched up her face, looking unhappy.
+ “I\SpecialChar \ldots{}
+ I see him in Florida.
+ Yes.
+ I can't tell where exactly, but\SpecialChar \ldots{}
+ there's a sign.
+ He's going to be in Florida.”
+\end_layout
+
+\begin_layout Standard
+I sucked in air through my teeth.
+ “We need to get a detail on my mother.”
+\end_layout
+
+\begin_layout Standard
+“We're already too split up,” fretted Edward.
+\end_layout
+
+\begin_layout Standard
+“My 
+\emph on
+mother
+\emph default
+, Edward,” I snapped.
+ “If someone might be trying to get Esme in order to hurt you, and she weren't
+ a vampire herself, you'd want her protected.”
+\end_layout
+
+\begin_layout Standard
+This was inarguable.
+ Eventually it was decided that Alice belonged as close to James as possible,
+ to give that group the best chance at killing him and rendering all the
+ guarding unnecessary.
+ The same argument applied to Edward, really, but he refused to leave my
+ side, so instead Jasper went with her.
+ Emmett went too, as the physically strongest fighter.
+ They left on Wednesday morning, which Alice promised would still put them
+ in Florida before James's arrival.
+\end_layout
+
+\begin_layout Standard
+When Carlisle wasn't at work, he hung around near my house.
+ When Charlie wasn't at work, so did Esme and Rosalie.
+ But during the day, it was me and Edward.
+\end_layout
+
+\begin_layout Standard
+I could not help but notice that, by the time Wednesday afternoon rolled
+ around, Edward's eyes were awfully close to black.
+\end_layout
+
+\begin_layout Standard
+“You need to hunt, soon,” I said.
+ “Tonight, when the others show up.”
+\end_layout
+
+\begin_layout Standard
+Edward gritted his teeth.
+ He had never liked being away from me and the fact that James wanted me
+ dead wasn't improving his ability to function without me right there, visibly
+ intact.
+ But I couldn't come hunting with him, and if he got hungrier, he'd be nearly
+ as much of a danger.
+ So Edward slipped away in the night, taking the time to tuck me in first.
+\end_layout
+
+\begin_layout Standard
+Besides, James was far away, in or on his way to Florida, being chased down
+ by three vampires jointly four times his size.
+\end_layout
+
+\begin_layout Standard
+And so of course it came as a complete surprise when he captured me anyway.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I was asleep when he nabbed me.
+ I assumed, when I awoke and noticed I was tied up in the backseat of a
+ moving vehicle driven by James, that there had been chloroform or something
+ of that nature involved -- or I would have woken up in the process.
+ What I couldn't figure out was how James had gotten past Carlisle, Esme,
+ and Rosalie.
+ I also wasn't at all sure why he'd taken me alive.
+\end_layout
+
+\begin_layout Standard
+As it happened, he hadn't gagged me, so I spent ten minutes forcing the
+ mind-numbing terror into the background to let myself ask questions.
+ 
+\emph on
+If he wanted me dead I'd be dead
+\emph default
+, I told myself.
+ 
+\emph on
+I'm not dead.
+ He's going somewhere.
+ He won't kill me until he gets there.
+ Dread is not useful in any way, shape, or form
+\emph default
+.
+ I repeated the sentences to myself, letting them march across my mind in
+ a loop, and tried to find a comfortable way to lie on the seat, which proved
+ impossible.
+ So did completely ridding myself of the fear.
+ It was far too appropriate to the situation to be dismissed so easily.
+ I could just barely shove it aside enough to let me think around it.
+ And utter sentences, or parts of them, although they shook like gelatin.
+\end_layout
+
+\begin_layout Standard
+“How\SpecialChar \ldots{}
+?”
+\end_layout
+
+\begin_layout Standard
+James smiled.
+ I was arranged at such an angle that I could see the rightmost corner of
+ his mouth turn up.
+ “Hi there, Bella,” he said.
+ “I 
+\emph on
+bet
+\emph default
+ you're curious.
+ I'll tell you all kinds of interesting tidbits while I kill you.
+ I'm planning to send your boyfriend the videotape, and it'll be more interestin
+g that way.
+ But I have no interest in repeating myself.”
+\end_layout
+
+\begin_layout Standard
+My brain flew into action.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I want to live.
+ I have the power of speech.
+ How can I get what I want?
+\end_layout
+
+\begin_layout Standard
+And then I spoke the words.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You don't know?” I asked, feigning surprise.
+ I didn't have to conceal the terror in my voice -- the lies I'd spun in
+ a panic to protect myself didn't call for me to pretend to be invulnerable
+ or to have a deathwish, so I could still act as fearful as I was insofar
+ as that didn't interfere with speech.
+ But I did need to overlay other things on top of that.
+ “About the reward? But there's no other reason to kidnap me,” I prodded,
+ when James didn't say anything.
+\end_layout
+
+\begin_layout Standard
+“What are you talking about?”
+\end_layout
+
+\begin_layout Standard
+“Wait a minute -- why did you 
+\emph on
+think
+\emph default
+ they were keeping me around?” I asked.
+ “Didn't that seem kind of weird?”
+\end_layout
+
+\begin_layout Standard
+“Not your boyfriend, then?”
+\end_layout
+
+\begin_layout Standard
+I made a little snorting noise.
+ “You thought that because he snarled at you? No, that would have been much
+ pleasanter all around, I'm sure,” I said.
+ The wobbling of my voice between real fear and fake contempt made for an
+ interesting effect.
+ “He just wanted to turn me in undamaged to the Volturi, to get the reward.”
+\end_layout
+
+\begin_layout Standard
+“Mm-hm.” James wasn't buying it -- quite -- but I wasn't done.
+\end_layout
+
+\begin_layout Standard
+“They didn't tell me much directly -- no reason to,” I said.
+ “But they talk around me.
+ Not much choice since they never let me alone -- I don't know how you got
+ past them.
+ They said I'm a 
+\emph on
+witch
+\emph default
+, that the Volturi like turning witches.
+ They got on the phone with someone with a funny Latin name -- Caius, I
+ think -- and made a deal that they'd hand me over to those Volturi people.”
+\end_layout
+
+\begin_layout Standard
+“What were the Volturi offering?” James asked, starting to get curious.
+\end_layout
+
+\begin_layout Standard
+“Let me think if I can remember the exact words\SpecialChar \ldots{}
+ It was something about 
+\emph on
+immunity
+\emph default
+ from the rule about keeping themselves secret,” I mused.
+ “I guess they really like having a permanent settlement and wish it were\SpecialChar \ldots{}
+
+ more permanent? That it would be okay for people to notice they don't age?
+ They were talking all the time about how they'd have to make sure the word
+ didn't get out too far, that it could just be the one town.
+ But they still 
+\emph on
+really
+\emph default
+ wanted it.
+ Enough to give me to the Volturi people.
+ They had to wait a few days before taking me to Italy because the other
+ two they didn't talk to on the phone, Aro and another Latin name guy\SpecialChar \ldots{}
+ Marcus
+ or something?”
+\end_layout
+
+\begin_layout Standard
+James gave a slight nod, more invested in the conversation now.
+ “Aro and Marcus,” I continued.
+ “They were out of their city dealing with somebody who broke some rule.
+ The Volturi must be really powerful, huh?” I marveled.
+ “I mean, those people who had me trapped, I would have tried to run away
+ but there would've been no way I could do it.
+ And there were seven of them.
+ I don't know how you got me out, I mean wow.
+ I can't imagine what would scare them, but they sure wanted the Volturi's
+ permission before they did anything.” I paused, for effect.
+ “Wow.
+ I bet the Volturi will be 
+\emph on
+pissed
+\emph default
+ if they can't have the witch they wanted after all.
+ Maybe they'll kill all of them.
+ Serves them right,” I spat.
+ The unspoken implication was that James, too, would be at the risk of Volturi
+ wrath if he were responsible for the loss of the desired witch.
+\end_layout
+
+\begin_layout Standard
+It was a bluff.
+ An outrageous bluff concocted in too little time and too much adrenaline.
+ But he 
+\emph on
+knew
+\emph default
+ I had every motivation to lie like a rug, and 
+\emph on
+already
+\emph default
+ planned to kill me and 
+\emph on
+already
+\emph default
+ had the means to do it.
+ Anything I could tell him that didn't make him kill me sooner or slower
+ was a potential improvement.
+\end_layout
+
+\begin_layout Standard
+I would have backed off in a heartbeat if he'd shown any inclination to
+ be annoyed with the fact that I was talking, or with the likelihood that
+ I was telling tales.
+ I wanted to set myself up as the useful object that could be destroyed
+ 
+\emph on
+or
+\emph default
+ redeemed for valuable cash prizes, and I wanted him not to accumulate enough
+ hate to pick the first option out of spite.
+ It would be worse than useless for me to annoy him, or at least to appear
+ to be the 
+\emph on
+source
+\emph default
+ of his annoyance or emotionally precious to that source.
+\end_layout
+
+\begin_layout Standard
+But James wasn't annoyed.
+ He'd gotten his target.
+ He could have gagged me and hadn't.
+ He could have told me to shut up when I started talking, and didn't.
+\end_layout
+
+\begin_layout Standard
+The Volturi were the only group I could think of that could 
+\emph on
+definitely
+\emph default
+ kill James and might 
+\emph on
+not
+\emph default
+ kill me besides the Cullen and Denali covens.
+ And James knew about 
+\emph on
+them
+\emph default
+.
+ I had not memorized any meeting places or things of that nature into which
+ I could hope to lure him to good effect.
+ And so I was hoping that the Volturi really 
+\emph on
+did
+\emph default
+ like witches.
+ And that my witchy power was extensive enough that I could prove my claim
+ to their mindreader.
+\end_layout
+
+\begin_layout Standard
+“The Volturi have never done anything like that before,” James remarked.
+\end_layout
+
+\begin_layout Standard
+“It seems weird,” I said.
+ “I gather they've been running the vampires for, like, thousands of years.”
+ I was trying to sound a little stupid, too stupid to be deliberately tricking
+ James.
+ I wished I hadn't used the word “gather
+\begin_inset Quotes erd
+\end_inset
+
+.
+ I went on, more carefully, “Maybe they think the secret's all gonna go
+ to hell anyway, since technology's getting so, you know, high-tech, and
+ it's harder to hide.
+ And they want to get more witches first so when it goes to hell they get
+ to stay in charge.”
+\end_layout
+
+\begin_layout Standard
+James was smart enough to put this poorly worded supposition together.
+ “Then it's not much of a reward, is it?”
+\end_layout
+
+\begin_layout Standard
+“I guess.
+ Those people who had me before really wanted it.
+ But I mean, if you're immortal, I guess a hundred years or whatever isn't
+ that long? I dunno.
+ It could take that long for the immunity to be useless.
+ It sounds like a long time to 
+\emph on
+me
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“Was that the only reward the Volturi had on offer,” he asked, “or did those
+ people ask for it specifically?”
+\end_layout
+
+\begin_layout Standard
+“I'm not sure.
+ I know they were talking about how they already had plenty of money, and
+ didn't need more,” I said.
+ “I don't know what all else the Volturi were offering\SpecialChar \ldots{}
+ I don't know what
+ they have.”
+\end_layout
+
+\begin_layout Standard
+“Mm.”
+\end_layout
+
+\begin_layout Standard
+“Hey,” I said, “are you a witch too?”
+\end_layout
+
+\begin_layout Standard
+He smirked.
+ “Just a bit.”
+\end_layout
+
+\begin_layout Standard
+“Have you ever met the Volturi? What are they like?”
+\end_layout
+
+\begin_layout Standard
+“They don't normally like to be disturbed,” he muttered.
+ “More trouble than it's worth to just go visit them\SpecialChar \ldots{}
+”
+\end_layout
+
+\begin_layout Standard
+“Oh,” I said, and fell silent.
+ Needed to give his mind time to work.
+\end_layout
+
+\begin_layout Standard
+There were a few things he could be thinking, and many of them worked in
+ my favor.
+ He could fear the Volturi, and want leeway within their rules as a valuable
+ prize.
+ He might admire them, and want to curry favor for its own sake.
+ I could imagine that it would make hunting more interesting if victims
+ knew he was coming and could try to resist him, although non-vampire resistance
+ was unlikely to be particularly entertaining.
+\end_layout
+
+\begin_layout Standard
+I decided -- for the time being -- 
+\emph on
+not
+\emph default
+ to mention Victoria.
+ That would make him angry.
+ I needed him curious, ambitious, risk-loving, not angry.
+ And I didn't know how narrowly his taste for drama was beating his taste
+ for blood, that he could calmly drive me around.
+ Anger could not tip that balance in a good direction.
+\end_layout
+
+\begin_layout Standard
+“Where are you taking me?” I asked after a few minutes.
+\end_layout
+
+\begin_layout Standard
+“The airport,” he said.
+\end_layout
+
+\begin_layout Standard
+“Seattle?” I asked.
+ “Or one of the little ones?”
+\end_layout
+
+\begin_layout Standard
+“Seattle.” The short answers didn't seem to be good green lights for continuing
+ to chat, so I dropped my head onto the car seat and tried to fall asleep.
+ I didn't quite manage it, but I did sort of half-doze until we got to the
+ airport.
+\end_layout
+
+\begin_layout Standard
+I was just able, in spite of being tied up, to cross my fingers.
+\end_layout
+
+\end_body
+\end_document
