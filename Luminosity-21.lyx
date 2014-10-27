@@ -50,7 +50,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman EB Garamond
+\font_roman Warnock Pro
 \font_sans Twilight
 \font_typewriter Linux Libertine Mono O
 \font_math auto
@@ -66,7 +66,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing other 1.35
+\spacing other 1.3500000000000001
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -1425,7 +1425,11 @@ The three sisters were from various parts of the world -- one Aboriginal
  Australian, one Swiss, one Korean.
  Nahuel had heard of failures from Mexico, Iceland, Ghana, Nigeria, China,
  Tibet, India, the Philippines, Indonesia and Russia, and didn't think that
- Joham and the sisters had bothered to mention all such deaths.
+ Joham and the sisters had bothered to mention 
+\emph on
+all
+\emph default
+ such deaths.
  So Joham clearly had no geographical pattern that we could use to predict
  his movements.
  There was no realistic hope of finding him and getting more information
@@ -1443,15 +1447,18 @@ We quizzed Nahuel a little more on his biology, just out of some masochistic
  abilities.
  His mind had space in proportion to his senses and capacities, as ours
  did.
- He could remember anything he chose to remember and might or might not
- forget things otherwise.
+ He could remember anything he 
+\emph on
+chose
+\emph default
+ to remember and might or might not forget things otherwise.
 \end_layout
 
 \begin_layout Standard
 I winced when he remarked casually that he could survive on either human
  food or blood -- human or animal -- but found his aunt's diet the most
  pleasant.
- Huilen's eyes (of course) were murderous burgundy.
+ Huilen’s eyes (of course) were murderous burgundy.
 \end_layout
 
 \begin_layout Standard
@@ -1465,19 +1472,29 @@ Nahuel sounded like he was acting on a much milder preference than her,
 \begin_layout Standard
 I debated with myself whether I ought to try to convert the pair of them,
  or at least Nahuel.
- It felt very awkward -- they hadn't expressed the interest that Maggie
- had.
+ It felt very 
+\emph on
+awkward
+\emph default
+ -- they hadn't expressed the interest that Maggie had.
  Part of me thought that it would be ungrateful and rude of me to have badgered
  Huilen into taking us to her nephew's home and dragged a painful story
  out of them, only to then disapprove of their dietary habits.
- Part of me thought something along the lines of, people are dying, if there's
- any chance you can stop it then you must tolerate arbitary amounts of awkwardne
-ss because there is no embarrassment you can feel that it's worth someone's
- life to avoid.
+ Part of me thought something along the lines of, 
+\emph on
+people are 
+\emph default
+dying,
+\emph on
+ if there's any chance you can stop it then you must tolerate arbitrary
+ amounts of awkwardness because there is no embarrassment you can feel that
+ it's worth someone's life to avoid
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-While Edward accumulated information about Nahuel's eldest sister's witchcraft
+While Edward accumulated information about Nahuel’s eldest sister's witchcraft
  (she could divert notice away from herself, apparently -- becoming not
  invisible, but uninteresting), I let these parts of myself fight it out.
  If what I really wanted to do was minimize death, I ought to kill Huilen
@@ -1504,8 +1521,11 @@ But I didn't want to kill her.
 \end_layout
 
 \begin_layout Standard
-I thought about it, and decided that this wasn't just a matter of wanting
- to keep my hands clean of death.
+I thought about it, and decided that this wasn't 
+\emph on
+just
+\emph default
+ a matter of wanting to keep my hands clean of death.
  I had no queasiness about the mental image of personally destroying, say,
  Aro, in the likely event that this proved necessary.
  I could probably even bring myself to execute his mate, since she'd been
@@ -1516,21 +1536,40 @@ I thought about it, and decided that this wasn't just a matter of wanting
 \end_layout
 
 \begin_layout Standard
-But Huilen was, incredibly, frustratingly, not an evil woman, even if she'd
- killed a hundred people or more in every one of the hundred and fifty years
- she'd been a vampire.
- Evil women did not adhere to the dying wishes of their sisters, from across
+But Huilen was, incredibly, frustratingly, not an 
+\emph on
+evil woman
+\emph default
+, even if she'd killed a hundred people or more in every one of the hundred
+ and fifty years she'd been a vampire.
+ 
+\emph on
+Evil
+\emph default
+ women did not adhere to the dying wishes of their sisters, from across
  the memory-thinning wall of turning, to bring up their nephews.
- An evil Huilen would have strangled the sleeping oxygen-dependent baby
- who'd curled up beside her while she turned.
+ An 
+\emph on
+evil
+\emph default
+ Huilen would have strangled the sleeping oxygen-dependent baby who'd curled
+ up beside her while she turned.
  Or she wouldn't have taken Pire into the jungle and helped her in the first
  place -- she'd have let their village kill her sister and gestating nephew,
  washing her hands of the mess.
 \end_layout
 
 \begin_layout Standard
-If she really wasn't evil, though, she shouldn't be murdering people.
- Huilen's death would be dreadful, but her victims weren't evil either.
+If she really wasn't evil, though, she shouldn't be 
+\emph on
+murdering people
+\emph default
+.
+ Huilen's death would be dreadful, but her victims weren't evil 
+\emph on
+either
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -1549,7 +1588,15 @@ There was a lull in the conversation after Edward established that Nahuel
 \end_layout
 
 \begin_layout Standard
-“She was my sister,” growled Huilen.
+“
+\emph on
+She
+\emph default
+ was my 
+\emph on
+sister
+\emph default
+,” growled Huilen.
 \end_layout
 
 \begin_layout Standard
@@ -1563,8 +1610,15 @@ I held up my hands, palms forward, in a calming gesture.
  be serious, if I were going to make any kind of habit out of vegetarain
  evangelism.
  “Huilen, I understand it's not common knowledge that full vampires can
- live on animal blood -- but Nahuel, if you know that you can eat animal
- blood or even humans' food...”
+ live on animal blood -- but Nahuel, if you 
+\emph on
+know
+\emph default
+ that 
+\emph on
+you
+\emph default
+ can eat animal blood or even humans’ food...”
 \end_layout
 
 \begin_layout Standard
@@ -1574,8 +1628,11 @@ I held up my hands, palms forward, in a calming gesture.
 \begin_layout Standard
 “Maybe you could rob blood banks or something,” I said.
  My family didn't do this (or even legally buy blood, which doctors such
- as Carlisle could do) because drinking any human blood would make it harder
- to resist killing for more.
+ as Carlisle could do) because drinking 
+\emph on
+any
+\emph default
+ human blood would make it harder to resist killing for more.
  It would be the equivalent of an alcoholic keeping beer in the fridge to
  make it less likely that he'd rob a liquor store if he got a craving.
 \end_layout
@@ -1585,7 +1642,11 @@ But it might work differently for a half-vampire (he'd tried animal blood
  and human food long enough to know that they sustained him, for one thing,
  which I didn't think vampires had a history of doing on their own save
  Carlisle).
- And Huilen was already killing people.
+ And Huilen was 
+\emph on
+already
+\emph default
+ killing people.
  If they started drinking blood without murdering to get it, they might
  develop opinions of themselves that were more consistent with vegetarian
  diets, and move in that direction on their own.
@@ -1593,8 +1654,11 @@ But it might work differently for a half-vampire (he'd tried animal blood
 \end_layout
 
 \begin_layout Standard
-Or at least they wouldn't be first up against the wall when the revolution
- came.
+Or at least they wouldn't be 
+\emph on
+first
+\emph default
+ up against the wall when the revolution came.
  They'd have a little warning.
 \end_layout
 
@@ -1649,14 +1713,29 @@ It had to go.
 \begin_layout Standard
 “Possibly,” I said.
  “Maybe even probably.
- If it mattered to him that much that they were dying, he would have called
- off the “experiment” hundreds of years ago.
+ If it mattered to him 
+\emph on
+that
+\emph default
+ much that they were dying, he would have called off the ‘experiment’ hundreds
+ of years ago.
  But we don't know how to find him and check.
- We can stall for a few months, and see if he visits Nahuel in the available
- window of leeway and is willing to talk to us.
+ We can 
+\emph on
+stall
+\emph default
+ for a few months, and see if he visits Nahuel in the available window of
+ leeway and is willing to talk to us.
  But we can't tell Gianna we want her to carry a kind of baby that no one
- has ever lived through carrying unless we have some good information that
- says she will be okay.”
+ has ever lived through carrying unless we have some 
+\emph on
+good
+\emph default
+ information that says 
+\emph on
+she
+\emph default
+ will be okay.”
 \end_layout
 
 \begin_layout Standard
@@ -1685,10 +1764,22 @@ I was tempted to say something about how being a vampire was better anyway,
  and a human child could turn into a vampire adult one day where a hybrid
  most likely couldn't and vampires had various advantages over half-vampires.
  That was just sour grapes.
- Edward had wanted -- and I had wanted -- our baby.
+ Edward had wanted -- and I had wanted -- 
+\emph on
+our
+\emph default
+ baby.
  Of course we'd love the stranger's child.
- But it wasn't the better outcome.
- Half-vampires weren't deficient in some vitally important way.
+ But it wasn't the 
+\emph on
+better
+\emph default
+ outcome.
+ Half-vampires weren't 
+\emph on
+deficient
+\emph default
+ in some vitally important way.
  So what if I could beat Nahuel up if I needed to -- he was still unaging,
  still stronger and faster and smarter than a human, and there were hints
  that he didn't have the vampire struggle with blood, which was an advantage.
