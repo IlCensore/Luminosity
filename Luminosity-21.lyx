@@ -1,0 +1,1705 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{20}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Hybrid
+\end_layout
+
+\begin_layout Standard
+It was more than a week into the month of August when we swam back to Norway.
+ When I checked my e-mail, there was a small heap of messages from my parents
+ and Rachel -- and, interestingly, one from Angela.
+ I was so surprised to get an e-mail from her that I opened it first.
+ It was sweet and postcard-like.
+ She was still in Forks for the summer, and wanted to make known her hopes
+ that I was having a nice time in Europe.
+ I replied and told her what I could about Norway, Ireland, the U.K., and
+ Italy, and mentioned -- since unless Charlie had told everyone, she didn't
+ know -- that I had eloped and likely wouldn't be returning to school in
+ the fall.
+ I sent her three wedding photos that Alice had Photoshopped to make me
+ look pinker, and asked her if she'd do me the favor of notifying Jessica
+ and our other friends.
+\end_layout
+
+\begin_layout Standard
+Then I tackled the e-mails from my parents -- more of the same, really,
+ but I dutifully compiled the recent tourism data for their reading pleasure.
+ Renée was mostly adjusted to life in Florida, where my stepfather had gotten
+ signed earlier in the year.
+ She missed Phoenix but liked Jacksonville pretty well, and was already
+ cycling through the locally available diversions and hobbies.
+ She and Phil were still getting along very well.
+\end_layout
+
+\begin_layout Standard
+Charlie, meanwhile, was starting to worry about Harry.
+ Since he obviously could not be told what had really happened to his friend,
+ and yet could also not be invited to the funeral that he'd expect to attend
+ if Harry were dead, he was being fed a confused jumble of vague misinformation.
+\end_layout
+
+\begin_layout Standard
+I'd turned the Denalis' latest addition in mid-July; it was becoming awfully
+ suspicious that in the weeks since, Harry had supposedly been visiting
+ his aunt in Nashville, then become too sick to receive visitors but not
+ sick enough to be in the hospital, then become well enough to go and see
+ a cousin Charlie had never heard of who lived in Toronto.
+ All of these plane tickets, of course, being paid for by the visited relatives;
+ the Clearwaters were not especially wealthy, although Leah and Seth now
+ had some access to pack money I'd supplied.
+ Charlie didn't appear to suspect foul play -- Billy and Sue both were making
+ sure of that -- but he was very confused.
+\end_layout
+
+\begin_layout Standard
+I assured Charlie, in my e-mail, that Harry was probably just fine and there
+ was no reason to worry -- but I didn't know what long-term solution would
+ work.
+ If Harry were reported as a missing person so he could be declared legally
+ dead later, Charlie would certainly look for him, and could run into wolfy
+ or vampiric things that he shouldn't see yet.
+ Short of torching the Clearwater house while Sue and the kids were out
+ of it and Harry was supposedly inside (to eliminate the need for a body),
+ there was no other obvious way to give Charlie a satisfactory story.
+ I toyed with the arson idea, but it would be too obviously staged if the
+ family rescued their belongings first, and not all of those objects were
+ likely to be of the easily replaceable variety.
+ They would be unlikely to go for the idea.
+\end_layout
+
+\begin_layout Standard
+Next I opened the e-mails from Rachel.
+ Two more wolves had imprinted.
+ One, a teenage boy named Jared, had fallen instantly for a classmate of
+ his who'd turned out to have a longstanding crush on him, so that was all
+ sweet and convenient.
+ Less sweetly, Quil Ateara had imprinted on Emily's two-year-old niece Claire,
+ another Makah.
+ Emily was still staying at the Clearwater house to comfort Leah, and had
+ agreed to babysit Claire from that location, which was how Quil had gotten
+ a look at her.
+\end_layout
+
+\begin_layout Standard
+Rachel added, hastily, that Quil was 
+\emph on
+absolutely not
+\emph default
+ sexually interested in the toddler, which was the only reason he still
+ had all of his face attached.
+ Apparently imprinting wasn't necessarily sexual.
+ The pack was assuming that when Claire grew up, she and Quil would be as
+ happy together as Jared and his imprint, but for the time being he was
+ absolutely content to serve as a older brother figure.
+ Rachel confided to me that he let Claire boss him around very indulgently,
+ never tiring of her.
+\end_layout
+
+\begin_layout Standard
+Leah had, at first, thought that this might mean that Sam could come to
+ think of Emily as a 
+\emph on
+sister
+\emph default
+, so that Leah could have her fiancé back.
+ Emily and Rachel had been all for this plan, and so Sam, supernaturally
+ obedient to his imprint and his Alpha, had tried.
+ Rachel didn't doubt the sincerity of his attempt.
+ But he'd failed; he was still 
+\emph on
+in love
+\emph default
+ with Emily.
+\end_layout
+
+\begin_layout Standard
+In a brief message, Rachel informed me that everyone in the pack was growing
+ like a weed.
+ “Everybody fifteen and up looks 25 years old and on our way to the Olympics,
+\begin_inset Quotes erd
+\end_inset
+
+ she told me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The younger ones look about five years older than they really are already,
+ and they're catching up, and even the kids are completely 
+\emph on
+built
+\emph default
+.
+ Wolf form sizes still vary by age and size in human shape -- I'm not the
+ biggest, just the prettiest and the one who can boss everyone around.”
+\end_layout
+
+\begin_layout Standard
+Rachel's next e-mail said only, “I think Emily is wavering.”
+\end_layout
+
+\begin_layout Standard
+The next message said nothing more of Emily, Sam, or Leah, just told the
+ stories of more imprintings.
+ One boy I hadn't met, who'd been flown in during my drive to Denali, had
+ apparently picked up on the Makah pattern.
+ His name was Victor, and he was really enthusiastic about imprinting.
+ He and two like-minded friends had actually run north all the way to the
+ Makah reservation, while Rachel was asleep and unable to order them to
+ stop.
+ There, they'd wandered around looking at girls until Victor had imprinted
+ on one.
+\end_layout
+
+\begin_layout Standard
+Thus freed from his obligation to keep the pack's information contained,
+ he told her everything (complete with a phasing demonstration) and actually
+ convinced her to visit La Push and live with him until school started,
+ although she would be obliged to go back home and finish her last year
+ of high school in September.
+ The other two hadn't imprinted during the excursion, and Rachel had resorted
+ to Alpha commands to prevent any more of that kind of foolishness.
+ This hadn't prevented one other wolf from (accidentally) imprinting on
+ a Forks girl, who I didn't recognize by name or description.
+\end_layout
+
+\begin_layout Standard
+It did not escape Rachel's notice that all of the wolves who had imprinted
+ were male.
+ “The dominant hypothesis,” she'd written in her latest missive, “is that
+ we imprint on people who'll be able to pass on the werewolf gene.”
+\end_layout
+
+\begin_layout Standard
+And all the female wolves had stopped having periods.
+\end_layout
+
+\begin_layout Standard
+Rachel passed this information to me clinically, but I could imagine that
+ it wasn't being taken with such calm by all of the female half of the pack.
+ With menstruation had gone the ability to have children -- or so they strongly
+ suspected.
+ I could guess 
+\emph on
+why
+\emph default
+, biologically, this would be the case.
+ It would not do a fetus any good at all to be subjected to violent transformati
+ons between shapes.
+ Small children with the gene couldn't activate; presumably they also lacked
+ the ability in utero.
+ Miscarriage would be inevitable.
+ Male wolves, on the other hand, would be perfectly able to sire offspring.
+ None of this was likely to ease the blow to the girls.
+\end_layout
+
+\begin_layout Standard
+I promptly wrote back.
+ While they couldn't safely carry children, that wasn't necessarily a reason
+ to suspect that all of their eggs were non-viable.
+ Secrecy, including from my own family, was still important, but in a few
+ years I could be in and out of medical school and equipped to personally
+ do for the pack what Rosalie had done for me.
+ (If, in that time, discretion became unnecessary or impossible, then one
+ of the existing Cullen doctors could handle the task.) Individual wolves
+ who, for some reason, valued the ability to bear their own children more
+ than the ability to never age could quit their wolves.
+ At that point, they would probably pick right up where they'd left off,
+ reproductive capacities and all.
+\end_layout
+
+\begin_layout Standard
+While I wrote my reply to Rachel, another e-mail appeared.
+ This one, surprisingly, was from 
+\emph on
+Harry
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+He wanted to know how I'd become sure that I could handle being around humans.
+ I sympathized with his impatience -- not only had he been thrown into vampire-h
+ood without warning, he wasn't getting along well with most of his coven.
+ So I summarized all the tips I'd collected, my self-tests with my old human-sme
+lling clothes, and the trial we'd devised with Nils.
+ I gave him Alice's e-mail address and a summary of her power, and suggested
+ that he ask her to see if he'd be safe to try.
+ Given a green light from her, all that would be needed would be for one
+ of the longstanding Denalis to take David safely away and another to bring
+ in a Nils-equivalent.
+\end_layout
+
+\begin_layout Standard
+I also recommended he get in touch with Ilario, whose contact information
+ I realized I did not have.
+ I poked my head out of the window, asked Esme -- the first person I saw
+ -- for his e-mail address, and added it in an endnote to my reply to Harry.
+ I reminded him not to tell Alice or Ilario that he was Quileute, and further
+ advised that he not even use his last name with them lest Edward pick something
+ up and recognize the family.
+\end_layout
+
+\begin_layout Standard
+Before I hit “send
+\begin_inset Quotes erd
+\end_inset
+
+, it occurred to me that everyone in my family but Edward thought that I'd
+ spent my entire detour to North America simply hanging out in Québec, less
+ the time it had taken me to encounter, turn, and transport Harry.
+ They'd assume he was Canadian.
+ The Denalis and Edward thought that I'd brought Harry up from Seattle,
+ which was still off, but too close for comfort.
+ The Denalis knew Harry's last name but not what it meant; everyone in my
+ own coven would know who the Clearwaters were except Ilario and maybe Alice
+ and Jasper.
+\end_layout
+
+\begin_layout Standard
+If Harry started e-mailing people other than me and his fellow Quileutes,
+ some informational cross-contamination would happen.
+ It was already likely, if one of the Denalis called him “Harry Clearwater”
+ in correspondence to my family or mentioned where he'd come from, but there
+ was nothing I could do about that without 
+\emph on
+telling
+\emph default
+ them to keep it on first-name terms, which was a greater risk than just
+ crossing my fingers about that leak.
+\end_layout
+
+\begin_layout Standard
+I didn't have to make it worse, though.
+ I deleted my last paragraphs.
+ Instead, I wrote that Harry should look for solitary hikers with someone's
+ supervision, and very firmly make up his mind that he would immediately
+ tell 
+\emph on
+me
+\emph default
+ if he slipped up and ate someone, and that 
+\emph on
+I
+\emph default
+ would resolve that if he told me of this event, I would...
+\end_layout
+
+\begin_layout Standard
+I tried to think of something flashy that Alice would definitely tell me
+ about if she saw me doing it, which she'd definitely see if it was to happen.
+ Eventually I decided that if Harry killed someone, I'd pick a fight with
+ Ilario.
+ I didn't think we were likely to squabble otherwise, so I would probably
+ not get a false signal.
+ But it was the sort of thing Alice would notice and try to head off if
+ she saw it, while not being sufficiently bizarre behavior for a couple
+ of newborns that I would be obviously faking.
+ I explained to Harry that if Alice gave me this warning, I'd warn him in
+ turn that his test wasn't going to go well and he should put it off.
+ 
+\emph on
+Then
+\emph default
+ I hit “send”.
+\end_layout
+
+\begin_layout Standard
+My e-mail thus taken care of, I went to locate Emmett and get another fighting
+ lesson.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Emmett started getting cocky after a couple of hours of flinging me into
+ treetops and making Bella-shaped impressions in the ground, so I quit reining
+ in my strength.
+ I was trying not to depend on it, since it wouldn't stay with me, but it
+ was available for the time being as a tool to wipe Emmett's smirk off his
+ face.
+ I grabbed him and, holding him too tightly for him to escape, stuck him
+ into the dirt headfirst, all the way up to his knees.
+ This made a spying Alice snicker.
+\end_layout
+
+\begin_layout Standard
+Emmett lost no time in wriggling his way out of the ground, but he was absolutel
+y covered in soil and looked perturbed.
+ “I'm a newborn,” I reminded him sweetly.
+\end_layout
+
+\begin_layout Standard
+“Arm-wrestle him!” cried Alice.
+ “I'll get you a rock to use as a table, hang on!” She zipped off into the
+ woods and came back with a boulder four times her size.
+ “Here!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“What's the point? I'll win,” I said.
+\end_layout
+
+\begin_layout Standard
+“Will not,” challenged Emmett.
+\end_layout
+
+\begin_layout Standard
+“Emmett, that's ridiculous.
+ I've been a vampire for less than two months.
+ I'm sure you'll be able to beat me at any contest of strength you care
+ to name this time next year, but now?”
+\end_layout
+
+\begin_layout Standard
+“Come on,” he goaded, getting into arm-wrestling position with his elbow
+ on the rock.
+ I rolled my eyes and clasped hands.
+ Alice counted down, and Emmett started pushing.
+\end_layout
+
+\begin_layout Standard
+I could definitely 
+\emph on
+tell
+\emph default
+ that he was pushing -- he probably could have shoved his arm shoulder-deep
+ through solid granite with the force he applied.
+ But my arm didn't move.
+ It wasn't hard to keep it still.
+ Vampire muscles didn't react to physical challenges in the same way.
+ While there were things too heavy for us to pick up, attempting to lift
+ them, or slightly lighter objects, did not cause 
+\emph on
+strain
+\emph default
+ or any sort of fatigue.
+ So I sat there, looking innocently at Emmett, as he gritted his teeth and
+ pushed harder.
+ My arm still didn't move.
+\end_layout
+
+\begin_layout Standard
+We'd collected more spectators; an amused Edward had come to the yard, presumabl
+y following someone's thoughts, and Rosalie and Jasper were looking out
+ two windows of the house.
+ Ilario peered out a window and then left the house to watch from a better
+ vantage point.
+ “Let me know when you're ready for me to break this rock with your forearm,”
+ I told Emmett mildly.
+\end_layout
+
+\begin_layout Standard
+He pushed even harder, but I compensated automatically.
+ “Rrr,” he said.
+\end_layout
+
+\begin_layout Standard
+“This isn't nearly as fun as sparring,” I complained.
+ “Do you really want to sit here all day? Just tell me when you're done,
+ and then I'll win.
+ But since you wanted to do this, I'd hate to deprive you of your fun before
+ you say so...
+ not that I can tell what you see in this activity...” I tilted my head, looking
+ curiously at our joined hands as though trying to figure out what might
+ be interesting about them.
+\end_layout
+
+\begin_layout Standard
+Edward laughed, and Alice tittered.
+ I was being a little mean, obliging Emmett to say he wanted to lose before
+ allowing the contest to end, but the look on his face was so much fun.
+ I blinked at him patiently.
+\end_layout
+
+\begin_layout Standard
+Suddenly, Emmett grinned and let his arm go limp all at once.
+ Unprepared, my arm slammed forward and drove his into the rock, but on
+ his terms.
+ I laughed with everyone else.
+\end_layout
+
+\begin_layout Standard
+“Want to try me?” Ilario asked me.
+\end_layout
+
+\begin_layout Standard
+I had not spoken to Ilario at all since he'd turned, and only a handful
+ of sentences before that.
+ I'd left right after he'd been injected, and stopped in Norway only briefly
+ to drop off his sister -- who monopolized his time -- before jumping into
+ the ocean and swimming to Ireland.
+\end_layout
+
+\begin_layout Standard
+“Hm,” I said.
+ “You're newer than I am -- how much does that matter?”
+\end_layout
+
+\begin_layout Standard
+Jasper, resident newborn expert, opened his window and hopped out, falling
+ twenty feet and landing neatly.
+ “Very little,” he said.
+ “But it's not nothing.
+ Either of you could win, but I'd bet on Ilario.”
+\end_layout
+
+\begin_layout Standard
+Ilario was a tall, skinny guy, not particularly burly, but I hadn't brought
+ special physical prowess into my vampire life either.
+ Unlike with Emmett, who I'd known I could beat, I was honestly curious
+ about the outcome.
+ “Sure,” I said.
+ “The rock is a little beat up on this side...” I turned it over, pressing
+ it into the ground so it wouldn't wobble, and put my arm in place.
+\end_layout
+
+\begin_layout Standard
+Ilario walked up, eyeing my arm appraisingly, and took hold of my hand.
+ Alice counted again.
+\end_layout
+
+\begin_layout Standard
+The difference was immediately obvious, and my arm twitched backwards half
+ a centimeter before I brought more power to bear and held my own.
+ Ilario looked very focused and calm as he pushed my hand.
+\end_layout
+
+\begin_layout Standard
+I decided to just go all out, and forced my arm to push as hard as it physically
+ could.
+ Ilario matched me, and then some; my arm leaned, bit by bit, towards the
+ rock.
+ Clearly he was stronger than I was, but that didn't necessarily mean he'd
+ win...
+ I relaxed my arm for a fraction of a second, and it shot towards the rock,
+ but Ilario reduced the strength of his attack in response, and just before
+ my knuckles hit stone, I pushed back with maximum power and had our arms
+ perpendicular to the rock before he reacted and stopped me cold.
+ It was back to a near-stalemate in his favor.
+\end_layout
+
+\begin_layout Standard
+“Not going to fall for that again,” laughed Ilario, good-naturedly.
+\end_layout
+
+\begin_layout Standard
+“No?” I didn't have any more tricks, and I sighed as he forced my arm down
+ to the rock, millimeter by millimeter.
+ I didn't let go like Emmett had, and so the back of my hand just brushed
+ the boulder very lightly, and then he'd won.
+\end_layout
+
+\begin_layout Standard
+“Congratulations,” I said; he extracted his hand and I swept a little rock
+ dust off of mine.
+ Jasper nodded to himself and Emmett looked pleased.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+Other than the arm-wrestling, my week of downtime in Norway was pleasantly
+ uneventful.
+ I got to know Ilario, who was a pleasant fellow, very careful and deliberate
+ in his choices and protective of Gianna.
+ I spent a lot of time with Edward in our cottage, dined exclusively on
+ killer whale, and got to be conversationally fluent in Italian.
+ I explored the countryside around our house, sometimes with Edward or other
+ family, sometimes all by myself.
+\end_layout
+
+\begin_layout Standard
+Harry e-mailed; I opened the message nervously, worried that Alice had missed
+ the tussle I would have to provoke with Ilario in response to a tragic
+ failure.
+ But Harry had successfully gotten within ten feet of a hiker, with Carmen
+ along to check his movements, and not done the man any harm.
+ He thanked me for my help.
+ In a P.S.
+ at the end of the message, he apologized for having acted so afraid of
+ me; via e-mail no one seemed like a person to him, and so I didn't stand
+ out as scarily in the remote medium.
+\end_layout
+
+\begin_layout Standard
+I kept abreast of the goings-on in La Push.
+ Rachel was nervous about what would happen when school started up again
+ for the Makah who Victor had found.
+ She didn't think that the boy would hold up well without his imprint.
+ Claire, too, would eventually have to return to the Makah reservation;
+ her parents, while moderately neglectful, were not complete absentees.
+ They'd expect Emily to return her charge eventually, and then Quil would
+ be alone.
+ For her own part, with no way to hand off Alpha responsibilities to someone
+ else, Rachel was arranging with her school to do everything long-distance
+ come autumn.
+ She might need to go to Spokane to sit exams at the end of each semester,
+ but could otherwise expect to keep up while based in La Push.
+\end_layout
+
+\begin_layout Standard
+I found occasion to ask Carlisle what evidence beyond Maggie he had for
+ Siobhan's witchcraft.
+ It wasn't impressive at all.
+ In fact, that was the strongest example he had.
+ Every other case gave Siobhan lots of time to lay complex groundwork.
+ I announced that I was in Siobhan's camp as far as the nature of her talent:
+ she just planned well.
+ Until she and Eleazar were in a room together and he said otherwise, or
+ she pulled off something more impressive than getting Liam to put up with
+ a new covenmate, there was no reason to consider her a witch.
+ Carlisle smiled agreeably and said that this was fine, which frustrated
+ me, but didn't seem worth having a long argument over; I went and watched
+ Esme pour cement in the basement instead.
+\end_layout
+
+\begin_layout Standard
+After a week at home, as specified, I was ready to go to South America and
+ hunt for half-vampires.
+ I informed Edward of this, and he happily booked us tickets.
+ A few hours later, we were flying over the Atlantic again, hoping to find
+ out if our potential child was mythical or possible.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+“I confess I have no idea how to go about looking for half-vampires,” I
+ told Edward, in Portuguese, as we walked away from the airport.
+ I'd spent the trip studying the language, since we had no textbooks handy
+ on any other tongues that the obscure tribes we could wind up talking to
+ might use.
+ Using translators would be ill-advised, given the sensitive nature of our
+ search, but we could hire one to teach us a few words without explaining
+ what they were for and use them to elicit images in people's minds that
+ Edward could examine.
+\end_layout
+
+\begin_layout Standard
+“I don't have much experience with it either,” he replied in the same language.
+ “That's why we landed in Manaus instead of Rio.
+ I thought we could start by finding the Amazon coven and asking them if
+ they know anything.
+ Humans who believe in vampires might not want to talk to you and me, although
+ if we dead-end with the Amazons we could try coming back with Gianna and
+ getting her to ask for us.”
+\end_layout
+
+\begin_layout Standard
+“Oh, that makes sense.
+ Tell me about the coven?” I invited.
+\end_layout
+
+\begin_layout Standard
+The Amazons were three women, all unmated, who formed an unusually close
+ coven and were rarely seen apart.
+ Zafrina, the leader, was an illusionist.
+ Though limited to vision and unable to affect other senses, she was still
+ very powerful, and could compose entire scenes to supplant whatever input
+ one's eyes would normally supply.
+ Edward expected me to be immune to this talent.
+ The other two, Senna and Kachiri, were not witches.
+ All three of them were on the order of five hundred years old, as they
+ reckoned it.
+ They'd been turned separately, departed from their creators separately
+ after maturing, and then found each other a few years later.
+\end_layout
+
+\begin_layout Standard
+While they were not the only vampires in South America by a long shot, or
+ even in Brazil, they did have more or less undisputed run of the Amazon
+ River and its environs.
+ Edward assured me, though, that Zafrina was sufficiently confident in her
+ ability to turn a fight to her advantage that they could afford not to
+ attack intruders on sight, even unexpected ones.
+ (They did not hold with modern technology, and could not have been called
+ ahead of time.) They'd recognize him and be willing to be introduced to
+ me, and if they couldn't or wouldn't help, they'd let us leave peacefully.
+\end_layout
+
+\begin_layout Standard
+The rainforest was not a location notable for its transportational infrastructur
+e, so we were on foot, with a modest amount of luggage carried in backpacks
+ and wrapped in plastic to keep the rain off it.
+ The constant rain had the effect of making it very difficult to track by
+ scent.
+ We could smell things that had been nearby recently, but figuring out where
+ the coven had been and which direction they'd gone since was near-impossible.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+It took us two very scenic and damp days before we finally found them, during
+ which time I improved my Portuguese considerably and learned to identify
+ a wide variety of native wildlife.
+ I also ate a jaguar, which was okay.
+ When we located the three women, they were in the middle of eating.
+ Edward caught the scent first, and warned me to hold my breath; I was still
+ untested with regards to the smell of fresh human blood.
+ He didn't look terribly comfortable himself, either, and quit breathing
+ once he had the direction; he signed, to avoid using up air, that he was
+ pretty sure that the blood was from the Amazons' prey.
+\end_layout
+
+\begin_layout Standard
+The humans in question were all dead by the time we got there.
+ Each of the three Amazons appeared to have bagged one of her own -- by
+ their outfits, I thought they might have been loggers or something like
+ that.
+ The coven, for their part, were all dressed entirely in hide and leather,
+ just vests and pants.
+ They had elongated limbs and features, like average people as seen in a
+ funhouse mirror -- elegant tall faces, willowy limbs and digits.
+ All of them had braided black hair past their waists and a slightly beige
+ hue to their pale skin.
+\end_layout
+
+\begin_layout Standard
+One of the women lifted her head from the throat of her quarry to look at
+ us, and I was surprised by the fact that I did not feel physically queasy.
+ Apparently that was a sensation vampires did not experience, because the
+ dead men were one of the most disturbing things I'd personally laid eyes
+ on.
+ Harry Clearwater's mangled body was in the same ballpark.
+ Actually, he'd been torn up worse, whereas these men were missing most
+ of their necks but otherwise intact.
+ But 
+\emph on
+Harry
+\emph default
+ was walking around healthy as a horse, and the loggers never would again.
+ I found it unhelpful to speculate that they had been killing endangered
+ species.
+ Endangered species, however photogenic, did not 
+\emph on
+think
+\emph default
+.
+ Their deaths did not warrant vengeance.
+ Even if they did, that had not been the motive.
+\end_layout
+
+\begin_layout Standard
+Edward noticed my discomfort and put his arm around me.
+ The woman who was looking at us said, “Edward Cullen.
+ How surprising to see you.” She spoke English, although it was accented
+ -- my guess was that she didn't practice the language often.
+ “And I take it that you have found a mate.”
+\end_layout
+
+\begin_layout Standard
+“This is Bella,” said Edward, nodding.
+ “Bella, this is Zafrina, and that is Senna and that's Kachiri.” He pointed
+ out the two who'd ignored our approach.
+\end_layout
+
+\begin_layout Standard
+I attempted to smile, and succeeded, although I kept looking at the corpses.
+ Kachiri finished hers and looked over her shoulder at us, and then Senna
+ followed suit.
+\end_layout
+
+\begin_layout Standard
+The men were already dead and couldn't get deader, and I did need to know
+ if I could handle blood...
+ I took a small breath.
+\end_layout
+
+\begin_layout Standard
+It was about ten or twenty times worse than when the blood was neatly contained
+ in a human; my throat instantly combusted, praying for drink.
+ Venom gushed into my mouth.
+ I summoned the instinct to fear the three women, identifying the dead as
+ 
+\emph on
+their
+\emph default
+ prey which I couldn't safely take, and held very, very still, caught between
+ the terror I was using and the thirst I'd invited.
+ Edward's arm, still around my shoulders, squeezed.
+ I didn't know if I would have been able to leave the blood unconsumed if
+ it hadn't belonged to the Amazons.
+ Rational thought wasn't efficacious against the thirst; the best I could
+ do was pit one drive against another, fearing for my life at the hands
+ of the coven if I drank the blood that the pain in my throat told me I
+ 
+\emph on
+needed
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+I swallowed the venom, and it was instantly replaced; it didn't matter that
+ I'd stopped breathing.
+ I closed my eyes and turned towards Edward, who wrapped his arms around
+ me comfortingly.
+ “I'm sorry,” he said to the Amazons.
+ “She's very controlled for a newborn, but hasn't been near human blood
+ before.
+ Please excuse her.”
+\end_layout
+
+\begin_layout Standard
+I had been 
+\emph on
+near
+\emph default
+ human blood before, but this was faster to explain, and anyway, I'd known
+ not to inhale near Harry while the blood was fresh...
+ and those men were dead, and our 
+\emph on
+friends
+\emph default
+ the Amazon coven had killed them...
+ and even if the loggers had been driving some tree extinct, they didn't
+ deserve to die...
+ 
+\emph on
+and they smelled so good
+\emph default
+ and I wanted to fight Kachiri for her dead man and suck out whatever drops
+ were left in his veins and cool the burning in my throat but I thought
+ she might kill me if I tried and 
+\emph on
+I
+\emph default
+ didn't deserve to die either
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Edward said, “It looks like you've finished eating.
+ If you could dispose of the leftovers, it would be easier for us to talk
+ to you; we have some questions.”
+\end_layout
+
+\begin_layout Standard
+“Very well,” said Zafrina, agreeably enough, and I heard the three women
+ picking up their respective beverage containers and racing off into the
+ forest with them.
+ I didn't know what they were going to do to cover up their involvement
+ in the deaths; I didn't think I'd like it if I got the answer.
+ That didn't keep my brain from wildly speculating.
+ Drop the bodies into piranha-infested waters? That would probably work
+ well.
+ Fling them into some slash-and-burn farm that was in the middle of the
+ “burn” phase? Risky...
+ I was so parched.
+ I wished I'd brought a bottle of water.
+ I wanted blood.
+ The jaguar had been too long ago.
+ My throat smoldered.
+\end_layout
+
+\begin_layout Standard
+They came back after about thirty seconds.
+ “We can go somewhere else, if that would be more comfortable for your Bella,”
+ offered either Senna or Kachiri; I hadn't heard either speak and wasn't
+ looking, still burying my face in Edward's shirt.
+ I felt him nod, and he picked me up, accurately judging me too affected
+ by the blood and the murder to want to move around under my own power.
+ I might just take off and find someone full of blood that smelled 
+\emph on
+that good
+\emph default
+ and make the burning stop.
+\end_layout
+
+\begin_layout Standard
+Edward followed the coven through the forest with me in his arms.
+ I opened my eyes and watched plants whiz by, then closed them again.
+ Eventually we'd arrived at the Amazons' venue of choice.
+ It was a section of rainforest, much like any other.
+\end_layout
+
+\begin_layout Standard
+“Bella, there's none of the scent here,” Edward murmured to me.
+ “You can breathe.”
+\end_layout
+
+\begin_layout Standard
+I breathed again, and set my feet on the ground, where they held me up quite
+ satisfactorily in spite of my ongoing distress.
+ No one seemed to expect me to talk, which was good.
+ “What did you visit us about, then?” asked Zafrina.
+\end_layout
+
+\begin_layout Standard
+Edward related the story of what he'd learned after our honeymoon had been
+ cut short from the Ticuna Indian woman who'd heard of half vampires.
+ “Bella had some eggs taken from her before she turned,” he told them.
+ Then he had to explain what eggs were to the scientifically uninitiated
+ coven.
+ “The upshot is that if half-vampires are possible, a human woman could
+ bear a child that is both mine and Bella's,” he concluded.
+\end_layout
+
+\begin_layout Standard
+“I've never heard of this truly happening,” said Zafrina skeptically.
+ “Of course there are stories, but there are stories about anything and
+ everything; only a handful are true.”
+\end_layout
+
+\begin_layout Standard
+“It may be a fruitless search,” acknowledged Edward.
+ “We're prepared to devote some time to investigating anyway.
+ We know the Ticuna have legends about half-vampires; who else might know
+ something?”
+\end_layout
+
+\begin_layout Standard
+Zafrina listed a half-dozen tribes; Kachiri chimed in with a few more, and
+ I concluded that it was her voice that had offered the change of location.
+ Senna was quite silent.
+ Zafrina remarked, after about ten peoples with half-vampire stories had
+ been suggested, “It surprises me that you, golden-eyed still, would let
+ a human die to get your child.”
+\end_layout
+
+\begin_layout Standard
+“No,” I said at once.
+ “Not if it will kill her.
+ We want to find out if there's a way she could live through it.”
+\end_layout
+
+\begin_layout Standard
+“Ah, she speaks,” said Kachiri.
+ “But the stories never say the mother lives.”
+\end_layout
+
+\begin_layout Standard
+“But the stories are old,” I said.
+ “Medicine has gotten much better.
+ Forty years ago, my eggs couldn't have been harvested as they were.
+ Perhaps the last half-vampire born is two or three hundred years old, and
+ his or her mother could have been saved with something that was invented
+ since then.
+ We only need to find out what killed her to make a good guess about that.”
+\end_layout
+
+\begin_layout Standard
+“If she existed at all,” said Zafrina.
+\end_layout
+
+\begin_layout Standard
+“As I said,” said Edward, “it may turn out that we're looking for something
+ that isn't there.
+ But we want to try.
+ Are there vampires that live closer to the tribes you mentioned, who might
+ talk to us and might know something more concrete?”
+\end_layout
+
+\begin_layout Standard
+Kachiri gave the usual stomping grounds of two vampires, both of whom traveled
+ alone and would be therefore unlikely to attack the pair of us, although
+ she didn't vouch for their helpfulness, and remarked that she and her coven
+ had only met each briefly.
+ They'd run into each other, come to an agreement on their respective territorie
+s, and then never noticeably encroached again.
+\end_layout
+
+\begin_layout Standard
+They had nothing else useful to tell us, so Edward courteously caught them
+ up on the latest Cullen family news and then excused us.
+\end_layout
+
+\begin_layout Standard
+I fought the mental image of those dead men into the farthest recesses of
+ my mind, and followed him as he took off at a run through the rainforest.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+One would expect, even given no detailed information, that it would be very
+ difficult and time-consuming to find nomadic vampires one has never met
+ who are not trying to be easy to find in a continent as large as South
+ America.
+ One would be absolutely correct.
+ We tromped around the suggested locations for almost three weeks.
+ During this time, Edward filled in the large gaps in my Spanish, so I could
+ get along in the non-Brazil countries.
+ We went sniffing in uninhabited areas for vampire scents and passed through
+ population centers for Edward to catch thoughts of suspicious disappearances.
+\end_layout
+
+\begin_layout Standard
+Finally, we ran into a vampire who could have been one of those Kachiri
+ described, in the middle of the Chilean Andes.
+\end_layout
+
+\begin_layout Standard
+She was a small, nervous-looking woman with a long black braid and the same
+ off-white tinge to her skin that seemed common to vampires made of non-white
+ humans.
+ We caught just a glimpse of her from a distance before she disappeared
+ over a mountain, apparently spooked.
+\end_layout
+
+\begin_layout Standard
+“Did you get her name?” I asked Edward as we followed the path she'd taken
+ over the rocks.
+\end_layout
+
+\begin_layout Standard
+“No,” he said.
+ “If I keep her in range it's sure to come up...” He ranged a little ahead
+ of me, pitting his speed against the other vampire's familiarity with the
+ territory and head start.
+ “Huilen!” he shouted, after a few seconds.
+ That was presumably her name; he continued in Spanish.
+ “Huilen, we don't want to hurt you! We just want to talk!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She paused, clinging to a mountain peak, ready to escape if we made any
+ threatening moves.
+ I caught up to Edward.
+\end_layout
+
+\begin_layout Standard
+“Please talk to us,” I called in the same language.
+ Since she'd stopped, I thought she probably knew Spanish.
+\end_layout
+
+\begin_layout Standard
+“How do you know my name?” she demanded in a high, clear voice that carried
+ easily through the mountain air.
+\end_layout
+
+\begin_layout Standard
+“Come talk to us and we'll explain,” I replied.
+\end_layout
+
+\begin_layout Standard
+“I can hear you from here,” she said.
+\end_layout
+
+\begin_layout Standard
+“You'll run away again as soon as you aren't curious anymore,” I retorted.
+ “Please come here.
+ We won't hurt you.”
+\end_layout
+
+\begin_layout Standard
+Huilen crept down the mountain cautiously; Edward and I held still.
+ “Who are you?” she asked.
+\end_layout
+
+\begin_layout Standard
+“My name is Edward,” he said, “and this is my wife Bella.”
+\end_layout
+
+\begin_layout Standard
+“And how do you know my name?” she asked again.
+ Edward explained his ability, which made Huilen even more nervous, although
+ she didn't run away again.
+ “What do you 
+\emph on
+want?
+\emph default
+” she said when he'd finished accounting for his knowledge.
+\end_layout
+
+\begin_layout Standard
+“We're trying to find out if half-vampires exist,” I said.
+\end_layout
+
+\begin_layout Standard
+Huilen stared at us, and then Edward said abruptly, “Who was that?”
+\end_layout
+
+\begin_layout Standard
+She hissed, and turned to run, but Edward chased her; I followed, but Huilen
+ was scrambling over the mountains with practiced efficiency and Edward
+ was charging after her very fast, so it was all I could do to keep them
+ in hearing distance.
+ “Huilen, wait!” pleaded Edward.
+ “We don't want to do you 
+\emph on
+or
+\emph default
+ him any harm! Please!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She didn't answer him, just continued to clamber over the terrain at high
+ speed.
+ I wondered what Edward would do with her if he caught her.
+ I saw them going diagonally over a slope off to my left, and I pushed off
+ from the ground with all four limbs, leaving gouges in the rock and hurtling
+ towards them.
+ I landed in front of Huilen and she veered right, but the course correction
+ was enough to let Edward get around and cut her off.
+ She stopped again and shrank into herself, making a small noise.
+\end_layout
+
+\begin_layout Standard
+“Huilen, we don't want to hurt you, or...
+ Nahuel? Nahuel.
+ But it's important to us to find out about half-vampires,” said Edward.
+ “Why are you so afraid?”
+\end_layout
+
+\begin_layout Standard
+“Your eyes,” she murmured.
+ “They're -- what are you?”
+\end_layout
+
+\begin_layout Standard
+Patiently -- whether because he was truly patient or because Huilen's thoughts
+ were providing satisfactory information -- Edward explained that we 
+\emph on
+were
+\emph default
+ vampires, but did not eat humans.
+ Huilen seemed only a little surprised by our animal diet, although it struck
+ her as odd that this would affect eye color.
+\end_layout
+
+\begin_layout Standard
+“Why do you want to know about the demon's children?” asked Huilen harshly.
+ The way she said it, it was as though she had some specific demon in mind,
+ and specific children.
+\end_layout
+
+\begin_layout Standard
+“When I was human,” I said, approaching, “eggs were taken from me.
+ We have a human friend who has agreed to bear my child, but we want to
+ know if the child could be Edward's too.”
+\end_layout
+
+\begin_layout Standard
+“Your 
+\emph on
+friend
+\emph default
+ will die,” spat Huilen.
+\end_layout
+
+\begin_layout Standard
+“We would like to meet your nephew, Huilen,” murmured Edward gently.
+ “And hear the whole of your story.”
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+Huilen's nephew Nahuel was definitely not a vampire.
+ His skin was a richly saturated brown, dark and warm, and his eyes the
+ same.
+ He wore his hair like his aunt's, braided, but it was a bit shorter.
+ He had vampirically perfect symmetry, and was quite beautiful, but he didn't
+ move 
+\emph on
+quite
+\emph default
+ so gracefully, and while I didn't see him run or lift weights, my estimation
+ was that he would not be 
+\emph on
+quite
+\emph default
+ so fast or strong either.
+ But it was close.
+\end_layout
+
+\begin_layout Standard
+The real giveaway was the heartbeat.
+ Nahuel's heart thrummed at a speed I'd never heard a human's manage, although
+ it was slower than mine or Harry's had been at the final moments of our
+ turnings.
+ He was also warm, about the same temperature as a werewolf, and smelled
+ somewhere between human and vampire -- not like food, but pleasant.
+\end_layout
+
+\begin_layout Standard
+He lived in a tiny house high on a mountain, which would be difficult for
+ humans to access but not impossible.
+ It was not too far from there to the city of Santiago de Chile, whence
+ the vampire who went by “Santiago” apparently hailed.
+\end_layout
+
+\begin_layout Standard
+Huilen didn't live with Nahuel anymore, although she had raised him and
+ visited frequently.
+ “My sister is dead, of course,” she explained, sounding angry.
+ “She was so pretty.
+ Our parents named her Pire, for the snow on the mountains.
+ But she was 
+\emph on
+too
+\emph default
+ pretty, and the 
+\emph on
+Libishomen
+\emph default
+ wanted her for himself.” I assumed the unfamiliar word was a legendary term
+ for vampire.
+ “She told me in confidence that an angel had taken her for his lover and
+ I knew it was no angel -- she was covered in bruises, I suppose he didn't
+ take any care with her.
+ I warned her, as if the injuries weren't warnings themselves, but she didn't
+ listen -- like she'd been bewitched.
+ And she told me she was carrying his child.”
+\end_layout
+
+\begin_layout Standard
+“This was how long ago?” asked Edward, studying Nahuel's youthful, lovely
+ features.
+ The half-vampire blinked back at him mildly.
+\end_layout
+
+\begin_layout Standard
+“A hundred and fifty years, give or take,” supplied Nahuel.
+ His voice was clear and gentle.
+ “I grew very fast, but stopped when I was seven.
+ Haven't noticed any change since.”
+\end_layout
+
+\begin_layout Standard
+“Amazing,” Edward murmured.
+ “Do go on,” he added to Huilen.
+\end_layout
+
+\begin_layout Standard
+“I knew everyone, even our parents, would want the child dead and Pire with
+ him, if she were found to be carrying the demon's spawn, and I couldn't
+ lose her,” explained Huilen.
+ “I went with her into the jungle, I hunted animals for her and she drank
+ their blood ravenously, and she was still weak and her child hurt her from
+ the inside, breaking bones.
+ I thought perhaps if I nursed her well enough she could live, and then
+ the demon's child could be destroyed without harming her.” Nahuel didn't
+ have any visible reaction to this description of his fetal self.
+\end_layout
+
+\begin_layout Standard
+“But Pire died anyway?” I murmured.
+\end_layout
+
+\begin_layout Standard
+Huilen nodded.
+ “She did.
+ She lost so much blood, and was so weakened to make him grow so quickly,
+ and he had broken so many of her bones.
+ But she loved her child.
+ She named him Nahuel -- after the jungle cat -- and her dying wish was
+ that I care for her son.
+ And I told her I would.
+ But after he ripped his way out, through the hard shell that had grown
+ around him in her womb, and I lifted him from her body, he bit me.
+ I crawled into the jungle, and thought I would die.
+ When I was finished turning, he was sleeping, curled up beside me.”
+\end_layout
+
+\begin_layout Standard
+“So you're venomous,” Edward said, looking back to Nahuel.
+ “And you sleep.”
+\end_layout
+
+\begin_layout Standard
+“I do, and I am,” confirmed Nahuel.
+ “My sisters have no venom, but I do not know if that is due to gender or
+ to chance.”
+\end_layout
+
+\begin_layout Standard
+“You have 
+\emph on
+sisters
+\emph default
+,” exclaimed Edward.
+\end_layout
+
+\begin_layout Standard
+“Three,” said Nahuel, “as of seventeen years ago.
+ The other two are older than me.
+ But their mothers died as well.
+ My father considers himself a scientist, and thinks he's breeding a master
+ race; I'm told that more of his experiments have died in...
+ attempting to conceive...
+ or during their pregnancies, than have managed to bring to term.
+ My sisters travel with him, but I already had Huilen for family, and was
+ not interested in going with him when he came looking for me several years
+ after my mother's death.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded, crestfallen at the implied death toll.
+ It yielded a pessimistic prognosis for an attempt at our own half-vampire
+ child.
+ I took his hand and folded it in mine.
+ Seventeen years previously, medicine had been fairly modern.
+ If Nahuel's father had had any interest at all in keeping the newest sister's
+ mother alive, and it was the sort of thing that was reliably doable with
+ 2005 technology, it could most likely have been managed then.
+ And Joham was a vampire, and could have turned the mothers if that would
+ have saved them and he'd wanted them alive.
+ Maybe he didn't care, but he wasn't there to ask.
+\end_layout
+
+\begin_layout Standard
+I asked, but Nahuel couldn't speculate as to how much care the recent crop
+ of “attempts” had gotten; Pire had been abandoned altogether once pregnant,
+ but that might or might not have been a special situation, as she was with
+ Huilen instead of isolated.
+ Nahuel rarely had any contact with his father, whose name was Joham but
+ whose location and contact information were unknown.
+\end_layout
+
+\begin_layout Standard
+The three sisters were from various parts of the world -- one Aboriginal
+ Australian, one Swiss, one Korean.
+ Nahuel had heard of failures from Mexico, Iceland, Ghana, Nigeria, China,
+ Tibet, India, the Philippines, Indonesia and Russia, and didn't think that
+ Joham and the sisters had bothered to mention all such deaths.
+ So Joham clearly had no geographical pattern that we could use to predict
+ his movements.
+ There was no realistic hope of finding him and getting more information
+ before Aro came to check up on Gianna.
+\end_layout
+
+\begin_layout Standard
+We quizzed Nahuel a little more on his biology, just out of some masochistic
+ interest in knowing what could have been.
+ He obliged us readily enough.
+ He was not as strong, fast, tough, sensorily gifted, precise in movement,
+ roomy-minded, or possessed of perfect recall as a vampire.
+ In physical power, he was behind an average vampire by the same amount
+ that a vampire was behind a newborn; it was similar for the other physical
+ abilities.
+ His mind had space in proportion to his senses and capacities, as ours
+ did.
+ He could remember anything he chose to remember and might or might not
+ forget things otherwise.
+\end_layout
+
+\begin_layout Standard
+I winced when he remarked casually that he could survive on either human
+ food or blood -- human or animal -- but found his aunt's diet the most
+ pleasant.
+ Huilen's eyes (of course) were murderous burgundy.
+\end_layout
+
+\begin_layout Standard
+Nahuel sounded like he was acting on a much milder preference than her,
+ though, somewhere between a human's “I really enjoy bacon, and I don't
+ like tofu at all” and a vampire's “only human blood will quench my desperate,
+ maddening thirst”.
+ I was mildly repulsed, which he appeared to notice.
+\end_layout
+
+\begin_layout Standard
+I debated with myself whether I ought to try to convert the pair of them,
+ or at least Nahuel.
+ It felt very awkward -- they hadn't expressed the interest that Maggie
+ had.
+ Part of me thought that it would be ungrateful and rude of me to have badgered
+ Huilen into taking us to her nephew's home and dragged a painful story
+ out of them, only to then disapprove of their dietary habits.
+ Part of me thought something along the lines of, people are dying, if there's
+ any chance you can stop it then you must tolerate arbitary amounts of awkwardne
+ss because there is no embarrassment you can feel that it's worth someone's
+ life to avoid.
+\end_layout
+
+\begin_layout Standard
+While Edward accumulated information about Nahuel's eldest sister's witchcraft
+ (she could divert notice away from herself, apparently -- becoming not
+ invisible, but uninteresting), I let these parts of myself fight it out.
+ If what I really wanted to do was minimize death, I ought to kill Huilen
+ then and there.
+ Even if I convinced her to become a vegetarian, she was not overwhelmingly
+ likely to go on forever without ever messing up.
+\end_layout
+
+\begin_layout Standard
+And she could be killed, if I attacked.
+ If it came down to it, however insane he thought I was being in my assault,
+ Edward would be on my side.
+ Just as Irina would have been on Laurent's against her own sisters if they'd
+ kicked up a fuss about his killings.
+ Edward's mindreading and my newborn strength made the fight almost risk-free
+ on our end, even if Nahuel was factored in.
+ Neither the hybrid nor Huilen was any sort of witch, and she was small
+ and he was weak and slow compared to us.
+\end_layout
+
+\begin_layout Standard
+But I didn't want to kill her.
+ That seemed like an incorrect thing to do.
+\end_layout
+
+\begin_layout Standard
+I thought about it, and decided that this wasn't just a matter of wanting
+ to keep my hands clean of death.
+ I had no queasiness about the mental image of personally destroying, say,
+ Aro, in the likely event that this proved necessary.
+ I could probably even bring myself to execute his mate, since she'd been
+ in one of the best possible positions to affect the direction of the Volturi
+ out of anyone save the three rulers themselves, and had done nothing.
+ (And because if I had to kill Aro, it would amount to a mercy killing to
+ send his wife after him.)
+\end_layout
+
+\begin_layout Standard
+But Huilen was, incredibly, frustratingly, not an evil woman, even if she'd
+ killed a hundred people or more in every one of the hundred and fifty years
+ she'd been a vampire.
+ Evil women did not adhere to the dying wishes of their sisters, from across
+ the memory-thinning wall of turning, to bring up their nephews.
+ An evil Huilen would have strangled the sleeping oxygen-dependent baby
+ who'd curled up beside her while she turned.
+ Or she wouldn't have taken Pire into the jungle and helped her in the first
+ place -- she'd have let their village kill her sister and gestating nephew,
+ washing her hands of the mess.
+\end_layout
+
+\begin_layout Standard
+If she really wasn't evil, though, she shouldn't be murdering people.
+ Huilen's death would be dreadful, but her victims weren't evil either.
+\end_layout
+
+\begin_layout Standard
+Damn the awkwardness, full speed ahead.
+\end_layout
+
+\begin_layout Standard
+There was a lull in the conversation after Edward established that Nahuel
+ had spent one month in the womb from conception to messy, deadly birth.
+ Huilen was grimacing again, displaying clear misery over her sister's loss.
+\end_layout
+
+\begin_layout Standard
+“It's strange to me,” I said quietly, “that you feel so strongly about Pire's
+ death, but you both kill humans for food.”
+\end_layout
+
+\begin_layout Standard
+“She was my sister,” growled Huilen.
+\end_layout
+
+\begin_layout Standard
+I held up my hands, palms forward, in a calming gesture.
+ “I understand.
+ I would feel more strongly about it if one of my family were killed than
+ if it were only a stranger, too.
+ But of course strangers tend to have families too.” It was difficult to
+ restrain my flippancy.
+ I would really need to look into that and find a way to force myself to
+ be serious, if I were going to make any kind of habit out of vegetarain
+ evangelism.
+ “Huilen, I understand it's not common knowledge that full vampires can
+ live on animal blood -- but Nahuel, if you know that you can eat animal
+ blood or even humans' food...”
+\end_layout
+
+\begin_layout Standard
+“I can; that doesn't mean I like it,” he said.
+\end_layout
+
+\begin_layout Standard
+“Maybe you could rob blood banks or something,” I said.
+ My family didn't do this (or even legally buy blood, which doctors such
+ as Carlisle could do) because drinking any human blood would make it harder
+ to resist killing for more.
+ It would be the equivalent of an alcoholic keeping beer in the fridge to
+ make it less likely that he'd rob a liquor store if he got a craving.
+\end_layout
+
+\begin_layout Standard
+But it might work differently for a half-vampire (he'd tried animal blood
+ and human food long enough to know that they sustained him, for one thing,
+ which I didn't think vampires had a history of doing on their own save
+ Carlisle).
+ And Huilen was already killing people.
+ If they started drinking blood without murdering to get it, they might
+ develop opinions of themselves that were more consistent with vegetarian
+ diets, and move in that direction on their own.
+ Maybe.
+\end_layout
+
+\begin_layout Standard
+Or at least they wouldn't be first up against the wall when the revolution
+ came.
+ They'd have a little warning.
+\end_layout
+
+\begin_layout Standard
+Nahuel looked vaguely interested by the suggestion, as though he might try
+ it the way he'd tried other nutritional regimens; Huilen, less so.
+ I let the conversation drift away, frowning to myself.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+We visited with the hybrid coven for a few more hours, picking up minutiae
+ we couldn't use about Nahuel and sharing trivia about ourselves.
+ Edward seemed inclined to count them among our non-vegetarian friends as
+ we departed.
+ This was reasonable enough, considering that “non-vegetarian” wasn't a
+ disqualifying feature.
+ It seemed to make him feel better about having learned that Gianna couldn't
+ hope to live through a half-vampire pregnancy.
+\end_layout
+
+\begin_layout Standard
+I let Edward continue to teach me to be a polyglot as we went to the nearest
+ airport, but my mind wasn't on linguistics.
+ I was thinking about death.
+\end_layout
+
+\begin_layout Standard
+It had to go.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+“It's a reasonable assumption that Joham wasn't trying to keep the women
+ alive,” Edward said tentatively, during the flight to Norway.
+ “If he's trying to breed a master race, he could consider it a sign of
+ bad genes or something, if one doesn't survive...”
+\end_layout
+
+\begin_layout Standard
+“Possibly,” I said.
+ “Maybe even probably.
+ If it mattered to him that much that they were dying, he would have called
+ off the “experiment” hundreds of years ago.
+ But we don't know how to find him and check.
+ We can stall for a few months, and see if he visits Nahuel in the available
+ window of leeway and is willing to talk to us.
+ But we can't tell Gianna we want her to carry a kind of baby that no one
+ has ever lived through carrying unless we have some good information that
+ says she will be okay.”
+\end_layout
+
+\begin_layout Standard
+“You're right,” sighed Edward.
+\end_layout
+
+\begin_layout Standard
+“I think it's safe to delay until January, maybe even February,” I said,
+ patting his arm.
+ “Just in case.
+ Maybe you could look for him without me along, so Alice could be of more
+ help?” Texts and e-mails from Rachel were frequent enough, and apparently
+ affected my decisions enough, that there were still irregular blank spots
+ in my future that Alice couldn't see.
+ She'd been unable to provide advance directions regarding our hunt through
+ South America, or it wouldn't have taken us half of August and the first
+ week of September to conduct the search.
+\end_layout
+
+\begin_layout Standard
+“Maybe,” he said, although he didn't sound very hopeful.
+\end_layout
+
+\begin_layout Standard
+I was tempted to say something about how being a vampire was better anyway,
+ and a human child could turn into a vampire adult one day where a hybrid
+ most likely couldn't and vampires had various advantages over half-vampires.
+ That was just sour grapes.
+ Edward had wanted -- and I had wanted -- our baby.
+ Of course we'd love the stranger's child.
+ But it wasn't the better outcome.
+ Half-vampires weren't deficient in some vitally important way.
+ So what if I could beat Nahuel up if I needed to -- he was still unaging,
+ still stronger and faster and smarter than a human, and there were hints
+ that he didn't have the vampire struggle with blood, which was an advantage.
+ Besides, half-vampires could be witches like the eldest sister, and good
+ witchcraft could balance any losses in other areas.
+\end_layout
+
+\begin_layout Standard
+So instead of inventing that reassurance I leaned against Edward, exchanging
+ comfort that didn't rely on rationalizations.
+\end_layout
+
+\end_body
+\end_document
