@@ -1,0 +1,1822 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{10}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Volterra
+\end_layout
+
+\begin_layout Standard
+I wondered, as I started to see signs for the airport out the window, how
+ vampires got through airport security.
+ It seemed unlikely that security scanning machines and the like would react
+ normally to them.
+\end_layout
+
+\begin_layout Standard
+By the time I was on the jet that James picked out, I still didn't know
+ how the Cullens would manage, but James did it by sneaking us into the
+ baggage compartment.
+ He killed a man to do it.
+ He didn't eat him.
+ I wasn't sure if he was full, or thought it would be too obvious, or didn't
+ want to drop into hunting mode and accidentally turn me into dessert; but
+ he just clobbered the guy over the head with a suitcase and then arranged
+ the scenario to make it look like the corpse had accidentally dropped the
+ luggage onto his own head.
+ No blood.
+\end_layout
+
+\begin_layout Standard
+I spent the duration of the murder crouching inside the luggage cart that
+ James's victim had been driving.
+ I knew James would at least hurt me, and likely kill me, if I tried to
+ escape -- and besides, the only people who I'd find useful rescuers wouldn't
+ be confused by my hiding place.
+ They'd be able to smell or hear me anyway.
+\end_layout
+
+\begin_layout Standard
+Traveling in the baggage compartment of an airplane was not fun.
+ I complained softly of hunger and thirst, and James was able to find a
+ packed lunch and water bottle with his superior sense of smell.
+ From the look of the bag he retrieved it from, it had been intended as
+ a carry-on and just barely exceeded the size limit.
+ He didn't look thrilled about having to feed me, but didn't complain about
+ it either.
+\end_layout
+
+\begin_layout Standard
+I ate it, and it tided me over until the plane arrived in New York, where
+ we had to change flights.
+ James didn't kill anyone this time.
+ He stole a long hooded coat from someone's garment bag to hide under (dawn
+ was underway on the east coast) and loosened the latches on the door to
+ the belly of the airplane; when we were a hundred feet off the ground,
+ he kicked the door open casually, seized me, and fell gracefully to the
+ ground in a hail of instrument cases and upholstered sacks and cardboard
+ boxes.
+\end_layout
+
+\begin_layout Standard
+James did not run with concern for my comfort.
+ My ears were ringing with wind.
+ I knew vampires could move outrageously fast, and supposed that the ground
+ crew might be distracted by the luggage rain, but it still seemed an awful
+ risk.
+ Maybe he was betting on the fictional Volturi reward being retroactive.
+ He leapt into the baggage hold of the next plane.
+ I couldn't see anything -- he moved too fast -- but he didn't seem to have
+ attracted the attention of anyone who wanted to investigate the rapid dark
+ shape hurling itself into the airplane.
+\end_layout
+
+\begin_layout Standard
+This airplane had a caged dog traveling in it.
+ It hated James and yowled at him constantly.
+ It seemed to irritate him, so he opened its cage, strangled it, and then
+ stuffed a luggage strap down its throat in case anyone should happen to
+ wonder at its death.
+\end_layout
+
+\begin_layout Standard
+I wondered when I would start going into shock.
+ Probably soon.
+ I really ought to be in shock.
+ Perhaps I was, and hadn't noticed.
+ I didn't know what shock was like.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where are we going?
+\begin_inset Quotes erd
+\end_inset
+
+ I dared ask, hours into the second leg of the trip, after he'd found me
+ another snack and an entire case of fancy bottled water somebody was bothering
+ to import.
+\end_layout
+
+\begin_layout Standard
+“Italy,” he said shortly.
+\end_layout
+
+\begin_layout Standard
+The plane landed.
+ Not one to repeat himself in making an exit, James hid the pair of us in
+ a corner.
+ When the baggage handlers noticed the dead dog, and started yelling at
+ each other about it in rapid Italian, he walked right out behind them,
+ me in tow.
+\end_layout
+
+\begin_layout Standard
+He broke into and hotwired the first fast-looking car he found in the airport's
+ parking lot.
+\end_layout
+
+\begin_layout Standard
+And then we drove.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“How 
+\emph on
+did
+\emph default
+ you get through them to me?” I asked timidly, sitting next to the vampire
+ in the driver's seat.
+\end_layout
+
+\begin_layout Standard
+“Well, it helped that I know the little one's secret,” he said, as though
+ letting me in on a joke.
+ The little one -- Alice? I'd 
+\emph on
+suspected
+\emph default
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+“Her...
+ secret?” Still playing dumb.
+ Until he got me to the Volturi he could decide to kill me at any time.
+\end_layout
+
+\begin_layout Standard
+“Yes.
+ She has visions, you see, of the future.
+ A long time ago this would have gotten her burnt at the stake...
+ in the nineteen-twenties it was an asylum, shock treatments, that sort
+ of thing.
+ She was the only one who ever got away from me.
+ She had a protector, just one, but he made her safe, not like yours.
+ I 
+\emph on
+was
+\emph default
+ surprised to see her with that lot, though.
+ Anyway, she can be fooled.
+ They're only visions, not knowledge.
+ Did you know there are a lot of interesting sets to visit in Hollywood?”
+ He grinned to himself.
+ “Indecision throws her off.
+ I told my Vicky all about it, that I'd tell her when to jump in, that she
+ should just wait.
+ I only made up my mind to do things I wanted her to see -- everything else
+ I dithered about even while I was doing it.”
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ If I lived through this, I wanted to be able to tell Alice where she'd
+ come from.
+\end_layout
+
+\begin_layout Standard
+But he was done talking about Alice.
+ “That, and Sunday night, I nibbled on some of your neighbors a bit.
+ Hope you weren't attached to them.
+ I tied them up and gagged them so they wouldn't attract any attention with
+ their screaming, but I don't imagine that held them for long once they
+ woke up and noticed how very, very thirsty they were...”
+\end_layout
+
+\begin_layout Standard
+He looked so 
+\emph on
+smug
+\emph default
+.
+ So that was how he'd distracted my three watchers.
+ He'd turned a confused bunch of newborns loose in the neighborhood, a time-rele
+ase threat, and 
+\emph on
+they
+\emph default
+ would have made themselves an obvious, immediate danger to me and Charlie
+ and everyone else in Forks.
+ He would have known when to expect them to finish turning.
+\end_layout
+
+\begin_layout Standard
+It might have been sheer luck that Edward had needed to hunt on the same
+ night.
+ James hadn't given any indication that he also knew Edward's power -- but
+ he was clearly an old, experienced vampire, and might have bet on being
+ able to take on one or two defenders in a fair fight, with a flailing newborn
+ coven and a false lead to Florida distracting the rest.
+ Sheer luck, that he'd found me entirely alone -- but skill, that it had
+ even been possible.
+\end_layout
+
+\begin_layout Standard
+Did he actually believe my nonsense about the Volturi, or was he pretending
+ in order to lull me into a false sense of security?
+\end_layout
+
+\begin_layout Standard
+I didn't poke at it.
+ If I acted like he might not believe me, it would only bring to mind the
+ possibility that I was not to be believed.
+\end_layout
+
+\begin_layout Standard
+“Wow,” I said instead.
+ “You're really good at this.
+ If they'd made me like them, you wouldn't have wanted me anymore? Like
+ that little one?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Idiot!
+\emph default
+ I screamed at myself, silently in my head.
+ 
+\emph on
+Idiot! Idiot! You did not 
+\emph default
+really
+\emph on
+ prioritize! You would not have been significantly less useful at self-defense
+ if you were in the middle of turning 
+\emph default
+and then James wouldn't have wanted you
+\emph on
+ and it would be 
+\emph default
+over already
+\emph on
+.
+ You'd be a vampire by now, you'd be the other one that got away, 
+\emph default
+you knew
+\emph on
+ that every other detail but your own survival was of secondary importance.
+ But you didn't get them to inject you with immortality juice because it
+ wasn't a 
+\emph default
+guarantee
+\emph on
+ and you thought you had your bases covered even though you knew you were
+ dealing with something deadly and powerful that wanted you ended about
+ which you had limited information...
+\end_layout
+
+\begin_layout Standard
+“Right,” he said, unaware of my internal self-castigation.
+ “Well, the Volturi will still want you that way, but originally I only
+ thought you'd be an interesting meal.
+ I'd have been very irritated with them for taking away my fun, of course.”
+ 
+\emph on
+But then all his targets would have been fighters in their own right, with
+ a chance, not dividing their attention and flying all over creation trying
+ to protect three separate squishy humans...
+
+\emph default
+ “I killed the one who changed your little friend.” 
+\emph on
+But the Cullens mostly come in pairs, and if I were a vampire by now then
+ 
+\emph default
+all
+\emph on
+ of them would...
+\end_layout
+
+\begin_layout Standard
+It would not make sense for someone as uninformed as I pretended not to
+ ask...
+ “You said my neighbors were screaming?”
+\end_layout
+
+\begin_layout Standard
+“Oh,” James chuckled.
+ “Yes.
+ It's an intriguing process.
+ You're sure the one with the reddish hair's not a bit too fond of you?
+ I could send him a tape of that after the Volturi get it started.”
+\end_layout
+
+\begin_layout Standard
+I shivered.
+ “I don't think he likes me at all.
+ None of them do.
+ They were going to sell me to the Volturi, just like you.
+ They'll be mad at you about stealing their reward, I guess, if that's what
+ you want?”
+\end_layout
+
+\begin_layout Standard
+“Makes things interesting that way,” he said, still smirking.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Idiot!
+\emph default
+ I wailed in the unbroken privacy of my own mind.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Volterra was beautiful, in the way that any city occupied by vampire royalty
+ that might be either death or salvation would be beautiful.
+\end_layout
+
+\begin_layout Standard
+James started muttering to himself about how, exactly, to track down the
+ Volturi, once we were in the city.
+ He abandoned the car and followed the heavily shadowed alleys between the
+ tallest buildings, sniffing the air.
+ Eventually he caught some promising odor and led me -- assuming that I'd
+ follow, desparing of escape -- down a sloped tunnel-like alley which ended
+ in a brick wall.
+ There was an open grate in the pavement -- it looked like a sewer drain.
+\end_layout
+
+\begin_layout Standard
+“Down there,” said James.
+ “Jump.”
+\end_layout
+
+\begin_layout Standard
+“I'll break a leg and then you'll have to carry me.
+ I might actually die from a fall,” I said, “if it's deep enough and I land
+ wrong -- and I'll probably land wrong.”
+\end_layout
+
+\begin_layout Standard
+James groaned, picked me up, and hopped down into the hole without arguing
+ further.
+ “I hope you're worth all of this,” he mumbled to me, setting me on my feet.
+ He inhaled deeply.
+ “You've got quite a flavor, you know.
+ Better be worth not getting a taste...” He stalked off into the darkness.
+ I followed him by sound, tripping frequently; he eventually got annoyed
+ and lifted me again.
+ I didn't protest.
+ I didn't want to crack my head open under a city in Italy, not when I was
+ 
+\emph on
+this
+\emph default
+ close to heroically bluffing my way out of certain death.
+\end_layout
+
+\begin_layout Standard
+We came to a large grate with thick, rusting bars of iron.
+ Part of it had been cut away and replaced with a thinner grille, which
+ hung on hinges and looked like a door of sorts.
+\end_layout
+
+\begin_layout Standard
+James pushed this little door open with his foot.
+ It opened into a large, stone room, the far side of which was dominated
+ by a heavy wooden door.
+ James had to put me down to pull it open; it was immensely thick.
+\end_layout
+
+\begin_layout Standard
+Past this door was a fluorescently lit, unremarkable hallway.
+ Pale walls and gray carpet.
+ Since I'd be able to navigate that, James put me down, and I stepped forward
+ out of sheer curiosity without even looking to see if he wanted to go with
+ more caution.
+\end_layout
+
+\begin_layout Standard
+It really was just a hallway.
+ But there were vampires in it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There were two of them, tall but otherwise indistinct under black shrouds,
+ at the far end of the hall in front of what appeared to be an elevator.
+ I wasn't actually 
+\emph on
+sure
+\emph default
+ that they were vampires until one of them spoke.
+ The words were, naturally enough, in Italian.
+ But his musical, perfectly precise voice definitely belonged to a vampire.
+\end_layout
+
+\begin_layout Standard
+James replied in the same language, gesturing at me with one thumb.
+ I caught his own name, but no other words stood out to me.
+ The conversation continued, becoming faster and more heated, until finally
+ the shrouded vampire who hadn't spoken cut in with an English sentence,
+ directed at me: “Are you a witch?”
+\end_layout
+
+\begin_layout Standard
+I shook off the sensation that I was Dorothy Gale of Kansas, and gulped,
+ and said, “Yes.”
+\end_layout
+
+\begin_layout Standard
+“And your power?” inquired the vampire, from beneath her hood.
+\end_layout
+
+\begin_layout Standard
+“I don't have a n-name for it,” I said, stuttering slightly.
+ I could not blow this or I was certain I'd be killed.
+ “Um...
+ m-mental privacy, I guess.
+ It's sort of a...
+ meta-power.”
+\end_layout
+
+\begin_layout Standard
+“That is testable,” she announced.
+ “You will come with me.
+ Both of you.” She moved her head slightly, making it clear despite the hood
+ that she was talking to James as well.
+ “Stay here,” she told her counterpart.
+ He nodded.
+\end_layout
+
+\begin_layout Standard
+I followed the female vampire into the elevator, as did James.
+ She touched one of the buttons, and it began to convey us upward.
+ I felt the urge to ask her name, but this was not quite the social situation
+ that it would have been with only humans involved.
+ She shrugged the hood of her shroud off; she was as ice-skinned as any
+ vampire, with the same burgundy eyes James had, and long black hair.
+\end_layout
+
+\begin_layout Standard
+The elevator opened into a cozy, sophisticated, windowless reception area.
+ The walls were decorated with bright landscapes, and deep green carpet
+ covered the floor.
+ Behind the mahogany counter in the room's center sat a woman -- a 
+\emph on
+human
+\emph default
+ woman, with green eyes and too much vibrance to her tea-colored complexion
+ to be a vampire.
+ She was in her early twenties and pretty, but not eternally so.
+ That was not in line with what I'd been told of the Volturi's approach
+ to secrecy.
+ At all.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Buon giorno
+\emph default
+, Santiago!” the receptionist said brightly to the vampire woman.
+ That was a phrase I could at least guess at.
+ Just a greeting.
+ If it specified time of day, I didn't know -- I had no sense of time left
+ after the trip, not having had a chance to look at a clock.
+ It was probably Thursday, or early Friday, I thought.
+ At least in Pacific time.
+ I didn't know Italy's time zone.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Buon giorno
+\emph default
+, Gianna,” replied the vampire -- Santiago.
+ Her tone was neutral.
+ James seemed as confused as I was by the presence of a human, but didn't
+ comment.
+ I followed Santiago and James as they went around Gianna's desk and through
+ a pair of wooden doors.
+\end_layout
+
+\begin_layout Standard
+We went through a perfectly ridiculous maze of halls upon doors upon antechamber
+s upon stairs, and finally, what I thought was two floors above ground level,
+ we reached what appeared to be our final destination.
+ It was an immense, round room.
+ There were no artificial lights, just slits of windows letting sunshine
+ in, and the only articles of furniture were a number of massive wooden
+ chairs, placed at irregular intervals near the walls.
+ There was a drain in the middle of the room.
+ This did not make a lot of sense on a second story as an entrance or exit,
+ like the one in the alley apparently was, but I didn't get the opportunity
+ to speculate.
+\end_layout
+
+\begin_layout Standard
+There were a small handful of vampires in the room.
+ Most of them wore ordinary-looking street clothes, but the man who took
+ notice of our presence wore a cloak like Santiago's.
+ The hood was down, and I noticed as soon as I looked at him that he was
+ not typical of the vampires I had met.
+ His skin was the customary white, but translucent, like onion or frosted
+ glass -- not like the marble of any given Cullen or Santiago or James.
+ His eyes 
+\emph on
+were
+\emph default
+ red, but with a milky cast over them, as though he had cataracts.
+ He didn't seem to have impaired eyesight, but I supposed he could have
+ had considerably inferior visual acuity compared to other vampires without
+ looking myopic to me.
+ He wore his black hair long, and it blended into his shroud.
+\end_layout
+
+\begin_layout Standard
+“Santiago, you've brought us visitors,” he said, sounding for all the world
+ like Santiago's dotty uncle who was only too pleased to have strangers
+ to welcome.
+ He spoke in a soft, airy voice, just enough for me to hear, and floated
+ forth in a cloud-like drift.
+ Where Alice moved like a ballerina, this vampire moved like a soap bubble.
+ The other vampires in the room drifted to cluster near him.
+ Some stood ahead of him.
+ They left his view clear, but were prepared to get in the way if James
+ (or, I supposed, I) should decide to attack.
+ The rest coalesced behind him, peering over each other's shoulders.
+\end_layout
+
+\begin_layout Standard
+Santiago bowed deeply to him.
+ When she straightened up, she moved forward with one white hand extended.
+ He placed his palm over her knuckles and closed his eyes.
+ A moment later, they broke the contact and Santiago backed away.
+ “Interesting,” murmured the onion-skinned vampire.
+\end_layout
+
+\begin_layout Standard
+That one would be Aro, then.
+\end_layout
+
+\begin_layout Standard
+I glanced at James.
+ He looked like every passing second made him feel more strongly that this
+ had been a bad idea.
+ But he didn't speak up as Aro regarded him -- and, intermittently, me --
+ with a look of calm thoughtfulness on his face.
+\end_layout
+
+\begin_layout Standard
+“I'm afraid,” said Aro beatifically, “that you have been misinformed, James.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Misinformed about...?” James asked, clearly wrong-footed by Aro's statement.
+\end_layout
+
+\begin_layout Standard
+“This child,” Aro said with a wave in my direction, “may well be a witch.
+ That remains to be discerned.
+ But we have not spoken of her with the coven you mentioned to Santiago.
+ Nor have we made a practice of offering permission to violate rules in
+ exchange for the capture of even so lovely a jewel.”
+\end_layout
+
+\begin_layout Standard
+James was starting to flick his eyes between all the vampires in the room,
+ of whom there were really quite a few.
+\end_layout
+
+\begin_layout Standard
+“You have been lied to,” Aro said, with a sorrowful look on his face that
+ had to be faked.
+ “Rather cleverly, it would seem.
+ My dear,” he said, turning to me and tilting his head inquisitively, “was
+ that story your invention?”
+\end_layout
+
+\begin_layout Standard
+I nodded, not trusting my voice in that moment.
+\end_layout
+
+\begin_layout Standard
+“Before we decide how to proceed, I should like to investigate your witchcraft,”
+ said Aro, holding forth a pale hand.
+\end_layout
+
+\begin_layout Standard
+I took six careful steps forward, resisting the temptation to look back
+ at James, and placed my fingers against Aro's.
+ His skin felt nearly normal for a vampire's, in spite of its unusual appearance
+ -- hard, but more brittle in texture, and colder than most.
+\end_layout
+
+\begin_layout Standard
+He closed his eyes.
+\end_layout
+
+\begin_layout Standard
+And then he opened them again.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Fascinating
+\emph default
+,” he breathed.
+ “And one more test...
+ Jane, dear one?”
+\end_layout
+
+\begin_layout Standard
+He was addressing a physically young vampire, the shockingly beautiful planes
+ of her ivory face all the more startling given that she looked perhaps
+ fourteen.
+ “Yes, Master,” she cooed.
+ Jane looked at me and smiled like a little angel.
+ Nothing happened.
+ I blinked at her, nonplussed -- I didn't know what she was meant to have
+ done -- and her face twisted into an awful mask of hate.
+ She made a sound like an angered snake.
+\end_layout
+
+\begin_layout Standard
+“Santiago, my pet, won't you fetch my brothers for me?” Aro said, ignoring
+ Jane's livid expression and soft hiss.
+ “I believe they will be intrigued to learn of our new guest.”
+\end_layout
+
+\begin_layout Standard
+Santiago bowed again, and then she turned about with a swish of her cloak
+ to retrieve -- presumably -- Marcus and Caius, who I surmised were not
+ present in the room already.
+ James let out a small snarl, which startled me enough that I whipped my
+ head around to look at him like a scared rabbit.
+\end_layout
+
+\begin_layout Standard
+“James, my friend,” said Aro soothingly.
+ “It won't do for you to hold a grudge against our charming little witch.
+ She was clearly acting in self-defense, as any reasonable person would.
+ I should not like to have to decide a fight between the two of you.
+ I'm sure you realize that while she would lose on her own merits, there
+ is one thing you were not lied to about.” Aro stretched his paper skin into
+ a broad smile; it did not tear with strain.
+ “We are very pleased with the acquisition of witches.
+ Perhaps you have a talent of your own, that let you capture this charming
+ young lady away from her guardians?” he guessed.
+ “Will you show me?” And he held out his hand again.
+ I shuffled away, wanting it to be possible for some Volturi guard member
+ to intervene if James lunged for my throat.
+\end_layout
+
+\begin_layout Standard
+James approached Aro unwillingly, obviously conscious of all the eyes on
+ him.
+ The Volturi were accustomed to being obeyed.
+ They reacted to disobedience with violence.
+ James did not have time for inventive stunts with newborns here: if he
+ fought, he would lose.
+\end_layout
+
+\begin_layout Standard
+The vampires' hands touched.
+ Aro hummed to himself in thought while he absorbed James's memories.
+\end_layout
+
+\begin_layout Standard
+“You took a very serious risk with those new children you made,” tutted
+ Aro when they'd dropped their hands.
+\end_layout
+
+\begin_layout Standard
+James shifted edgily.
+ He looked like he wanted to drop into a combative crouch and kept thinking
+ better of it a fraction of the way through.
+ “I knew the coven would control them,” he muttered.
+ “If they hadn't been there at the right time, I'd have killed the newborns
+ while they were incapacitated with the change before taking the girl.
+ They wouldn't have exposed us.”
+\end_layout
+
+\begin_layout Standard
+“Mm,” sighed Aro, tipping his head back to scrutinize the ceiling and clasping
+ his hands behind his back.
+ “I suppose that in such a small town it may have seemed a reasonable risk
+ to take.” James nodded dumbly.
+\end_layout
+
+\begin_layout Standard
+I had turned to face the door whence I'd come, and so I saw the entrance
+ of two vampires who had to be Caius and Marcus, flanked by Santiago.
+ James turned to see who'd arrived.
+ The two new arrivals had Aro's same papery, fragile-looking skin and the
+ same cataracts over their red eyes.
+ One had similar long, black hair; this one had a bored, detached expression.
+ The second had hair as white as his face, and looked annoyed by everything
+ his eyes landed on.
+\end_layout
+
+\begin_layout Standard
+“Marcus, Caius,” Aro exclaimed in a jovial tone that didn't respond to the
+ others' visible emotions at all.
+ “We have received such a lovely surprise.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Aro summarized for his “brothers” the events from James's perspective in
+ his lilting, fanciful sighs.
+ He skipped over trivialities like the deaths of the baggage handler and
+ the dog; apparently James had covered those up to his satisfaction.
+ Caius spoke little -- brief clarifying questions -- and Marcus not at all,
+ although at one time he got up from the thronelike chair he'd gone to sit
+ in to brush his hand against Aro's and communicate wordlessly.
+ Soon the explanation was complete.
+\end_layout
+
+\begin_layout Standard
+“And, dear child,” Aro said to me, turning his gaze in my direction with
+ a soft smile, “perhaps you could tell us the actual sequence of events
+ leading up to your coming to visit us?”
+\end_layout
+
+\begin_layout Standard
+I inhaled deeply.
+ If I were very, very lucky, Alice would have seen where I was and the Cullens
+ would already be on their way to retrieve me.
+ The only way to have our stories straight was if I told the truth -- 
+\emph on
+only
+\emph default
+ the truth, not necessarily 
+\emph on
+all
+\emph default
+ of it, although major omissions of facts that could be obtained other ways
+ wouldn't be wise.
+ And of course the Volturi were probably not accustomed to having to learn
+ things by being told of them out loud, so I had to expect they'd check
+ up on me out of caution.
+\end_layout
+
+\begin_layout Standard
+I stumbled through a synopsis, stuttering at every third word.
+ Partway through, my vision swam and the vampire woman standing behind me
+ had to catch me to prevent my collapse -- the stress, inadequate food,
+ and insufficient sleep were catching up with me.
+ I managed to retake my feet and continue the story.
+\end_layout
+
+\begin_layout Standard
+I had met the Cullen coven in Forks when I moved there.
+ I'd gotten suspicious of them, although I hastened to add that most people
+ wouldn't have my resources in connecting the dots and no one else suspected
+ a thing.
+ They'd sort of adopted me into their family.
+ There were plans in the works to turn me at the beginning of the summer,
+ where I could be zipped away from home without arousing suspicion.
+ Which, I mentioned again, the Cullens were very careful about.
+ James's coven had run across us while we were out as a group.
+ He, with his habit of hunting interesting and well-protected targets, had
+ fixated on me, which the Cullens' talents had detected.
+ I explained the plan of action, how they had set it into motion, and the
+ point of failure.
+ I mentioned that my father was a cop, and had the resources to make a fairly
+ extensive and inconvenient network of people curious if anything happened
+ to me that I wasn't around to explain.
+ But I was clear that I definitely wanted to become a vampire as soon as
+ I could do it without arousing curiosity.
+ (It would have been smart if I'd gotten started turning on Sunday night
+ when that could have saved me from James; now that I was under the Volturi's
+ power, it would be no additional help.
+ They could destroy vampires without much expenditure of effort, and it
+ was entirely up to them whether I or James lived.)
+\end_layout
+
+\begin_layout Standard
+I scrupulously avoided bringing up Victoria.
+\end_layout
+
+\begin_layout Standard
+“Thank you, dear,” said Aro, having listened with calm attention to my entire
+ haphazardly arranged narration.
+ “We will now discuss our decision,” he announced, seeming to direct his
+ voice particularly towards a small vampire who couldn't have been more
+ than fourteen when he was turned.
+ In fact, he looked like Jane's twin -- only slightly darker blonde hair
+ and thinner lips differentiated their faces, although the boy's range of
+ expressions seemed to be more neutral.
+ He neither beamed nor scowled.
+\end_layout
+
+\begin_layout Standard
+The Volturi remained silent for a few moments, and I wondered if I was just
+ unable to hear their voices as they reverted to their inaccessible pitches
+ and speeds, but then I realized what they were waiting for.
+ James's eyes rolled back in his head and he fell like a ragdoll to the
+ floor.
+ The fourteen-year-old immortal boy was gazing at the tracker with a cold
+ steadiness that unnerved me.
+\end_layout
+
+\begin_layout Standard
+Then the child's red eyes slid up to look at me.
+ I stood trembling, but didn't experience whatever was causing James to
+ lie limply on the stones.
+ If the boy was exercising his power against me, I was immune to that one,
+ too.
+\end_layout
+
+\begin_layout Standard
+“Hmmm,” Aro murmured.
+ “It would seem that we cannot maintain our privacy in the typical manner.
+ But, my lovely, you seem to be in some distress anyway.
+ Perhaps you would prefer not to witness this when you could be sleeping.”
+\end_layout
+
+\begin_layout Standard
+Sleep.
+ Sleep sounded good.
+ I was still in my pajamas, an old t-shirt and soft flannel pants, from
+ when James had taken me from my bed.
+ Did vampires have beds? Maybe that receptionist, Gianna, lived in their
+ compound and I could borrow hers...
+ I nodded, wobbling again.
+\end_layout
+
+\begin_layout Standard
+Aro inclined his head.
+ “Oh,” he said.
+ “One question.
+ What is it that happened to James's mate, Victoria?”
+\end_layout
+
+\begin_layout Standard
+“Dead,” I whispered.
+ James was still on the floor, unresponsive, and didn't hear or couldn't
+ react.
+\end_layout
+
+\begin_layout Standard
+“Mm,” sighed Aro.
+ “Santiago, dear one, won't you see to our guest's needs?” He waved at me
+ dismissively.
+\end_layout
+
+\begin_layout Standard
+I started to fall again, but Santiago whooshed across the room to break
+ my fall, and then I passed out entirely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I woke up under a fluffy duvet, snuggled in a bed more comfortable than
+ my own.
+ The room had a small window at the very top of the wall, which let in enough
+ light to tell me that it was daytime -- although I didn't know what day,
+ at this point -- and show me the contents of the room.
+ Apart from the bed, there was a spindly wooden chair, which held a change
+ of clothes.
+ Under the chair was a basket with a lid.
+ There were two doors into the room: one was closed, and one was open enough
+ to reveal the little bathroom.
+\end_layout
+
+\begin_layout Standard
+On top of the outfit was a handwritten note.
+ 
+\emph on
+Please help yourself to anything you need from the bathroom, and these clothes,
+ and the food under the chair.
+ When you're ready, Santiago is waiting outside for you.
+ There is no danger and no hurry.
+
+\emph default
+ The note was signed “Gianna” -- apparently she knew English.
+ It was the most welcome piece of paper I'd ever seen in my life.
+\end_layout
+
+\begin_layout Standard
+I took a long, hot shower.
+ I brushed my teeth.
+ I blew my hair dry.
+ The shampoo and other items were all labeled in Italian, but I guessed
+ by packaging and the odd linguistic cognate which things were what, and
+ got gloriously, spectacularly clean.
+ I felt more alive and lucid than I had in days.
+\end_layout
+
+\begin_layout Standard
+Gianna had left me a blue t-shirt and a gray, swishy skirt.
+ I was normally a pants sort of person, but Gianna was taller than me, and
+ if these were her clothes, it made sense: the skirt would be more likely
+ to fit than a pair of jeans.
+ I put them on and checked myself out in the bathroom mirror.
+ I looked basically normal.
+ I could have been getting ready to go to school.
+ School couldn't have seemed farther away.
+\end_layout
+
+\begin_layout Standard
+I opened the basket under the chair.
+ Little cellophane bags of snackfood, an apple, a dinner roll, a candy bar
+ -- easy, quick food that would have been fine at room temperature while
+ I slept.
+ I ate all of it, even the oversalted chips, and then put the apple core
+ and other debris in the chip bag and discarded it in the bathroom's wastebasket.
+\end_layout
+
+\begin_layout Standard
+I approached the other, closed door.
+ Gianna had written that there was no danger.
+ I didn't know for sure if that was true -- but I'd been left to sleep,
+ safely, given the chance to clean up and have breakfast.
+ That didn't seem like the sort of treatment that would precede an execution
+ without notice.
+ I was, it seemed, actually witchy enough to hang onto my life.
+ And related to an annoying enough profession to keep my heartbeat until
+ a time of my choosing.
+\end_layout
+
+\begin_layout Standard
+I pushed open the door.
+ Santiago, in her cowl, was indeed waiting outside the door.
+ “Hello, Bella,” she said.
+ She was the first person to use my name since I'd arrived.
+ I supposed Aro might have told her; he could have gotten it from James,
+ who had heard me introduced.
+ Still, it was a little surprising.
+\end_layout
+
+\begin_layout Standard
+“Hello, Santiago,” I said.
+ “Uh...
+ thank you for your help.” Her eyes were still burgundy, although they deepened
+ to black around the pupil -- I was talking to a thirsty vampire murderess
+ and I still felt stupidly, profoundly grateful for her presence.
+ Aro was vaguely creepy; but Santiago had a professional demeanor that made
+ her feel predictable and safe.
+ I was not designated food, and therefore she would not eat me.
+\end_layout
+
+\begin_layout Standard
+The Volturi were killers -- but they were 
+\emph on
+lawful
+\emph default
+ killers.
+ They could be bargained with, reasoned with.
+ I'd made a good call in luring James to them.
+\end_layout
+
+\begin_layout Standard
+“I'm to conduct you to the hall,” Santiago told me.
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said, and she turned without further explanation and led me through
+ the maze that was the Volturi compound.
+ Eventually, once I was starting to wonder if I didn't need to go back and
+ sleep for a couple more hours after all, we reached the same round room
+ full of vampires I'd been to before.
+ “
+\emph on
+\lang italian
+La tua cantante!
+\emph default
+\lang english
+” one of them was exclaiming as I entered -- it sounded like Aro.
+\end_layout
+
+\begin_layout Standard
+There were different vampires in the hall this time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+By the time I registered that I ought to look twice at the faces off to
+ the left, I was already swept up in Edward's intense embrace.
+ “Bella,” he whispered in my ear, holding me to him so tightly I was challenged
+ to draw breath.
+ “Bella, Bella, my Bella, you're 
+\emph on
+alive
+\emph default
+...”
+\end_layout
+
+\begin_layout Standard
+“Did they tell you I wasn't?” I asked, winding my arms around him and leaning
+ my head on his shoulder.
+ “I'm fine.
+ I had a bad day, or two, but I'm fine.
+ How long have you been here?”
+\end_layout
+
+\begin_layout Standard
+“Hours!” he growled.
+ “They wouldn't let us see you...”
+\end_layout
+
+\begin_layout Standard
+“I was sleeping.
+ I really needed it.
+ They could have let you in to check on me, though,” I frowned.
+\end_layout
+
+\begin_layout Standard
+“Ah, but Bella, my dear,” said Aro.
+ He was sitting on one of the chamber's thrones, hands folded, expression
+ benign.
+ “They might have disturbed your rest.
+ And, of course, we had much to discuss.
+ It has been too long since we have had a visit from our old friend Carlisle
+ and his coven.”
+\end_layout
+
+\begin_layout Standard
+I looked over at the other Cullens who had arrived: Carlisle and Esme were
+ there, but not the remaining four.
+ “I'm sorry I kept you waiting,” I told Edward, looking up at him.
+ “I didn't see any way to get in touch with you that wouldn't have been
+ too dangerous until I finally got here, and then I basically told my story
+ and passed out.”
+\end_layout
+
+\begin_layout Standard
+“Don't be sorry,” he said, squeezing me tighter.
+ “I am so glad you're safe.
+ I can't believe I was so irresponsible
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Hey,” I said.
+ “It was my suggestion that you hunt, and if you hadn't, you might have
+ died trying to fight James off.
+ Nobody we like is dead.
+ That is a good thing.” I glanced at Aro.
+ “Uh...
+ What happened to James?”
+\end_layout
+
+\begin_layout Standard
+Aro tilted his head.
+ “You needn't worry about him anymore, dear Bella,” he said smoothly.
+\end_layout
+
+\begin_layout Standard
+“They didn't like his stunt with the newborns,” Edward muttered in my ear.
+ “And didn't think they could control him as a member of the guard -- and
+ they already have a better tracker.”
+\end_layout
+
+\begin_layout Standard
+I nodded faintly and leaned against Edward for comfort.
+ There had been more deaths than I liked, even if I had no reason to care
+ for James or his mate and hadn't known the baggage handler.
+ Or the dog.
+ “What happened to the newborns?” I asked in a soft voice.
+\end_layout
+
+\begin_layout Standard
+Edward twined his fingers in my hair.
+ “Two are dead,” he said, voice full of regret.
+ “The third was sufficiently under control that we're trying to bring him
+ into the family, but it's going to be hard for him.
+ He didn't have the warning you do.
+ The others are at home now, supervising him.
+ I don't think you knew any of them.” He listed some names, none familiar
+ -- the one who was still breathing was named David.
+ “They weren't able to kill anyone else,” Edward assured me before I asked,
+ “before my family got to them.”
+\end_layout
+
+\begin_layout Standard
+“Is it safe for me to be around David?” I asked.
+ “If it's not...”
+\end_layout
+
+\begin_layout Standard
+Edward winced.
+ “I thought of that.
+ We aren't sure what to do.”
+\end_layout
+
+\begin_layout Standard
+“Maybe you'd better turn me early,” I sighed.
+ “We'll think of some story...”
+\end_layout
+
+\begin_layout Standard
+“On top of the story we're already trying to cook up to explain your disappearan
+ce?” Edward asked.
+ “And the disappearances of the three legally dead? That's a lot of stories,
+ Bella.”
+\end_layout
+
+\begin_layout Standard
+I frowned.
+ “Right.
+ It will smooth over better if I'm there in obvious good health, fit to
+ be seen in public.
+ Uh...” I wracked my brain.
+ “Do the Denalis live in a more remote location? Would they take him?”
+\end_layout
+
+\begin_layout Standard
+“It's a good idea, Bella,” Edward soothed, cool fingers resting on the back
+ of my neck.
+ “We'll ask them.
+ But I think it's time we got you home now.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay.” I relaxed into his embrace.
+ I was tired of holding myself up.
+ “Oh.
+ There's one thing I'd like to do first -- if it's okay.” I glanced over
+ at the Volturi, who had witnessed our entire conversation with expressions
+ ranging from mild curiosity to bemusement to morbid fascination.
+ (I became more convinced that most vampires did not first meet their mates
+ as humans.
+ I wouldn't have been such an interesting sight otherwise.) “I want to talk
+ to Gianna, and thank her.” 
+\emph on
+And figure out what in the hell she's doing here
+\emph default
+, I didn't add.
+\end_layout
+
+\begin_layout Standard
+“Of course.
+ Santiago,” said Aro with a small, flicking gesture.
+ Santiago bowed again, turned, and led me, Edward, Carlisle, and Esme into
+ the maze.
+\end_layout
+
+\begin_layout Standard
+“Did you meet Gianna?” I asked Edward in a low voice.
+ To let me walk, he'd released me from his hug, but we were holding hands.
+\end_layout
+
+\begin_layout Standard
+“I noticed her.
+ We weren't formally introduced,” he murmured.
+ “What are you thanking her for?”
+\end_layout
+
+\begin_layout Standard
+“She left me these clothes, and some food, and I think I was sleeping in
+ her bed -- I don't know why else there would be a bed in here, unless there
+ are other humans involved.”
+\end_layout
+
+\begin_layout Standard
+“Just her,” he said.
+\end_layout
+
+\begin_layout Standard
+Santiago showed us to the room I'd slept in.
+ Gianna was inside, changing the sheets.
+ I motioned for Edward and his parents to hang back while I went in; Santiago
+ swooshed away up the hall without prompting, apparently expecting us to
+ be able to find our own way out when we were done.
+\end_layout
+
+\begin_layout Standard
+“Gianna?” I said.
+ I wasn't sure if her spoken English was as good as her writing.
+\end_layout
+
+\begin_layout Standard
+“Hello, Bella,” she said, turning a pleasant smile on me.
+ “I've put your clothes in the wash, but they aren't done yet.
+ Do you want me to send them to you in America?” She had an accent, but
+ it was faint and pleasant, and didn't make her hard to understand at all.
+ She chose words quickly and confidently, so I assumed she'd been working
+ with English for some time, even if it wasn't her native language.
+\end_layout
+
+\begin_layout Standard
+“No, thank you,” I said.
+ “Uh, do you want me to send you these?” I tugged at the skirt, which swished
+ around my ankles.
+\end_layout
+
+\begin_layout Standard
+“They're yours,” she said, patting my arm.
+ “I hope I found you enough food.
+ I usually eat out, and only had a few snacks around.”
+\end_layout
+
+\begin_layout Standard
+“It was perfect, I came to thank you,” I said.
+ “Thank you, for the food, and the note, and the clothes, and the bed --
+ it was just what I needed to wake up to after the trip I had.”
+\end_layout
+
+\begin_layout Standard
+“It was no trouble at all,” she assured me.
+\end_layout
+
+\begin_layout Standard
+“Is this -- uh, looking after human visitors -- what you mostly do here?”
+ I asked.
+ It felt like an intrusive question, only a hair more polite than “What
+ the hell are the Volturi doing breaking their own laws by having you around?”
+\end_layout
+
+\begin_layout Standard
+“No, guests like you are very rare,” she said, not looking offended at all.
+ “I'm the human representative when the Volturi need to send someone into
+ a context where one of their guard would be too noticeable -- anything
+ outdoors in the daylight, where they can't go cloaked.
+ I handle the laundry.
+ When I'm not doing that, I sit at the reception desk -- you saw -- but
+ there aren't many receptionist tasks to do.
+ It's light work.” She tossed her hair with a cheerful smile.
+\end_layout
+
+\begin_layout Standard
+“How do you even get a job like this?” I asked.
+ “They can't advertise in the classifieds, Wanted: Representative/Laundress/Secr
+etary for Vampire Ruling Coven, and get serious answers...”
+\end_layout
+
+\begin_layout Standard
+“They don't,” she laughed.
+ “I believed all the legends, when I was a little girl.
+ They tell a lot of vampire stories in this town.
+ I never quite stopped thinking they were true.
+ And one day I decided to go searching for them.
+ I found what I was looking for.” Her smile was genuine, but closed, somehow.
+ She didn't want me to ask too many questions about that.
+ She didn't want to tell me what would make her go on a vampire hunt.
+ She didn't want to share the story of how she'd convinced them to hire
+ her and not kill her.
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ “I need to go home,” I said, “my father's probably absolutely frantic --
+ but I just wanted to thank you.
+ Um, if you have an e-mail address or a phone number...
+ We're probably the only two humans in the world who hang out with vampires
+ all the time,” I offered, as a rather pathetic excuse to keep in touch
+ with her.
+ I was mostly curious -- and a little afraid for her life.
+ She hadn't been eaten so far; she certainly might be later, if the Volturi
+ tired of her.
+ “We should talk more.”
+\end_layout
+
+\begin_layout Standard
+Gianna had a tiny notebook in the pocket of her leaf-patterned skirt.
+ Clearly, a woman after my own heart.
+ She wrote down an e-mail address on it, and a phone number complete with
+ country code, then handed me the detached page.
+ “I can't always answer the phone,” she said.
+ “I keep irregular hours and I sometimes have business unexpectedly.
+ I get to a computer every three or four days.
+ But I'd like to hear from you, Bella.”
+\end_layout
+
+\begin_layout Standard
+I smiled at her.
+ “Well, thanks again.
+ Um, bye.” And then I turned to go back to Edward.
+\end_layout
+
+\begin_layout Standard
+“Bye, Bella,” called Gianna.
+\end_layout
+
+\begin_layout Standard
+Edward put his arm around my shoulders after I'd pocketed Gianna's contact
+ information, and the two of us, followed by Carlisle and Esme, made our
+ way out of the compound.
+\end_layout
+
+\begin_layout Standard
+Once we were out of doors, and in the car the Cullens had rented to get
+ around Volterra (with a sufficiency of window tint to let them be unobtrusive),
+ Edward handed me a phone.
+ “Come up with a better story if you've got one, but here's our idea,” he
+ said.
+ “The illness you were faking sometimes causes sleepwalking and erratic
+ circadian rhythms.
+ You wandered onto the bed of someone's pickup truck, curled up there, and
+ were driven all the way to California without waking up or being noticed,
+ since you pulled a tarp over yourself to keep warm.
+ When you woke up in a parking lot all alone, you found a gas station, borrowed
+ quarters, and called me right away because you were embarrassed at the
+ prospect of asking Charlie for taxi money.
+ Carlisle was in town for a medical conference and I told you so, and sent
+ him to pick you up.
+ You just met up with him and you'll be home in twelve hours.
+ You are also over your disease now.”
+\end_layout
+
+\begin_layout Standard
+It was a convoluted, ridiculous story, but I didn't have any other way to
+ explain why I'd disappeared from my bed, been gone for two days without
+ contacting my parents, and was about to return safe and sound.
+ I dutifully took the phone, dialed home, and recited the lies to Charlie.
+ He seemed incredulous, but I put Carlisle on the phone, who confirmed it
+ all (including the humbug about sleepwalking) with such a serious and honest
+ tone that I was half-inclined to believe him myself.
+ I took the phone back and told Charlie that, no, I didn't have the license
+ number of the pickup truck.
+ He uttered a few fussing, fretting sentences, but wasn't in a position
+ to actually do anything.
+ Finally, he let me off the phone with a gruff, “I love you, Bells.”
+\end_layout
+
+\begin_layout Standard
+“I love you, too, Dad,” I told the phone.
+ “I'll see you soon.” And then I flipped it closed.
+ “I wish I could tell him everything,” I sighed, putting my head on Edward's
+ lap.
+ The no-seatbelts precaution made it a lot easier to move around freely
+ in the car.
+\end_layout
+
+\begin_layout Standard
+Edward stroked my hair and said nothing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The way Cullens got onto airplanes was this: accepting pat-downs after they
+ made the scanning machines go absolutely haywire, complaining vaguely of
+ having “weird bioelectricity
+\begin_inset Quotes erd
+\end_inset
+
+.
+ When that didn't quite work, outright bribery in large denominations.
+ And, apparently, flirting with the security officers.
+ Esme made awfully compelling doe-eyes at one portly fellow, accompanied
+ by a flutter of Italian.
+ He stammered at her a little and waved her through, then looked hurt when
+ she joined an indulgent Carlisle and kissed him.
+\end_layout
+
+\begin_layout Standard
+I was much easier to get through security: Edward had found my passport
+ in my room before leaving for Italy and the security equipment didn't so
+ much as blink a light at my passage.
+ And the plane rides, spent in first class and in Edward's arms, were much
+ more pleasant than my other recent experiences with aircraft.
+ Particularly since I was welcome to any food I wanted from what the Cullens
+ received, and therefore had not one, but four miniature cheesecakes.
+ There was, however, a tense moment when I described for him the tests Aro
+ had undertaken of my witchcraft.
+\end_layout
+
+\begin_layout Standard
+“He told 
+\emph on
+Jane
+\emph default
+ to try
+\begin_inset space ~
+\end_inset
+
+--” sputtered Edward, looking angrier than I'd ever seen him except when
+ he'd been roaring at James.
+\end_layout
+
+\begin_layout Standard
+“It didn't work,” I hurried to say.
+ “Nothing happened.
+ She looked really upset about it.
+ Why, what does she do?”
+\end_layout
+
+\begin_layout Standard
+Edward's teeth were clenched so tightly I thought he might split a molar.
+ Carlisle explained for him.
+ “Jane's talent is a sadistic one,” he said in a soft voice that carried
+ to my seat and no farther.
+ “She can cause pain.
+ A purely mental pain, but a disabling one.
+ She is limited to one subject at a time, and is restricted to victims in
+ her line of sight, but she's feared nonetheless.
+ You are very lucky to have proven immune.”
+\end_layout
+
+\begin_layout Standard
+“Oh,” I breathed.
+ Lucky indeed.
+ I loved my witchy talent very much.
+ “Uh, and the boy who looks like her -- I didn't get his name? He doesn't
+ work on me either,” I said.
+\end_layout
+
+\begin_layout Standard
+“Alec,” said Edward, finally relaxing his jaw enough to talk.
+ “He is Jane's biological twin.
+ And his power is the opposite of hers in many ways.
+ He's anaesthetic where she is torture -- he turns off all senses, even
+ proprioception.
+ He can affect several at a time and doesn't need to look at all of his
+ targets, but his power moves slowly.”
+\end_layout
+
+\begin_layout Standard
+That was consistent with what I'd seen.
+ “James fell over when Alec looked at him,” I remembered.
+ “I guess it's hard to stand up if you can't feel where your legs are.” Edward
+ nodded with a sort of grim satisfaction.
+\end_layout
+
+\begin_layout Standard
+“What does `
+\emph on
+\lang italian
+la tua cantante
+\emph default
+\lang english
+' mean?” I asked him, changing the subject from what grotesque powers I
+ was protected from.
+\end_layout
+
+\begin_layout Standard
+“It means `your singer',” Edward said.
+ “That's what the Volturi call someone who smells the way you do to me --
+ they think of it as your blood singing for me.”
+\end_layout
+
+\begin_layout Standard
+“That's kind of gross,” I remarked.
+\end_layout
+
+\begin_layout Standard
+“A little,” laughed Edward.
+ “They think it's a waste that I haven't eaten you.
+ They consider singers the ultimate delicacy.
+ And Aro said he'd never have believed there was a singer so powerful if
+ he hadn't smelled you in my memories.”
+\end_layout
+
+\begin_layout Standard
+“He read you.” My stomach turned a little.
+ I didn't like the idea of Aro spying on Edward...
+ or me, through Edward's eyes.
+ I'd been careful not to drop hints of my plans for world domination, but
+ I wasn't too pleased with the notion that Aro now had a full complement
+ of memories of Edward kissing me, Edward leaving me gifts, Edward carrying
+ me through the woods, Edward guarding me for days at a stretch.
+ I hadn't liked Aro before; now I liked him less.
+\end_layout
+
+\begin_layout Standard
+Edward nodded, looking somber but not nauseated.
+ “It's his standard means of communication for anything complicated.
+ Marcus rarely speaks at all, preferring to simply transmit to Aro and let
+ him do the talking.”
+\end_layout
+
+\begin_layout Standard
+“I'm glad my mind is safe,” I murmured.
+ “I wish yours were.”
+\end_layout
+
+\begin_layout Standard
+Edward kissed the crown of my head.
+ “I'll admit it chafes at me a bit that 
+\emph on
+I
+\emph default
+ can't read you,” he said.
+ “But I'm glad you prefer it that way, since it doesn't seem there's any
+ way around it.”
+\end_layout
+
+\begin_layout Standard
+“It's good there's no way around it,” I said.
+ “If there were, then Aro could decide to coerce me into dropping the shield.
+ Since I can't drop the shield, he knows there's no point in threatening
+ me or anything -- it won't do any good.
+ It's to my advantage not to be able to turn it off.
+ Even if I wanted to let 
+\emph on
+you
+\emph default
+ in, just having that ability would be bad.”
+\end_layout
+
+\begin_layout Standard
+Edward looked thoughtful.
+ The conversation lulled, and then turned to other subjects: the Denali
+ coven and speculations about how they would get on with David; whether
+ Laurent was still with them and how, if at all, the news of his coven-mates'
+ destruction could be broken; James's knowledge of Alice's origins, and
+ the development of a plan to send her to the region where she'd woken,
+ to search for herself in asylum records.
+ (I didn't like to think of Alice locked up in a psychiatric hospital, especiall
+y not in the early nineteen hundreds.
+ She was so bubbly, and seemed to take so much joy in things, that it seemed
+ unreasonably cruel.
+ And, on top of that, her visions were 
+\emph on
+true
+\emph default
+ -- or, at least, were in her vampire life.
+ I supposed they could have been hallucinatory when she was human.)
+\end_layout
+
+\end_body
+\end_document

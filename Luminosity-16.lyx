@@ -1,0 +1,1917 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{15}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Ambition
+\end_layout
+
+\begin_layout Standard
+As I'd expected, Alice had gotten us both booked and we were soon on our
+ way to Norway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you okay?
+\begin_inset Quotes erd
+\end_inset
+
+ I finally asked Gianna, as the plane took off.
+ I kept my voice low enough so that nearby travelers wouldn't hear.
+\end_layout
+
+\begin_layout Standard
+“I'm fine,” she squeaked, sounding less than fine.
+\end_layout
+
+\begin_layout Standard
+“Gianna, you are not in danger,” I reminded her.
+ Then, “Flying is the safest form of travel.”
+\end_layout
+
+\begin_layout Standard
+That got a choked, sob-like giggle out of her.
+ “Do you really think they'll let me live, after deciding to kill me?” she
+ asked in a breathy whisper.
+\end_layout
+
+\begin_layout Standard
+“That depends on why they decided to kill you,” I said.
+ “It could have been that they have something against 
+\emph on
+me
+\emph default
+, and thought it'd be useful if I ate you, since then they could be offended
+ and have something concrete against me.”
+\end_layout
+
+\begin_layout Standard
+“Maybe,” Gianna murmured.
+\end_layout
+
+\begin_layout Standard
+“How did you know they wanted you dead?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I hear more than they think I do.
+ Not everything, but...
+ I heard Chelsea and Santiago talking...”
+\end_layout
+
+\begin_layout Standard
+“Who's Chelsea? And remember to keep your voice down.
+ I can hear you just fine.”
+\end_layout
+
+\begin_layout Standard
+“One of the guard.
+ She -- her power is a little like Marcus's.
+ He sees relationships; she can weaken them or build them up.
+ They use it to keep the guard unified, to divide covens they punish.
+ I heard Santiago asking her to...
+ break the one between Santiago and me.
+ I didn't know there was anything to speak of.
+ None of them were my 
+\emph on
+friends
+\emph default
+.
+ Santiago was more cordial than most of them, I suppose.
+ But the only reason I could think of to break anything that might have
+ been there was, would be if I was going to die, and Santiago didn't want
+ to care.”
+\end_layout
+
+\begin_layout Standard
+“Did you hear what Chelsea said?” I asked.
+\end_layout
+
+\begin_layout Standard
+Gianna shook her head.
+ “She was too quiet.
+ But I went out for lunch and called you.
+ Your coven-mate, Alice, let me through.
+ I don't think they know I did it, or that I heard Santiago.”
+\end_layout
+
+\begin_layout Standard
+“Probably not.” I paused.
+ “Uh, there's a complication with how I got you out, that you should know
+ about.”
+\end_layout
+
+\begin_layout Standard
+Gianna went stiff in her seat.
+ “What?” she asked in a small voice.
+\end_layout
+
+\begin_layout Standard
+“I had to explain why I wanted to get you out, I needed to have some 
+\emph on
+use
+\emph default
+ for you.
+ Aro said I couldn't just let you go off by yourself because you know too
+ much.
+ I wasn't going to eat you, and that didn't leave me a lot of options.” I
+ required another lungful of air, but the scents of humans had almost stopped
+ bothering me.
+ I sipped from my complimentary water anyway, just to be safe -- it would
+ be a long flight.
+ “I, uh, told him that I need you to be the surrogate mother of my child
+ or children.”
+\end_layout
+
+\begin_layout Standard
+She stared at me.
+ This was an entirely reasonable reaction.
+\end_layout
+
+\begin_layout Standard
+“My sister harvested some eggs before I turned,” I explained.
+ “I wasn't planning to use them soon.
+ Actually, I didn't have any concrete plans to use them at all, I was just
+ hanging onto them in case I wanted them later.
+ But they exist, and it was something I could say, that would explain why
+ I'd need a live human around who knows about us.
+ But Aro said he was going to check on me in a year or two to make sure
+ I'm `pleased with my gift'.
+ So that means that unless you really hate the idea, or my husband does,
+ or we think of a great way around it...”
+\end_layout
+
+\begin_layout Standard
+“No, that's fine,” said Gianna.
+ “I'll help you.”
+\end_layout
+
+\begin_layout Standard
+I hadn't expected such ready acquiescence.
+\end_layout
+
+\begin_layout Standard
+“Can I ask you a favor?” she asked tentatively, after a pause.
+\end_layout
+
+\begin_layout Standard
+Ah.
+ “What is it?”
+\end_layout
+
+\begin_layout Standard
+“...
+ Do you know why I was with the Volturi to begin with?” she asked.
+\end_layout
+
+\begin_layout Standard
+“You wouldn't tell me,” I reminded her, and she flinched.
+ I was starting to think that she'd been very thoroughly trained to obey
+ vampires and the fact that I retained continuity with my human self, whom
+ she'd given the runaround, was throwing her off.
+ “If you're willing to share now, I'd like to hear it.”
+\end_layout
+
+\begin_layout Standard
+Gianna ducked her head.
+ “What I did tell you was true.
+ They tell a lot of vampire stories in Volterra.” She paused.
+ “I believed them...
+ and so did my brother.
+ Ilario.
+ He believed more than I did.
+ He wanted to be one himself.
+ He looked for them, but never found them, and then he got sick.
+ He's going to die.
+ The doctors said there was nothing I could do, but he told me that there
+ was -- and I did it -- and I found the Volturi, and I knew they'd never
+ help my brother themselves once I realized how they are, but I thought
+ perhaps they would
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+She'd started crying partway through this recitation.
+ I could fill in the rest of it myself.
+ If the Volturi had “kept” her, she could have turned her brother -- or
+ tried, anyway.
+ Gianna probably didn't know that syringes worked, and I didn't think even
+ 
+\emph on
+I
+\emph default
+ could manage to administer venom by mouth without flipping out and devouring
+ the human I'd meant to save.
+\end_layout
+
+\begin_layout Standard
+I wanted to offer Gianna a tissue, but I didn't have any; she sniffled for
+ a minute, and then collected herself.
+ “Gianna,” I said, “do the Volturi know about Ilario?”
+\end_layout
+
+\begin_layout Standard
+“Aro's read me,” she said quietly.
+\end_layout
+
+\begin_layout Standard
+Well, then
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Wait.
+ 
+\emph on
+Did
+\emph default
+ that necessarily mean that he knew about her brother? He could absorb a
+ lifetime of memories with one touch.
+ But vampires had 
+\emph on
+perfect recall
+\emph default
+, nothing more or less than that.
+ Could he 
+\emph on
+process
+\emph default
+ a lifetime of memories that quickly? I'd spent hours and hours just re-reading
+ 
+\emph on
+my own notes
+\emph default
+ and integrating them with my memories.
+ That sort of thing wasn't the work of an instant.
+ Would he have bothered to spend a couple of days analyzing Gianna's? Even
+ if things she'd forgotten with her imperfect recording weren't accessible
+ to him either, it'd be a richer set of stuff to take in than my notes and
+ hazy, blocked human memories.
+ I was almost sure that he wouldn't bother with the far longer period of
+ time it would take to deal with more complex, better-remembered, and 
+\emph on
+longer
+\emph default
+ vampire histories.
+\end_layout
+
+\begin_layout Standard
+This probably boiled down to a very significant limitation.
+ I'd need to check with Carlisle and Edward, to confirm or disconfirm.
+ Aro 
+\emph on
+might
+\emph default
+ just have an astronomical mental capacity incomprehensibly greater than
+ that of every other vampire.
+ He 
+\emph on
+might
+\emph default
+ be quite capable of assimilating hundreds of years of sleeplessness where
+ every last sixteenth of a second was packed with sense data and thought,
+ all in a mere moment.
+ And capable of doing this without toppling over as though affected by Alec's
+ power, cut off from the present and his own experiences by the foreign
+ additions.
+\end_layout
+
+\begin_layout Standard
+But 
+\emph on
+probably
+\emph default
+, he could only find memories he 
+\emph on
+looked for
+\emph default
+ -- memories he 
+\emph on
+knew
+\emph default
+ to look for.
+ Either he had to plan to seek them before touching his target, so he could
+ catch them as they flashed by; or he stored them all as they came in, and
+ then could investigate them at his leisure.
+ The first would be less dangerous, because it meant that only a fresh read
+ could get him information he didn't yet possess.
+ But even the latter was importantly different from his simply knowing everythin
+g his targets knew.
+\end_layout
+
+\begin_layout Standard
+Edward might not know.
+ He (and Alice and Jasper), despite their extra senses, didn't have any
+ spare room in their heads relative to the baseline vampire.
+ If Edward was listening to Aro's mind when Aro took in someone's thoughts,
+ it probably sounded like a compressed blur -- he'd get a couple of images,
+ could probably swipe anything he was particularly trying to see, but wouldn't
+ be able to distinguish between the possibilities unless Aro ruminated on
+ his limitations in Edward's range.
+\end_layout
+
+\begin_layout Standard
+This was unlikely to mean that Aro hadn't learned about Ilario.
+ If he'd read Gianna, the most obvious motivation was to discover why she'd
+ looked for the Volturi and whether she could be trusted.
+ Her brother was clearly relevant, the sort of thing he'd have dug up.
+\end_layout
+
+\begin_layout Standard
+But it could mean that my private moments with Edward were safe unless he
+ was some kind of silly voyeur.
+ It could mean that he didn't know about the Quileutes.
+ It could mean that I could plan the Volturi's downfall with the help of
+ others, given certain precautions.
+ It could mean that 
+\emph on
+he was less powerful than he thought we believed him to be
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“Then he probably knows,” I told Gianna.
+ My own head was still the 
+\emph on
+safest
+\emph default
+ place to hide information.
+ Gianna didn't need to hear this, not yet.
+ “But there may be a way for us to save your brother anyway.
+ You say he wants to be a vampire?”
+\end_layout
+
+\begin_layout Standard
+She nodded.
+ “Very much.
+ I don't think he knows all the details -- but I'm sure he won't care.”
+\end_layout
+
+\begin_layout Standard
+“And he 
+\emph on
+believes
+\emph default
+ in vampires,” I pressed.
+ 
+\emph on
+Oh, but Aro, of course we had to turn him -- he knew too much -- you know
+ how much respect we have for the law
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Gianna nodded again.
+\end_layout
+
+\begin_layout Standard
+“Okay.
+ I think we can do this.
+ But we've got to check in with my family first.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Thank you
+\emph default
+,” she said fervently.
+\end_layout
+
+\begin_layout Standard
+“Do you want to be a vampire too?” I asked.
+ “After Aro's been convinced that I wanted you for the reason I told him?”
+\end_layout
+
+\begin_layout Standard
+Gianna thought.
+ “If my brother were already safe, and didn't need me to be one...” 
+\emph on
+Say yes
+\emph default
+, I thought at her uselessly, 
+\emph on
+yes you do...
+\end_layout
+
+\begin_layout Standard
+She seemed really stumped by the question.
+ “I mean,” I said, “not like one of the Volturi.
+ I'm sure my family, or our friends in Alaska would take you in.” I still
+ needed to 
+\emph on
+meet
+\emph default
+ the Denalis.
+ Perhaps there would be time for that soon.
+\end_layout
+
+\begin_layout Standard
+“What is it 
+\emph on
+like?
+\emph default
+” she asked.
+\end_layout
+
+\begin_layout Standard
+“Oh, I can't even -- it's amazing,” I said.
+ “The transition is...” I mulled over the word choice, too quickly for her
+ to catch it.
+ “
+\emph on
+Not fun
+\emph default
+.
+ But mine was better than most and we could do the same things for you.
+ And being a vampire is the most marvelous thing.
+ Did you know we can see ultraviolet? And everything feels and looks and
+ sounds and smells so intensely.” She flinched when I said 
+\emph on
+smells
+\emph default
+.
+ “And,” I went on, “the evidence suggests that if you know about vampires
+ beforehand, if you're expecting to become one before you start turning,
+ then it's easier to control yourself, have the full use of your rational
+ faculties to start with and not slaughter humans.
+ I'm not magical like that -- I have a power, but that isn't it.
+ I just had warning.”
+\end_layout
+
+\begin_layout Standard
+“Oh,” she said, a fascinated glint in her eye.
+ “It's as wonderful as it looks? The way you move, and sound...”
+\end_layout
+
+\begin_layout Standard
+“It's more so.
+ A hundred times more so.
+ My experience might be a little better than most,” I allowed, “because
+ I turned with my mate already waiting for me, and that isn't likely to
+ happen for you.
+ But even without Edward -- yes, better than it looks.” 
+\emph on
+And turning is worse than it looks
+\emph default
+, my conscience hissed at me.
+ 
+\emph on
+Nothing can 
+\emph default
+look
+\emph on
+ that bad, there's only so much volume you can get out of one pair of lungs
+ when you scream...
+\end_layout
+
+\begin_layout Standard
+“I think I would want it even if Ilario didn't need me,” said Gianna, speculativ
+e.
+ “But I will help you first, with a child, if it seems like that makes the
+ most sense.
+ Will your sister be willing to take eggs from me as well?”
+\end_layout
+
+\begin_layout Standard
+“I'm sure she will.” I wasn't, but I was sure I could convince her or get
+ Carlisle to do it.
+ My conscience prickled.
+ “Uh, Gianna...
+ It's 
+\emph on
+worth it
+\emph default
+.
+ It really is.
+ Eternal life alone is worth it, even without the added bonuses, which are
+ themselves awesome.
+ But while you're turning, it won't feel that way.
+ No matter how much you believe it now.
+ There's nothing you can imagine that's enough to prepare you.
+ When I said `not fun', that was a flippant reference to how my sister Alice
+ described it to me before I turned -- she can't remember her own turning
+ at all.
+ She was going by secondhand information.
+ I remember everything about mine except the beginning, because Carlisle
+ put me in a coma first.
+ And it's not going to feel like anything could be worth it, while you're
+ in the middle of it.”
+\end_layout
+
+\begin_layout Standard
+Gianna went still and quiet.
+ “I don't know what to think about that,” she said after a silence.
+\end_layout
+
+\begin_layout Standard
+“It's worth it,” I told her again.
+ “And you'll get it easier than me.
+ We'll put you in a coma too and as soon as you come out of it, a broken
+ spine will cut off most of the pain -- I didn't think of that until hours
+ after I woke.”
+\end_layout
+
+\begin_layout Standard
+This had probably not been a clever thing to say, I decided, after looking
+ at Gianna's expression.
+ The pinch to my neck was so laden with positive associations of relief
+ and mercy in 
+\emph on
+my
+\emph default
+ head, and I didn't think of the injury the way any given human likely did.
+ In Gianna's mind, “broken spine” was probably very high on the list of
+ things least pleasant to experience.
+ I had memories of two hundred fifty nine thousand, one hundred and twelve
+ seconds which each would individually place higher on that list than anything
+ I would have been capable of experiencing with fully human mind and nerves.
+\end_layout
+
+\begin_layout Standard
+“But we won't push you into anything you don't want to do,” I said reluctantly.
+ 
+\emph on
+But on the other side everything is beautiful and you can keep it all forever...
+\end_layout
+
+\begin_layout Standard
+“If Ilario's going to do it, then I will too,” she said, and that sounded
+ firmer than her previous statement.
+\end_layout
+
+\begin_layout Standard
+I grinned at her.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The rest of the flight was mostly small talk, tidbits about our respective
+ lives that had for whatever reason not made it into our e-mails.
+ Gianna was 23; Ilario was her only sibling, and two years younger; their
+ parents were alive but irretrievably senile; she'd found the Volturi ten
+ months previously (I was briefly startled to realize that Gianna had known
+ vampires for longer than I had, when I felt like I'd known them forever).
+\end_layout
+
+\begin_layout Standard
+Edward picked us up at the airport.
+ Rosalie had gotten around to buying at least a few cars, apparently, because
+ the sleek black thing he drove was definitely not a rental.
+ I wondered if she'd grabbed one for me -- she'd asked me what kind I wanted
+ and I told her I had no idea, and was willing to leave it up to her expertise.
+ She wasn't quite as pleased as Alice with permission to buy me a new wardrobe
+ bursting with chiffon, but she'd seemed to find it a compliment.
+\end_layout
+
+\begin_layout Standard
+I hadn't yet directly taken much frivolous advantage of practically unlimited
+ financial freedom, although Edward had troubled to make it very clear that,
+ as his wife, I was entitled to it as much as he was.
+ He'd informed me in no uncertain terms that I shouldn't hesitate to whip
+ out my shiny black credit card if I saw something I liked.
+ (
+\begin_inset Quotes eld
+\end_inset
+
+But if you need more than a couple million dollars at a time,” he'd said,
+ “let Alice know so she can spook her stockbrokers first.”) Mostly I'd deferred
+ various purchases to people with a specialized interest in making them.
+ Now that I was moving around in the human world without much trouble it
+ was probably time for me to take a more personal interest in my possessions.
+\end_layout
+
+\begin_layout Standard
+Conversation during the drive between the airport and the house was limited;
+ I did want to talk to Edward about my insight on Aro and the condition
+ of Gianna's release, and he like everyone else in the family needed to
+ be informed about Ilario.
+ However, the first conversations were best kept between the two of us to
+ start with, and the second would be more efficient with everyone there.
+\end_layout
+
+\begin_layout Standard
+He drove fast, of course, and it didn't take long for us to reach home.
+ The cars were living outdoors for the time being, but I could see the skeleton
+ of a garage going up.
+ The house itself looked completely refinished -- fresh paint and sanded
+ surfaces and new window glass.
+ Esme had been busy over the last couple of weeks.
+ We brought Gianna into the house, gave her a purposeless little room with
+ a bed in it on the first floor, confirmed that someone had brought in some
+ groceries for her to feed herself and generally deal with human needs,
+ and let her alone to settle in.
+ It was surprisingly unceremonious -- having Alice around took a lot of
+ the oomph out of significant lifestyle changes.
+\end_layout
+
+\begin_layout Standard
+When Gianna had shut the door to her new room and could be heard unpacking,
+ I turned to Edward.
+ “I believe,” I said, “that you've got a threshold to carry me over.”
+\end_layout
+
+\begin_layout Standard
+“I believe I do,” he agreed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I spent four minutes running around in our cute, tiny cottage, inspecting
+ everything and exclaiming over it.
+ Edward had already seen plenty of the place, in Esme's mind and Alice's,
+ and didn't need to investigate so thoroughly; he watched me with a fond
+ and indulgent look on his face.
+ Alice had been in the house before, and moved all my clothes old and new
+ into a closet that was almost half as big as the entire rest of the building.
+ Edward's were relegated to a corner of the crowded walk-in, pushed there
+ by my inordinately large collection; she was not quite so fond of buying
+ men's clothes.
+ She had not been able to 
+\emph on
+quite
+\emph default
+ resist buying me posh swaths of dress-shaped silk and satin, but there
+ were only half a dozen of the most impractical numbers.
+ The rest of it was more discreetly upscale.
+\end_layout
+
+\begin_layout Standard
+It was a compact home, so in short order I'd seen everything and returned
+ to Edward's side.
+\end_layout
+
+\begin_layout Standard
+Simultaneously, we said, “We need to talk.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“What's your thing we need to talk about?” I asked Edward.
+\end_layout
+
+\begin_layout Standard
+“It's kind of a long story -- what's yours?” he said.
+\end_layout
+
+\begin_layout Standard
+“I have several,” I replied.
+ “One is that I thought about something that might constitute a limitation
+ on Aro's power, besides my immunity.
+ It might or might not have already occurred to you.
+ The second is about what I had to tell Aro to get Gianna out, and what
+ we need to do about that.
+ And then there's a favor I want to do for Gianna.
+ Why don't I start one of mine, and then it'll be your turn?”
+\end_layout
+
+\begin_layout Standard
+Edward nodded, and I related the thought processes and dialogue that had
+ led up to the situation with Gianna.
+ “So,” I concluded after the explanation, “unless we have a brilliant alternativ
+e plan, Gianna needs to have, or be noticeably pregnant with, my child by
+ the time Aro investigates us, on some unspecified date on the order of
+ a year or two from now.
+ I guess that's probably enough time to find a sperm donor.” I winced apologetica
+lly.
+ “I didn't have a chance to consult you, or time to think of anything else
+ I might want a human for that Aro would find plausible.”
+\end_layout
+
+\begin_layout Standard
+“And how do you feel about that?” asked Edward.
+ He was carefully looking neutral about it -- probably trying not to pressure
+ me either way with his own feelings.
+\end_layout
+
+\begin_layout Standard
+I hadn't stopped to consider this in any detail.
+ I took this invitation to do so, and thought.
+\end_layout
+
+\begin_layout Standard
+When I'd said to Aro that I needed Gianna to bear my children, I had been
+ motivated by the need to get her out, to save her.
+ Now that she was freed but would be checked up on, any comparatively weak
+ opinions I had about child-rearing were close to irrelevant for purposes
+ of what I would do.
+ I didn't 
+\emph on
+hate
+\emph default
+ the idea so much that I'd let Gianna die to avoid it.
+ I didn't 
+\emph on
+love
+\emph default
+ the idea so much that I'd demand her participation even if I found a way
+ to bail her out for free.
+ But there was a reasonably wide range of possibilities between those two
+ extremes, and Edward -- as well as I -- wanted to know where I was on the
+ spectrum.
+\end_layout
+
+\begin_layout Standard
+I wasn't thrilled about the sperm donor part.
+ Some stranger's child.
+ But Edward had gone and become a vampire before collecting gametes had
+ been medically realistic, so that meant that (sooner or later) I needed
+ to figure out how I felt about having children without the chance that
+ they'd have his hair or his nose or something.
+\end_layout
+
+\begin_layout Standard
+I supposed a pair of vampires who never needed to sleep would have a leg
+ up in the parenting department.
+ I was only seventeen, but it wasn't like I was getting any older.
+ With twenty-four hours in a day, and each second sufficient time to actually
+ accomplish something, I didn't find the prospect of adding childcare that
+ terrible of a time sink.
+ So maybe it'd take me two or three times as long to learn Farsi when that
+ came up on my list -- wow, an entire week and a half per language, the
+ horror.
+\end_layout
+
+\begin_layout Standard
+Kids were typically cute, but varied in personality as much as adults did.
+ The odds were pretty good that my own would be similar to me in at least
+ some ways.
+ Paging through descriptions of donors would be another level of control.
+ There were plenty of people with adversarial relationships with their parents,
+ but I'd gotten along all right with mine, and they'd gotten along all right
+ with theirs.
+ If there was any genetic correlation, there would probably be no serious
+ issue there.
+\end_layout
+
+\begin_layout Standard
+I wondered what it would do to a human child, to have vampire parents.
+ Among other things, we weren't warm and huggable.
+ I supposed we could wear fluffy coats or something, if that seemed important.
+ In most visible ways, we could pass for human, though; we'd be likely to
+ raise a 
+\emph on
+quirky
+\emph default
+ kid, but probably not an outrageously bizarre one unless we were very incautiou
+s.
+ It might be wise for Edward and me to live alone with our child in case
+ a scraped knee set Jasper off.
+ For that matter, I would need to test 
+\emph on
+myself
+\emph default
+ around fresh human blood before I could be sure of mothering a human baby
+ safely.
+\end_layout
+
+\begin_layout Standard
+The timing wasn't ideal.
+ We wouldn't be the first couple to wind up with a honeymoon baby -- or
+ the nearest artificial equivalent -- but a child would restrict us in some
+ ways.
+ For example, if I decided I wanted to spend a year living in the Mariana
+ Trench for no particular reason, that would not be something I could do
+ with a toddler.
+ After fifteen or twenty years, though, my offspring could likely be left
+ more or less to his or her own devices.
+ And I didn't think I'd run out of child-compatible things to occupy myself
+ with in that time.
+\end_layout
+
+\begin_layout Standard
+The fact that Edward and I wouldn't age and the child would could get awkward.
+ We looked a bit young to be parents to an 
+\emph on
+infant
+\emph default
+, let alone an eight-year-old or a teenager.
+ That would just mean that we'd have to teach him or her to call us by our
+ names and pretend to be our niece or my sibling or something in public,
+ though.
+\end_layout
+
+\begin_layout Standard
+And I could show Charlie and Renée their grandchild.
+ That wouldn't be a problem as long as we found a way to be away ourselves
+ at the time -- drill the kid on airport procedures, send them to Washington
+ or Arizona, let the relevant grandparent pick them up.
+ It might be, in some small way, compensation for the fact that there might
+ never be a way for me to see them again face-to-face.
+\end_layout
+
+\begin_layout Standard
+“Well,” I said finally, having spent about forty seconds to fully mull over
+ all those thoughts, “it's sooner than I had in mind, but I kind of like
+ the idea of having at least one.”
+\end_layout
+
+\begin_layout Standard
+“That's good,” said Edward in relief, touching my face, “because I found
+ out after you left Rio that it may be possible for vampires to have children.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Does Rosalie know?” I asked immediately.
+\end_layout
+
+\begin_layout Standard
+Edward winced.
+ “Not 
+\emph on
+female
+\emph default
+ vampires,” he said.
+ “At least not that I discovered.”
+\end_layout
+
+\begin_layout Standard
+“Spill,” I insisted.
+\end_layout
+
+\begin_layout Standard
+“After I saw you off to Italy,” said Edward, “I went back to the island
+ to leave a note for the cleaning crew, so they would know that we weren't
+ going to be there as long as planned.
+ They were there when I arrived, but one of them had brought her cousin
+ to help, who's familiar with a lot of local legends and had a good guess
+ of what she was looking at as soon as she saw me.
+ Since all she'd heard about who was using the island was that it was a
+ young couple, the first thing she thought when she saw me without you was
+ that I'd eaten you.” He smiled wryly.
+ “I explained that you were my wife and had been called away prematurely,
+ and her 
+\emph on
+next
+\emph default
+ thought was that you were 
+\emph on
+pregnant
+\emph default
+ and rushing home.”
+\end_layout
+
+\begin_layout Standard
+“She still thought I was human at that point?”
+\end_layout
+
+\begin_layout Standard
+“Right -- but I didn't understand how she could think it anyway, when for
+ one thing I'm a vampire and for another you wouldn't have been showing
+ after only twelve days.”
+\end_layout
+
+\begin_layout Standard
+“It didn't occur to her that a lot of humans cheat on their spouses?” I
+ asked dryly.
+\end_layout
+
+\begin_layout Standard
+“Didn't cross her mind just then, at least, which was curious,” Edward replied.
+ “I managed to convince her I wasn't going to hurt her, or you, and I got
+ her talking.
+ The Ticuna Indians, of which she was one, have legends about vampires who
+ seduce young women -- and their stories say that pregnancies can result.”
+\end_layout
+
+\begin_layout Standard
+The vague plans for raising a human child evaporated in my head.
+ We could have 
+\emph on
+our
+\emph default
+ child.
+ I felt my face spreading into a much less ambivalent smile...
+\end_layout
+
+\begin_layout Standard
+“But,” said Edward (I froze), “the pregnancies are supposedly unnaturally
+ rapid.
+ That was why she'd thought twelve days would be enough to notice.
+ Start to finish, it takes about one month -- but you can imagine the toll
+ that takes on a human body, going from zygote to infant nine times faster
+ than normal.
+ She didn't know of any stories where the mothers survived.
+ Not least because the children aren't at all typical.”
+\end_layout
+
+\begin_layout Standard
+“Not typical how?”
+\end_layout
+
+\begin_layout Standard
+“That, she didn't know much about.
+ But if there are stories about half-vampires, there might be actual half-vampir
+es, somewhere -- South America would be a good place to start.
+ I wanted to come straight home to meet you and discuss it before investigating
+ any further.”
+\end_layout
+
+\begin_layout Standard
+“If it'd kill Gianna...” I said uncomfortably.
+\end_layout
+
+\begin_layout Standard
+“These are 
+\emph on
+old
+\emph default
+ stories,” he told me.
+ “Perfectly ordinary pregnancies were dangerous then -- no modern medicine.
+ And vampire venom can do some amazing things.
+ When Esme was found at the bottom of the cliff, she was brought directly
+ to the morgue, because they didn't think there was a chance they could
+ save her -- but her heart was beating, and Carlisle turned her and now
+ she's fine.
+ None of us were in such good shape -- you were the only one in perfect
+ health.
+ I know Gianna was hoping that the Volturi would turn her anyway.”
+\end_layout
+
+\begin_layout Standard
+“She was, but not for the reason you're thinking.” I told him about Ilario,
+ barely clinging to life.
+ “Now, I asked her, and she said she'd still like to be a vampire even if
+ he didn't need her help to turn, and she said she'd be willing to help
+ us out with surrogacy -- but I don't know if she'd sign on for pregnancy-on-roc
+ket-powered-roller-skates that's believed to regularly kill people just
+ because we 
+\emph on
+might
+\emph default
+ be able to save her with venom at the end of it.”
+\end_layout
+
+\begin_layout Standard
+“Of course if we determine that there's no way that's safe for her to carry
+ a half-vampire, she shouldn't,” Edward assured me.
+ “But it seems worth investigating.” There was a trace of something in his
+ voice that he was trying not to make too obvious -- perhaps it really mattered
+ to him that our child be biologically his own but he knew that it would
+ do no good to press the issue if I thought it would be at the expense of
+ Gianna's safety.
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “I think it's safe for us to take six months to research and decide,” I
+ said.
+ “Even if Aro checks in after just one year and we wind up going with a
+ slower-developing human baby, she'll show by then.”
+\end_layout
+
+\begin_layout Standard
+“I agree,” Edward said.
+\end_layout
+
+\begin_layout Standard
+“Is there going to be any trouble dealing with Ilario?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I don't think it would be wise to have him and Gianna in the same place
+ when he's first turned,” said Edward.
+ “Unless he adjusts like you -- which he might, if your theory is correct
+ -- then it wouldn't be safe for her.”
+\end_layout
+
+\begin_layout Standard
+“So should Ilario go somewhere else, or should Gianna?” I asked.
+ “And where to? The Denalis have already got David, and he's 
+\emph on
+not
+\emph default
+ unusually well-adjusted -- Gianna can't go there.
+ Ilario could after he's turned, but it's not obvious how we'd get an uncontroll
+ed newborn to Alaska safely.”
+\end_layout
+
+\begin_layout Standard
+“It might be necessary for the family to split up temporarily,” Edward said.
+ “We'll discuss it with everyone.”
+\end_layout
+
+\begin_layout Standard
+I frowned, not quite happy with that idea.
+ But if Ilario managed as well as he might, didn't eat his equivalent of
+ Nils when tested, then it would amount to some of us taking him on a couple
+ weeks' vacation in some remote area and then bringing him back.
+ Fair enough.
+\end_layout
+
+\begin_layout Standard
+“And my last thing,” I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward had barely any idea how Aro's power worked.
+ Aro didn't think about it explicitly himself, at least not in range.
+ “When he's decided to find something in particular, and I listen, I can
+ always catch that thing,” Edward said.
+ “But the rest of it is too fast.
+ It doesn't spend enough time as a surface thought for me to read it.
+ If there's a different way he retrieves absorbed memories and personal
+ memories, I can't tell the difference when he remembers things.”
+\end_layout
+
+\begin_layout Standard
+“So that doesn't narrow it down,” I said.
+ “It looks like there are three possibilities.
+ That he's as powerful as he wants everyone to think, or that he stores
+ but doesn't automatically process everything from his targets, or that
+ he has to know what he's looking for in advance.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ “I can't believe I never thought of this before -- he has no reason to
+ leave the Quileutes alone; by rights he'd want to obliterate them in case
+ the activated version of the species ever resurfaces.
+ But the most recent occasion wasn't even the first time he's read one of
+ us since we encountered them seventy years ago.”
+\end_layout
+
+\begin_layout Standard
+“That means we can probably rule out the first, then,” I said.
+ “But is there a safe way to tell between the second and third?” We thought.
+ The problem was that, of things that made suitable test topics, there were
+ very few that we thought we'd 
+\emph on
+like
+\emph default
+ it if he came to think about them.
+ It would be safe to make oblique references to werewolves and read his
+ thoughts about them 
+\emph on
+if
+\emph default
+ the last hypothesis were true, because he'd assume that we were talking
+ about the Children of the Moon and wouldn't have any special reason to
+ go poking around the next time he read a Cullen.
+ But if the second one were the case instead, then bringing up werewolves
+ could lead him to dig up exactly the memories that would send the Volturi
+ guard on a killing spree in La Push.
+\end_layout
+
+\begin_layout Standard
+And in fact, if Aro ever had cause to discuss werewolves or a related topic
+ with his own coven, this could happen at any time 
+\emph on
+anyway
+\emph default
+...
+ if Caius expressed skepticism that they'd truly driven the Children of
+ the Moon extinct, if someone in the guard had a penchant for horror novels
+ and discussed them over a shared supper, if Aro developed an interest in
+ Native American culture...
+\end_layout
+
+\begin_layout Standard
+I didn't say that out loud.
+\end_layout
+
+\begin_layout Standard
+Instead, I said, “Edward, do you trust me?”
+\end_layout
+
+\begin_layout Standard
+“Absolutely.” This was not, as he used it, an emphatic form of “yes
+\begin_inset Quotes erd
+\end_inset
+
+; it was a description of his trust.
+ It was absolute.
+ And I needed no less.
+\end_layout
+
+\begin_layout Standard
+“I want you to stop thinking about this, and not to bring it up with anyone
+ else,” I said.
+ “And I may need to travel or use medium-large sums of money unexpectedly,
+ alone.
+ I want you to avoid thinking about that or talking about it any more than
+ you have to.
+ I might need you to pretend to our family that you're on a trip with me
+ so the others don't become curious.
+ I might ask weirder things unexpectedly without being able to explain.”
+\end_layout
+
+\begin_layout Standard
+Edward understood -- not all of it, but enough.
+ My mind was still the only place where things could definitely go on without
+ risking Aro's knowledge -- if he merely happened to be 
+\emph on
+idly curious
+\emph default
+ about the wrong thing, even the third and safest type of scenario was dangerous.
+ It wasn't as though anyone he chose to ask for a handshake could refuse
+ to be read without falling under immediate suspicion.
+ There was no reliable safeguard but my own contrary witchcraft.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward and I went back to the main house.
+ Carlisle had gotten Ilario's information from Gianna and was already in
+ the process of getting him transferred to his new private specialist practice
+ in Norway.
+ Carlisle had begun a new job at a hospital in the nearest town, but he
+ was working as a surgeon, not an oncologist.
+ So the practice was fictional, and so was the clinical study which Ilario
+ was invited to participate in.
+ But Gianna's help let the process go much more smoothly.
+ She got on the phone with her brother when he had a lucid hour, said the
+ magic words, and soon had him demanding to be sent north.
+\end_layout
+
+\begin_layout Standard
+Rosalie arranged to pose as Carlisle's medical assistant -- she had the
+ knowhow to pull off the role and, unlike Edward, wasn't among the witches
+ that the Volturi desperately wished to collect.
+ Her presence in Volterra wouldn't attract undue attention.
+ She hied herself off to Italy to pick up Ilario, seeming unresentful --
+ maybe she was happy to help Gianna because Gianna was planning to bear
+ the first, and possibly last, baby the family would ever have.
+\end_layout
+
+\begin_layout Standard
+It was decided that after Ilario arrived, but before he started to turn,
+ Edward and I would go with Gianna to the house the Cullens kept in Québec.
+ In theory, Gianna could have gone alone -- she was an adult, she could
+ drive, etcetera -- but she thought it was better to stick with me, in case
+ Aro checked in early to make sure I hadn't “released her into the wild
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Since it suited my purposes to be in North America, I didn't put up a fight.
+\end_layout
+
+\begin_layout Standard
+After these things had been set into motion, Alice insisted that I be presented
+ with Aro's other presents.
+ Her eagerness should have tipped me off to the nature of the things, but
+ at least they were far less creepy than the gift of a human being.
+ One was a box, but no typical box: it was made of ancient wood, inlaid
+ with gold and mother-of-pearl that lay flush with the surface.
+ It was also dotted with gems in a rainbow of colors -- small ones, but
+ so many that the entire box glittered.
+ Inside the box was the other gift.
+ Alice said that it was one of the few objects in the world that wouldn't
+ be outshone by the priceless box itself: a golden chain, woven into rope
+ that could coil around the throat and clasp there.
+ Attached to this necklace was a diamond about as big as my eye -- not just
+ the visible portion, the entire thing.
+\end_layout
+
+\begin_layout Standard
+Carlisle identified this item as one of the crown jewels pawned by John
+ of England in the thirteenth century.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yeesh
+\emph default
+.
+ Was this an attempt to get me interested in joining their guard? It didn't
+ seem like practical combat gear, so I couldn't see the ornament being presented
+ as a message of “join us and you will get more old shiny rocks
+\begin_inset Quotes erd
+\end_inset
+
+.
+ I'd 
+\emph on
+met
+\emph default
+ some Volturi women -- they wore cowls or sundresses, they weren't dressed
+ to go to the Oscars or like they'd just committed jewel heists.
+\end_layout
+
+\begin_layout Standard
+I put my box and necklace in my cottage, on the shelf above the dresses
+ I had no plans to wear.
+ Just to be contrary to the Volturi in a safe way, I put on the bracelet
+ that Edward had given me on Valentine's day.
+\end_layout
+
+\begin_layout Standard
+And then, faced with a moment of downtime that wasn't on an airplane, I
+ called my mother.
+ She was surprisingly even-keeled about my having eloped, telling me that
+ I had good judgment and she was sure Edward was a wonderful “boy, I mean
+ man
+\begin_inset Quotes erd
+\end_inset
+
+.
+ She wanted to be visited, but thought (luckily) that we ought to have time
+ to be newlyweds first.
+ That bought me time.
+ I told her, in my artificially low and scratchy voice, that I loved her
+ and was thrilled to be married, and thanked her for her vote of confidence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The next day, Ilario showed up, wheeled in by Rosalie.
+ He looked awful -- it was impressive that he'd managed to survive as long
+ as he had, although I supposed vampire-related hopes might have helped.
+ It was one of those cancers that leave one with a couple of months to live,
+ that rare individuals sometimes managed to hold up under for longer --
+ but not well.
+ At least not in Ilario's case.
+ He had no hair, he slept most of the time, he had to be fed via tube.
+ The trip had not done him any good either.
+ He was able to confirm that he really and truly wanted to become a vampire;
+ he was able to smile weakly at Gianna -- and that was all he had in him
+ for the day.
+\end_layout
+
+\begin_layout Standard
+Carlisle didn't have any more coma drugs.
+ There hadn't been enough warning about Ilario to get them, and the little
+ hospital he worked at didn't keep them on hand.
+ But Carlisle did have plenty of morphine on hand.
+ I watched, out of curiosity, as painkillers and then two syringes full
+ of clear venom were injected.
+ Gianna was out of the room at this point -- no one wanted her to have to
+ hear her brother scream.
+\end_layout
+
+\begin_layout Standard
+Ilario didn't scream.
+ In fact, he didn't do anything.
+ He held perfectly still, though I could hear his heart beating steadily.
+ Had the morphine eliminated the pain as effectively as my coma had? If
+ so, and if it lasted longer than thirty hours, it should be the new gold
+ standard for humane turning in the future -- I'd have to ask him about
+ it later.
+\end_layout
+
+\begin_layout Standard
+Since Ilario wasn't in obvious, heart-wrenching pain, we let Gianna in to
+ hold his hand, and to tell him -- in case he could hear -- that she loved
+ him.
+ Then we had to leave to catch our plane to Canada.
+\end_layout
+
+\begin_layout Standard
+On the trip, Gianna slept most of the way, and Edward taught me French.
+ It was faster learning with a conversation partner than out of a book,
+ and while I still wasn't fluent in 
+\emph on
+any
+\emph default
+ of the languages I'd started learning, I had smatterings of a whole bunch
+ of them.
+ I'd be able to find my way around in Québec.
+\end_layout
+
+\begin_layout Standard
+But I didn't plan to spend much time there.
+\end_layout
+
+\begin_layout Standard
+We arrived.
+ The Cullens had the usual complement of cars at the house, so instead of
+ renting one, we took a taxi.
+ Once it had dropped us off, Edward popped out to the grocery store to get
+ some food for Gianna and I started pulling white cloths off of furniture.
+ There were no beds in the house, but I found a sofa that looked like it
+ might be reasonably comfortable for her, and I picked it up and moved it
+ into the bedroom that looked like it normally belonged to Rosalie and Emmett.
+ While she settled in, drowsy from the travel, I went out of her earshot
+ to make a call.
+\end_layout
+
+\begin_layout Standard
+The phone rang once, twice, three times.
+\end_layout
+
+\begin_layout Standard
+And then Billy Black picked up the phone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Billy, this is Bella,” I said, not bothering to disguise my voice.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Bella?
+\emph default
+” he asked.
+ “Are you...
+ what are you?”
+\end_layout
+
+\begin_layout Standard
+“A vampire.
+ The treaty, though, says `bite', not `turn', so I hope this isn't going
+ to cause any friction in the friendship between my family and yours.” This
+ was wryly said -- “friendship” had never been the exact word.
+ The wolves of seven decades ago had considered vampires their natural enemies,
+ and the Cullens were barely suffered to live.
+\end_layout
+
+\begin_layout Standard
+“Why are you calling me?” Billy demanded.
+\end_layout
+
+\begin_layout Standard
+“Is anyone listening to this conversation on your end?” I inquired.
+\end_layout
+
+\begin_layout Standard
+“No, Jacob is out with his friends...”
+\end_layout
+
+\begin_layout Standard
+“Okay.
+ Now, as you probably know, my family aren't the only vampires in the world...”
+\end_layout
+
+\begin_layout Standard
+I explained, as succicintly and comprehensibly as I could, the danger that
+ Aro posed.
+ Billy listened in silence until I came to my conclusion: “Assume for the
+ sake of caution that he's got the more dangerous of the two forms of mindreadin
+g.
+ Right now, if it occurs to him that you exist, he'll realize through Edward's
+ memories that you're all inactive -- vulnerable.
+ 
+\emph on
+One
+\emph default
+ vampire could get the drop on you and murder everyone in La Push without
+ anyone having time to activate; a handful more could track down absent
+ tribe members like Rachel and Rebecca and mop them up too.
+ The Volturi have over a dozen at their beck and call.
+ They would not consider it a big hassle to make you 
+\emph on
+extinct
+\emph default
+, and they'd want to do it, because if you ever wake up again, you'll be
+ a threat to them.”
+\end_layout
+
+\begin_layout Standard
+“And what do you want to do about that?” Billy asked guardedly.
+\end_layout
+
+\begin_layout Standard
+I said, “I want to wake you up.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward didn't take very long at the grocery store, and while I was in the
+ middle of coaxing Billy into giving me more information about Quileute
+ wolf legends as he knew them, I had to cut off so he wouldn't hear anything.
+ Edward brought the grocery bags in to Gianna, who began to put their contents
+ away according to an organizational system that suited her; then he came
+ outside again.
+\end_layout
+
+\begin_layout Standard
+He walked up behind me, wrapped his arms around me, and kissed the back
+ of my neck.
+ He was holding two sheets of paper.
+ “I don't know what you're up to,” he told me in a low voice, “or what you're
+ going to need, and I know it's best that I don't know.
+ And if you had to ask for contacts or resources later, I'd have details,
+ however vague -- so I made you a list of everything I could think of.” He
+ handed me the list.
+ He had very small handwriting, and had filled five marginless columns on
+ both sides of each sheet with names, addresses, and phone numbers -- each
+ accompanied by notes on who their usual contact person was and what they
+ did.
+ He'd also bought me an atlas of Quebec, which would see me a fair part
+ of the distance until I got where I needed to be.
+\end_layout
+
+\begin_layout Standard
+I scanned both items quickly, memorizing everything on them without regard
+ for whether I expected any given entry to be useful later.
+ The atlas first, and then I handed it back to him; then the handwritten
+ note.
+ It was quite a list: private investigators, black marketeers, sources for
+ forgeries, computer hackers, officials of various stripes in the Cullens'
+ pockets by bribery or intimidation who could cut through assorted red tape
+ and help cover up slips.
+ They operated from dozens of cities, scattered around the world but mostly
+ concentrated in the northern half of the United States.
+ Once I'd seen it all, I shredded it, tearing it up into confetti even a
+ patient vampire couldn't reconstruct.
+ I let it scatter in the wind and then turned in Edward's arms to kiss him.
+ “Thank you,” I murmured.
+\end_layout
+
+\begin_layout Standard
+“I hope it helps.
+ I hope you know what you're doing,” he added wryly.
+\end_layout
+
+\begin_layout Standard
+“Not really,” I said.
+ “But I know enough to think it's the best thing I 
+\emph on
+can
+\emph default
+ do.”
+\end_layout
+
+\begin_layout Standard
+He didn't love the answer, but didn't press.
+\end_layout
+
+\begin_layout Standard
+“I need to go,” I said apologetically.
+ “I'll be back -- uh -- later.
+ You have my number.”
+\end_layout
+
+\begin_layout Standard
+Edward handed me the keys to the car he'd taken shopping.
+ I kissed him goodbye and got behind the wheel.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I headed southwest and called Billy, confident that my brain wasn't going
+ to be overtaxed by driving and talking on the phone at the same time.
+\end_layout
+
+\begin_layout Standard
+“Sorry about that,” I said when he picked up the phone.
+ “For security reasons,” (I felt ridiculous saying that) “I need to keep
+ everything out of my husband's earshot.
+ You were in the middle of telling me why I 
+\emph on
+shouldn't
+\emph default
+ pick up Rachel from Spokane on my way to activate werewolves, even though
+ anyone who got into your house and looked at your stuff could tell that
+ she's your daughter and therefore carries the gene and would be part of
+ a complete extermination project, and even though she's smack dab between
+ me and La Push unlike her Hawaii-dwelling twin.”
+\end_layout
+
+\begin_layout Standard
+Billy didn't answer me for a while, although I could hear him breathing.
+ Finally, he said, “Because the women never became wolves.”
+\end_layout
+
+\begin_layout Standard
+“Why's that?”
+\end_layout
+
+\begin_layout Standard
+“They simply didn't have the magic,” said Billy, which meant 
+\emph on
+I have no idea
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“Okay, let's think,” I said, which meant 
+\emph on
+I'm going to think aloud so you understand where my conclusions came from
+\emph default
+.
+ “We 
+\emph on
+do
+\emph default
+ know that wolves are activated when they're young or not at all, right?
+ How young?”
+\end_layout
+
+\begin_layout Standard
+“Under twenty-five,” he said, “as far as I know.”
+\end_layout
+
+\begin_layout Standard
+“And in those days, did Quileute girls under twenty-five years of age tend
+ to wander around in places that might contain vampires to activate them?”
+ I asked.
+ “Either before or after the tribe had a pack of protectors capable of keeping
+ such vampires far away from villages?” He didn't answer, which I took to
+ be a no.
+ “Is it possible,” I continued, “that they just never had the opportunity
+ to activate?”
+\end_layout
+
+\begin_layout Standard
+“Perhaps,” grumbled Billy.
+\end_layout
+
+\begin_layout Standard
+“So it would seem that it at least 
+\emph on
+bears testing
+\emph default
+,” I said, “for me to pick up Rachel.
+ If nothing else, a Volturi committee sent to destroy your people isn't
+ going to care if your stories say she can't activate.
+ They'll guess that she carries the gene anyway and could pass it on to
+ a son, or that the stories are wrong, or that she might think it's a little
+ funny that her entire family is dead and investigate a little too closely.
+ Just because she doesn't come home when you ask her to visit doesn't mean
+ she won't talk to me -- and I can prove most of what I have to say, and
+ get her where she has to go.”
+\end_layout
+
+\begin_layout Standard
+I was uncomfortably aware of how patronizing I was being, but this was Billy's
+ 
+\emph on
+daughter
+\emph default
+ I was trying to save, and he was being astoundingly uncooperative.
+ I went on: “The Volturi 
+\emph on
+do not care about human life
+\emph default
+.
+ They kill people -- vampires, humans, European werewolves -- 
+\emph on
+all the time
+\emph default
+.
+ On a daily basis for food.
+ When they are annoyed or feel flouted or need to put on a show.
+ It would not come as 
+\emph on
+anything resembling a surprise
+\emph default
+ if I learned that at least some of them do it for no reason other than
+ personal entertainment.
+ Whether she can turn into a wolf or not, Rachel isn't 
+\emph on
+safe
+\emph default
+ from them.
+ They won't 
+\emph on
+ignore
+\emph default
+ her if they find out you exist.
+ She'll be as safe as I can make her if she activates, and the next best
+ thing if she's at least among a bunch of people who I 
+\emph on
+can
+\emph default
+ activate.
+ 
+\emph on
+Tell me where to find her, Billy.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+He mumbled an address and a phone number.
+\end_layout
+
+\begin_layout Standard
+“Thank you, Billy.
+ I'll see you in about a day and a half.” I flipped my phone closed.
+\end_layout
+
+\end_body
+\end_document

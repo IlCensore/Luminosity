@@ -1,0 +1,1884 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{12}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Warnock Pro
+\font_sans Twilight
+\font_typewriter Source Code Pro
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Newborn
+\end_layout
+
+\begin_layout Standard
+The pain was 
+\emph on
+nonsensical
+\emph default
+.
+ For the first moment of consciousness, my brain examined the sensation
+ and rejected it as obviously preposterous: it was not the sort of thing
+ that happened.
+ There could not 
+\emph on
+be
+\emph default
+ that much agony all in one instant.
+ My nerves were obviously sending defective reports which could be safely
+ ignored.
+\end_layout
+
+\begin_layout Standard
+But the fire was more persistent than that, and apart from the first split
+ second, I was very aware of what was happening.
+\end_layout
+
+\begin_layout Standard
+It was everywhere -- there was no refuge, no cool place to focus my attention
+ and escape.
+ My eyes were cooking in their own fluids, my blood was boiling in my veins,
+ my skin was baking and browning and turning to ash, my bones were dissolving
+ in acid, my lungs were turning every shallow breath I compulsively swallowed
+ into superheated plasma, my organs were twisting and roiling in a bath
+ of magma.
+\end_layout
+
+\begin_layout Standard
+I tried to jerk my body away.
+ It was purely a reflex action -- there 
+\emph on
+was
+\emph default
+ no 
+\begin_inset Quotes eld
+\end_inset
+
+away
+\begin_inset Quotes erd
+\end_inset
+
+ -- but I was in no condition to fight the impulse.
+ Dimly, I recognized that I hadn't moved.
+ My muscles worked.
+ Even in their screaming, melting contribution to my anguish, they would
+ tense and release when commanded.
+ I could twitch my fingers, but not flail myself across the room in a vain
+ attempt to escape the burn.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Edward
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+He was holding me, as he'd promised -- keeping me still.
+ He'd been right after all -- the coolness might as well have not been there.
+ There were no bands of reduced scorching where his arms wrapped around
+ my body.
+ But I knew he was with me.
+\end_layout
+
+\begin_layout Standard
+The pain didn't diminish at all.
+ It would have more than consumed the brainpower I'd had available -- before.
+ But the change was well underway, and there was more room in my head...
+\end_layout
+
+\begin_layout Standard
+There was just a little corner of space left, somewhere in the back of my
+ mind, that I could use to think.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Time
+\emph default
+,” I demanded, biting out one syllable before clamping my jaw shut again,
+ and hoping he knew what it meant.
+\end_layout
+
+\begin_layout Standard
+“You slept through the first thirty hours and fifteen minutes,” he whispered
+ in my ear at once.
+ I focused every bit of attention I could on his voice.
+ I wasn't sure if I was hallucinating or not when I thought I could hear
+ more nuance to it -- were my ears already improved? They were part of the
+ conflagration with everything else.
+ Ear-shaped furnaces on either side of my head.
+ They could pick up sound anyway -- and his voice was tense, miserable,
+ but committed.
+ He hated that I was in pain.
+ That I was awake to hear what he said.
+ But he 
+\emph on
+would
+\emph default
+ stay.
+ “It's a quarter after four in the morning.
+ Thursday.
+ It should all be over at ten p.m.
+ tomorrow if you're on time -- you might be faster with all the venom in
+ your system.” He spoke through gritted teeth.
+\end_layout
+
+\begin_layout Standard
+Tomorrow.
+ Over tomorrow.
+\end_layout
+
+\begin_layout Standard
+But not yet.
+\end_layout
+
+\begin_layout Standard
+I burned.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It took almost a full hour after my awakening before I truly wanted to die.
+\end_layout
+
+\begin_layout Standard
+This desire was almost as alien as the pain had been.
+ (Now the pain was familiar, which meant only that I could individually
+ dread each of the thousands of minutes that remained of my torment.) I had
+ never previously wanted death, my flippant remarks to Edward about what
+ he'd do if I begged to die notwithstanding.
+\end_layout
+
+\begin_layout Standard
+But nothing was worth this.
+ I couldn't do anything in a millennium that would be worth another hour,
+ even if it would then end.
+ I couldn't do anything with the rest of eternity that would be worth the
+ dozens that actually remained.
+\end_layout
+
+\begin_layout Standard
+At five o'clock in the morning on Thursday, I hoped with every fiber of
+ my wracked and broiling being that he had lied when he'd said he wouldn't
+ kill me, even if I begged.
+\end_layout
+
+\begin_layout Standard
+I begged.
+\end_layout
+
+\begin_layout Standard
+Choking on the words, hating the air that I formed into pleas, I asked to
+ be killed.
+\end_layout
+
+\begin_layout Standard
+“No,” said Edward, sounding like he was in as much pain as I.
+ Impossible.
+ “Bella, no.
+ It will be over soon.
+ Tomorrow.”
+\end_layout
+
+\begin_layout Standard
+I hissed.
+ Somewhere along the line I'd acquired vampire sounds, or at least that
+ one.
+ “
+\emph on
+Please
+\emph default
+,” I screamed.
+\end_layout
+
+\begin_layout Standard
+“No.” I thought I heard him moving; maybe he was hugging me tighter.
+ I couldn't tell.
+ Everything was fire and agony; nothing as trivial as Edward holding me
+ was worth sending a message through my fried and shattered nerves.
+ I didn't want him to hug me unless he was doing it to crush me to bits,
+ to end it, to make it 
+\emph on
+stop
+\emph default
+...
+\end_layout
+
+\begin_layout Standard
+I emitted a wordless wail.
+\end_layout
+
+\begin_layout Standard
+Time passed.
+ I begged for death, intermittently, but Edward always refused.
+ Sometimes his denials were weaker or tireder than others, less resolved,
+ and then I thrashed and cried and sobbed.
+ Maybe if I hurt him enough with my pain he'd want me to stop, want to let
+ me have the only thing I could remember ever wanting.
+\end_layout
+
+\begin_layout Standard
+There was no such mercy.
+ He didn't wrench my head free of my shoulders, didn't plunge his hand past
+ my ribs to remove my inflamed, still-beating heart.
+ He wouldn't kill me.
+\end_layout
+
+\begin_layout Standard
+After a few fruitless tries to convince Edward to salve my pain, I started
+ calling for others.
+ Alice, Carlisle, Esme, Jasper, Emmett, Rosalie.
+ I could hear footsteps when they came.
+ I heard each of them say no.
+ Alice added a reassuring description of myself in the future, whole and
+ strong and a vampire.
+ “You're going to be beautiful,” she promised before she left.
+ Edward sighed in relief, when she said it.
+ Some pretty vision.
+ Not pretty enough to be worth this.
+\end_layout
+
+\begin_layout Standard
+But when I called Rosalie, she hesitated for just a moment after I asked.
+\end_layout
+
+\begin_layout Standard
+Edward 
+\emph on
+roared
+\emph default
+.
+ Had he been that terrifying when he'd snarled at James? It might simply
+ have been my hearing, more powerful with each passing minute of conflagration,
+ picking up some layer to the sound I'd missed before.
+ But I knew what it meant.
+ 
+\emph on
+She'd thought about it.
+
+\emph default
+ She'd considered killing me.
+ Emmett's blessed angel, truly, perhaps to deliver me
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Rose!
+\emph default
+” I screeched, seized with hope, convulsing in Edward's grip.
+ “Rose Rose Rose Rose Rose Rose Rose
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+\noun on
+No
+\noun default
+!
+\emph default
+” howled Edward.
+ “Rosalie, get out of this room.
+ I'll tear you to pieces if I hear that thought ever again, I'll do it --
+ 
+\emph on
+go
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Roooooooooose
+\emph default
+,” I moaned.
+ But her swift steps were receding.
+ I thought I might have heard her leap out of a window.
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Edward.
+ He was speaking very fast -- I could keep up now, though it took most of
+ my spare mental capacity.
+ “Bella, please don't ask any more.
+ I'm begging you.
+ I can't stand it.
+ I'll do anything you want but let you die.
+ 
+\emph on
+I can't do it.
+
+\emph default
+ Anything else.”
+\end_layout
+
+\begin_layout Standard
+“Can,” I fought to utter several different syllables in a row, bereft of
+ the chance Rosalie had almost offered, “can, you, break, my, spine.”
+\end_layout
+
+\begin_layout Standard
+“What?”
+\end_layout
+
+\begin_layout Standard
+“It...
+ will heal.
+ But I'll -- feel -- less -- till -- then,” I gasped, and then helplessly
+ I screamed again.
+ “Maybe,” I panted.
+\end_layout
+
+\begin_layout Standard
+There was a still silence for a quarter of a second.
+ (Durations of that length were becoming acutely important to me, and agonizingl
+y distinct.)
+\end_layout
+
+\begin_layout Standard
+Then there was a tiny sharp pinch at the base of my neck, and everything
+ from my shoulders down went limp and blissfully numb.
+\end_layout
+
+\begin_layout Standard
+I breathed, still, and I could hear my own heartbeat, but there was no sensory
+ information from anything below the break.
+ Edward's medical knowledge to the rescue -- he'd known just what to sever.
+ My neck and head burned still, unimproved, but the loss of torso and limbs
+ was such a dramatic relief that I felt as though I'd been plunged into
+ a tub of ice water.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Oh
+\emph default
+,” I sighed.
+\end_layout
+
+\begin_layout Standard
+“It won't last the rest of the transformation,” Edward warned.
+ “And I can't do it again.
+ Once it heals, it has to stay that way, or you might not come through properly.”
+\end_layout
+
+\begin_layout Standard
+“How long?” I asked softly.
+\end_layout
+
+\begin_layout Standard
+“I don't know.
+ Maybe a few hours.”
+\end_layout
+
+\begin_layout Standard
+A few hours.
+ A few hours in which only my throat and face and scalp and skull would
+ be razed by the venom.
+ But it was something.
+\end_layout
+
+\begin_layout Standard
+I wished I could sleep.
+ But I would never sleep again.
+\end_layout
+
+\begin_layout Standard
+I was nearly lucid until my spine healed.
+ I was able to open my roasting eyes and look at Edward's face, drawn and
+ haggard with concern but still beautiful.
+ I could emit complete sentences with only a few extra pauses for difficult,
+ unrelieving breaths.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” I huffed, “for asking.”
+\end_layout
+
+\begin_layout Standard
+He bent to kiss my blazing forehead.
+ “I forgive you.” He didn't repeat the plea that I not do it again, after
+ the lower part of my body was back.
+ Maybe he knew I wouldn't be able to resist.
+\end_layout
+
+\begin_layout Standard
+“I love you,” I said.
+\end_layout
+
+\begin_layout Standard
+“I love you,” he told me, looking intensely sorrowful.
+ No “too
+\begin_inset Quotes erd
+\end_inset
+
+.
+ He'd never appended the word.
+ Once I'd asked him why -- I tried to conjure up the answer -- it was too
+ difficult.
+ No memories were still clear through the haze of pain.
+ I doubted I could remember my parents' names.
+ I'd written everything down...
+\end_layout
+
+\begin_layout Standard
+Two hours, thirty-four minutes, and sixteen seconds after the break, my
+ spine welded itself back together and I was plunged back into the unrelieved
+ full-body agony.
+\end_layout
+
+\begin_layout Standard
+Once again, I screamed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I could feel my mind becoming more capacious.
+ It was like a fractal pattern, slowly sprouting new nodes.
+ I came to have an ever more nuanced appreciation for each individual lash
+ of fire that flayed my body, and every moment of the experience was indelibly
+ recorded in my crystallizing perfect record of my vampire life.
+ But the little space in the back of my head, which wasn't focused on the
+ pain, also grew.
+\end_layout
+
+\begin_layout Standard
+Edward talked to me.
+ I clung to his voice like a lifeline.
+ I could still barely feel his arms around me, or the occasional kisses
+ he touched to my skin, and I kept my eyes clenched firmly shut, but I could
+ hear him, better with each elapsing hour.
+ He gave me tips on controlling my thirst once it came.
+ He read off Alice's weather forecast for the next month.
+ He recited books.
+ He promised me, over and over, that I had been right, that I would love
+ being a vampire, that Alice saw it, that her vision was solid as rock,
+ that everything would be fine and that he loved me and that it would be
+ over soon.
+\end_layout
+
+\begin_layout Standard
+I tried to believe him.
+ Tried to believe that there was some way that, on the other side of the
+ pain, there was something worth it all.
+ Tried to believe that, after I came out of the kiln, I'd have been fired
+ and glazed to such a sheen...
+\end_layout
+
+\begin_layout Standard
+At eight in the evening on Friday, I felt my toes and fingertips cool ever
+ so faintly.
+ The fire receded languidly, taking its time.
+ But as it pulled back from my extremities, it collected in my heart and
+ my neck.
+ The centers of my pain folded in on themselves until they were worse than
+ ever, and even my newly cool extremities didn't quite compensate.
+ My heartbeat fluttered faster.
+ My throat ached.
+ “It's almost over, Bella,” Edward whispered.
+ “Almost over.”
+\end_layout
+
+\begin_layout Standard
+I hadn't even finished changing, and I was already thirsty.
+ Before I might have been boiling -- now I was clearly devoid of liquid.
+ My parched throat demanded relief.
+ I knew what Edward had meant when he'd speculated that 
+\emph on
+some
+\emph default
+ vampire must have tried drinking water.
+ Anyone who came out of the transformation alone, confused, far from sweet-smell
+ing humans, would find it the logical thing to try.
+\end_layout
+
+\begin_layout Standard
+The flames continued to pull inward, up my limbs, millimeter by millimeter.
+ My throat didn't get any worse or better after the initial dry burst, but
+ my heart did, as more and more of the agony drew towards it.
+ Every beat came sooner after the previous one.
+ It was vibrating like a hummingbird's wings.
+\end_layout
+
+\begin_layout Standard
+The intake of pain sped up as my pulse did.
+ It was as though the doomed organ was trying to escape, to beat its way
+ out of my ribcage, to drill a hole through something and thrum away from
+ me.
+ My limbs were entirely comfortable, but I couldn't pay them any attention
+ as the heat raced towards my frenetically pounding heart.
+ It contracted and constricted, assaulting my last living organ as it thudded
+ in panic.
+\end_layout
+
+\begin_layout Standard
+By this time I was thrashing, unable to avoid the reflexive attempt to escape
+ the pain in my chest.
+ I keened an awful, shrill noise.
+ Edward held me, and I couldn't get far.
+ But then my heart skipped one beat, and spasmed one final time and released
+ forever -- and the pain was gone -- and my pointless lunge in a random
+ direction actually broke Edward's grip.
+\end_layout
+
+\begin_layout Standard
+My limbs automatically arranged themselves beneath me as momentum carried
+ me.
+ I crouched low to the floor, fingertips splayed out to touch the wood.
+ My balance was absolute and certain.
+ My muscles were unprotesting: they would hold me in this pose for a hundred
+ years if I cared to remain still.
+ I noticed that I wasn't breathing, and pulled in a lungful of air.
+ It smelled mostly of Edward, a scent I recognized instantly, although just
+ as promptly I discarded all my earlier analogies to flowers -- I knew no
+ flower would smell like that to my newly precise nose.
+ It didn't relieve a lack of oxygen, because I didn't need any such thing,
+ but it conveyed information, and my breaths settled into a natural rhythm
+ to tell me what was in the air around me.
+\end_layout
+
+\begin_layout Standard
+“Bella?” murmured Edward, his voice tentative but filled with awe.
+\end_layout
+
+\begin_layout Standard
+I opened my eyes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I was facing the wall.
+ But it took me a moment to realize that it was a wall I was looking at,
+ because I was captivated instantly by the beauty of the sight.
+ My eyes drank in every detail of the woodgrain with perfect clarity.
+ I could see each splinter, detect every subtle change in the color of the
+ wood, see each divot and patch of wear and uneven stain.
+ It was intensely lovely, and I stared.
+\end_layout
+
+\begin_layout Standard
+“Bella?” Edward said again.
+\end_layout
+
+\begin_layout Standard
+As soon as I decided to get up and face him, I was on my feet, looking his
+ way.
+ My body responded to my commands with delicious obedience.
+ It swiftly composed itself as I wished it composed.
+ It didn't pitch me in a wrong direction, or let any part dawdle, or catch
+ on invisible obstacles, or protest at any motion.
+ I noticed as I whirled around that the turn didn't blur my vision at all:
+ the boards in the wall spun past without losing any definition, even when
+ they passed into peripheral vision.
+ My change of posture was so fast that I'd had only a tiny fraction of a
+ second to notice this advantage, but I was more than quick enough to pick
+ up on it anyway.
+\end_layout
+
+\begin_layout Standard
+Edward was spectacular.
+\end_layout
+
+\begin_layout Standard
+I had been staring at the 
+\emph on
+wall
+\emph default
+, thinking it pretty; I'd spent months as a human, looking at Edward, finding
+ him appealing.
+ Insanity.
+ I'd seen only his shadow.
+ With 
+\emph on
+these
+\emph default
+ eyes, he was like some kind of deity, radiant and sculpted.
+ Like nothing I'd ever seen before.
+ I enjoyed a moment's skepticism that even Rosalie, even seen with this
+ new and astonishing sight, would be the aesthetic equal of the vision that
+ was Edward.
+\end_layout
+
+\begin_layout Standard
+I took another deep breath, tasting the air.
+ Still mostly Edward.
+ There was an unsatisfyingly damp, but alluring, smell under that, which
+ made my throat itch and burn -- myself as a human, having left traces?
+ I tried to ignore it, and succeeded at shoving the thirst and the distracting
+ odor into a little-used back nook of my expansive mind.
+ I smelled more pleasant wafts from the direction of the door, heard more
+ breathing than just mine and his.
+ I turned my head twenty degrees to bring the others into my field of vision
+ without losing the stunning sight of Edward.
+ All of the Cullens were there, clustered together, looking at me with anticipat
+ion.
+\end_layout
+
+\begin_layout Standard
+All right, Rosalie 
+\emph on
+was
+\emph default
+ still the most beautiful person in the world, I grumbled inwardly -- and
+ then I noticed the light glinting off Alice's teeth, exposed in a self-satisfie
+d grin.
+ The light bounced into my eye in a spectrum of 
+\emph on
+eight
+\emph default
+ colors, the last dazzlingly novel.
+\end_layout
+
+\begin_layout Standard
+“No one told me,” I said in a voice like the bells Charlie liked to nickname
+ me for, “that we can see in 
+\emph on
+ultraviolet
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When I spoke, it sent the others into a flurry of conversation and excitement.
+ I could quite easily track the threads of their discussion: Carlisle wanted
+ me to tell him everything I could remember about the transformation, to
+ know how much help the coma and the broken spine had been.
+ Alice wanted to put me in nicer clothes and get me in front of a mirror.
+\end_layout
+
+\begin_layout Standard
+Edward thought I ought to hunt immediately to relieve my thirst (I wished
+ he hadn't said that; it brought what had been a minor discomfort to the
+ forefront of my mind, turning it into a consuming need, and I had to spend
+ a fair amount of effort wrestling it back to the niggling irritation it
+ had been).
+\end_layout
+
+\begin_layout Standard
+Jasper (I took a moment to be bowled over by his scars -- so clear! They'd
+ been unobtrusive, faintly raised crescents before -- now they stood out,
+ his most obvious feature, and told some instinct I'd sprouted that this
+ was a dangerous fellow, to have survived so many fights, to have killed
+ every enraged vampire who'd laid teeth on him) kept flicking his eyes in
+ my direction nervously.
+ Wondering when he'd have to intervene to calm me, perhaps.
+ Emmett was laughing, sounding fraternally proud of me.
+\end_layout
+
+\begin_layout Standard
+Rosalie had an apologetic look on her face -- maybe she felt bad about having
+ thought about killing me when I'd asked her.
+ I would have to make sure she knew that I didn't hold it against her.
+ I'd literally begged for it -- and I 
+\emph on
+normally
+\emph default
+ did prefer that people act as I requested, so if her disposition to do
+ so had gone a bit far, it wasn't the worst sort of vice.
+ Esme was just gazing at me maternally.
+ Part of her family now, for all time -- I liked the idea of her filling
+ that role, while Renée was necessarily distant.
+\end_layout
+
+\begin_layout Standard
+While I didn't have trouble processing this information as it came in, it
+ did fill up more of my mind than I wanted to have occupied with it.
+ I wanted to look at the beautiful world, to smell the exquisite scents,
+ to dance with my new docile body, to read every file on my computer, to
+ hear what music sounded like with vampire ears, to learn Norwegian, and
+ to take advantage of my being durable enough that Edward could touch me
+ without that vigilant gentleness.
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” I said, and then I smiled to myself, enjoying the timbre my
+ voice had acquired.
+ It was musical.
+ Perhaps I could sing, now -- I'd been hopeless at it before.
+\end_layout
+
+\begin_layout Standard
+Seven pairs of eyes twitched over in my direction.
+ “What is it, Bella?” Edward asked solicitously.
+\end_layout
+
+\begin_layout Standard
+“I wasn't unbearably thirsty until 
+\emph on
+you
+\emph default
+ brought it up,” I said.
+ My irritation about that flared up, and Jasper leaned forward, but I shot
+ him a look and -- I was fairly sure without help -- forced it down.
+ My thirst was clearly not behaving normally, and so Edward couldn't have
+ known what would set it off.
+ It receded, although slowly.
+ More room in my head meant more room for emotions to bloom and take over
+ suddenly, it seemed.
+ Once Jasper had stood back, I looked in Edward's direction again, smiling
+ without meaning to as I watched his flawless face pull into a chagrined
+ frown.
+ “If you think it's a good idea to hunt soon, I'll do it anyway, but I think
+ we have time to give Alice what she wants first,” I went on.
+ “I assume you have an outfit in mind?” I asked, turning to the smallest
+ of the vampires.
+\end_layout
+
+\begin_layout Standard
+Alice nodded rapidly, still wearing a broad, thrilled grin.
+ “Come on,” she urged, and she led me past everyone, out of the room and
+ up the rickety stairs.
+ Esme hadn't gotten to this part of the house yet -- or perhaps she was
+ waiting for parts.
+ We reached the room that -- to judge by the décor -- Alice had chosen for
+ herself.
+ (As in the Forks house, Jasper was presumably a co-occupant, but his personalit
+y was not evident in the layout or objects.) Alice presented me with a sapphire
+ blue silk dress; when she shook it out, I learned the lush smell of the
+ fabric and the unique sound of its rustling.
+\end_layout
+
+\begin_layout Standard
+“Alice, this is nothing like anything I'm liable to wear when I choose clothes
+ for myself,” I pointed out.
+\end_layout
+
+\begin_layout Standard
+“Please, just this once?” Alice said coaxingly.
+ “You only get to see yourself for the first time once.
+ It should be in something pretty.
+ It's just exactly your size -- it won't fit anyone else.
+ Too short for Rosalie and too long for me and too small for Esme.
+ It's all yours.
+ Please?”
+\end_layout
+
+\begin_layout Standard
+I sighed and held out my hand for the dress, when I heard someone approaching
+ up the stairs.
+ I turned my head just enough to catch the sight in my peripheral vision:
+ Jasper.
+ He looked edgy, expecting something to happen.
+\end_layout
+
+\begin_layout Standard
+“I'm about to change clothes, Jasper,” I told him, a little annoyed -- I
+ clamped down on that emotion as soon as I noticed it, to prevent it from
+ swelling and taking over the better part of my new and improved brain.
+ “I'd rather you not be present, if that's okay.” Sarcasm tinged the words.
+ I really did not prefer that he follow me.
+ I felt a snarl rising in my throat, but, with the help of the instinct
+ that made Jasper's scars scream 
+\emph on
+danger! don't challenge him!
+\emph default
+, I restrained it.
+ That would only justify his nervousness.
+\end_layout
+
+\begin_layout Standard
+He ground his teeth a little.
+ “I would feel better if you had hunted,” he muttered.
+\end_layout
+
+\begin_layout Standard
+“I would feel better if people stopped bringing that 
+\emph on
+up
+\emph default
+,” I snapped, touching a hand to my throat.
+ My skin was as cool as any vampire's now, I supposed, but I was the same
+ temperature as myself -- it felt normal to me.
+ Only in temperature, though: it was incredibly smooth, and although I knew
+ I'd have no trouble pressing my fingertips into my neck, I could tell that
+ I was tough as rock to any non-vampire assault.
+ “It makes it unpleasant.
+ It's fine when I'm thinking about other things.”
+\end_layout
+
+\begin_layout Standard
+He frowned, still staring at me.
+ I rolled my eyes, counted to ten lightning-fast in my head, and then shut
+ the door on him.
+ Alice giggled.
+ “It's okay, Jazz,” she called through the door.
+ “Bella is 
+\emph on
+just fine
+\emph default
+, I promise.”
+\end_layout
+
+\begin_layout Standard
+I changed into the dress.
+ It was fitted quite tightly, although the zipper was long enough that I
+ could get it on without ripping it.
+ I found I was very sensitive to how much tension I put on the fabric: I
+ could always stop short of damaging any fibers, even though it would be
+ nothing to my strength to tear the dress to shreds.
+ Or the house, or a fjord.
+ Interestingly, the hardness of my skin hadn't sacrificed any tactile sensitivit
+y.
+ It was improved with all my other senses.
+ I could feel each thread of silk individually gliding along my hand when
+ I picked up a fold of the skirt and let it fall.
+\end_layout
+
+\begin_layout Standard
+“The 
+\emph on
+sensations
+\emph default
+ are so amazing,” I breathed to Alice, and then I looked at the light-bulb
+ in her room, marveling at the color.
+ I picked up the pleat of my skirt again, let it brush my knuckles.
+ “The silk is wonderful.
+ Ultraviolet is beautiful...”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You're
+\emph default
+ beautiful,” gushed Alice.
+ “Come on, come on, Esme got you a mirror, it's in the room you changed
+ in.
+ Go down and have a look!”
+\end_layout
+
+\begin_layout Standard
+I opened the door and, with a pointed look at Jasper, glided down the stairs.
+ I couldn't wait to do something really cool with all my grace and speed
+ and power, but it was new enough that even descending to the first floor
+ was interesting.
+ I stepped lightly.
+ I was only a little heavier as a vampire than I'd been as a human, but
+ much more capable of distributing my weight according to the strength of
+ each step.
+ My ears and my bare toes picked up enough information to tell me which
+ places were best to place my feet.
+\end_layout
+
+\begin_layout Standard
+The house smelled strongly of wood, of some kind, but I didn't know enough
+ about woods to identify the type.
+ It might be several kinds, I decided with another breath.
+ I reached the bottom of the stairs -- I hadn't rushed; large steps or sudden
+ movements would stress the silk dress.
+ I re-entered the room I'd spent the last three days in, noting the differences
+ in the air between rooms -- the circulation was different, the smells were
+ confined in different ways, the small sounds of the house and the breathing
+ vampires echoed differently.
+\end_layout
+
+\begin_layout Standard
+“Bella,” Alice prodded, rousing me from my enjoyment of the acute sensitivity
+ to my surroundings.
+\end_layout
+
+\begin_layout Standard
+“Bah, fine,” I said, and I located the mirror and went to stand before it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh
+\emph default
+.
+ I really 
+\emph on
+was
+\emph default
+ beautiful.
+ Every bit as lovely as Esme, or Alice, although I doubted anyone would
+ confuse me with either.
+ In fact, I was almost unrecognizeable.
+ My hair was the same: brown, a bit past my shoulders, and very messy from
+ all the thrashing about I'd done.
+ I combed my fingers through it carefully while I continued to inspect myself,
+ enjoying the soft feel of the strands and the efficient dexterity I could
+ bring to bear.
+\end_layout
+
+\begin_layout Standard
+My eyes were bright crimson.
+ The color wasn't intrinsically unpleasant, but it still didn't seem like
+ a 
+\emph on
+good
+\emph default
+ color for eyes -- it meant I was full of human blood, albeit only my own.
+ “How long will my eye color stay this way?” I asked softly, addressing
+ the question to the room while I attended to my hair.
+ Alice danced up the stairs and returned with a hairbrush, which she put
+ in my hand; I switched without pausing.
+\end_layout
+
+\begin_layout Standard
+“A few months,” soothed Edward.
+ “Animal blood will change the color faster than human blood would.
+ They'll go amber, then gold -- then they'll be like ours.”
+\end_layout
+
+\begin_layout Standard
+The word “blood” made my throat flare up again, and I frowned a little.
+ I continued to examine the features reflected in the mirror.
+ I supposed I still looked a 
+\emph on
+little
+\emph default
+ like myself -- although memories of looking at my human face were hard
+ to retrieve, even though I had only a few minutes of vampire memories to
+ push them aside.
+ But I thought the top lip was still a little too full to match the lower
+ lip, as before.
+ That was something.
+ I tilted my head, turned to look at my profile.
+ Alice laughed pealingly.
+\end_layout
+
+\begin_layout Standard
+I heard Edward sigh.
+\end_layout
+
+\begin_layout Standard
+I was facing him as soon as I'd registered the sound, hairbrush frozen at
+ the nape of my neck.
+ “What?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I'd been hoping, just a little, that after your mind became more similar
+ to my own, I'd be able to read it,” he admitted.
+ “Yet here I am, mystified as ever.”
+\end_layout
+
+\begin_layout Standard
+I chuckled.
+ “I don't think that's how it works.
+ My power is supposed to get 
+\emph on
+better
+\emph default
+, not work 
+\emph on
+less
+\emph default
+.” I pursed my lips in thought.
+ “I wonder what I can do now.
+ There's so much I want to try.
+ 
+\emph on
+So
+\emph default
+ much.”
+\end_layout
+
+\begin_layout Standard
+“Such as?” Edward prompted, and I knew what he was hoping for.
+ He wanted me fed.
+ He imagined that I was swallowing a hot poker with every passing moment.
+ I laughed again, sounding like music to myself, and gave him half the answer
+ he wanted.
+\end_layout
+
+\begin_layout Standard
+“I want to go outside,” I said.
+ “Are there any humans nearby I might accidentally run into?”
+\end_layout
+
+\begin_layout Standard
+Edward listened for a moment -- I'd never have caught the pause if I hadn't
+ thought as fast as I did -- and then shook his head.
+ “The place is deserted within my range.
+ You may wish to stick close to the house, though.”
+\end_layout
+
+\begin_layout Standard
+“Let me try something,” I said, and then I pranced upstairs, returned Alice's
+ hairbrush to her vanity, picked up the clothes I'd discarded, pressed my
+ shirt to my face, and inhaled gingerly.
+\end_layout
+
+\begin_layout Standard
+The lingering scent of a human no longer human was probably the safest exposure
+ test possible.
+\end_layout
+
+\begin_layout Standard
+Thinking deliberately about the flavor of the air, inhaling it so directly
+ -- it was the least pleasant thing I'd encountered since my last heartbeat.
+ My throat erupted in flames; a fluid that wasn't at all wet (venom, I presumed)
+ coated my tongue but did nothing to soothe the thirst.
+\end_layout
+
+\begin_layout Standard
+I would have tasted 
+\emph on
+delicious
+\emph default
+.
+ I tried to imagine what I must have smelled like to 
+\emph on
+Edward
+\emph default
+, and failed.
+\end_layout
+
+\begin_layout Standard
+I was tempted to leap off the landing to get directly to the first floor
+ and plumbing, but wasn't sure how sturdy the house was; I went as quickly
+ down the steps as I dared.
+ Between vague recollections from humanity of the house's floorplan, and
+ my superior sense of smell, I located the bathroom -- it bore a faint hint
+ of the fruits and flowers and chemicals that dominated the aroma of shampoo
+ and soap.
+ I filled my hands with water and drank it.
+\end_layout
+
+\begin_layout Standard
+It was not quite absolutely tasteless, as Edward had said when he'd first
+ sipped a little.
+ I could detect minerals in it.
+ But it was close enough: it tasted like water, without having any of the
+ thirst-quenching properties it had had when I'd been human.
+ It didn't cool the heat in my throat.
+ It did rinse away the venom, though, which I liked: it felt more sensible
+ to feel thirsty when my mouth wasn't full of fluid.
+ One swallow of water got rid of the excess produced by my whiff of my shirt.
+\end_layout
+
+\begin_layout Standard
+Edward had followed me up when I'd buried my nose in my sleeve, and then
+ to the sink.
+ “What exactly are you trying?” he asked, when I'd taken a second sip of
+ water and turned off the tap.
+\end_layout
+
+\begin_layout Standard
+“Controlling myself,” I explained.
+ “Better to do it now, when there's no one edible to attack, right? The
+ water's interesting,” I said, waving at the faucet.
+ “
+\emph on
+Everything
+\emph default
+ is interesting.” I grinned at him, then launched myself towards him to fling
+ my arms around him in a hug.
+ He smelled marvelous.
+ Felt the same temperature as me -- no longer icy.
+\end_layout
+
+\begin_layout Standard
+“Um,” he said, “Bella, 
+\emph on
+ow
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+I was momentarily confused, and then I put my hands behind my back.
+ “Sorry.
+ Don't know my own strength,” I laughed.
+ I twirled around, my dress flaring out around my knees with a soft whisper.
+ “Oh, I love everything, it's amazing.
+ I love 
+\emph on
+you
+\emph default
+,” I added, and I hugged him again, more gently.
+ My turn to be careful.
+\end_layout
+
+\begin_layout Standard
+“I love you,” he murmured, sounding amused.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry I was so obviously miserable while I was turning,” I said solemnly,
+ leaning my head on his shoulder again.
+ “I'd say I didn't mean to hurt you, but, uh, at one point I was actually
+ trying to provoke you into killing me.
+ I'm sorry about that.
+ I feel 
+\emph on
+awesome
+\emph default
+ now,” I promised.
+ I didn't need to rest my head -- my neck would never tire, it could hold
+ my head and a few large rocks without any trouble for all time -- but it
+ was good to be close to him.
+ Warm (warm!) and safe and comfortable.
+\end_layout
+
+\begin_layout Standard
+He stroked my hair once, then put his hands on my face, lifted my chin,
+ and kissed me.
+ No further cause for caution.
+ I could open my mouth, he could pull me to him as tightly as he liked without
+ doing me harm
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And we were standing in the middle of the hallway.
+ Emmett snickered from the stairwell.
+ “Get a room!” he called.
+\end_layout
+
+\begin_layout Standard
+I let an annoyed puff of air out through my teeth.
+ “Do we,” I asked Edward pointedly, “have a room?”
+\end_layout
+
+\begin_layout Standard
+Edward looked uncomfortable.
+ Probably he wanted me to hunt before anything else.
+ “Esme converted an outbuilding into a cottage for us,” he said slowly.
+ “I think you'll like it.
+ It'll be more private than a room here.”
+\end_layout
+
+\begin_layout Standard
+“Great! Let's go see it.
+ I still want to go outside.
+ Maybe eat a moose,” I added, to placate Edward.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Edward led me by the hand out the door.
+ I gasped at the landscape when I saw it.
+ I could pick out each leaf -- the 
+\emph on
+veins
+\emph default
+ on each leaf -- of every tree within visual range, which was quite a lot.
+ The colors were so bright, so intense.
+ The wind carried smells towards me -- plants, soil, a touch of the ocean.
+ I didn't catch anything by scent, sound, or sight that I could identify
+ as an animal.
+ I remembered the dog that had hated James, vaguely -- vampires had lived
+ in this house for three days.
+ All the wildlife was probably long gone from the immediate vicinity.
+\end_layout
+
+\begin_layout Standard
+But the plants couldn't move a bit.
+ I dashed up to the nearest tree trunk and stroked the bark, giggling at
+ the weak roughness of it.
+ It didn't pose any threat to my skin.
+ It felt a bit like it would have been good to scratch an itch with, if
+ I'd had any itches.
+ I looked down at my dress in annoyance.
+ It wasn't a tree-climbing outfit.
+ But there would be time to race all over the three dimensions of the landscape
+ later.
+\end_layout
+
+\begin_layout Standard
+I twirled around to look at Edward again, grinning widely.
+ “Okay, which way?” I asked eagerly.
+\end_layout
+
+\begin_layout Standard
+He pointed, still with that vague discomfort, and then suddenly wore a playful
+ smile.
+ “Catch me, if you can.” He took off.
+\end_layout
+
+\begin_layout Standard
+Even to my recalibrated estimations, he was fast.
+ But I had newborn strength working for me.
+ If I just pushed off from the ground as hard as I could, perhaps I could
+ make up for the fact that I likely wasn't as quick as Edward.
+ I dug my shoeless left foot into the ground and kicked myself into the
+ air.
+\end_layout
+
+\begin_layout Standard
+My dress split up the sides all the way to mid-thigh: too snug to really
+ run in.
+ “Ugh,” I said, landing some thirty feet away and stopping there rather
+ than chasing him.
+ He wouldn't have gotten far enough away to miss the sound of the tear or
+ my annoyance.
+ And indeed, he reappeared next to me a second later.
+\end_layout
+
+\begin_layout Standard
+“I need to change if I'm going to do 
+\emph on
+anything
+\emph default
+ interesting,” I muttered.
+ “But all my clothes would still smell like me and I don't want to be distracted
+ while everything's still new.
+ Do you think I could borrow something of Esme's?” Her clothes would be
+ only a little loose on me -- perfect for active pursuits.
+\end_layout
+
+\begin_layout Standard
+“I'm sure she won't mind,” Edward said.
+ “I'll wait.”
+\end_layout
+
+\begin_layout Standard
+I went back in, found Esme by the distinctive sound of her footsteps on
+ the top floor, and picked my way up the stairs without doing further damage
+ to the dress.
+ I asked her for jeans and a t-shirt, which she provided; I ducked into
+ a bathroom to swap outfits.
+\end_layout
+
+\begin_layout Standard
+Esme's new study, where I'd found her, had a large window that could unlatch.
+ I eyed it speculatively for a moment, then opened it up and dove out.
+ With no difficulty, I righted myself in midair, landed on the balls of
+ my feet, and threw my head back and laughed.
+ I felt omnipotent.
+ To make up for my earlier constraint, I promptly shimmied up a tree.
+ From this vantage point, I spotted Edward on the other side of the house.
+ He was watching me, one of those mixed-up expressions on his face.
+ I flipped myself off the treetop, spinning around three times in midair
+ and landing on one hand.
+ Everything remained clear, not a touch of blur, as I hurtled towards the
+ ground.
+ I understood at last how vampires never hit trees or got branches in their
+ faces as they ran through closely spaced trees.
+ I pushed off the ground with my hand and landed on my feet again.
+\end_layout
+
+\begin_layout Standard
+Looking at a landscape where everything is accessible was a different experience
+ from simply taking it in visually.
+ If I liked the look of something, I could 
+\emph on
+go
+\emph default
+ to it -- no matter what was in my way.
+ If I wanted to tunnel through the dirt and down through the bedrock, I
+ could do it.
+ If I wanted to leap into the sea and swim across the Atlantic Ocean, I
+ could do it.
+ If I wanted to travel by brachiating through trees without ever touching
+ the ground, I could do it.
+ I laughed again, exhilarated.
+ Then a bar of sunlight struck my arm, and I looked at the opalescent play
+ of color, enthralled.
+ Ultraviolet glints were among the complement of hues.
+ I decided that ultraviolet was my new favorite color.
+\end_layout
+
+\begin_layout Standard
+The ground around the house wasn't well-kept, yet, and it was full of rocks
+ and sticks and thorny weeds.
+ They were meaningless unless I chose to think about them.
+ They couldn't hurt my feet.
+ I jogged easily around the house to meet Edward, and, wanting to share
+ my utter joy, hugged him again.
+\end_layout
+
+\begin_layout Standard
+“That way, right?” I asked, after I thought I'd had enough hug to last a
+ minute or two.
+ I pointed the same way he had, and then with a wink I threw myself into
+ the trees.
+\end_layout
+
+\begin_layout Standard
+Edward was much faster than me.
+ I could cover as much ground with one stride as he could with one, as long
+ as I pushed horizontally instead of wasting momentum on airtime, but he
+ could pump his legs blindingly fast and take more than three times as many
+ steps as I could.
+ He caught up with me, overtook me as though to simply prove he could, and
+ then let me catch up to him so we could run together.
+ I laughed again.
+ I couldn't help it.
+ I was going faster than I'd 
+\emph on
+ever
+\emph default
+ gone outside of an airplane or a car: Edward couldn't go top speed while
+ carrying me and wouldn't have done it while I was human anyway.
+ The scenery was full of rich color, it smelled marvelous, and I could see
+ it all with miraculous clarity even as I raced past it as fast as I could.
+ The wind pulled at my hair and whistled past my ears.
+\end_layout
+
+\begin_layout Standard
+In no time at all we'd come to a little wooden cottage nestled in the trees,
+ looking for all the world like it had been appropriated from an illustrated
+ fairy tale.
+ My hands flew to my mouth as I gasped in delight.
+ It was the most adorable building I'd ever seen.
+ Esme clearly had picked up on my taste.
+\end_layout
+
+\begin_layout Standard
+“You like it,” said Edward, sounding pleased.
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+love
+\emph default
+ it,” I exclaimed, flying forward to go inside.
+\end_layout
+
+\begin_layout Standard
+“Bella,” called Edward.
+\end_layout
+
+\begin_layout Standard
+I stopped short of the door and turned.
+ “What? I want to look at our 
+\emph on
+house!
+\emph default
+” I almost squealed.
+\end_layout
+
+\begin_layout Standard
+“Are you sure that's all you want to do?” he asked me in a patient voice,
+ and my throat blazed again.
+ I gritted my teeth.
+\end_layout
+
+\begin_layout Standard
+“It's not that bad when I'm not 
+\emph on
+thinking
+\emph default
+ about it,” I said plaintively.
+ “I was all excited about the house and now I'm thirsty again.” I put my
+ hands in my pockets and mentally poked at the sensation of thirst, trying
+ to make it fade into the background again.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” he said regretfully.
+ “But I 
+\emph on
+really
+\emph default
+ think you should eat something, soon.
+ I smell a wolf,” he coaxed, invitingly.
+ “Carnivores taste better than herbivores.”
+\end_layout
+
+\begin_layout Standard
+I closed my eyes and inhaled, trying to find the scent he'd mentioned.
+ There were a thousand to sift through, but eventually I caught something
+ from the north that I thought might be a wolf.
+ It smelled wet, and sort of unappealingly hearty.
+ It wasn't as delectable a bouquet as my old clothes had.
+ Not remotely.
+ If humans smelled like succulent, perfectly ripe fruit, the wolf was like
+ unseasoned and undercooked barley that had gone slightly off -- but still
+ food.
+ What would herbivores smell like, to be less pleasant than that? Something
+ with mold on it? I sighed heavily, perked up my ears to aid my location
+ of the animal, and took off into the trees.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hunting the wolf was messy.
+ I chased it a few miles up, loping after it slower than I had to be, too
+ full of nerves to spring.
+ Eventually I did attack, and immediately I regretted borrowing clothes:
+ they'd never be fit to wear again.
+ For all that the beast's claws and teeth did nothing but make an unpleasant
+ noise against my marble surface, they were still quite capable of shredding
+ ordinary denim and cotton.
+ I was veering close to indecent by the time I'd gotten enough blood out
+ of the wolf -- some down my throat, some onto Esme's outfit -- that it
+ stopped struggling.
+\end_layout
+
+\begin_layout Standard
+The wolf's blood was unappetizing.
+ I thought back to the square of chocolate I'd had before turning: I knew
+ I'd liked chocolate, but even the memory of it held no appeal anymore.
+ Even tangy, unpleasantly musky wolf blood was better than anything humans
+ made a habit of eating, now.
+ And it 
+\emph on
+did
+\emph default
+ soothe the thirst, even when I was thinking about it.
+ It didn't completely eliminate it -- it would never go away entirely --
+ but it was easier to push it into the unobtrusive corner of my mind, and
+ less raw and insistent when it crept out and bothered me.
+\end_layout
+
+\begin_layout Standard
+“Happy?” I asked Edward, raising one eyebrow and turning to my supervising
+ boyfriend.
+ “Delicious wolf, om nom nom -- can I go look at our house?”
+\end_layout
+
+\begin_layout Standard
+Edward's eyes lingered a little on the tears in the clothes.
+ I smirked and posed for him; he blinked rapidly and looked me in the eye.
+ Just a little disappointing.
+ I was all sturdy and indestructible now; there was no particular reason
+ he had to fight the temptation presented by my newfound gorgeousness.
+\end_layout
+
+\begin_layout Standard
+“Are you sure you don't want something else? A moose? There are moose,”
+ he prodded.
+\end_layout
+
+\begin_layout Standard
+“Why do you want me to eat so much so soon?” I asked.
+ “Yeah, I'm thirsty, but I'm going to stay that way for all eternity and
+ might as well get used to it, right? The entrée took the edge off.
+ I can check out the salad bar and the dessert cart tomorrow.
+ Besides,” I added suggestively, “we have a 
+\emph on
+room
+\emph default
+ to which I believe we were told to 
+\emph on
+get
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Edward pursed his lips together.
+ There was a silence; I waited expectantly for his answer.
+ “You're not acting at all like a newborn,” he murmured.
+\end_layout
+
+\begin_layout Standard
+“We knew I'd be extra-special,” I pointed out.
+ “Alice is pretty good at noticing that kind of thing.
+ I'd be filling up more enthusiastically if there were anyone around I might
+ hurt, but you said there wasn't.
+ I mean, let me know if someone wanders by, but it's still my first hour
+ of being a vampire! There's so much to do!” I waved my hands at the forest
+ around us.
+ “Everything is 
+\emph on
+beautiful!
+\emph default
+ I can do anything I want and not fall on my face! I can hear for miles
+ around!”
+\end_layout
+
+\begin_layout Standard
+“It's not just that you aren't as thirsty as you should be, or rather that
+ you don't want to eat as much as you should,” Edward said, choosing his
+ words carefully.
+ How often had he picked through his vocabulary like this without my having
+ noticed, the hesitations too brief to register to human ears? “It's that
+ you're too...
+ rational.
+ Even things other than thirst usually can overwhelm newborns.
+ Mood swings are -- 
+\emph on
+almost
+\emph default
+ universal.”
+\end_layout
+
+\begin_layout Standard
+“Oh, I have been kind of moody,” I said.
+\end_layout
+
+\begin_layout Standard
+He stared at me incredulously.
+ “No, you really haven't.
+ You should have heard what Jasper was thinking.
+ He has more experience with newborns than any of us -- he knows how you're
+ supposed to work.
+ But you've been reining in errant emotions with the self-possession of
+ a vampire decades old, not minutes.”
+\end_layout
+
+\begin_layout Standard
+“I mean compared to how I was when I was human,” I clarified.
+ “I don't have any newborns handy to measure myself against.
+ It's like there's a lot more room for emotions to expand, and if I let
+ them get too big, they're hard to put back where they belong -- I mostly
+ managed at first because I 
+\emph on
+really
+\emph default
+ don't want Jasper to mess with my head.
+ But if I just don't let them get bigger than they could have when I was
+ human, then they're much 
+\emph on
+easier
+\emph default
+ to deal with, because I have more resources to use to handle them.
+ Also, there's so much to distract me,” I exulted, making another expansive
+ gesture.
+ “If I fill up all the space in my head with happiness and beauty that's
+ hardly dangerous, is it?”
+\end_layout
+
+\begin_layout Standard
+Edward listened to this speech with some amount of astonishment.
+ “I can read minds, and it took me years to get that kind of clarity about
+ how the vampire psyche works,” he murmured.
+\end_layout
+
+\begin_layout Standard
+“I can read 
+\emph on
+my
+\emph default
+ mind, even if you can't,” I said, self-satisfied.
+ “I know what I want.
+ Right now, moose is 
+\emph on
+not
+\emph default
+ at the top of the list.
+ I promise you'll be the second person to know if it makes it up there.”
+\end_layout
+
+\begin_layout Standard
+“What 
+\emph on
+is
+\emph default
+ at the top of your list?” he asked, spreading his hands in a defeated sort
+ of gesture.
+\end_layout
+
+\begin_layout Standard
+“You,” I sang, and a flash of discomfort crossed his face again.
+ I was confused.
+ I had just drained a wolf.
+ Evidently my earlier conjecture had been wrong or incomplete.
+ “What's wrong?” I asked.
+ “I'm remodeled and reinforced for our mutual convenience.
+ I love you.
+ You love me.
+ We have,” I added, “a house.
+ And I 
+\emph on
+saw
+\emph default
+ you peeking,” I teased, waving at the rips in Esme's poor destroyed shirt.
+ I probably couldn't have walked out in public without getting arrested,
+ sunshine notwithstanding.
+\end_layout
+
+\begin_layout Standard
+Edward mumbled something.
+ I actually couldn't make out the words -- apparently vampires could mangle
+ language so thoroughly that even other vampires couldn't decipher it.
+\end_layout
+
+\begin_layout Standard
+I propelled myself to his side in a flying leap and wrapped my arms around
+ his neck, pressing in close.
+ “I didn't catch that,” I purred, finding that I could actually 
+\emph on
+purr
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“We aren't 
+\emph on
+married
+\emph default
+,” he muttered, just barely clear enough for me to comprehend.
+\end_layout
+
+\end_body
+\end_document
