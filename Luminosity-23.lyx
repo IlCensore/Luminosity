@@ -1,0 +1,1826 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{21}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Sue
+\end_layout
+
+\begin_layout Standard
+Gianna teaching Maggie Italian 
+\shape italic
+was
+\shape default
+ very cute.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do I say, `I love you’, in Italian?
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie asked Gianna, trying to sound innocent.
+ Gianna was sitting on a sofa with her feet tucked under herself, using
+ one of my textbooks to give structure to the lesson.
+ Maggie was lounging on the floor in front of the couch, gazing up adoringly
+ at an increasingly pink-cheeked Gianna.
+ 
+\end_layout
+
+\begin_layout Standard
+Ilario, standing relatively unobtrusive guard in the corner of the room,
+ furrowed his brow uncomfortably while Gianna stammered through the sentence.
+ Maggie ignored him.
+ She just grinned at Gianna and repeated the words.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie was trying to get Gianna to say “you're beautiful” in Italian when
+ I heard Carlisle’s phone ringing in his office, and him answering it.
+ Tanya's voice was on the other end.
+ “Carlisle,” she said, “Harry's gone.” 
+\end_layout
+
+\begin_layout Standard
+I was up the stairs in a flash to listen to this conversation.
+ “Gone?” asked Carlisle.
+ “How did that happen?” 
+\end_layout
+
+\begin_layout Standard
+“We've been trusting him to hunt on his own, ever since he ran into some
+ human’s trail while he was hunting with Eleazar and managed to hold his
+ breath and run,” she said.
+ “He's been going on his own most of the time.
+ But he's been gone for almost three days now and isn't answering his phone.
+ We don't know what the matter is -- if he's hurt someone and is ashamed
+ to come home, or if he just decided to leave, or -- what.
+ Can Alice see?” Tanya asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'll ask her,” Carlisle said, and he brushed past me in the hall to find
+ Alice.
+ She was located in short order, with me following, and he summarized the
+ situation for her.
+ 
+\end_layout
+
+\begin_layout Standard
+“I can see him...
+ but not far,” murmured Alice.
+ “He's...
+ I guess he hasn't decided something very significant about what he's going
+ to do when he gets into Washington again.
+ He's going south, though.” 
+\end_layout
+
+\begin_layout Standard
+I went to the room with the computers and e-mailed Rachel.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+Rachel took an hour to answer my e-mail.
+ “If you're right about what blanks out your sister's vision, then we have
+ to expect that he's coming here,” she agreed in her reply.
+ “I've warned Sue, and the pack.
+ I'm not sure how well he'll do with not attacking us, even if he's been
+ okay with humans, but we're sticking to groups of four and five for the
+ time being and think we can probably pin him if he's hostile.
+ Please come out here as soon as you can to help keep things under control,
+ though.
+ We have to sleep and if we wind up pinning him we run a risk every time
+ we need to change guards.” 
+\end_layout
+
+\begin_layout Standard
+I wrote back, asking if Sue had appeared to know anything about his approach;
+ the answer was quick: “I couldn't tell, but it's possible.
+ She refused to be accompanied by wolves as a precautionary measure and
+ wants to go about her business normally.” 
+\end_layout
+
+\begin_layout Standard
+I sent her another message: “I'm going to buy tickets and I'll get there
+ by tomorrow, but Harry might arrive before me.
+ However, he's been demonstrated safe around humans.
+ I don't think you need to worry about Sue -- it's wolves who might be a
+ problem.” 
+\end_layout
+
+\begin_layout Standard
+I bought tickets.
+ During that process, there was no further substantive content from Rachel,
+ just “see you soon”.
+ I logged off, found Edward, dragged him to our cottage, used up the hour
+ and a half that I didn't need to make my flight on time, and then told
+ him, “I need to leave again.” 
+\end_layout
+
+\begin_layout Standard
+He sighed.
+ “All right.” 
+\end_layout
+
+\begin_layout Standard
+“Can I ask you to pretend we're going to explore Scandinavia together? I'll
+ be the one to tell Maggie.
+ I tested her earlier; unless she's got an amazing poker face and doesn't
+ care as much about the truth as you say she does, I'm immune to her.
+ I should be back in a few days, and then we can really explore Scandinavia
+ for a little while and I'll have all the right stories to tell.
+ And I'll be able to keep in touch by phone.
+ So you know I'm all right.” 
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ I packed, and he put some things in a suitcase too so he could go running
+ around in parts nonlocal to give me cover.
+ We went to the main house, and distributed the news, with all false statements
+ that Maggie could hear carefully uttered by me and not Edward.
+ I made it clear that I was trusting everyone to keep Maggie from taking
+ Gianna away from the house, and no one contradicted me about the needfulness
+ of this restriction.
+ Then Edward and I went to the garage.
+ 
+\end_layout
+
+\begin_layout Standard
+Rosalie had bought me a car, which I'd managed to have no occasion to look
+ at since it had come to reside in our garage.
+ It was dark green, streamlined, and sat low to the ground, but otherwise
+ wasn't the sort of flashy vehicle screaming wealth that most of its neighbors
+ were.
+ However, Edward drove me to the airport in one of his cars instead, kissed
+ me goodbye, and then drove away to explore Scandinavia -- alone.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+I did not enjoy my flight.
+ Anticipating the loneliness of being without Edward made it kick in faster,
+ apparently.
+ I felt a moment's regret at having ever activated the wolves, or at least
+ at having done it when I had -- they'd been unharmed, in fact completely
+ unnoticed, by the Volturi so far.
+ If I hadn't started activating them until later, then my life would be
+ a lot simpler at this time and nobody would have died.
+ Of course, the nature of the threat the Volturi posed to the wolves was
+ such that I couldn't have predicted the timing in advance, and earlier
+ was safer for the tribe -- just inconvenient for me.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't bother with a car once I landed, I just ran.
+ I'd looked at enough atlases to find a mostly unpopulated route from memory.
+ I arrived at the reservation in the evening on Friday, where I discovered
+ the tribe in chaos.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+I could hear the barking and growling well before I saw anything, but to
+ hear Rachel tell it, scuffles between wolves were not at all uncommon.
+ A combination of emotions running high and reduced consequences due to
+ fast healing meant that 
+\shape italic
+somebody
+\shape default
+ got scratched up a bit nearly every day, and Alpha orders only did so much
+ to counter wolf tempers.
+ I could tell that there were more than a couple of wolves involved, but
+ fights would vary in scope like everything else.
+\end_layout
+
+\begin_layout Standard
+I was in no way prepared, when I arrived, for the 
+\shape italic
+war
+\shape default
+ that the wolves were waging amongst themselves.
+ 
+\end_layout
+
+\begin_layout Standard
+No one seemed to be actually out to kill.
+ There were drops of wolf blood (mercifully undesirable to me), splattered
+ around on the dirt and vegetation and combatants, but no one had been injured
+ badly enough to be out of commission.
+ I did a quick count: all thirty-two of the giant pack were involved in
+ the fracas.
+ Before I could try to figure out who was on whose side, the wind wafted
+ past me and carried my scent towards their battlefield.
+ 
+\end_layout
+
+\begin_layout Standard
+The majority of the skirmish died down as nearly everyone stopped what they
+ were doing to look at me.
+ One nearby wolf lunged to snap at me but checked himself halfway through
+ the attack -- or possibly was stopped by Rachel commanding him to leave
+ me be.
+ 
+\end_layout
+
+\begin_layout Standard
+Rachel, the only entirely white wolf in a crowd of multicolored furs, shot
+ a dark look at one of the black ones -- that would be either Sam, Becky,
+ or a wolf I couldn't recognize by coat -- and walked towards me.
+ A wolf with striking ochre fur trotted a few steps into the forest and
+ came back with an outfit for her, from some stash of clothes they kept
+ among the trees.
+ Rachel stalked off behind cover with it, assumed human form, and came back
+ into view a few moments later decently clad.
+ She had grown a 
+\shape italic
+lot
+\shape default
+.
+ I was pretty sure she cleared six feet in height, and as she'd said, she
+ looked like she was on her way to the Olympics.
+ And not for figure skating.
+ 
+\end_layout
+
+\begin_layout Standard
+“So...” I said.
+ “What's all this, then?” 
+\end_layout
+
+\begin_layout Standard
+“It's a very, very long story,” Rachel said stiffly.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm immortal,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+She laughed once, a bit sharply.
+ “Of course.
+ Okay, so, ballpark, how long would it take you to do some combination of
+ running and swimming between here and Denali?” 
+\end_layout
+
+\begin_layout Standard
+I mentally stitched together the various maps I'd looked at and did some
+ quick estimating.
+ “Maybe twelve hours.
+ It's not that densely populated a coast, and if I did it at night...
+ cars are only faster over developed routes where there are highways.” 
+\end_layout
+
+\begin_layout Standard
+“And you wrote me that this Tanya vamp only bothered to call your father-in-law
+ when Mr.
+ Clearwater had been gone for 
+\shape italic
+three
+\shape default
+ days, right?” Rachel prodded.
+ 
+\end_layout
+
+\begin_layout Standard
+“Right, that's what she said.
+ Why?” 
+\end_layout
+
+\begin_layout Standard
+Rachel laughed hollowly.
+ “Yeah, that's about what I thought.
+ I don't think this is the first time Mr.
+ Clearwater's been down this way.” 
+\end_layout
+
+\begin_layout Standard
+“What?” I exclaimed.
+ “Is somebody hurt? Did he
+\begin_inset space ~
+\end_inset
+
+--” Rachel shook her head, and I stopped, tilting my head.
+ 
+\end_layout
+
+\begin_layout Standard
+“Don't think he ate anybody,” she said.
+ “Or if he did it wasn't anyone we know and nobody's made a fuss over the
+ missing yet.
+ But Mrs.
+ Clearwater...
+ is, uh...” Rachel gritted her teeth.
+ “We 
+\shape italic
+think
+\shape default
+ she's 
+\shape italic
+pregnant
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+I was fairly dumbfounded by this.
+ “
+\shape italic
+Oh
+\shape default
+,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“I mean...
+ she 
+\shape italic
+looks
+\shape default
+ pregnant, and she seems to think she's pregnant, and she's been eating
+ really strangely and acting weird.
+ But it's too fast,” fretted Rachel.
+ “Even if he'd visited back in July when you turned him it's 
+\shape italic
+too fast
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“It wouldn't have had to be July,” I said.
+ “A week or two ago would have done it, although you're right that his most
+ recent departure can't be the first.” 
+\end_layout
+
+\begin_layout Standard
+“Wait, you knew this could happen?” exclaimed Rachel.
+ 
+\end_layout
+
+\begin_layout Standard
+“Half-vampires are possible, yes,” I said.
+ “Living mothers of half-vampires, as far as I know, are 
+\shape italic
+not
+\shape default
+.
+ Like you said -- too fast.
+ It doesn't slow down.
+ The entire pregnancy lasts a month, start to finish, and if the mother
+ lives that long she dies when it's birthing time.
+ I have to get my father-in-law -- or at least my husband -- out here now,
+ and save her while there's still a chance.” 
+\end_layout
+
+\begin_layout Standard
+“You'll probably have to talk to Mrs.
+ Clearwater about that,” said Rachel ruefully.
+ “She's not really cooperative.” 
+\end_layout
+
+\begin_layout Standard
+“Explain?” 
+\end_layout
+
+\begin_layout Standard
+“Before we figured out she was pregnant, we all thought she was maybe 
+\shape italic
+sick
+\shape default
+, but she wouldn't go to a doctor -- flat refused.
+ Then we figured it out while you were still in transit and told her that
+ you've got doctors in your family and a regular one wouldn't do because
+ we have to be all secret-secret, but a vampire doctor would be fine --
+ and she still flat refused.
+ I knew she wasn't, like, a huge fan of abortion, but she 
+\shape italic
+really
+\shape default
+ does not want one, one bit.
+ Maybe if you tell her it's going to kill her that'll be another story.”
+ 
+\end_layout
+
+\begin_layout Standard
+“I'll talk to her,” I said.
+ “What were you all fighting about?” 
+\end_layout
+
+\begin_layout Standard
+“Whether to force her,” said Rachel quietly.
+ “I mean, listen, we didn't know what the hell it was going to turn out
+ to be, it could have been some unstoppable monster or even just like a
+ newborn vampire is supposed to be when it doesn't know to expect turning,
+ something we'd have had to kill anyway -- right? And, uh, some of the others
+ wanted to kill it whether Mrs.
+ Clearwater liked it or not, to be safe.” 
+\end_layout
+
+\begin_layout Standard
+She paused.
+ “We...
+ figured out how to split the pack.
+ Becky seems to be Alpha of 
+\shape italic
+that
+\shape default
+ half now.
+ She balked when I Alpha-voiced everybody that Mrs.
+ Clearwater's in charge of her own body, and everybody who agreed with Becky
+ answers to her, now, not me.
+ I can still hear Becky's thoughts and vice-versa, but the non-alphas can
+ only hear within the...
+ sub-pack, plus relays when me and Becky are both wolfed.
+ Anyway, it's kind of a major issue, and we aren't very pacifistic critters
+ at the best of times.
+ So there's been a lot of fighting and you walked in at one of the worst
+ times.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm hoping you can get Mrs.
+ Clearwater to see sense,” she continued, “and then it'll just be like we
+ split the pack on purpose, like we were trying to, but if you 
+\shape italic
+can't
+\shape default
+ get her to see sense, I don't want to have to hold her down while you get
+ your husband to do the doctoring.” 
+\end_layout
+
+\begin_layout Standard
+“Frankly, I'm in your camp,” I said.
+ “It's not an unstoppable monster, and not even as bad as a regular newborn
+ vampire.
+ Might or might not even be venomous.
+ I think Sue'd be a fool to go through with having it, since she'd die.
+ But in so doing she wouldn't be unleashing hellspawn on the world.” The
+ black wolf, who Rachel had looked daggers at before, growled.
+ “What do the Clearwater kids think?” 
+\end_layout
+
+\begin_layout Standard
+“Leah was on the fence until somebody had an excessively gruesome mental
+ image of what forcing Mrs.
+ Clearwater to have an abortion might look like, and now she's with me.
+ Seth's in my camp too,” Rachel said.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Well,” I said, “take me to Sue.” 
+\end_layout
+
+\begin_layout Standard
+Leah and Seth de-wolfed and came along too, following Rachel in silence.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+My guess, when I saw Sue, was that she was almost two weeks pregnant --
+ the equivalent of being mid-second-trimester.
+ 
+\end_layout
+
+\begin_layout Standard
+Her guess, when she saw me, was apparently that I was a vampire doctor there
+ to strap her to a table and forcibly cut her baby out of her, because she
+ made a very abortive attempt to flee.
+ I supposed I looked different enough that she didn't recognize me personally,
+ and wouldn't know what Rosalie looked like.
+ When she tried to get up, Leah ran over and seized her hands.
+ “Mom, calm down,” she said.
+ “Don't hurt yourself.” 
+\end_layout
+
+\begin_layout Standard
+“I told you no!” Sue cried, but she didn't try to fight Leah -- it would
+ have been pointless; the wolves were considerably stronger than humans
+ even without their fur on.
+ “I told you 
+\shape italic
+no
+\shape default
+\emph on
+!
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+“I'm not a doctor,” I said, “I'm Bella.” She relaxed a little, although she
+ still looked at me suspiciously.
+ “However, I strongly advise you to let me 
+\shape italic
+get
+\shape default
+ a doctor.
+ You aren't going to live through this if you insist on continuing.
+ It's happened before, half-vampires exist, but their mothers 
+\shape italic
+don't
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“It's up to me,” Sue said stubbornly.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't dispute that for a moment,” I said.
+ “It's entirely up to you.
+ I won't even tell anyone who doesn't already know, if you don't want me
+ to.
+ But honestly? Sue, you are an idiot.
+ No one has ever lived through this.
+ An overwhelming majority of women who've tried didn't even carry to term.”
+ 
+\end_layout
+
+\begin_layout Standard
+“How do 
+\shape italic
+you
+\shape default
+ know so much about it, anyway?” she asked.
+ 
+\end_layout
+
+\begin_layout Standard
+I summarized the story I'd gotten from Huilen and Nahuel.
+ “My husband and I thought that we could have 
+\shape italic
+our
+\shape default
+ kids,” I said.
+ “We've got a surrogate lined up and everything.
+ But we weren't going to ask her to 
+\shape italic
+die
+\shape default
+ just for that -- and you and Harry 
+\shape italic
+already have two children
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“And we 
+\shape italic
+wouldn't
+\shape default
+ if I'd killed 
+\shape italic
+Leah
+\shape default
+ because 
+\shape italic
+she
+\shape default
+ wasn't convenient,” spat Sue.
+ 
+\end_layout
+
+\begin_layout Standard
+I looked over my shoulder at Leah, who shrugged; apparently her accidental
+ status was not news to her.
+ “Be that as it may,” I said, “
+\shape italic
+this
+\shape default
+ one will kill you.” 
+\end_layout
+
+\begin_layout Standard
+“You can't be sure of that,” she said shiftily.
+ “Harry would have died, but...” 
+\end_layout
+
+\begin_layout Standard
+I blinked at her.
+ “You didn't know 
+\shape italic
+I
+\shape default
+ was coming, or you'd have known I wasn't a doctor.
+ Is Harry nearby? Did he say he'd turn you after you give birth? It's --
+ well, it 
+\shape italic
+would
+\shape default
+ be the best shot you have, but I highly doubt that Harry can turn you safely.”
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+You
+\shape default
+ turned 
+\shape italic
+him
+\shape default
+, and you're new,” she said.
+ Her stomach rumbled.
+ “Seth, dear, will you make me some more scrambled eggs?” she asked her
+ son apologetically, and Seth nodded and ran to the kitchen.
+ 
+\end_layout
+
+\begin_layout Standard
+“I held my breath and poured venom into an existing open wound,” I said.
+ “I don't doubt that you'll have one hell of a wound when your baby 
+\shape italic
+chews its way out of its shell
+\shape default
+, but it'll be in the middle of your abdomen, nowhere near the heart.
+ The shell might interfere with getting venom into your bloodstream properly.
+ I mean, it has to contain venom somehow, or the venomous half-vampire I
+ met would have turned his mother before 
+\shape italic
+he
+\shape default
+ was born.
+ She died instead.
+ And it is 
+\shape italic
+ridiculously
+\shape default
+ hard for vampires to handle humans safely without experience and control
+ that Harry doesn't have, so if he tried to create another wound for the
+ venom, that could kill you all by itself.” 
+\end_layout
+
+\begin_layout Standard
+By the time I finished this speech, Sue was looking at me speculatively.
+ “Well,” she said, “thank you for that information.” 
+\end_layout
+
+\begin_layout Standard
+I pressed the heel of my hand to my forehead.
+ “Sue,” I said.
+ “Sue, this is crazy.
+ I flew out here away from my family because I heard Harry had gone missing
+ from Denali and I wanted to help control the situation.
+ If you ask me to hang around for another two weeks and turn you so you
+ can have this baby of doom with a sliver of a chance of living
+\begin_inset space ~
+\end_inset
+
+--” I shook my head, about to offer to find a syringe in the Forks house
+ somewhere and fill it with venom that someone else could administer, but
+ Sue spoke.
+ 
+\end_layout
+
+\begin_layout Standard
+“Away from your 
+\shape italic
+family
+\shape default
+, hm?” Sue asked craftily.
+ 
+\end_layout
+
+\begin_layout Standard
+My eyes flew open.
+ “You 
+\shape italic
+wouldn't
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“Just because I won't kill my baby to do it doesn't mean I don't want to
+ live, Bella,” said Sue in a falsely kind voice.
+ “It's already getting very difficult to keep your father in the dark, especiall
+y now when everything would be ruined if he visited me in person.
+ Billy's been running interference, but I have to get on the phone with
+ him sometimes too.
+ He's not a stupid man.” 
+\end_layout
+
+\begin_layout Standard
+“Sue, you aren't just threatening to 
+\shape italic
+embarrass
+\shape default
+ me if you bring in the possibility of informing Charlie,” I said frantically.
+ “It's not that, if it were that he'd have known months ago.
+ There are vampire 
+\shape italic
+laws
+\shape default
+, breaking any one of them is punishable by death, the lawmakers have their
+ eye on me and it wouldn't surprise me a 
+\shape italic
+bit
+\shape default
+ if they were covertly observing Charlie to make sure I haven't let him
+ in on anything.
+ And it's not just me who'd be in trouble, they'd kill him too.” 
+\end_layout
+
+\begin_layout Standard
+“Aren't we paranoid,” said Sue smugly.
+ 
+\end_layout
+
+\begin_layout Standard
+“It's not 
+\shape italic
+paranoia
+\shape default
+ when 
+\shape italic
+my species is ruled by a mind-reading mass murderer
+\shape default
+,” I said.
+ “With similarly spooky people in his employ!” 
+\end_layout
+
+\begin_layout Standard
+Seth came back in with a huge plate of scrambled eggs, and Sue scarfed them
+ down, which prevented her from talking for a couple of minutes.
+ “You realize you're going to have to drink blood if you hope to live through
+ this,” I said.
+ “The baby's sucking up blood and if it can't get it from your diet it'll
+ just get it from you.” 
+\end_layout
+
+\begin_layout Standard
+“Leah,” said Sue lightly.
+ Her daughter made a truly awful face, but I heard her go outside and turn
+ wolf, presumably to kill something and get its blood for her mother.
+ 
+\end_layout
+
+\begin_layout Standard
+“You don't need me here,” I said.
+ “I can find a hypodermic in the family house in Forks, most likely -- Carlisle
+ didn't bring all of his medical stuff with him -- and fill it with venom.
+ That's how my turning was done.” 
+\end_layout
+
+\begin_layout Standard
+“But you've 
+\shape italic
+met
+\shape default
+ a half vampire, and his aunt who told you about how he was born,” said
+ Sue.
+ “If I'm going to live through this, I need an expert, don't I?” 
+\end_layout
+
+\begin_layout Standard
+“Then let me call my husband,” I said.
+ “He was with me the entire time, when I met them, and he's a doctor
+\begin_inset space ~
+\end_inset
+
+--” Sue scowled.
+ “He won't make you do anything you don't want to!” I protested.
+ “But he'd know better than I would how to take care of you, just in general!”
+ I was really hoping that he'd hear something in Sue's thoughts that would
+ let him convince her to give up on the have-a-half-vampire project.
+ But the other remarks were also true.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” she said.
+ “No doctors.
+ What if you're wrong about what he will and won't do? I don't know your
+ husband.” 
+\end_layout
+
+\begin_layout Standard
+“Rrrgh!” I said, not quite growling, just too exasperated to bother with
+ language.
+ 
+\end_layout
+
+\begin_layout Standard
+Seth's scorching hand patted my arm.
+ “Please help my mom,” he said in a small voice.
+ He looked older than I did at this point, but he was acting his real age,
+ which just squeaked him under the threshold of the ability to get things
+ by being cute and innocent.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm trying,” I told Seth.
+ “Mrs.
+ Clearwater, I am 
+\shape italic
+really
+\shape default
+ quite sure that my husband isn't going to assault you, especially not if
+ I tell him otherwise.” 
+\end_layout
+
+\begin_layout Standard
+“Well, I'm not,” Sue said.
+ 
+\end_layout
+
+\begin_layout Standard
+I gave up.
+ “Fine,” I said.
+ “Fine.
+ Where is Harry?” 
+\end_layout
+
+\begin_layout Standard
+“I don't know exactly,” she said.
+ “He was heading back to Denali and then I called him and told him I'm pregnant
+ and he said he'd turn around.
+ He's presumably still on his way.” 
+\end_layout
+
+\begin_layout Standard
+“If you don't mind my asking, how did you even manage to safely
+\begin_inset space ~
+\end_inset
+
+--” I began.
+ Seth giggled manically and Sue frowned.
+ 
+\end_layout
+
+\begin_layout Standard
+“I do mind,” she cut in, and I decided that I'd been rude enough that she
+ deserved to interrupt me -- just the once.
+ “But I assume you already knew about those tarts Harry's had to live with
+ up in Alaska.” 
+\end_layout
+
+\begin_layout Standard
+“Tanya and Kate?” 
+\end_layout
+
+\begin_layout Standard
+“And Irene or whatever her name was, for all that she's apparently settled
+ down since her heyday,” sniffed Sue.
+ 
+\end_layout
+
+\begin_layout Standard
+“Irina,” I said.
+ “You know that for the first several hundred years they never went in with
+ a plan to leave the humans alive, right?” 
+\end_layout
+
+\begin_layout Standard
+“I said,” Sue said coldly, “that I 
+\shape italic
+do
+\shape default
+ mind.” 
+\end_layout
+
+\begin_layout Standard
+I sighed.
+ Evidently she'd been left unharmed (at least directly) by the experience,
+ though.
+ I'd assumed from the first time I'd heard about the succubus sisters that
+ it was a matter of gender that they were able to leave their toys alive
+ after becoming vegetarians while Edward had no such expectation.
+ Since learning a few more things, I was half-convinced that he'd only been
+ covering for his concerns about extramarital relations.
+ Or that they'd at least been a significant factor.
+ Anyway, there was nothing of practical import to be found along this line
+ of inquiry.
+ 
+\end_layout
+
+\begin_layout Standard
+Leah chose this moment to return with a large bowl full of animal blood
+ -- elk or something like it, I guessed, although my experience with the
+ land fauna of the Pacific Northwest was limited.
+ Leah herself was covered in little red dots.
+ Extracting the blood had apparently been messy.
+ Sue accepted the bowl and, with rather impressive aplomb, sipped from it.
+ Apparently pleased with the flavor, she drained the bowl.
+ 
+\end_layout
+
+\begin_layout Standard
+“It probably wants human blood, you realize,” I said.
+ “Nahuel said he can live on animal blood or even food that humans eat,
+ but he's an adult and can consciously decide what to have for lunch.
+ The baby can't do that, and may or may not continue to siphon off what
+ 
+\shape italic
+you
+\shape default
+ need to stay alive unless you give it human blood via your diet.” 
+\end_layout
+
+\begin_layout Standard
+“And where do you propose we get that?” she asked testily.
+ 
+\end_layout
+
+\begin_layout Standard
+I held up my hands.
+ “For your purposes it doesn't have to be enough to hurt its source.
+ But I can't extract it and neither can Harry.
+ I'm sure there are any number of tribe members you could ask.” 
+\end_layout
+
+\begin_layout Standard
+“Most of them are in favor of 
+\shape italic
+killing
+\shape default
+ my baby,” Sue said.
+ “I don't think there will be many volunteers to donate blood to keep him
+ healthy.” 
+\end_layout
+
+\begin_layout Standard
+I assumed she was just guessing on the gender and decided it wasn't worth
+ nitpicking.
+ “Or,” I said, “you could let me call my husband -- hang on now, let me
+ finish -- doctors can buy blood.
+ I don't have to tell him what it's for.
+ He trusts me implicitly.
+ I can probably get him to tell me what I need to do and say and what papers
+ I need to have forged to buy some blood.
+ He'll think that's a little weird but he won't ask awkward questions.
+ And it'll come in a sealed up package and I'll just have to leave the building
+ while you drink it.” 
+\end_layout
+
+\begin_layout Standard
+Sue looked skeptical.
+ “What kind of husband is it that you have that you can call him up and
+ get him to tell you how to buy human blood -- which you shouldn't be drinking
+ -- without explaining what it's for?” 
+\end_layout
+
+\begin_layout Standard
+I bristled, and almost hissed, but I didn't want to provoke Leah or Seth
+ into phasing with a threatening noise.
+ That was 
+\shape italic
+my
+\shape default
+ Edward she was...
+ sort of vaguely implying a mild insult towards.
+ Which was not nice, but it didn't really call for hissing either.
+ “Remember,” I said, “my species is ruled by a mind-reading mass murderer.
+ You know, the entire reason why I activated the pack in the first place.
+ I'm the only person I know of in the world he can't read.
+ My husband knows that it's safer if he doesn't know everything.
+ And he 
+\shape italic
+trusts me
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+Sue pursed her lips.
+ “I'll let you try that if it looks like I need more than I can get from
+ people in the tribe.
+ Rachel, would you mind being the one to ask around? You'll be more likely
+ to get agreement than most people who might try.” Rachel had been standing
+ very quietly, watching the conversation.
+ 
+\end_layout
+
+\begin_layout Standard
+“Of course, Mrs.
+ Clearwater,” she sighed.
+ 
+\end_layout
+
+\begin_layout Standard
+“If that's all,” I said, “I'll be leaving for a bit too.
+ I need to tell Edward I'm okay and how long I'll be gone, and then I want
+ to hunt.” I looked at Rachel.
+ “I don't think I'd be very helpful at keeping the fighting to a minimum,
+ but if you can think of something useful for me to do, let me know.
+ I may as well help out as long as I'm going to be around for two weeks.”
+ 
+\end_layout
+
+\begin_layout Standard
+Sue had no objection, so Rachel and I left the house: her to pretend to
+ be from the Red Cross, me to find some way to tell Edward that I was going
+ to be gone for two entire weeks.
+ 
+\end_layout
+
+\begin_layout Standard
+Less, if Sue died.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+I called Edward.
+ We talked for about an hour, getting sappy over how terribly long a span
+ of time two weeks was.
+ Then I found and ate a killer whale, and wandered the beach for a couple
+ of hours.
+ Seth found me at about three in the morning, and said that his dad had
+ arrived.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry did not look like a happy vampire when I went to talk to him.
+ He was hanging out in an old, secluded shack in the woods near the reservation,
+ to avoid provoking wolves in Becky's pack.
+ The building smelled enough like Sue that I guessed this was where she'd
+ met her husband.
+ 
+\end_layout
+
+\begin_layout Standard
+“Hey,” I said by way of greeting.
+ Harry shifted position uncomfortably, still unable to discern that I was
+ a person -- and having plenty of other reasons to be unhappy besides that
+ -- but he waved.
+ “How much did Seth already tell you?” I asked, as the young werewolf departed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Most everything,” said Harry hollowly.
+ “You really think she'll die?” 
+\end_layout
+
+\begin_layout Standard
+“The odds aren't good,” I said honestly.
+ “I know of four live half-vampires and ten who didn't make it to being
+ born, have reason to believe that I haven't heard of all the ones who didn't
+ make it, and have never heard of one whose mother lived.
+ That having been said, it 
+\shape italic
+is
+\shape default
+ likely that Sue has a better chance than any of them did -- even without
+ accepting a doctor's help, which would make me far more optimistic than
+ I am.
+ I think the other hybrids' father didn't care at all about their moms,
+ and didn't try to look after them or turn them when they gave birth.” 
+\end_layout
+
+\begin_layout Standard
+“But you still think she should abort,” Harry said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I said.
+ “It's an insane risk to take even with the available possibility that she'll
+ live.
+ This isn't just a little dicey, it's something that literally no one has
+ ever lived through.
+ But she won't.
+ She won't even let me tell Edward anything, far from letting him show up
+ with the relevant tools.” 
+\end_layout
+
+\begin_layout Standard
+“I didn't know it was possible,” murmured Harry.
+ “I thought...
+ I mean, the Denalis never had to bother with...
+ anything.” 
+\end_layout
+
+\begin_layout Standard
+“The Denalis of whom you speak are all three of them female,” I said.
+ “It's different the other way around, although I didn't know that for sure
+ around when I turned you.
+ It didn't occur to me that it'd be information you needed, but in retrospect
+ I wish I'd mentioned it.” I sighed.
+ “I'm so sorry.” 
+\end_layout
+
+\begin_layout Standard
+“I missed her so much,” Harry said softly.
+ “And she was only getting harder to remember as time went by and I couldn't
+ stand it, that I might forget her, that she might not want to see me again
+ -- and I knew I shouldn't just run from Denali straight to her immediately,
+ that I wasn't safe, but after I was able to be around a human without killing
+ him the only thing left was to convince her to see me.
+ And then almost two weeks later she finally said she'd meet me here, and
+ I was making regular visits, but I guess I stayed too long this time because
+ the Denalis noticed and called...
+ but it's good you're here.” 
+\end_layout
+
+\begin_layout Standard
+“You should call the Denali of your choice and say you've decided to move
+ out and live on your own,” I said.
+ “That way they won't expect you back.
+ Since you've demonstrated to them that you're safe around humans, they
+ won't have any interest in tracking you down.” 
+\end_layout
+
+\begin_layout Standard
+“I should,” muttered Harry.
+ He took out his phone and dialed Eleazar's number.
+ “Hello,” he said, when the ex-Volturi picked up.
+ I quit breathing and held perfectly still, to avoid making noises which
+ Eleazar would hear.
+ 
+\end_layout
+
+\begin_layout Standard
+“Harry?” asked Eleazar's voice.
+ 
+\end_layout
+
+\begin_layout Standard
+“It's me,” Harry said.
+ “It occurred to me that you'd wonder where I'd gone...
+ I decided to move out.
+ You know I've been having trouble getting along with Laurent and Irina
+ and Kate and Tanya and David...
+ I thought it would just be best if I left.
+ I haven't eaten anyone.
+ I'm not going to start.
+ I just want to live by myself now.” 
+\end_layout
+
+\begin_layout Standard
+“Well...
+ all right, Harry, if that's what you want,” Eleazar said reluctantly.
+ “But know that you're welcome back any time, and that if you need anything,
+ you can call us.” 
+\end_layout
+
+\begin_layout Standard
+“Thank you,” Harry said softly.
+ “I'll let you know if my phone number changes.
+ Thank you for letting me into your home, and please pass on my thanks to
+ Carmen as well.
+ Goodbye.” 
+\end_layout
+
+\begin_layout Standard
+“I will,” Eleazar promised.
+ “Goodbye, Harry.” 
+\end_layout
+
+\begin_layout Standard
+Harry clicked his phone closed, and I started breathing again.
+ It was mildly uncomfortable not to, just because it deprived me of a sense,
+ although I had plenty of practice from my habit of underwater hunting and
+ resorted to holding my breath more readily than my family tended to.
+ Harry said, “I should have thought to do that as soon as I'd been gone
+ longer than they were used to.” 
+\end_layout
+
+\begin_layout Standard
+“I'm kind of surprised that they didn't get curious about twenty-four-hour-plus
+ departures earlier,” I said.
+\end_layout
+
+\begin_layout Standard
+“I told them I was just exploring, that I liked to be alone,” he said.
+ “It's a big park.
+ And they knew I wasn't that fond of most of the group.”
+\end_layout
+
+\begin_layout Standard
+“Fair enough,” I said.
+ I heard someone approaching the house on two feet at a relaxed walk; probably
+ Leah or Seth with some news or question.
+\end_layout
+
+\begin_layout Standard
+“Please don't let my wife die,” Harry said suddenly.
+ “I don't know how I can do without her.
+ And Seth is so young, he can't lose his mother.”
+\end_layout
+
+\begin_layout Standard
+“I will do everything I can short of assaulting her to keep her alive,”
+ I said.
+ “But she's not letting me be as helpful as I'd like.
+ Maybe you can do a better job of talking her into letting me bring Edward
+ in.”
+\end_layout
+
+\begin_layout Standard
+“She's very stubborn, Sue is,” murmured Harry.
+\end_layout
+
+\begin_layout Standard
+And that was the end of that conversation, because at that moment, the door
+ slammed open and there stood Charlie.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+At first, we all just stared at each other.
+ There 
+\shape italic
+was
+\shape default
+ a chance, however remote, that Charlie would not recognize me or Harry
+ -- especially not in the dark; it wasn't even four a.m.
+ and I had no idea what would have possessed him to go wandering through
+ the woods at such an hour.
+ Supersonic and fast, I told Harry, “If he doesn't recognize us pretend
+ we're lost and don't speak English.” 
+\end_layout
+
+\begin_layout Standard
+Charlie shot that plan to hell immediately -- “
+\shape italic
+Harry
+\shape default
+?” 
+\end_layout
+
+\begin_layout Standard
+I was almost offended that he'd recognized Harry and not me, but of course
+ he had reason to think Harry might be anywhere at all, whereas last he'd
+ checked I'd been in Norway playing newlywed truant.
+ Also, this was apparently Harry's shack.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Hello,” said Harry.
+ 
+\end_layout
+
+\begin_layout Standard
+“Harry, is that you?” demanded Charlie.
+ “What are you doing here? What's up with your face? Billy and your wife
+ have been giving me the runaround -- and who's this?” He gave me a closer
+ look, and I held very still, trying to avoid projecting any mannerisms
+ that would make me look familiar.
+ “Are...
+ you...” 
+\end_layout
+
+\begin_layout Standard
+“Charlie,” said Harry, momentarily distracting my father from his attempt
+ at figuring out what was going on with me.
+ “Please trust me.
+ It's not good for you to be here.
+ Please go home, go to bed, and wake up and think of it like a dream.” 
+\end_layout
+
+\begin_layout Standard
+“Hell no,” said Charlie, and a little candle-flame of hope in the land of
+ metaphors winked out.
+ “I could have let it go if you disappeared for a week and wouldn't explain,
+ but Harry, I haven't gotten a verifiable story about where you've gotten
+ to since July! Billy and Sue contradict each other, they contradict themselves,
+ you're always sick or visiting relatives or running some mighty long errands,
+ and I just don't buy it for nearly two months straight, my friend.
+ And Sue hasn't let me drop by and check in on her for the last couple of
+ days either.
+ Her kids chased me off when I tried last night -- I swear Leah looked like
+ she might bite my head off.” 
+\end_layout
+
+\begin_layout Standard
+“Charlie, I'm fine,” said Harry.
+ “I'm completely fine.
+ And that's all you need to know, and it is very important that that be
+ all you know, and I think you should go home and go to bed now.” 
+\end_layout
+
+\begin_layout Standard
+“Not that simple anymore,” Charlie said.
+ “I have co-workers.
+ Sometimes I mention stuff to them.
+ I told ’em I couldn't get ahold of you, end of July.
+ Came up again in conversation last week.
+ 
+\shape italic
+I
+\shape default
+ was willing to trust Billy and Sue pretty far, but they're not the other
+ cops’ friends.
+ And cops start wondering what's going on when somebody goes missing that
+ long and his wife and a friend of the family are running interference.
+ This is me wandering around every place you might be hiding at an ungodly
+ hour of the morning so on Monday, Rick doesn't ask me `hey, did your friend
+ Harry turn up yet’ and I have to say `nope’ and he has to launch an investigati
+on.” 
+\end_layout
+
+\begin_layout Standard
+I failed to restrain a curse word.
+ 
+\end_layout
+
+\begin_layout Standard
+Charlie looked at me again.
+ 
+\end_layout
+
+\begin_layout Standard
+“Young lady,” he said, and my still heart sank, “I don't care what freaky
+ stuff you've gotten into -- keep a civil tongue in your head.”
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“And you got here how?” Charlie asked me, about an hour and a half later.
+ 
+\end_layout
+
+\begin_layout Standard
+“I flew,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“You can 
+\shape italic
+fly
+\shape default
+, too?!” 
+\end_layout
+
+\begin_layout Standard
+“On an 
+\shape italic
+airplane,
+\shape default
+” I said.
+ “Are you 
+\shape italic
+absolutely
+\shape default
+ sure you aren't being followed or tracked at all? You haven't noticed any
+ weird, pale people hanging around, there haven't been any unexplained disappear
+ances in a radius of a hundred miles besides Harry...?” 
+\end_layout
+
+\begin_layout Standard
+“Not that I've noticed,” muttered Charlie.
+ I thought he might be disappointed that I couldn't fly.
+ “But if it's a...
+ you seriously call yourselves `vampires'?” 
+\end_layout
+
+\begin_layout Standard
+“That's the English term, yes, for immortal creatures that drink blood,”
+ I sighed.
+ I'd been explaining Things You May Not Have Known About The World 101 to
+ Charlie since it had become clear that his cooperation would be necessary
+ to keep the secret from exploding any farther beyond its current straining
+ boundaries.
+ He was so uncomfortable with the concept that I thought if only he'd stumbled
+ across something he shouldn't have seen five or six weeks ago, he'd have
+ blocked it all out of his mind and done the cover-up on request without
+ needing to know details.
+ As it was, the runaround he'd gotten was not letting him feel satisfied
+ with partial explanations.
+ 
+\end_layout
+
+\begin_layout Standard
+“If a vampire's following me, I wouldn't necessarily have noticed,” Charlie
+ said.
+ 
+\end_layout
+
+\begin_layout Standard
+“There's nobody else within a couple of miles, anyway,” said Harry quietly.
+ The edge of the inhabited part of the reservation was four miles away from
+ the shack, and Harry's range seemed to be about three miles, irrespective
+ of whether he knew the people he was sensing or not.
+ The shack itself had unclear origins but had been a haunt of Harry's since
+ he'd been a kid; Charlie had been there once before, when Harry had been
+ trying to generate interest in repairing it for some purpose or other that
+ neither of them recalled.
+ 
+\end_layout
+
+\begin_layout Standard
+“So you weren't followed 
+\shape italic
+here
+\shape default
+,” I said, “at least not closely.
+ That's good.
+ I might have been overcautious; goodness only knows how many people the
+ Volturi would 
+\shape italic
+like
+\shape default
+ to have an eye on, but they've only got so much staff to spread around.
+ But Dad, that doesn't mean you can talk about this to anybody.
+ 
+\shape italic
+Not anybody
+\shape default
+ except Quileutes, they're okay, and certain individuals they've had no
+ choice but to tell.
+ If enough people find out, it will cause a big enough stir that the Volturi
+ will 
+\shape italic
+definitely
+\shape default
+ find out, and definitely intervene.” 
+\end_layout
+
+\begin_layout Standard
+Charlie nodded slowly.
+ “What about Sue?” he asked finally.
+ “Is she all right?” 
+\end_layout
+
+\begin_layout Standard
+I bit my lip as Harry struggled through an explanation.
+ Charlie's expression grew darker as he heard the story of her pregnancy,
+ the wolves' split, and Sue's refusal to let me so much as ask Edward how
+ to get human blood.
+ “Would it help at all if I talked to her?” he asked quietly.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm going to try, when she's woken up later this morning,” Harry said.
+ “I only got here a few hours ago.
+ If I can't, you're welcome to give it a shot -- but I don't think she's
+ going to budge.” 
+\end_layout
+
+\begin_layout Standard
+“Wouldn't surprise me,” said Charlie, looking at the ceiling.
+ It was hard for me to guess how much he could make out in the little moonlight
+ filtering in through the windows.
+ My night vision wasn't something I'd ever written about extensively before
+ turning.
+ 
+\end_layout
+
+\begin_layout Standard
+“You look tired,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“A bit,” he admitted.
+ “I have tomorrow off, though, so it won't do me so much harm to pull an
+ all-nighter.” 
+\end_layout
+
+\begin_layout Standard
+“You have to sleep, Dad.
+ You're not a vampire,” I said.
+ “Yet.” 
+\end_layout
+
+\begin_layout Standard
+“Oh-ho-ho no, Bells,” he said.
+ “That's -- not -- no.” 
+\end_layout
+
+\begin_layout Standard
+“It'd be safer,” I said.
+ “In a wide variety of ways.” 
+\end_layout
+
+\begin_layout Standard
+Charlie shook his head.
+ “Bells, I know you don't take after me this way, but I put down roots.
+ I can't disappear from my life.” 
+\end_layout
+
+\begin_layout Standard
+“Okay, well -- think about it,” I said.
+ “Now that you know and you can't un-know...
+ offer's on the table.
+ Say the word and I'll do it.” 
+\end_layout
+
+\begin_layout Standard
+“Not likely, Bells.” 
+\end_layout
+
+\begin_layout Standard
+“I guess I can just send you the un-photoshopped versions of my wedding
+ photos,” I sighed.
+ 
+\end_layout
+
+\begin_layout Standard
+“That,” Charlie said, “will be good enough for me.”
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+Harry, Charlie, another attempt by me, a plea from Rachel, Leah's badgering,
+ and Seth's puppy eyes did nothing to persuade Sue on any count.
+ 
+\end_layout
+
+\begin_layout Standard
+However, the fact that she could no longer threaten to tell Charlie on me
+ meant that I didn't have to wait for her to agree to anything
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Which meant that I was pacing around in her backyard arguing with myself
+ about whether to go against her wishes or not.
+ 
+\end_layout
+
+\begin_layout Standard
+An important consideration that I was wrestling with was how much of my
+ desire to call Edward and get him to come was 
+\shape italic
+just that
+\shape default
+.
+ Honestly, I 
+\shape italic
+did
+\shape default
+ hate keeping secrets from him.
+ It didn't feel right.
+ The fact that Charlie didn't seem to be under surveillance wasn't making
+ it feel any more urgent.
+ I hated being away from Edward for more than a few hours at a time.
+ 
+\end_layout
+
+\begin_layout Standard
+In an attempt to separate out what of my feelings was about 
+\shape italic
+Edward
+\shape default
+ and what was about 
+\shape italic
+getting Sue medical help
+\shape default
+, I contemplated calling Carlisle instead.
+ Carlisle had more medical expertise.
+ If I told him what was going on, he'd probably take the time off work and
+ show up and help Sue.
+ He couldn't read her mind and find an argument that would convince her
+ to accept what she 
+\shape italic
+most
+\shape default
+ needed, but he was a charismatic and pleasant enough person that he might
+ have a shot at it anyway.
+ I ignored for the purposes of the thought experiment the fact that Edward
+ could read 
+\shape italic
+Carlisle's
+\shape default
+ mind, and therefore bringing Carlisle into the picture would be two people
+ learning about the wolves and the Clearwaters' predicament, not just one.
+ 
+\end_layout
+
+\begin_layout Standard
+I found, predictably enough, that I was less enthusiastic about calling
+ Carlisle.
+ Or, when I tried another substitution, Rosalie.
+ I just wasn't as keen on hauling them into the situation.
+ Partly, I felt less entitled to their time -- while they'd really be coming
+ for Sue, not me, the entire issue was ultimately my own fault since I'd
+ activated the wolf who'd mauled the man I'd had to turn who'd knocked up
+ his wife with a dangerous baby.
+ 
+\end_layout
+
+\begin_layout Standard
+I decided that was silly, disregarded it, and identified the other reason
+ I didn't feel much like phoning them besides their mere non-Edwardness.
+ If I had to bring in someone other than my very own Edward, then 
+\shape italic
+I
+\shape default
+ wasn't personally handling the situation.
+ It wasn't just that I wasn't entitled to ask them for help.
+ If I told them I felt that way they -- well, Carlisle at least, perhaps
+ not Rosalie -- would think I was being silly and that of course I could
+ ask for whatever I needed.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward, on the other hand, felt and acted like almost an extension of myself.
+ I didn't even think he'd dispute the description.
+ If I got 
+\shape italic
+Edward
+\shape default
+ to help me with something, it still felt like I had accomplished the something
+ -- I had this impression about my ability to keep my whereabouts secret
+ even though he was covering my continent-hopping.
+ 
+\end_layout
+
+\begin_layout Standard
+With all of this sifted out, I came to the conclusion that I didn't 
+\shape italic
+actually
+\shape default
+ think it was important to force medical interventions on Sue that she wouldn't
+ accept when offered.
+ It was also beginning to look like she was not capable of being convinced.
+ I'd known that earlier, really, or I would have sided with Becky and I
+ would have found some way to physically prevent Sue from telling Charlie
+ anything when threatened.
+ (For instance, it would not have been at all difficult to take away her
+ phone, and her kids had already started chasing him off from attempting
+ to visit her in person.) So, no Edward.
+ Or at least no physical presence of Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+I called him again.
+\end_layout
+
+\end_body
+\end_document
