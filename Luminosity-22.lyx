@@ -1,0 +1,1733 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{21}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Maggie
+\end_layout
+
+\begin_layout Standard
+When we arrived back in Norway, Gianna's egg-harvesting surgery had been
+ and gone; hers were in the freezer next to mine.
+ I went up to one of the computers in the bank of shared ones, rather than
+ running to my cottage to boot up my laptop.
+ I had another heap of e-mails from my parents and Rachel, and one reply
+ from Angela saying she'd relayed my news to everyone and they all wished
+ me well.
+\end_layout
+
+\begin_layout Standard
+Rachel had sent an e-mail that was very depressing.
+ Emily and Leah had gotten into a fight.
+ This was all it had taken to push Emily teetering over the edge of the
+ fence she'd been sitting regarding Sam.
+ She ran straight to his arms, leaving Claire in an eager Quil's care for
+ a couple of days.
+ (Claire had spent one week home with her parents before being farmed out
+ to her Aunt Emily again; this hiatus had made Quil very miserable but didn't
+ appear to do him physical harm, and he perked up again when she returned.)
+\end_layout
+
+\begin_layout Standard
+Leah was enraged.
+ She picked fights with anyone and everyone -- her brother, often, but everyone
+ in the pack had gotten into at least one tussle with her except Rachel
+ (who could order her to stand down) and Sam.
+ Fast healing prevented this from being too much of a danger, but didn't
+ make the doubly betrayed Leah more pleasant to be around.
+ When Sam went wolf, she de-wolfed.
+ At all costs she avoided sharing his thoughts.
+ She stayed otherwise isolated from everyone except her mother, who was
+ undergoing a loosely comparable distress.
+\end_layout
+
+\begin_layout Standard
+Rachel had nominated Leah to test the pack's range, and Leah had run all
+ the way to Canada (but not near Denali, thankfully).
+ There was no noticeable delay, static, or loss of fidelity to the telepathy.
+ Moving away wouldn't free her from the torment.
+ Even if she scrupulously avoided direct mental contact with Sam, she couldn't
+ help but get it secondhand from the others in the pack.
+\end_layout
+
+\begin_layout Standard
+I thanked Rachel, asked her to keep me posted, and reminded her to let me
+ know if she or the pack needed anything.
+ I couldn't think of anything helpful to do about the Leah/Sam/Emily mess
+ except to feel vaguely guilty.
+ At least with the evidence stacking up that only male wolves could imprint,
+ Becky's marriage was safe -- unless the other accumulated stresses of activatio
+n and the move and her husband's departure from his career fractured it
+ themselves.
+\end_layout
+
+\begin_layout Standard
+I wrote my obligatory replies to my parents, but had no new European countries
+ to tell them about; I told them we were in Norway and in the process of
+ deciding where to go next.
+ I confirmed for Charlie that I didn't plan to go back to Forks -- or for
+ that matter the United States -- and attend high school in the new school
+ year.
+\end_layout
+
+\begin_layout Standard
+Inbox unburied, I scanned my mental list of projects.
+ I figured it was a fine time to start building an immunity to Jasper, to
+ see if I could expand my power that way.
+ I closed my eyes and tried to shift my thinking.
+\end_layout
+
+\begin_layout Standard
+I'd been 
+\emph on
+told
+\emph default
+ that he operated on a physical level.
+ Breathing, pulse rate, maybe hormones.
+ But he could work equally well on vampires and humans.
+ (He tended to get better 
+\emph on
+results
+\emph default
+ from humans, but that was because their emotions were weaker and more malleable
+, not because he worked extra-forcefully on them.) Vampires had no pulses.
+ Vampires could quit breathing at any time.
+ I hadn't found either of these things to be major components in my experience
+ of emotions.
+ If we had hormones at all, it wasn't clear how they'd work -- with no bloodstre
+am to carry them, what would make them work?
+\end_layout
+
+\begin_layout Standard
+From what I'd been told, Jasper didn't work 
+\emph on
+overtly
+\emph default
+ on any of these physical signals, either -- he didn't say to himself “now
+ I will calm this target's heart rate” or “more dopamine is called for here”.
+ He sensed and manipulated emotions 
+\emph on
+directly
+\emph default
+.
+ While he thought of it as 
+\emph on
+functioning
+\emph default
+ on a physical level, that wasn't how he interacted with his own power.
+\end_layout
+
+\begin_layout Standard
+So it was rather strange that I wouldn't be immune to him to start with.
+ It was probably a very borderline thing, and the very unconsciousness of
+ what I did was likely working against me.
+ Perhaps if I just concentrated...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+My emotions are part of my mind
+\emph default
+, I thought.
+ 
+\emph on
+As much as my conscious thoughts, which Edward cannot hear and Aro cannot
+ read.
+ As much as my sensory experience, which Jane and Alec cannot alter.
+ As much as my status as a person, which Harry cannot detect.
+ Considerably 
+\emph default
+more
+\emph on
+ than my 
+\emph default
+electrical systems
+\emph on
+, which Kate cannot overload.
+\end_layout
+
+\begin_layout Standard
+I repeated this to myself several times, and then the door burst open.
+ I opened my eyes, and a horrified Jasper was standing at the threshold.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+He was looking at me rather like Harry had -- like something about me was
+ 
+\emph on
+wrong
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did it work?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked mildly.
+\end_layout
+
+\begin_layout Standard
+“Bella, what in the hell did you do?” demanded Jasper.
+ Edward appeared behind him and shoved past to stand between us, and this
+ was a little alarming, because it seemed to indicate that there might be
+ some danger to me 
+\emph on
+from Jasper
+\emph default
+, which Edward had heard.
+\end_layout
+
+\begin_layout Standard
+“Well,” I said, flicking my gaze between Jasper and Edward, “it didn't make
+ 
+\emph on
+sense
+\emph default
+ that you could detect my emotions, so I just...
+ thought about that for a while.”
+\end_layout
+
+\begin_layout Standard
+Jasper was looking at me like I was some kind of grotesque vampire-shaped
+ robot occupying the uncanny valley of personhood.
+ “I can't feel 
+\emph on
+anything
+\emph default
+ from you anymore,” he almost gagged.
+ “It's like you're a hole in the air.”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry if it makes me hard to be around...” I was looking at Jasper's scars.
+ He looked very, very scary when he was mad.
+ To have that many scars, a lot of vampires had tried and failed to kill
+ him -- the same number that must have died, or nearly, in the attempt.
+\end_layout
+
+\begin_layout Standard
+“Turn it off,” Jasper demanded.
+\end_layout
+
+\begin_layout Standard
+“I'm not sure if I can,” I said honestly.
+\end_layout
+
+\begin_layout Standard
+“Jasper, 
+\emph on
+calm down
+\emph default
+,” said Edward in a soft, dangerous voice.
+\end_layout
+
+\begin_layout Standard
+“It was bad enough when it was only you, Edward!” exclaimed Jasper.
+ “Don't think I've forgotten how much that infuriated you -- and then Alice
+ started losing her -- and now I can't get one 
+\emph on
+hint
+\emph default
+ of emotion off her -- we rely on our powers to keep ourselves 
+\emph on
+safe!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+I was tempted to make some snide remark about how my power was doing a great
+ job of keeping 
+\emph on
+me
+\emph default
+ safe, but I didn't actually feel that way; sure, Jasper couldn't magically
+ detect my feelings anymore, but he hadn't been a danger to me before, and
+ now he well might be.
+ I kept my mouth shut and let Edward handle it.
+\end_layout
+
+\begin_layout Standard
+“This is 
+\emph on
+Bella
+\emph default
+,” Edward reminded Jasper in a level, cool voice, still interposing himself
+ between us.
+ “She is my 
+\emph on
+wife
+\emph default
+, she is 
+\emph on
+your
+\emph default
+ sister, you don't need to keep 
+\emph on
+tabs
+\emph default
+ on her or be able to manipulate her emotions to defend us.
+ She is 
+\emph on
+one of
+\emph default
+ us.”
+\end_layout
+
+\begin_layout Standard
+“She's still a newborn,” said Jasper, but he was grasping at straws.
+\end_layout
+
+\begin_layout Standard
+“She's no ordinary newborn, you 
+\emph on
+know
+\emph default
+ that,” said Edward forcefully.
+ “Calm.
+ Down.
+ Now.”
+\end_layout
+
+\begin_layout Standard
+Jasper snarled.
+ Where was Alice? Why wasn't she there, reining in her husband? He listened
+ to her -- was Rachel about to e-mail again, was I blacking out the entire
+ room? I darted my hand out and quit the program; neither Jasper nor Edward
+ was facing in a direction that would have let them see my mail, but it
+ would have appeared in my peripheral vision.
+ Neither reacted noticeably to the action.
+\end_layout
+
+\begin_layout Standard
+Sure enough, a tense four seconds later, Alice popped up behind Jasper.
+ “Jazz,” she said reproachfully, touching his arm.
+\end_layout
+
+\begin_layout Standard
+He relaxed marginally, but didn't look at her.
+ “Turn it off,” he said again, hissing under the words.
+\end_layout
+
+\begin_layout Standard
+“I don't know if I can,” I repeated.
+\end_layout
+
+\begin_layout Standard
+“Try,” insisted Jasper.
+\end_layout
+
+\begin_layout Standard
+I braced myself, and shook my head.
+\end_layout
+
+\begin_layout Standard
+Even Alice looked a little surprised at that, although Edward seemed to
+ have expected it.
+ “Why?” asked Jasper tightly.
+ “Bella, I can't even -- it's like you're a 
+\emph on
+robot
+\emph default
+ or something, I'm not getting flat affect or something neutral like that,
+ there's just 
+\emph on
+nothing
+\emph default
+.
+ You disappeared.”
+\end_layout
+
+\begin_layout Standard
+“I understand,” I said, quiet.
+ “But I'm trying to 
+\emph on
+expand
+\emph default
+ my shield, not diminish it.
+ Besides,” I added cautiously, “would you believe me if I tried, and then
+ told you I couldn't?”
+\end_layout
+
+\begin_layout Standard
+Jasper growled at me, and Edward's hands clenched.
+ Alice danced from toe to toe, looking nervous.
+ “Jazz, honey,” she said, tugging on Jasper's arm.
+ “This isn't worth a fight.”
+\end_layout
+
+\begin_layout Standard
+He took one long step backwards, then turned away and let Alice lead him
+ down the stairs and out of the house.
+ Edward didn't relax until a second after I couldn't hear them anymore.
+ Then most of the tension drained out of him and he turned towards me, dropping
+ down on one knee so he could hug me where I was sitting at the computer.
+\end_layout
+
+\begin_layout Standard
+“I didn't realize he'd react like that,” I murmured, winding my arms around
+ Edward.
+\end_layout
+
+\begin_layout Standard
+“I didn't either,” Edward said.
+ “Or I would have warned you when you first mentioned it.
+ But I should have guessed.
+ He's very sensitive to the climate of emotion around him, and he's never
+ found anyone he couldn't get a signal from...
+ some people are more or less resistant to the active half of his power,
+ and he might have tolerated it better if it were just that, but there's
+ no variation save for you with the passive half.”
+\end_layout
+
+\begin_layout Standard
+“It's like Harry,” I said, “but worse -- I don't 
+\emph on
+live
+\emph default
+ with Harry.”
+\end_layout
+
+\begin_layout Standard
+Edward stood up and kissed the top of my head.
+ “You don't technically live with Jasper, either.
+ We have our own house.”
+\end_layout
+
+\begin_layout Standard
+I nodded and got to my feet.
+ “Do you think he'll get used to it?” I asked, going with Edward out of
+ the computer room and downstairs to head to our cottage.
+\end_layout
+
+\begin_layout Standard
+“I think so,” he soothed.
+ “Alice will help.
+ She was frightened when you first blanked out of her visions, but she took
+ it much better than Jasper is after she confirmed that you were safe.”
+\end_layout
+
+\begin_layout Standard
+“But she can still see me sometimes,” I said.
+\end_layout
+
+\begin_layout Standard
+“That's true,” said Edward, a little troubled.
+ “I don't understand why that should be...
+ everyone else you block, you block consistently.”
+\end_layout
+
+\begin_layout Standard
+“Hm,” I said.
+ If I pretended to speculate, I might give something away about the real
+ reason behind Alice's spotty vision.
+ I could have tried to add her to my immunities, but she was far too useful
+ -- if she could never see me at all, I lost a huge well of information.
+ And I really 
+\emph on
+didn't
+\emph default
+ know if I could turn my shield, or part of it, off.
+\end_layout
+
+\begin_layout Standard
+Edward speculated for me.
+ “I suppose only some visions you feature in heavily involve your thinking
+ and its consequences,” he said.
+ “I haven't noticed a pattern like that in what Alice does and doesn't see,
+ but then, I can't tell what you're thinking.”
+\end_layout
+
+\begin_layout Standard
+I shrugged.
+ Then my phone rang.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+“Hi, Bella!” said a cheery, Irish-accented voice when I answered the phone.
+\end_layout
+
+\begin_layout Standard
+“Maggie?” I asked, bewildered.
+\end_layout
+
+\begin_layout Standard
+“That's me! I've been trying to call you for a week now!”
+\end_layout
+
+\begin_layout Standard
+“I was in a place with lousy reception,” I said.
+ The jungle was nothing if not that.
+ I'd been able to keep my phone charged via occasional stops in cities with
+ publicly available electrical outlets, but that didn't mean anyone had
+ been able to actually reach me without leaving a message.
+\end_layout
+
+\begin_layout Standard
+“I would have called Carlisle or somebody instead but I figured if you weren't
+ answering there was probably some stuff up with your coven,” she said.
+\end_layout
+
+\begin_layout Standard
+“It was just me and Edward who were away; everyone else was home,” I said.
+ “But we're all here now.
+ What is it you wanted to talk about?”
+\end_layout
+
+\begin_layout Standard
+“Well,” Maggie said, “I want to visit.”
+\end_layout
+
+\begin_layout Standard
+I blinked, and Edward, who could hear both sides of the conversation easily
+ enough, did too.
+\end_layout
+
+\begin_layout Standard
+“You want to visit?” I said.
+ I didn't think I'd misheard, but it was a hard convention to break: when
+ astonished, confirm astonishing fact.
+\end_layout
+
+\begin_layout Standard
+“Yeah!” said Maggie brightly.
+ “Just me, not Siobhan and Liam.”
+\end_layout
+
+\begin_layout Standard
+“Uh, Maggie, we really can't have people going missing near where we live,”
+ I said.
+\end_layout
+
+\begin_layout Standard
+“No, that's fine,” she said.
+ “I ate a badger last week, and I think I've got the hang of it.”
+\end_layout
+
+\begin_layout Standard
+“It's not quite that simple,” I said.
+ “One badger, when you've been eating humans for more than a century, doesn't
+ mean you're a vegetarian overnight.” Truthfully, I thought she was practiced
+ enough to cover her hunting even if she went back to eating humans.
+ But Gianna was still living with the family.
+\end_layout
+
+\begin_layout Standard
+“Well, I won't hunt any humans in 
+\emph on
+your territory
+\emph default
+, anyway,” said Maggie.
+ “That's just obvious.
+ I can go to Sweden or something when I'm hungry if I decide animals aren't
+ for me.
+ Which I guess they might not be, I mean, badger blood, ick, but it wasn't
+ 
+\emph on
+that
+\emph default
+ bad and it definitely wasn't my mate, right?”
+\end_layout
+
+\begin_layout Standard
+“Right,” I said dubiously.
+ “Um, well, I can't really 
+\emph on
+stop
+\emph default
+ you from visiting, but...
+ uh...
+ Maggie, I have a...
+ a pet human.” I didn't know how else to summarize the situation believably
+ to someone who thought of humans the way Maggie appeared to.
+ “You can't eat her.
+ I don't know if I can trust you around her.”
+\end_layout
+
+\begin_layout Standard
+“You have a 
+\emph on
+pet human?
+\emph default
+” asked Maggie, squealing over this quaintness the way I'd expect Renée
+ to exclaim about someone having a sugar glider or a domesticated fox.
+\end_layout
+
+\begin_layout Standard
+“She's not really a 
+\emph on
+pet
+\emph default
+, but she lives here and Aro basically gave her to me and I'm not allowed
+ to let her go, and...
+ it's a really long story,” I said.
+ “But she is 
+\emph on
+absolutely not for eating
+\emph default
+, and I don't know whether I can expect you to 
+\emph on
+absolutely not eat her
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“I will 
+\emph on
+absolutely not eat her
+\emph default
+,” swore Maggie.
+ “Up till the badger I was doing really well at the only eating men thing,
+ too! It's like, women don't even look like food anymore, you know what
+ I mean?” She sounded so pleased with herself.
+ “It's two whole layers of not eating your human.
+ So I'm not going to hurt your pet, Bella, it's okay!”
+\end_layout
+
+\begin_layout Standard
+“All right,” I said, shrugging.
+ I'd give Ilario a heads up, but he practically supervised Gianna all the
+ time anyway; he wouldn't be significantly inconvenienced by serving as
+ her bodyguard.
+ “I'll let the others know that you're planning to visit, then.”
+\end_layout
+
+\begin_layout Standard
+“See you soon, Bella!” said Maggie.
+\end_layout
+
+\begin_layout Standard
+I hung up the phone.
+ “That,” I said, “is going to be interesting.”
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Ilario was on high alert the moment I told him Maggie was coming.
+ He bristled when I said that I'd described Gianna as my “pet human
+\begin_inset Quotes erd
+\end_inset
+
+, although Gianna herself didn't seem that bothered -- it was a step up
+ from the Volturi, at any rate.
+ But Ilario said he'd keep a close eye on Gianna and make sure Maggie didn't
+ try to eat her.
+\end_layout
+
+\begin_layout Standard
+“If,” I said, “something does happen -- I don't think it will, Ilario, but
+ 
+\emph on
+if
+\emph default
+ -- you have 
+\emph on
+got
+\emph default
+ to hold your breath.
+ I got a whiff of human blood in the Amazon and it was...
+ I wasn't ready for it.
+ You're not ready for it now.
+ Fight Maggie off of Gianna if you have to until someone comes to help,
+ but 
+\emph on
+don't breathe
+\emph default
+.” He accepted this instruction solemnly.
+\end_layout
+
+\begin_layout Standard
+Edward found Jasper and Alice for me and told them, giving the empath some
+ more time away from my unsettlingly non-emotional presence.
+ I informed Carlisle, Esme, Rosalie, and Emmett.
+ Carlisle seemed impressed that I'd gotten a non-vegetarian to go so far
+ as to try eating an animal, although I wasn't sure how much of it was my
+ own doing and how much of it was Maggie's native curiosity.
+ Emmett was disappointed that Maggie was coming alone, as she wasn't as
+ interesting a partner for sparring as Siobhan.
+\end_layout
+
+\begin_layout Standard
+Maggie arrived on a Tuesday, having swum most of the way and climbed up
+ the nearest fjord.
+ Her curls were still wet when she found our house.
+ Rosalie was up on the roof and the first to see her coming, but everyone
+ knew by the time she entered the yard, and I was waiting to greet her;
+ Ilario was with Gianna, indoors.
+\end_layout
+
+\begin_layout Standard
+“Hi, Bella!” said Maggie with a great big smile.
+ Her eyes were a bright gold, as expected if she hadn't eaten any humans
+ since her badger.
+ She'd probably eaten an animal more recently, though, as the gold was quite
+ light and not darkened with hunger -- so it was possible it had gone badger,
+ human, some other animal.
+ There was no way for me to be sure.
+\end_layout
+
+\begin_layout Standard
+“Hi, Maggie,” I replied.
+ “Uh, welcome to our home.”
+\end_layout
+
+\begin_layout Standard
+“This is a big house,” she remarked.
+ “I guess there are a whole lot of you.
+ Does your pet live here or do you put her someplace else?” She peered around
+ with more physical movement than was really necessary, turning her head
+ to look at things that she could have seen peripherally and standing on
+ her toes for negligible improvements in vantage point.
+ It made her look excitable, maybe a few years younger than she physically
+ was.
+ (When she held still and I corrected for vampirism, I guessed she'd been
+ twenty-five when turned.)
+\end_layout
+
+\begin_layout Standard
+“She lives in this house,” I said.
+ “Edward and I actually have our own cottage, that way.” I waved in the relevant
+ direction.
+ “Everybody else is based here, including Gianna.
+ That's her name.”
+\end_layout
+
+\begin_layout Standard
+“Gi-an-na,” said Maggie, tasting the word.
+ “Pretty.
+ I want to hear your long story about how you got a pet human! It's so weird,
+ I've never heard of anybody keeping one before.”
+\end_layout
+
+\begin_layout Standard
+I was beginning to regret that description very much.
+ “She's really not a 
+\emph on
+pet
+\emph default
+,” I said.
+ “It's just that I'll be in trouble with the Volturi if she goes off by
+ herself, so she lives here for now.”
+\end_layout
+
+\begin_layout Standard
+“I want the story anyway,” said Maggie implacably.
+\end_layout
+
+\begin_layout Standard
+I told it to her, although I skimped on the exact reasoning behind why I'd
+ chosen to designate Gianna as a surrogate mother; better to let that sound
+ to outside parties like a deeply held desire instead of a way to save Gianna's
+ life.
+ I'd cozied up to the idea of having a baby over time, but when I'd first
+ said it, it hadn't been my favorite plan ever -- but Maggie didn't have
+ to know that.
+ Even if I wasn't immune to her power, she couldn't detect lies by omission.
+\end_layout
+
+\begin_layout Standard
+The Irish vampire was absolutely tickled by the entire thing.
+ “So cute!” she cried when I'd signaled the conclusion of the explanation.
+\end_layout
+
+\begin_layout Standard
+I decided it was wise to check whether Maggie could tell when I was lying,
+ with something that no one, even my family, would be able to call me on.
+ “She mostly looked scared, not cute, when I told her I was bringing her
+ home,” I said.
+ “But once I got her calmed down it took her just twenty minutes to get
+ packed.” It had been eighteen, but Gianna hadn't timed it and wouldn't remember
+ that precisely if she had.
+\end_layout
+
+\begin_layout Standard
+Maggie didn't so much as twitch.
+ “That's a long time,” she pointed out.
+\end_layout
+
+\begin_layout Standard
+“For a human it's not.
+ I think she left some things behind, she was in such a hurry to get out.”
+\end_layout
+
+\begin_layout Standard
+“The Volturi must sure have scared her,” cooed Maggie.
+ Like she was talking about a kitten, who could be soothed with petting.
+ Although I supposed a kitten wouldn't find a vampire's petting to be soothing
+ at all; animals hated being around vampires.
+\end_layout
+
+\begin_layout Standard
+“Yep,” I said.
+ “That'll happen when people you can't effectively oppose plot your death.”
+\end_layout
+
+\begin_layout Standard
+“I want to meet her,” said Maggie decisively.
+\end_layout
+
+\begin_layout Standard
+“I'm not sure that's a good idea...” I began.
+ I hadn't explained about Ilario's fraternal status; as far as Maggie knew
+ our coven consisted of four mated pairs, one miscellaneous newborn of unknown
+ provenance, and one pet Gianna.
+\end_layout
+
+\begin_layout Standard
+“I told you I wasn't going to eat her!” interrupted Maggie, and I gritted
+ my teeth.
+\end_layout
+
+\begin_layout Standard
+“Don't,” I said, “interrupt me.
+ That's a good way to seriously annoy me.”
+\end_layout
+
+\begin_layout Standard
+“Oh,” said Maggie, eyes open very wide.
+ “I'm sorry.
+ But I'm not going to eat her, really.
+ Why else would it be a bad idea?”
+\end_layout
+
+\begin_layout Standard
+“Because Ilario -- that's the newborn -- probably wouldn't like it.
+ He's very protective of her,” I said.
+ “And he knows you are not a lifelong vegetarian.
+ He barely trusts himself around her, and he's never eaten a human since
+ turning back in July.”
+\end_layout
+
+\begin_layout Standard
+“Are they mates, or whatever it is when one's a human?” asked Maggie.
+ “Like you and Edward before you turned?”
+\end_layout
+
+\begin_layout Standard
+“No, he's her brother,” I said.
+ “He was dying, and she wanted him saved, so we brought him up here and
+ turned him.”
+\end_layout
+
+\begin_layout Standard
+“Awwww,” said Maggie, obviously finding this outrageously adorable.
+ “But she's yours.
+ Aro gave her to you, not him.
+ So I can meet her if you say so, right?”
+\end_layout
+
+\begin_layout Standard
+I dragged a hand through my hair tiredly.
+ “She's not 
+\emph on
+really
+\emph default
+ my 
+\emph on
+pet
+\emph default
+,” I said.
+ “I don't boss her around or anything.”
+\end_layout
+
+\begin_layout Standard
+“Then her brother shouldn't either,” said Maggie reasonably.
+ “Why don't you ask 
+\emph on
+her
+\emph default
+ if she'll meet me?”
+\end_layout
+
+\begin_layout Standard
+This...
+ I had no ready objection to.
+\end_layout
+
+\begin_layout Standard
+I heard Alice inside, asking Gianna if she wanted to be introduced to Maggie;
+ of course my conversation had been audible to everyone except Gianna herself.
+\end_layout
+
+\begin_layout Standard
+I heard Gianna dithering, and Maggie -- fidgeting, swaying, head-turning
+ Maggie -- went completely still.
+\end_layout
+
+\begin_layout Standard
+Gianna finally said, “All right, then,” and Ilario grumbled and Maggie smiled
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+My pet human, closely followed by her brother, walked out the back door
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And Maggie just stared.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Gianna rapidly became self-conscious under Maggie's fixed attention, and
+ blushed, taking a little half step to get behind Ilario.
+ Ilario stared Maggie down, growling in the back of his throat.
+\end_layout
+
+\begin_layout Standard
+Maggie's gaze flicked to Ilario and became a perturbed glare.
+ She leaned to try to see Gianna around him, but he got in her way, and
+ she made a whining noise.
+ Then Maggie whirled to face me.
+\end_layout
+
+\begin_layout Standard
+“I'll fight you for her,” she said.
+\end_layout
+
+\begin_layout Standard
+There was a second's silence as everyone processed that.
+ More family exited the house to get a closer look at the proceedings.
+ “Um,” I said eloquently.
+ Ilario hissed.
+\end_layout
+
+\begin_layout Standard
+“Or you could just give her to me if you don't want to fight,” wheedled
+ Maggie.
+\end_layout
+
+\begin_layout Standard
+“Not wanting to fight is...
+ only part of the problem with me giving her to you,” I said.
+ Maggie didn't appear to fill in the blanks herself, so I explained.
+ “I know I used the word `pet’ when I first told you about her, but I really
+ shouldn't have, it was just a shorthand for the long story I 
+\emph on
+just
+\emph default
+ told you about why she lives with us.
+ Which story, you'll remember, includes the part where I am not 
+\emph on
+allowed
+\emph default
+ to let her leave.
+ Conveniently, she hasn't been inclined to try, but both I 
+\emph on
+and she
+\emph default
+ could be in a bad place with the Volturi if they show up and find that
+ I'm not at least sort of supervising her.
+ Even if she actually belonged to me, and I was comfortable doing whatever
+ I wanted with that, there's Ilario.” I pointed him out.
+ “He's kind of attached to her.
+ I don't think he likes the idea of you taking possession of his sister
+ much.
+ He probably wouldn't stop Gianna if 
+\emph on
+she
+\emph default
+ tried to leave -- I'd need to do that myself -- but unless she says otherwise
+ he's acting as her protector.”
+\end_layout
+
+\begin_layout Standard
+Ilario hissed at Maggie again, confirming this guess.
+\end_layout
+
+\begin_layout Standard
+“But I want her,” said Maggie, as though nothing I'd said had sunk in at
+ all.
+\end_layout
+
+\begin_layout Standard
+The entire population of the house was scattered around the lawn at this
+ point, watching things unfold.
+ Edward turned to Alice.
+ “Was I this ridiculous?” he asked her.
+\end_layout
+
+\begin_layout Standard
+“You were worse,” said Alice placidly.
+\end_layout
+
+\begin_layout Standard
+“Huh?” said Maggie, looking their way.
+\end_layout
+
+\begin_layout Standard
+Alice just smiled, the picture of innocence; Edward strolled around Ilario
+ and Gianna to stand next to me.
+\end_layout
+
+\begin_layout Standard
+Gianna peeped around Ilario's arm to look at Maggie; predictably, this meant
+ that Maggie could see her too, and they held eye contact for a few seconds.
+ Gianna was mostly confused, green eyes blinking more rapidly than usual;
+ a flush gradually returned to her cheeks.
+ Maggie's hands crept up towards her own face, where they clasped under
+ her chin to accompany an expression that was half enraptured longing and
+ half...
+ anxiety of some kind, maybe just unfamiliarity with the situation.
+ Or she was confused 
+\emph on
+about
+\emph default
+ wanting me to give her Gianna, however certain she was on the fact of the
+ matter.
+\end_layout
+
+\begin_layout Standard
+“I don't understand,” said Gianna softly.
+\end_layout
+
+\begin_layout Standard
+“You're so 
+\emph on
+pretty!
+\emph default
+” exclaimed Maggie, addressing Gianna directly for the first time.
+ Gianna's blush got darker, and Maggie started shifting her weight from
+ foot to foot, perhaps restraining an urge to rush forward and pick up the
+ object of her interest.
+ She looked back to me.
+ “I'll take good care of her,” she pleaded.
+\end_layout
+
+\begin_layout Standard
+Ilario was beginning to look confused himself.
+ He turned his head marginally to be able to see Gianna, a dubious expression
+ on his face.
+ “Refresh my memory,” he said slowly, in Italian, “as to how...
+ exactly...
+ 
+\emph on
+this
+\emph default
+ works.
+ I 
+\emph on
+thought
+\emph default
+ she was trying to get permission to drink your blood, but...”
+\end_layout
+
+\begin_layout Standard
+Gianna shrank away from her brother, taking two steps backward.
+ Maggie didn't seem to understand Italian, but when she saw Gianna leaving
+ the sphere of Ilario's protection, she held out her arms eagerly as though
+ expecting Gianna to run straight to her.
+ She didn't; instead she backed towards Carlisle and Esme, who were close
+ to the house.
+ Ilario didn't move a muscle once she started inching away from him, just
+ stood there looking stunned.
+\end_layout
+
+\begin_layout Standard
+Maggie dropped her arms.
+ “What's going on now?” she asked, sounding lost.
+\end_layout
+
+\begin_layout Standard
+Ilario spun in place and stalked out of the yard, passing me and Edward
+ on his way out.
+ “Look after my sister,” he said through gritted teeth as he went.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+“I didn't tell him,” Gianna said frantically.
+ Rosalie and Emmett had not-so-gently encouraged Maggie to join them for
+ a walk, and Alice and Jasper were looking for Ilario to calm him down,
+ while the rest of us talked to the resident human inside.
+ “It -- it honestly didn't seem to matter, I wasn't seeing anyone and wasn't
+ looking, I didn't want to make some kind of huge civil rights issue out
+ of my relationship with my 
+\emph on
+brother
+\emph default
+ if I didn't have to -- so -- he didn't know.”
+\end_layout
+
+\begin_layout Standard
+“He was surprised,” acknowledged Edward.
+ “I think he'll get over it...
+ but this wasn't the best way for him to find out.”
+\end_layout
+
+\begin_layout Standard
+“It's not even as though I had a secret girlfriend all along and he caught
+ us together!” cried Gianna.
+ “I'd never seen Maggie once before today!”
+\end_layout
+
+\begin_layout Standard
+“I don't think Maggie meant to hurt you, sweetheart,” soothed Esme.
+ “She didn't know.”
+\end_layout
+
+\begin_layout Standard
+“That said,” I put in, “we need to figure out what to do about her.
+ And Gianna, that's mostly up to you.”
+\end_layout
+
+\begin_layout Standard
+“But I don't know,” said Gianna.
+ “I don't know hardly anything about her -- she just showed up -- I mean,
+ she's beautiful, of course she is, she's a vampire, but she also talked
+ 
+\emph on
+about
+\emph default
+ me while I was standing right there like I was the family dog or something.
+ And she used to eat people, she might do it again...”
+\end_layout
+
+\begin_layout Standard
+“She is new to vegetarianism, and for that matter to thinking of humans
+ as people,” said Carlisle gently, “but if anything can keep her on course,
+ you can, Gianna.”
+\end_layout
+
+\begin_layout Standard
+“That's a hell of a responsibility to put on her,” I said.
+ “Gianna, if Maggie kills people, 
+\emph on
+she
+\emph default
+ kills people -- not you.
+ She ate her first animal without knowing you existed; if she eats her eight
+ thousandth human 
+\emph on
+after
+\emph default
+ knowing you exist, that doesn't make you any more guilty for that death
+ than for the last seven thousand nine hundred and ninety-nine.
+ Or however many.” Gianna nodded mutely; Esme patted her on the back with
+ an encouraging smile.
+\end_layout
+
+\begin_layout Standard
+“That said,” I went on, “if you want to be with her, or give it a try, or
+ whatever, it still has to be here or at least compatible with me and Edward
+ tagging along -- I've had to visit the Volturi without extensive advance
+ planning for it twice now.
+ If I run into them again unexpectedly during the next ten months, I don't
+ want you or me or anybody dying over you moving to Ireland when you're
+ supposedly my `gift’ from Aro.
+ It was one thing to leave you behind while we went to South America, surrounded
+ by people the Volturi know are our coven and at our known address; sending
+ you off with Maggie would be something else entirely.”
+\end_layout
+
+\begin_layout Standard
+“I understand.
+ I'm not planning to run away,” Gianna said.
+ “I've heard them conducting `trials’ before...
+ I don't want to be the defendant.”
+\end_layout
+
+\begin_layout Standard
+“And I, for one, am going to cast a solid 
+\emph on
+no
+\emph default
+ vote on tolerating a non-vegetarian in the family the way the Denalis are
+ putting up with Laurent,” I said.
+ “This is not as sticky a situation as that: Gianna's a human and not subject
+ to the same impulses.
+ She won't fly into a rage if something happens to Maggie.
+ Right?” I asked, looking to Gianna.
+ “If I go outside and find that Maggie's kidnapped some Norwegians and is
+ snacking on them and some are still alive and salvageable, it's okay with
+ you if I have to attack her to make her quit?”
+\end_layout
+
+\begin_layout Standard
+Gianna nodded, although she looked a little queasy.
+\end_layout
+
+\begin_layout Standard
+“So...
+ if Gianna decides to `give it a try’ with Maggie, you propose that we de
+ facto add Maggie to the family until she slips up?” asked Edward.
+\end_layout
+
+\begin_layout Standard
+“Not `slips up’...
+ anyone can do that.
+ It's awful and we should avoid it.
+ But once it actually happens, then it's not necessarily a great predictor
+ of future behavior in vampires who've already eaten humans, which Maggie
+ has.
+ If she 
+\emph on
+decides
+\emph default
+ to eat humans again, then that's it.”
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ “The good news is that Maggie is very trustworthy once pinned down to a
+ commitment.
+ Her power didn't come out of nowhere -- she has a solid respect for the
+ truth and prides herself on honesty and keeping her promises.”
+\end_layout
+
+\begin_layout Standard
+“That's a relief,” I said.
+ “But this is all 
+\emph on
+if
+\emph default
+ Gianna decides she's up for it.
+ You don't have to, Gianna,” I told her.
+ “You're free to accept or reject Maggie -- now, or later, or whatever you
+ like.
+ I'm not entirely sure what will happen after you turn if you don't see
+ her once you're a vampire, but at least for now, the ball's in your court
+ -- on turning as well, for that matter, although personally I still recommend
+ it unless you 
+\emph on
+really
+\emph default
+ don't care for Maggie.
+ But you don't 
+\emph on
+have
+\emph default
+ to.”
+\end_layout
+
+\begin_layout Standard
+“Thank you, Bella,” said Gianna in a low voice.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family typewriter
+***
+\end_layout
+
+\begin_layout Standard
+Edward and I went looking for Maggie.
+ She was still with Emmett and Rosalie, who were standing nearby looking
+ respectively amused and bored while our visitor sat on the edge of a fjord
+ staring dejectedly at the water.
+\end_layout
+
+\begin_layout Standard
+When we approached, Maggie perked up at once and sprang to her feet.
+ “What'd she say? Can I talk to her?”
+\end_layout
+
+\begin_layout Standard
+“She hasn't decided yet,” I said levelly.
+\end_layout
+
+\begin_layout Standard
+Maggie actually hopped up and down in frustration.
+ “This isn't fair! It's not supposed to be 
+\emph on
+complicated!
+\emph default
+ When Siobhan found Liam she didn't have to work hard to convince him to
+ leave his old coven and even fight them off, let alone to be with her at
+ all! Why'd she have to still be a human? Can't you just turn her and make
+ it simple?”
+\end_layout
+
+\begin_layout Standard
+“Not now, I can't,” I said.
+ “She can't carry a baby if she's a vampire, which I already 
+\emph on
+told you
+\emph default
+ she has to do if Aro's going to be kept from dealing some extra death.
+ Anyway, that's her own choice too, if she wants to turn.
+ She's liked the idea in the past, but if she decides she doesn't care for
+ 
+\emph on
+you
+\emph default
+, then she might decide against it specifically for that reason.”
+\end_layout
+
+\begin_layout Standard
+Maggie threaded her fingers between her brightly orange ringlets and moaned.
+ “But she's supposed to be mine! Why shouldn't she want me? Aren't I nice?”
+\end_layout
+
+\begin_layout Standard
+“That's been my impression, but Gianna's entitled to her own.”
+\end_layout
+
+\begin_layout Standard
+Emmett and Rosalie were moving off now that Edward and I were there to chaperone.
+ Maggie flopped onto her back, as though about to make an angel impression
+ in the rock.
+ (I decided to see later if that was something I could do practically or
+ if it would be inefficient.) “I don't know what to do!” she wailed.
+ “I can't just 
+\emph on
+not have her
+\emph default
+, that's not okay at all.”
+\end_layout
+
+\begin_layout Standard
+“You might want to ask Alice for help,” I suggested.
+ “Edward needed instructions on how to approach me, and that worked out.
+ But even if she gives you guidelines and you follow them all perfectly,
+ I can't 
+\emph on
+guarantee
+\emph default
+ you that Gianna will be interested.”
+\end_layout
+
+\begin_layout Standard
+“Well, where's Alice, then?” asked Maggie gamely.
+\end_layout
+
+\begin_layout Standard
+“Back at the house, now,” said Edward.
+ “She left Jasper and Ilario to talk by themselves.”
+\end_layout
+
+\begin_layout Standard
+Maggie ran towards the house, but Edward got in her way.
+ “Gianna hasn't made up her mind yet,” he said.
+ “I wouldn't advise you to show up where she is until that's changed.
+ Alice is on her way here.”
+\end_layout
+
+\begin_layout Standard
+Maggie pouted, but stomped her way back to the edge of the fjord to wait
+ for Alice.
+ The little spiky-haired vampire arrived a few seconds later, and said,
+ “So, I don't believe we've been properly introduced! I'm Alice, and it's
+ nice to meet you, Maggie.”
+\end_layout
+
+\begin_layout Standard
+“Nice to meet you too,” said Maggie.
+ “What do I have to do?”
+\end_layout
+
+\begin_layout Standard
+“First of all,” said Alice, “don't eat anybody.
+ Gianna is quite forgiving, but that 
+\emph on
+also
+\emph default
+ means she'll forgive Bella if you eat someone and Bella kills you, and
+ then where would you be?”
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Dead, presumably,” said Maggie, flicking her eyes in my direction.
+ I actually doubted I could beat Maggie in a one-on-one fight to the death,
+ since she was a lot older and more experienced than I was and that could
+ overwhelm the advantage of newborn strength, but of course I wouldn't be
+ alone if it came to that.
+\end_layout
+
+\begin_layout Standard
+“Right, and then that wouldn't be at all conducive to you and Gianna living
+ happily ever after,” said Alice reasonably.
+ “So don't eat anybody.
+ And you really need to work on the thing where you talk about or to Gianna
+ like she's not a person.
+ You've got way more leeway than Edward had when he was trying to court
+ Bella, but it's not infinite.
+ Don't act or talk like Bella owns Gianna.
+ Don't act like the only obstacles to you carrying Gianna over the horizon
+ to have your way with her are Bella or Ilario or any of the rest of us
+ -- what Gianna wants has to matter to you too.
+ Get on Ilario's good side if you can or at least make a sincere effort.
+ Gianna cares what he thinks, and he's only going to stay unsettled by the
+ revelation he got today for a few more hours, tops.”
+\end_layout
+
+\begin_layout Standard
+Maggie hadn't been present for Gianna's explanation of how her brother had
+ reacted, so I had to explain that when the redheaded vampire protested
+ confusion.
+ Then Alice picked up again with more tips.
+\end_layout
+
+\begin_layout Standard
+“You will have to be 
+\emph on
+very careful
+\emph default
+ with her upon being actually allowed to touch her,” Alice said.
+ “You haven't had to handle any creature with a heartbeat intending to let
+ it live before, at least since you turned.
+ But you know they're very easy to hurt.
+ Problem is, it actually matters -- to you, even -- if you hurt Gianna.
+ She's fragile.
+ Don't break her.”
+\end_layout
+
+\begin_layout Standard
+“Of course I'd be careful!” cried Maggie.
+\end_layout
+
+\begin_layout Standard
+“In more than half the futures where she decides to give you a chance, she
+ winds up with a broken bone or worse inside a week,” said Alice flatly.
+ “In ninety percent of futures where you injure her enough that she bleeds,
+ you kill her.” Maggie's jaw dropped.
+ “This isn't a simple matter, Maggie,” Alice continued relentlessly.
+ “You can never 
+\emph on
+stop
+\emph default
+ being careful.
+ You have to always, 
+\emph on
+always
+\emph default
+ pay very close attention and exercise very careful control.
+ 
+\emph on
+One
+\emph default
+ slip is enough to damage her.
+ Two in close succession is enough to kill her 
+\emph on
+at your own hands
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Maggie whined.
+ “I don't want to hurt her,” she whispered.
+\end_layout
+
+\begin_layout Standard
+“Then you have to be careful, constantly, without exception,” said Alice.
+ “If you want to pet her hair, you have to make sure you don't crush her
+ skull.
+ If you want to hold her hand, you have to make sure you don't shatter her
+ knuckles.
+ Et cetera.
+ Even if you don't get to the point of injury, you can cause her pain 
+\emph on
+very
+\emph default
+ easily, so it's not like handling a flower or a piece of paper or something
+ that will be fine as long as you don't cause any visible damage.
+ You cannot, in a burst of affection, hug her as tight as you possibly can.”
+\end_layout
+
+\begin_layout Standard
+Maggie hung her head.
+ “I understand.”
+\end_layout
+
+\begin_layout Standard
+“Future's solidifying a bit in favor of her being okay,” said Alice.
+ “Not all the way, though.
+ It should go without saying that if you seriously hurt Gianna, Ilario will
+ do his best to kill you and he will have help.”
+\end_layout
+
+\begin_layout Standard
+“Well, and he should, if I hurt her!” exclaimed Maggie.
+ “I won't I won't I won't I 
+\emph on
+won't
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“That's better,” said Alice, and Maggie brightened a little.
+ “I think that's enough 
+\emph on
+don'ts
+\emph default
+.
+ She's going to like it when you sing,” Alice supplied with a smug little
+ grin.
+\end_layout
+
+\begin_layout Standard
+Maggie beamed.
+ “I can sing.
+ I can sing all the time if she wants.
+ I know enough songs to fill up a whole year without repeating myself.”
+\end_layout
+
+\begin_layout Standard
+“And I foresee cuteness if you let her teach you Italian,” Alice said.
+\end_layout
+
+\begin_layout Standard
+Maggie nodded eagerly, waiting for more, but that was apparently it for
+ common threads among Alice's happy visions; the tiny psychic shrugged.
+\end_layout
+
+\begin_layout Standard
+“You can't leave with her,” I told Maggie.
+ “If Gianna says she wants you around, Esme's the person to ask about rooming
+ arrangements.”
+\end_layout
+
+\begin_layout Standard
+Maggie looked desperately at Alice.
+ “What's she going to 
+\emph on
+say?
+\emph default
+” she squeaked.
+ “I didn't know any of this before, I just looked at her and -- and my brain
+ was full of exclamation points.
+ I didn't even know what was going on, let alone what to do about it.
+ I don't think I made a very good first impression.
+ Is she going to want me to go away forever? I don't know if I 
+\emph on
+can!
+\emph default
+” She wrung her hands.
+ “What if she says I have to go away and I can't even do that and then Ilario
+ kills me and then later she's a vampire and it turns out that she can't
+ ever love anybody but me? Then she'd be alone forever and she'd be sad!”
+\end_layout
+
+\begin_layout Standard
+“And you'd be dead,” I added helpfully.
+\end_layout
+
+\begin_layout Standard
+“That too!” said Maggie.
+ “But I don't know how I could just go home to Ireland when she's -- she's
+ 
+\emph on
+right there
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“Edward, any tips?” I asked, glancing at my husband.
+\end_layout
+
+\begin_layout Standard
+“Well, it took me longer to realize what I was dealing with than it's taken
+ Maggie,” he chuckled softly, “and I had a sister to send to intercede with
+ you on my behalf.”
+\end_layout
+
+\begin_layout Standard
+“But if you know anything that could help,” Maggie pleaded.
+ “I can't think of anything more important than making this work.”
+\end_layout
+
+\begin_layout Standard
+He pursed his lips.
+ “When I've had to be away from you,” he said, addressing his statement
+ to me but obviously intending that Maggie hear, “what helped me tolerate
+ it was knowing that you were all right.
+ I...
+ didn't do well when I didn't know that.” Alice nodded emphatically; I supposed
+ he'd been dramatically out of sorts when I'd been kidnapped.
+\end_layout
+
+\begin_layout Standard
+“I could occasionally call you and let you know Gianna's safe, even if she
+ wants you gone,” I told Maggie.
+\end_layout
+
+\begin_layout Standard
+“That would be...
+ better than not...” said Maggie unhappily, apparently reluctant to positively
+ label any state of affairs where Gianna wanted her gone.
+\end_layout
+
+\begin_layout Standard
+Alice and Edward both jerked their heads up simultaneously, and Maggie startled
+ with a small 
+\emph on
+eep
+\emph default
+ noise.
+ “She's made up her mind,” announced Alice.
+\end_layout
+
+\end_body
+\end_document
