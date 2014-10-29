@@ -1,0 +1,1899 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Luminosity.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Expectations
+\end_layout
+
+\begin_layout Standard
+Maggie proved very displeased by the idea.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let me get this straight,
+\begin_inset Quotes erd
+\end_inset
+
+ she said indignantly, after we failed to get Gianna alone and explained
+ to both of them at once instead.
+ “
+\shape italic
+Bella
+\shape default
+ said something dumb to Aro under pressure, which means 
+\shape italic
+Gianna's
+\shape default
+ in danger if she doesn't have 
+\shape italic
+Bella's
+\shape default
+ kid.
+ Nowhere in this does it say that the kid has to be 
+\shape italic
+Edward's
+\shape default
+ too.
+ Not if that's going to hurt my Gianna.” 
+\end_layout
+
+\begin_layout Standard
+“Maggie,” said Gianna, “they think I'll be safe -- and it means I'll turn
+ sooner, too...” 
+\end_layout
+
+\begin_layout Standard
+Maggie softened at once when Gianna spoke, turning to the Italian woman
+ and carefully taking one of her hands.
+ “Baby, I want that over with soon too, but you might not make it that far!”
+ she said.
+ “Nobody has before! This is an 
+\shape italic
+experiment
+\shape default
+ they want to try.
+ You're not a guinea pig, baby.” 
+\end_layout
+
+\begin_layout Standard
+“I said I would help,” Gianna murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+“You didn't know when you said so that they'd ask you 
+\shape italic
+this
+\shape default
+! Enough people die having normal babies -- 
+\shape italic
+my
+\shape default
+ own mother did.” 
+\end_layout
+
+\begin_layout Standard
+“I'm sorry to hear that, but that was more than a hundred and fifty years
+ ago,” I said.
+ “Carlisle, Edward, and Rosalie are all doctors.
+ We can have all the advance notice we could possibly need.
+ Every advantage that Nahuel's mother didn't have -- or yours, for that
+ matter.
+ If things take a turn for the worse before the three-week mark we can do
+ the C-section earlier than planned.” 
+\end_layout
+
+\begin_layout Standard
+“I'm getting Ilario, he'll back me up,” said Maggie fiercely, patting Gianna's
+ cheek once and then rushing out of the house to look for him.
+ 
+\end_layout
+
+\begin_layout Standard
+“I take it they're getting along, then?” Edward asked mildly.
+ 
+\end_layout
+
+\begin_layout Standard
+“He'll leave me alone with her as of last week,” Gianna said.
+ 
+\end_layout
+
+\begin_layout Standard
+“And that hasn't changed since you're...
+ kind of black and blue?” I asked.
+ “It's not really my business, I'm sure if there were something seriously
+ wrong it would have been noticed and addressed before now by Ilario if
+ nobody else -- although if I'm wrong please tell me.
+ But if you're getting hurt often it would probably make a pregnancy, any
+ pregnancy, riskier.” 
+\end_layout
+
+\begin_layout Standard
+“Actually,” Gianna said, “Ilario was the first one to give me a bruise.
+ He was upset about something Maggie said.
+ I don't remember exactly what it was, but he grabbed my hand and pulled
+ me away from her.
+ She didn't try to play tug of war or anything.
+ He just squeezed too hard.
+ And then she fussed over me so much that he decided she's no more likely
+ to hurt me than he is.
+ So he thought it would be hypocritical of him to keep spending time around
+ me himself without letting Maggie do it.
+ She's always more upset than I am when I get hurt, anyway.” 
+\end_layout
+
+\begin_layout Standard
+“Still, there are a 
+\shape italic
+lot
+\shape default
+...” I mused.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna shrugged, looking down and blushing again.
+ “She gets carried away, but she stops whatever she's doing right away when
+ I say `ow'.
+ The first time it happened she offered to quit touching me at all so she
+ wouldn't get carried away anymore, but...
+ I said she didn't have to do that.” She squirmed slightly.
+ 
+\end_layout
+
+\begin_layout Standard
+“Right, um,” I said, having wandered into territory that was even less my
+ business.
+ If Gianna was covering up something serious, Edward would know about it
+ and tell me, and he was silent.
+ “She's obviously very concerned with your safety, so that might wind up
+ being what happens anyway for a few weeks -- or months if we have to go
+ the human baby route.” 
+\end_layout
+
+\begin_layout Standard
+“I could mention that to her,” Gianna said lightly.
+ 
+\end_layout
+
+\begin_layout Standard
+“Might help,” I allowed.
+ 
+\end_layout
+
+\begin_layout Standard
+I heard Maggie and Ilario's footfalls as they approached us.
+ A few seconds later, they were there, Maggie promptly sitting back next
+ to Gianna and carefully putting an arm over her shoulders while Ilario
+ stood.
+ 
+\end_layout
+
+\begin_layout Standard
+“Let me get this straight,” Ilario said, and there ensued a conversation
+ very similar to the one we'd had with Maggie, minus the part where Gianna
+ was addressed as “baby” and the part where someone's mother had died in
+ childbirth.
+ 
+\end_layout
+
+\begin_layout Standard
+“I understand you're both worried about me,” Gianna said when this segment
+ of the exchange wound down, “but isn't it my decision?” 
+\end_layout
+
+\begin_layout Standard
+Maggie bit her lip.
+ “Baby, you don't know what it'd do to me if you died.
+ I don't think even I know what it'd do to me, and I already can't stand
+ to think of it.
+ I know it's up to you, but it affects more than just you.” 
+\end_layout
+
+\begin_layout Standard
+Gianna patted Maggie's knee.
+ “But I think it sounds survivable.
+ Also, it gives more of an explanation for why I'm going to be turned.
+ The Cullens have a history of turning dying people -- but not people who've
+ just given birth to a human baby once and are fine.” 
+\end_layout
+
+\begin_layout Standard
+“Aren't I sufficient explanation?” protested Maggie.
+ “Bella wasn't dying, she was just Edward's.” 
+\end_layout
+
+\begin_layout Standard
+I said, “That'd be sufficient explanation if 
+\shape italic
+you
+\shape default
+ had run into her all by herself a year or two ago before she met the Volturi.
+ Now, they think she belongs to me, so 
+\shape italic
+I
+\shape default
+ need a credible reason to turn her.
+ If simply thinking that people ought to be vampires instead of humans when
+ they're willing were a reason the Volturi would accept, I could have just
+ said that in Volterra.” 
+\end_layout
+
+\begin_layout Standard
+“You should've let me fight you for her,” Maggie said.
+ “That would be credible.” 
+\end_layout
+
+\begin_layout Standard
+“I don't think it would have helped the situation at all if Aro found that
+ I'd put her up as stakes on a fight,” I said dryly, “since you challenged
+ me on my home turf while you were alone and I had my whole coven present,
+ and clearly didn't have to wager her -- or lose.” 
+\end_layout
+
+\begin_layout Standard
+“Oh,” said Maggie, hanging her head.
+ 
+\end_layout
+
+\begin_layout Standard
+“Maggie,” I said.
+ “I have every confidence that Gianna will be okay as long as we do a C-section
+ at or before the three week mark, then turn her.” 
+\end_layout
+
+\begin_layout Standard
+The Irish vampire looked up at me.
+ “You really do believe that,” she murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+I debated whether to tell her that I was immune to her power.
+ I decided that she'd find out sooner or later, or at least suspect it --
+ and it'd be a show of good faith.
+ “I actually think I'm immune to your power,” I told her sheepishly.
+ She frowned.
+ “Edward, you tell her,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“I think Bella's right,” he said confidently.
+ Maggie scrutinized his face -- I wasn't sure if this was habit, an actual
+ way to focus her witchcraft, or just for effect.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie looked over at Gianna.
+ “You're sure you want to do it this way, Gianna?” she asked softly.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna nodded, then glanced at her brother, who looked uncomfortable but
+ didn't speak.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie looked at Edward and me, fixing us with fierce glares.
+ “If she dies,” she said in a flat, cold voice very unlike her usual demeanor.
+ She didn't finish the sentence, letting the threat trail off into thought.
+ 
+\end_layout
+
+\begin_layout Standard
+“If you tried, no matter how justified you were, you'd die too,” Edward
+ said softly.
+ 
+\end_layout
+
+\begin_layout Standard
+“If she dies,” Maggie said, “then I wouldn't care if I did.” 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Permission secured, it was time to deal with the complicated technical stuff.
+ I wasn't deeply involved in this part.
+ I had no relevant expertise and my biological contribution was already
+ in a freezer.
+ It was mostly Edward, Rosalie, and Carlisle, ordering assorted equipment
+ which trickled into the house in boxes over the next few days and then
+ beginning work.
+ 
+\end_layout
+
+\begin_layout Standard
+Meanwhile, Maggie redoubled her efforts to leave Gianna undamaged, and the
+ bruises slowly faded.
+ The attempt wasn't without its mistakes, but Gianna could have picked up
+ the same level of injury by bumping into things all by herself, and was
+ disinclined to adopt a hands-off policy with Maggie.
+ I didn't want to risk re-igniting Maggie's opposition to the plan by requiring
+ more of a sacrifice from her.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward kept me in the loop on the general shape of the process.
+ Rosalie had taken far more eggs from me than were normally removed in a
+ harvesting procedure, since I'd had no expectation of needing them in their
+ original state.
+ As a result, they had some leeway with the raw materials, and were creating
+ several embryos, most of which would go right back in the freezer to be
+ used later in case we found a second surrogate and wanted a second child.
+ This also meant that we had an opportunity to pick the gender we preferred.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well,” I said when presented with this, “if there's a bunch to choose from,
+ why stop at gender? Let's get Alice and have her look them over, and tell
+ us about them in detail.” 
+\end_layout
+
+\begin_layout Standard
+So we found Alice, who pranced into the room, closed her eyes to concentrate,
+ and promptly said, “Ow!” 
+\end_layout
+
+\begin_layout Standard
+“What's wrong?” asked Jasper, who'd followed close at her heels.
+ Edward, who didn't need to ask, groaned.
+ 
+\end_layout
+
+\begin_layout Standard
+“They take after you, Bella,” laughed Alice weakly.
+ 
+\end_layout
+
+\begin_layout Standard
+“You can't see them?” I asked.
+ “That doesn't make sense.
+ You could see me perfectly when I was human; they shouldn't have inherited
+ that immunity if they inherited any of it at all.” 
+\end_layout
+
+\begin_layout Standard
+“Not a thing,” Alice said.
+ “I can't even tell which are the girls and which are the boys.
+ I'm sorry, I wish I could help.” 
+\end_layout
+
+\begin_layout Standard
+“Can you see around them?” asked Edward.
+ “If we decide on one can you look ahead a few months and see 
+\shape italic
+us
+\shape default
+...?” 
+\end_layout
+
+\begin_layout Standard
+Alice tried, but then winced.
+ “Nothing that depends on them, either.
+ Oh, boy, this is going to be fun.” 
+\end_layout
+
+\begin_layout Standard
+I sucked in a nervous breath.
+ “I guess we're flying blind, then -- or rather, with what we can find from
+ the genes alone.
+ That's gender and what else?” 
+\end_layout
+
+\begin_layout Standard
+“Carlisle's already looked at one of them, but while he's fairly confident
+ that that one was a female, she had twenty-four pairs of chromosomes --
+ which means anything known about human genes could be completely off-base,”
+ Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Humans have twenty-three, right?” I asked, and he nodded.
+ “Has Carlisle ever taken a vampire cell apart and looked at it?” 
+\end_layout
+
+\begin_layout Standard
+“We've got twenty-five pairs,” Edward said.
+ “So it makes a bizarre kind of sense.
+ Anyway, Carlisle could 
+\shape italic
+guess
+\shape default
+ what the other genes on the embryos' chromosomes might mean, but it would
+ be just that -- guesswork.” 
+\end_layout
+
+\begin_layout Standard
+“I guess it's still more choice than most parents get,” I sighed.
+ Alice and Jasper left the room, the former rubbing her temple.
+ Jasper threw a suspicious look at me over his shoulder.
+ We'd avoided crossing paths very much since I'd added his witchcraft to
+ those I blocked.
+ There hadn't been another dramatic confrontation, but when we did pass
+ each other in a hallway or have reason to exchange information, he was
+ definitely less friendly and more willing to assume that I was acting in
+ bad faith.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward frowned at his departing brother but didn't comment on that subject.
+ “Indeed,” he said instead, turning back to me and taking my hands in his.
+ “So, my love -- son or daughter?” 
+\end_layout
+
+\begin_layout Standard
+“Do you have a preference?” I asked, and he shook his head.
+ “I suppose the evidence we have available suggests that a girl will probably
+ not be venomous,” I said.
+ “That seems like a plus.” I supposed I could have covered for my existing
+ bite mark by having a son and plausibly being bitten once thereby, but
+ I wasn't confident I could manage the concealment for that long anyway.
+ Emmett would be suspicious if I suddenly lost interest in sparring, and
+ that would inevitably push my sleeve up my arm unless I made obvious and
+ equally peculiar efforts to prevent it.
+ I really needed to figure out how to explain it.
+ Ran into an immortal child in Sweden while not with Edward? But then what
+ would I have done with it after receiving the bite? Found some baby brother
+ of Nahuel's in Finland someplace, whose mother swore me to secrecy? That
+ could work.
+ Got into a fight with a vampire midget? 
+\end_layout
+
+\begin_layout Standard
+“True,” he said, fortunately and maddeningly oblivious to my thought process
+ as always.
+ “So, a daughter, then?” 
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ Everything was coming together very fast, and while it was still necessary
+ and I still liked the idea, it was also intimidating.
+ Picking a gender was much more emotionally 
+\shape italic
+real
+\shape default
+ to me than being vaguely aware that strange pieces of medical equipment
+ were being carried into the house.
+ “I guess we should start thinking about names,” I said, “since we won't
+ have as long as human parents to think of them.” 
+\end_layout
+
+\begin_layout Standard
+We left the room where the embryos that included our future daughter rested,
+ walking together out of the house and into the yard.
+ “I don't know anything about your opinions of baby names,” Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Likewise,” I replied.
+ “I feel like we should -- one way or another -- name her after somebody.
+ I'm a little concerned that as the only half-vampire in a large coven of
+ vampires she'll be...
+ disconnected, somehow.
+ A meaningful name might help her feel grounded.
+ I'm making this up completely, of course; my parents picked my name out
+ of a baby book because it sounded pretty and I haven't felt particularly
+ un-grounded.” 
+\end_layout
+
+\begin_layout Standard
+“It's still a place to start,” Edward said.
+ “I was named after my father.
+ I don't remember a lot about him, but I have his name, which is something.”
+ 
+\end_layout
+
+\begin_layout Standard
+“I didn't know that,” I said.
+ “Okay, what was your mother's name?” 
+\end_layout
+
+\begin_layout Standard
+“Elizabeth,” supplied Edward.
+ “Actually, I think Isabella is a variant on the name Elizabeth, too, but
+ the source I heard that from might not be reliable.” 
+\end_layout
+
+\begin_layout Standard
+“So maybe another Elizabeth variation,” I said.
+ “Especially if that turns out to be right.” I ran through the other names
+ we might want to incorporate into our daughter's.
+ “You know,” I said, “it really 
+\shape italic
+seems
+\shape default
+ like there should be a way to portmanteau `Renée' and `Esme'.
+ The vowels are so similar.
+ But there's just no way to put them together in a way that sounds like
+ a name and not a Pokémon.” 
+\end_layout
+
+\begin_layout Standard
+Edward laughed.
+ “I think it would mean a lot to Rosalie if her name were wedged in there
+ somewhere.
+ A middle name would do,” he suggested.
+ 
+\end_layout
+
+\begin_layout Standard
+“I think it'd also make sense to honor Gianna.
+ She's helping us out in a 
+\shape italic
+really
+\shape default
+ major way.
+ “Annarose” for a middle name?” 
+\end_layout
+
+\begin_layout Standard
+“That's perfect.” 
+\end_layout
+
+\begin_layout Standard
+We went to our cottage, and I pulled out my laptop and looked up names derived
+ from “Elizabeth” on the Internet.
+ There were a 
+\shape italic
+lot
+\shape default
+, including, as Edward had said, “Isabella
+\begin_inset Quotes erd
+\end_inset
+
+.
+ I pruned out those that were just different spellings of the base name
+ or my own version, and the obvious nicknames like “Liz” that our daughter
+ could plausibly choose to go by no matter what variant we landed on.
+ 
+\end_layout
+
+\begin_layout Standard
+“Look,” I said, smirking.
+ “
+\shape italic
+Buffy
+\shape default
+ is a nickname for Elizabeth.” 
+\end_layout
+
+\begin_layout Standard
+“I think we should rule that one out,” Edward said seriously.
+ “It could prompt the wrong sorts of guesses if people notice anything different
+ about her.” 
+\end_layout
+
+\begin_layout Standard
+I nodded, deleted it from the list of possibilities, and then started removing
+ other names for increasingly minor reasons, mostly aesthetic.
+ I removed “Libby” and its near cousins, which I sort of liked, at Edward's
+ direction; he'd known someone who went by that name and had found her an
+ unpleasant person.
+ After a while, we had a short list: “Babette
+\begin_inset Quotes erd
+\end_inset
+
+, “Bettina” and a few similar names, “Elspeth
+\begin_inset Quotes erd
+\end_inset
+
+, “Ilsa
+\begin_inset Quotes erd
+\end_inset
+
+, “Lisel” and other spellings thereof, and “Lilibeth
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+“I'm tempted by Lisel,” I said, “but I think I like Elspeth better.
+ It's uncommon without being unpronounceable, nor so novel that it risks
+ sounding much more out of place after a hundred years than it does now.”
+ 
+\end_layout
+
+\begin_layout Standard
+“Elspeth Annarose it is,” said Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Carlisle picked out a female embryo for us, and Rosalie did the honors of
+ actually implanting it.
+ The others were frozen.
+ We were warned ahead of time that the rates of pregnancy for in vitro technique
+s were low, but the following day Gianna was absolutely certain that the
+ first try had taken, and she made herself a large plate of eggs for breakfast.
+ Puking began shortly afterwards.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie insisted that Gianna shouldn't have to cook for herself in her condition,
+ bought a large stack of cookbooks so she could make Gianna's food herself,
+ and burned a few omelettes trying to get them right.
+ At that point Ilario took over, rolling his eyes at Maggie as he expertly
+ poached a new batch of eggs; he actually knew how to cook, having done
+ some of it in his human days, and kept his sister supplied with whatever
+ she wanted for her solid food while she ineffectively protested that she
+ wasn't 
+\shape italic
+that
+\shape default
+ impaired.
+ 
+\end_layout
+
+\begin_layout Standard
+There was plenty of human blood in the fridge that Carlisle had purchased,
+ too, which Gianna drank out of opaque cups with lids so she didn't have
+ to think about it too hard.
+ Carlisle, who was taking a lot of time off work and pretending that he
+ was looking after a sick Esme to excuse it, fetched her these beverages
+ and did the dishes.
+ Maggie, Ilario, Jasper, and myself left the house for safety reasons while
+ the scent of blood was in the air, and everyone else at least gave a wide
+ berth.
+ 
+\end_layout
+
+\begin_layout Standard
+I e-mailed Charlie and told him the whole story; Rachel got the truth too.
+ I told Renée that 
+\shape italic
+I
+\shape default
+ was pregnant (as of early July, moreover); I planned to take an inordinate
+ number of baby pictures and dole them out to her at a rate that would make
+ Elspeth appear to age normally.
+ 
+\end_layout
+
+\begin_layout Standard
+After I'd reminded the wolves of my existence with this e-mail, Leah sent
+ a conversational sort of note, sounding me out for ongoing correspondence.
+ She was an irregular pen pal and had poor spelling, but I wrote her anyway,
+ telling her what had my attention in a newsy sort of way and making polite
+ inquiries about her.
+ I was informed that Sue's turning, adjustment period, and assumption of
+ her share of the duties of infant care had gone without significant hiccup.
+ Cody was growing as fast as expected and was already talking in complete
+ sentences (his first words had been “Seth, can I have a wolf ride?”, which
+ request Seth had obliged).
+ Relations between halves of the pack were cordial, but sadly distant.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna did not lack for attention during the ensuing weeks.
+ Maggie fussed over her, obsessed; she rearranged her hair several times
+ a day for lack of much else helpful to do, and sang constantly.
+ Ilario mostly stood in the corner of Gianna's room, looking stoic, when
+ he wasn't cooking something.
+ Edward and I, plus Rosalie, were mostly interested for Elspeth's sake rather
+ than in Gianna herself, who didn't lack for caretakers anyway.
+ This still had us hovering around the bed where she spent most of her time
+ resting, trying to make sure she had everything she needed.
+ 
+\end_layout
+
+\begin_layout Standard
+The one problem it turned out we were least prepared to handle was Gianna's
+ fluctuating temperature.
+ It had never occurred to me to read anything into it when Sue instructed
+ her children to hug her; now I wondered if she'd been using them as sources
+ of warmth.
+ When Gianna felt too warm -- which did happen, although less often -- Maggie
+ could snuggle up to her and that worked fine.
+ When she was cold, though, turning up the heater or giving her blankets
+ worked too slowly for comfort.
+ Electric blankets were purchased, but Gianna seemed to find them vaguely
+ unsatisfying.
+ Eventually we settled for keeping the house warmer all the time, and Maggie's
+ cuddling efforts were called on more frequently.
+ 
+\end_layout
+
+\begin_layout Standard
+All told, Gianna held up better under Elspeth than Sue had under Cody.
+ Probably, this was because twenty-three was a more convenient age at which
+ to be violently pregnant than forty-two.
+ In spite of that favorable comparison, and Gianna's better care, Elspeth
+ started doing damage a couple of weeks in.
+ Several ribs were casualties, and Gianna went on painkillers -- taping
+ them up, I learned, was not actually a treatment for them, which made me
+ feel better about Sue's neglected fractures.
+ Gianna did not lose consciousness except when properly sleeping.
+ 
+\end_layout
+
+\begin_layout Standard
+Without giving this comparison away, though, I could only do so much to
+ soothe Maggie and Ilario.
+ Both were in states of constant worry by the end of the first week and
+ wanted Elspeth's birthday to be as early as possible.
+ They were agreed that far, but could not so readily come to an agreement
+ on who was to turn her, each preferring to do that task themselves.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna was prevailed upon to settle their argument -- which consisted mostly
+ of Maggie gesturing wildly and ranting (half in Gaelic) while Ilario regarded
+ her impassively and occasionally uttered a monosyllabic denial.
+ It was an odd role for Gianna to have fallen into, since she hated confrontatio
+n and would obviously have rathered it if Maggie and Ilario invariably agreed
+ on everything.
+ Still, she ultimately came up with a compromise they both accepted -- Ilario
+ would administer the venom, but it would be Maggie's.
+ 
+\end_layout
+
+\begin_layout Standard
+We planned to deliver Elspeth on October twenty-first, if nothing required
+ us to operate earlier.
+ It was exactly three weeks after the implantation date, when I knew and
+ everyone else suspected that this would be safe enough for Gianna and Elspeth
+ both.
+ I suggested the tooth-ripping-out plan so no one had to risk tasting Gianna's
+ blood, and volunteered a canine of my own which Edward could use to open
+ the shell.
+ He was leery of trying to do delicate surgery while distracted by my discomfort
+, though, and Rosalie readily offered to loan a tooth in my place.
+ My role would instead be to lift Elspeth out.
+ 
+\end_layout
+
+\begin_layout Standard
+On October thirteenth, Edward remarked that my birthday had been a month
+ prior, and I hadn't mentioned anything about it.
+ He asked if I was just not counting birthdays anymore.
+ I'd been in La Push on the thirteenth of September -- but in all the excitement
+ even Charlie had forgotten the significance of the day, and he (and my
+ permanently scatterbrained mother) had both sent me belated e-mails of
+ well wishes.
+ I'd noted the date when it had passed, but not seen fit to announce it
+ to anyone.
+ “What's the point of counting them?” I said.
+ “So I'm chronologically eighteen now -- but I'm going to be physically
+ seventeen for all time, and I'll use mostly forged documents to demonstrate
+ my legal status anyway, and I no longer find birthday cake appetizing.”
+ 
+\end_layout
+
+\begin_layout Standard
+“That was my guess,” he said.
+ “No presents, either?” 
+\end_layout
+
+\begin_layout Standard
+“You can get me presents if you want, but there's no need to use my birthday
+ as an excuse,” I replied.
+ I smiled.
+ “Or as a restriction.” 
+\end_layout
+
+\begin_layout Standard
+“So acknowledged,” he laughed.
+ “I've been thinking we'll need to celebrate birthdays and half-birthdays
+ for Elspeth, while she's growing still -- it still won't be as many as
+ most people get, over the course of a childhood, but...” 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ Elspeth had become the primary topic of conversation between Edward and
+ me; soon we would be parents.
+ If everything went according to plan.
+ 
+\end_layout
+
+\begin_layout Standard
+In the next room over, Gianna failed to keep her juice down.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+A little over a week before Elspeth's artificial due date, Tanya called
+ Carlisle again.
+ 
+\end_layout
+
+\begin_layout Standard
+I wasn't near enough to hear the call on this occasion -- I was with Edward
+ in our cottage -- but the subsequent morning I heard the news.
+ Laurent had been gone for seventeen days -- more than double his previous
+ record excursion length.
+ He wasn't answering his phone, hadn't been for the past week, hadn't called
+ to check in with Irina once in that time.
+ While the very fact that he didn't bring Irina on his trips meant that
+ he didn't want to be witnessed partaking of his unethical food, or doing
+ whatever else it was that made him take so long, she was out of her mind
+ with worry and wanted to prevail on Alice again.
+ 
+\end_layout
+
+\begin_layout Standard
+When Carlisle had passed on the message, though, Alice had come up completely
+ blank.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” she said when I asked her about it, “not like you -- it's subtly different.
+” 
+\end_layout
+
+\begin_layout Standard
+“What are the different kinds of blank you can get?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“There's four,” Alice said.
+ “There's you, there's Elspeth, there's Gianna-while-pregnant-with-Elspeth,
+ and there's Laurent -- all different.
+ Your future looks like Swiss cheese.
+ Sometimes it veers off into patches I can see, sometimes when you're in
+ the middle of a hole I can't see anything about you, but a lot of your
+ futures are normally visible.
+ Elspeth 
+\shape italic
+per se
+\shape default
+ is just not there.
+ I can't see her at all and that casts shadows on everything she affects,
+ so I can only see the big obvious regularities that she can't change.
+ Gianna's mostly in a shadow like that, but I can see around Elspeth in
+ a limited way and get possible futures of Gianna's that don't directly
+ involve Elspeth.
+ But it gives me a killer headache to try, so I've been doing it only when
+ Maggie or Ilario badgers me into checking that I can still see Gianna alive
+ in some futures.
+ And Laurent is...” Alice bit her lip.
+ “He's not there to see.
+ It's not like trying to look for someone invisible like Elspeth, because
+ he doesn't cast any shadows.
+ It's like trying to look for a person who doesn't exist in the first place.
+ I think he's dead.” 
+\end_layout
+
+\begin_layout Standard
+Irina had heard this suspicion before I had, of course -- “How's Irina taken
+ it?” I asked Alice quietly.
+ 
+\end_layout
+
+\begin_layout Standard
+The little vampire shook her head.
+ “I can't even imagine what she's going through.
+ She's insane with grief, of course, but she's still got a sliver of hope
+ that Laurent isn't really dead and something else is interfering with my
+ vision.
+ She does have a point that a lot of things seem to be foiling me lately.”
+ 
+\end_layout
+
+\begin_layout Standard
+“Have you tried looking for people who turned out to be dead before?” I
+ asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Several times,” Alice replied.
+ “They 
+\shape italic
+were
+\shape default
+ all humans, though, so...
+ But I still think that Laurent's somehow died.” 
+\end_layout
+
+\begin_layout Standard
+“What exactly does it take to kill a vampire?” I asked, pacing.
+ “Is it the sort of thing that could remotely happen by accident?” 
+\end_layout
+
+\begin_layout Standard
+“Not likely,” said Alice.
+ “Possible, but not at 
+\shape italic
+all
+\shape default
+ likely -- he'd have to be caught in a very serious explosion, to be unable
+ to escape or put himself back together.” 
+\end_layout
+
+\begin_layout Standard
+“Has anything like that happened in a plausible radius of Denali?” 
+\end_layout
+
+\begin_layout Standard
+“He's been gone long enough that `plausible radius' means `anywhere on the
+ globe',” Alice pointed out.
+ “If he was in Gaza and got in the way of a missile, or near that volcano
+ in El Salvador, for instance, and he wasn't paying enough attention to
+ get to safety, he could have been killed that way.
+ Or taken apart thoroughly enough that he's still incapacitated, but then
+ I'd expect to see him put back together and going home.” 
+\end_layout
+
+\begin_layout Standard
+“But you don't think that's what happened.” 
+\end_layout
+
+\begin_layout Standard
+Alice shook her head.
+ “It's way more likely that he got into a fight with another vampire, and
+ lost.
+ I've never heard of any vampire dying in a natural disaster, I just know
+ it's theoretically possible.” 
+\end_layout
+
+\begin_layout Standard
+“How densely populated by vampires is North America?” I asked.
+ “I realize he could have gone anywhere, but at least we know he started
+ in Alaska.” 
+\end_layout
+
+\begin_layout Standard
+“Mmm...
+ since the Volturi cleaned out the newborn armies in the South, not all
+ 
+\shape italic
+that
+\shape default
+ densely, but you can definitely find us in population centers and roaming
+ around.” 
+\end_layout
+
+\begin_layout Standard
+“Ballpark population on the continent?” 
+\end_layout
+
+\begin_layout Standard
+Alice thought.
+ “More than a hundred, fewer than a thousand, if I had to narrow it down
+ I'd say something like three or four hundred.
+ Mostly in big population centers, because you need more territory to be
+ inconspicuous if the area's rural.” 
+\end_layout
+
+\begin_layout Standard
+“How territorial and inclined to fight are average vampires?” I asked.
+ “I've only met the Volturi, friends of the family, and Huilen, who was
+ alone when Edward and I showed up.
+ Plus Laurent's old coven, but I was human then, and don't remember them
+ too well.” 
+\end_layout
+
+\begin_layout Standard
+“Laurent's old coven is the closest to normal you've met, considering that
+ Huilen's in contact with her nephew...” Alice trailed off, closed her eyes,
+ and then opened them with a small gasp.
+ “Oh, how strange,” she exclaimed.
+ “Elspeth doesn't take after you -- or perhaps she does, but that isn't
+ why I can't see her.
+ I can't see Nahuel either, any more than I can see Elspeth.” 
+\end_layout
+
+\begin_layout Standard
+My eyes flew open very wide.
+ “It's a species thing.” 
+\end_layout
+
+\begin_layout Standard
+She nodded emphatically.
+ “I can see Huilen...
+ but only about as much as I can see you.
+ It's Swiss cheese.
+ Huh, I wonder why your immunity works that way.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Because I'm only invisible to you when I'm being acted on by another invisible
+ species.
+
+\shape default
+ “Maybe only a bit of my brain has the hang of being invisible and you see
+ me when other bits are in charge,” I said, affecting uncuriosity with a
+ shrug.
+ 
+\end_layout
+
+\begin_layout Standard
+Alice frowned, her brow furrowed.
+ But she didn't pursue that topic.
+ “Anyway, your standard vampire wanders around -- or lurks in a big city
+ where a lot of people can go missing without it being big news.
+ Eats every three, four days, one or two people at a time, or lies low for
+ as long as a couple of weeks if one of their meals gets too much attention.
+ They usually steal stuff; maintaining legitimate funds is too much of a
+ hassle under those limitations.
+ About a third of them travel alone, another third in mated pairs, last
+ third in covens of two or three, rarely four or more, which may or may
+ not include mates.” 
+\end_layout
+
+\begin_layout Standard
+“Doesn't quite answer my question,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Lone vampires are more likely to avoid confrontations,” Alice said.
+ “But if we assume Laurent was alone too, he'd run some risk of provoking
+ one if they just didn't like the look of him or felt like getting into
+ a fight...
+ some think of combat, even lethal combat, as recreational.
+ Pairs and covens will stake out territories and are pretty likely to attack
+ anyone who won't clear off when told to.
+ Less likely to attack an individual for fun, though, because without the
+ individual being a witch, the odds are in the group's favor to the point
+ of being unsporting.
+ And I don't understand why Laurent wouldn't just get out of other vampires'
+ way if he ran afoul of one -- but I'm not sure why he'd have to leave home
+ for so long to begin with anyway.” 
+\end_layout
+
+\begin_layout Standard
+“He was eating people,” I reminded her.
+ That information had filtered through to everyone in the family.
+ 
+\end_layout
+
+\begin_layout Standard
+“Even so.
+ Denali's remote, but it's not 
+\shape italic
+that
+\shape default
+ remote,” mused Alice.
+ “I'm sure he could get to enough potential feeding grounds that there'd
+ be no reason for him to spend more than twenty-four hours round trip each
+ time.” 
+\end_layout
+
+\begin_layout Standard
+“He might have eaten a few people each time he went out, and needed to spread
+ it out,” I said, and with a sinking feeling it occurred to me that there
+ was one exceptionally dangerous location that was a twenty-four hour round
+ trip from Denali.
+ 
+\end_layout
+
+\begin_layout Standard
+But if Laurent had gone 
+\shape italic
+there
+\shape default
+, he wouldn't have made the return journey.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bah,” said Alice.
+ “You wandered into one of the holes in the cheese that is your future again.”
+ 
+\end_layout
+
+\begin_layout Standard
+“Huh,” I said, feigning surprise.
+ “Anyway, I guess there's no way to find out what happened to Laurent, is
+ there?” 
+\end_layout
+
+\begin_layout Standard
+“Not really,” Alice said regretfully.
+ “I see the future, not the past.” 
+\end_layout
+
+\begin_layout Standard
+I patted her shoulder, pursing my lips sympathetically, and excused myself.
+ 
+\end_layout
+
+\begin_layout Standard
+I had an awkward question for Rachel.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Rachel was actually not 
+\shape italic
+sure
+\shape default
+ if wolves had killed Laurent.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I know it wasn't anyone in my pack,
+\shape default
+ she wrote back.
+ 
+\shape italic
+I checked.
+ But things are rocky enough between me and Becky that I haven't communicated
+ with her much -- mostly about practical things like who's on duty doing
+ lookout where so the packs don't have to run into each other.
+ We've been tending to fight, which really sucks.
+ Turns out the non-alphas can move between packs however they want, and
+ she's collecting the hardcore anti-vampire wolves and they're just barely
+ not going after Harry and Sue and Cody.
+ If you know where he would have been I can tell you if my guys were there
+ then.
+
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+But I didn't know -- it was only a wild guess.
+ 
+\shape italic
+Can you ask her directly?
+\shape default
+ I wrote back, and attached a description of Laurent.
+ 
+\end_layout
+
+\begin_layout Standard
+She didn't get back to me for two days after that, and I occupied my free
+ time hovering near Gianna, discussing parenting with Edward, and wondering
+ what I would even 
+\shape italic
+do
+\shape default
+ if I learned that Becky's pack had killed Laurent.
+ 
+\end_layout
+
+\begin_layout Standard
+I still didn't have the answer to that question when I got Rachel's reply.
+ 
+\shape italic
+Promise me you won't hurt my sister for killing your friend,
+\shape default
+ was all she wrote.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+He wasn't my friend,
+\shape default
+ I wrote back.
+ 
+\shape italic
+If he was near you guys, he was probably going to kill somebody in La Push
+ or Forks, maybe even Charlie -- I just wish they'd been able to capture
+ him instead of killing, because if Irina ever finds out, then there's a
+ potential small war on your hands.
+
+\shape default
+ I explained the relationship between Irina and Laurent and the reason the
+ other Denalis had tolerated his lifestyle.
+ 
+\shape italic
+If Irina figures out what happened to her Laurent...
+
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't really know Irina well.
+ The only vampire I'd ever met in my life who'd lost a mate was Marcus,
+ who I had never seen utter a word or do anything but wander around, touch
+ Aro's hand, and stare into space.
+ I didn't know how long ago his mate had died, or what he'd done when the
+ grief had been fresh.
+ The next most available source of information I had was to imagine Edward
+ dead.
+ 
+\end_layout
+
+\begin_layout Standard
+Every fragment of my self refused to let me imagine this in any detail.
+ It was the only intolerable concept in the world.
+ I could imagine being flung back into the agony I'd felt when turning,
+ though it had been incomprehsibly torturous.
+ I could imagine my own death, though I loved life and hoped to cling to
+ it for all time.
+ I could imagine Gianna miscarrying, little Elspeth failing to survive,
+ though I felt more attached to my daughter-to-be with every passing hour.
+ 
+\end_layout
+
+\begin_layout Standard
+But Edward 
+\shape italic
+had
+\shape default
+ to exist, or something was fundamentally wrong with the universe.
+ 
+\end_layout
+
+\begin_layout Standard
+Filled with unreasonable panic, I restored the original names in my mental
+ scenario and gradually forced my rebellious mind to calm.
+ If 
+\shape italic
+Irina
+\shape default
+ found out who had killed 
+\shape italic
+Laurent
+\shape default
+.
+ That was the hypothetical at hand.
+ 
+\shape italic
+My
+\shape default
+ husband was safe, 
+\shape italic
+my
+\shape default
+ mate had not been killed by a pack of anti-vampire wolves, 
+\shape italic
+my Edward
+\shape default
+ was mine for all eternity.
+ 
+\end_layout
+
+\begin_layout Standard
+I wrote, 
+\shape italic
+If Irina figures out what happened to her Laurent, she will kill whoever
+ killed him or die trying.
+ The rest of her coven might help her.
+
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+I sent the e-mail, and I went to soothe the ruffles in my thoughts by finding
+ Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+“What happened to Marcus's mate?” I asked Edward, some time later.
+ 
+\end_layout
+
+\begin_layout Standard
+“Didyme? She died,” Edward replied.
+ “Less than a year after Aro turned her -- Marcus met her right after she
+ became a vampire.
+ Marcus wasn't with her at the time of her death, so he didn't see the specifics
+, but Aro found the coven of vampires who'd killed her, and he and Marcus
+ destroyed them together.
+ She was Aro's sister,” Edward added, as an afterthought.
+ 
+\end_layout
+
+\begin_layout Standard
+“Aro seems to have borne up under the loss a lot better than Marcus,” I
+ observed.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ “I've never heard Aro thinking about Didyme at all.
+ Marcus thinks of almost nothing else, so I picked it all up from him.
+ Aro did love her, but...
+ it's not the same.
+ It's like Ilario and Gianna, as opposed to Maggie and Gianna.
+ Ilario is her brother, and that's a very human sort of relationship.
+ He loves her, he'll do everything in his power to protect her, but he could
+ eventually move on if she died.
+ Maggie's in a different position.” 
+\end_layout
+
+\begin_layout Standard
+“Irina must be going through hell,” I said, pulling Edward a little closer.
+ 
+\shape italic
+Mine, mine, mine -- 
+\shape default
+I knew my brain was being taken over by spooky mate bond magic.
+ I'd signed up for exactly that when I'd said I was ready to turn.
+ And if I hadn't, then I would have eventually died of the disease of mortality,
+ and then Edward would have lost me, and then 
+\shape italic
+he
+\shape default
+ would have gone through hell and I would be dead and have no Edward, and
+ that would not be satisfactory at all.
+ Much better for us to be both immortal and together.
+ Albeit a little nerve-wracking when I considered the chinks in our undeath.
+ 
+\end_layout
+
+\begin_layout Standard
+“She's still not convinced that Laurent is dead,” he said, stroking my hair.
+ “She has some hope.” 
+\end_layout
+
+\begin_layout Standard
+“How long can she go on hoping that? If he doesn't come home, and doesn't
+ come home, and goes on not coming home...” 
+\end_layout
+
+\begin_layout Standard
+“Not forever,” admitted Edward.
+ “Maybe longer than you'd think, though.” 
+\end_layout
+
+\begin_layout Standard
+Because anything, even throwing oneself into an increasingly crumbly and
+ obvious lie, would feel better than that sickening black hole of grief
+ that I could not bear to contemplate.
+ But Irina was 
+\shape italic
+living
+\shape default
+ it.
+ Whatever she 
+\shape italic
+thought
+\shape default
+, her worst nightmare -- or close enough as to make no difference -- was
+ reality.
+ I was concealing that all-important information from her.
+ 
+\end_layout
+
+\begin_layout Standard
+Because if I didn't, she'd die and might take a wolf or two with her.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Would
+\shape default
+ Irina rather die, if she found out what had happened to Laurent? Probably
+ she'd rather kill Becky's entire pack first -- maybe Rachel's too, maybe
+ the whole Quileute tribe, who knew how widely she'd assign the blame --
+ but after.
+ If she wreaked all the vengeance she wanted, somehow picked off wolves
+ one at a time until they were gone without losing her own life, what would
+ she want to happen next? 
+\end_layout
+
+\begin_layout Standard
+I was sure I knew the corresponding answer for Edward.
+ I'd been able to figure that much out even before I'd turned.
+ He had the tragic self-sacrificing streak; he wouldn't want to live in
+ a world that didn't contain me.
+ Irina, though, I wasn't sure.
+ Would she consider her life worth living anymore? Could she even consider
+ the question? 
+\end_layout
+
+\begin_layout Standard
+I wondered suddenly what would happen to wolves whose imprints died.
+ Their human, 
+\shape italic
+mortal
+\shape default
+ imprints, afforded no special lifespan or unusual resilience.
+ Maybe that was why the tribe didn't contain any hundred-year-old holdovers
+ from the last pack; maybe they'd all imprinted and quit their anti-aging
+ regimen of periodically turning into giant wolves, so they wouldn't have
+ to outlive their loves by long.
+ When little Claire caught up to Quil, would he abandon his other form,
+ turning physically thirty and forty and fifty with her, so he wouldn't
+ have to be young while she was old, alive while she was dead? Was Jared
+ already trying to get himself under control so his age-matched girlfriend
+ wouldn't rush by him? 
+\end_layout
+
+\begin_layout Standard
+How could I make sure that this disaster never, 
+\shape italic
+ever
+\shape default
+ befell 
+\shape italic
+me
+\shape default
+? 
+\end_layout
+
+\begin_layout Standard
+I decided that I was not going to continue flying off to La Push whenever
+ there was a hiccup with the pack.
+ Rachel was a smart cookie and could handle her stuff, with long-distance
+ consultation and funding handled via the Internet.
+ I didn't need to be physically present, especially not with Harry and Sue
+ and Cody nearby to be resident venom sources if they wanted someone turned.
+ (Rachel had mentioned, in a pre-Laurent-revelation e-mail, that in order
+ to keep the peace with Becky's pack, Harry and Sue and Cody were living
+ in the shack full-time.
+ Harry was fixing the place up to be a fit home.
+ Leah and Seth still lived in the family's house on the reservation.
+ But they were still within spitting distance.) 
+\end_layout
+
+\begin_layout Standard
+But simply being 
+\shape italic
+present
+\shape default
+ wasn't necessarily enough to fend off the specter threatening my peace
+ of mind.
+ I would need to be present and 
+\shape italic
+effective
+\shape default
+.
+ I had some advantages against some of the foes I might have to face eventually.
+ But these were known to those very foes, and if I were the only one left
+ standing while Alec caused my family to fall senselessly to the ground
+ around me, then I'd just be one vampire, not very good at fighting, to
+ be targeted separately by some non-mental attack while my helpless brothers
+ and sisters and in-laws and 
+\shape italic
+Edward
+\shape default
+ were unable to defend me.
+ 
+\end_layout
+
+\begin_layout Standard
+And then they -- 
+\shape italic
+he
+\shape default
+ -- could be destroyed.
+ That hurt.
+ It hurt to think about it so much that I wanted to think about anything
+ else, or not to think at all -- just to snuggle closer to my gloriously
+ alive Edward and pretend that our “immortality” was 
+\shape italic
+invulnerability
+\shape default
+.
+ But it 
+\shape italic
+wasn't
+\shape default
+.
+ Neglecting that fact wouldn't make it less factual.
+ Edward 
+\shape italic
+could
+\shape default
+ be taken from me.
+ I 
+\shape italic
+couldn't
+\shape default
+ defend him against every threat the world might throw at us.
+ 
+\end_layout
+
+\begin_layout Standard
+Not okay.
+ 
+\end_layout
+
+\begin_layout Standard
+I wondered about the limits of my shield.
+ What might I eventually be able to add to it? Becoming immune to Jasper
+ had been 
+\shape italic
+easy
+\shape default
+.
+ I'd practically just repeated a mantra to myself.
+ The first mantra I'd even tried.
+ Was that a coincidence, just a feature of Jasper's power existing close
+ to the line between what I did and didn't block? Or was my witchcraft very
+ extensible? 
+\end_layout
+
+\begin_layout Standard
+Just how much could I immunize myself to, if I tried? 
+\end_layout
+
+\begin_layout Standard
+There was probably some limit, and I'd need to be able to cover for that
+ with some competence in physical combat.
+ I'd avoided sparring since getting my scar.
+ I didn't have any clothes that I normally wore which could cover my wrist
+ in even the most casual mock fight -- sleeves were mobile sorts of things.
+ I still didn't have a 
+\shape italic
+good
+\shape default
+ story to explain it.
+ But it was possible that Elspeth would be venomous, and then I could claim
+ she bit me.
+ The sample of half-vampires numbered five, so far -- four of whom were
+ half-siblings.
+ It wasn't guaranteed that my daughter would be like the other female hybrids
+ before her.
+ 
+\end_layout
+
+\begin_layout Standard
+In less than a week, I'd find out if that was a viable cover story.
+ Until then I wore long sleeves when around anyone other than Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+And then I'd have 
+\shape italic
+motherhood
+\shape default
+ to take up a huge chunk of my time.
+ 
+\end_layout
+
+\begin_layout Standard
+At least Elspeth would sleep nights.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The sheer ferventness Maggie applied to her anxious writhing over Gianna's
+ condition was impressive.
+ It made Elspeth's birth nearly anticlimactic.
+ While Maggie held her breath and Gianna's hand, and Ilario fidgeted nearby,
+ Carlisle administered some heavy-duty anaesthesia and a sedative.
+ Edward cut down to the shell; Rosalie handed over a tooth and he cut through
+ the shell with that and gave it back to her.
+ While she rinsed the blood off it and let it re-adhere to her mouth, I
+ pried the shell open, and there was Elspeth.
+ 
+\end_layout
+
+\begin_layout Standard
+My baby.
+ 
+\end_layout
+
+\begin_layout Standard
+I grinned from ear to ear and thrust my hands into the liquid to retrieve
+ her.
+ She opened her mouth, and I had a sudden idea -- I leaned my arm in such
+ a way as to present the inside of my left wrist for biting, and obligingly,
+ she fastened her teeth onto the correct location.
+ She wasn't venomous, but the fluid my arm was immersed in was 
+\shape italic
+like
+\shape default
+ venom -- it could explain the scar, and I didn't expect anyone to experiment
+ with the stuff to check my story.
+ “Ow,” I muttered as I picked her up, because she 
+\shape italic
+did
+\shape default
+ break my skin.
+ But I felt the wound healing smooth, and she apparently didn't think I
+ tasted good, because she didn't bite me again when I cradled her close.
+ Carlisle handed me a blanket and patted me on the back, and I wrapped her
+ up.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna had held up so well through the procedure that Carlisle was able
+ to put her in a coma before Ilario administered Maggie's venom.
+ Maggie's release of tension was palpable -- Gianna was out of the woods,
+ and after some unconsciousness and some mindboggling torment, she would
+ be fine.
+ Unbreathing, Maggie assumed a protective position, holding her turning
+ mate like she was made of glass.
+ Ilario discarded the syringes and started pacing while Carlisle cleaned
+ up the blood.
+ 
+\end_layout
+
+\begin_layout Standard
+And I was a mother.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth had my eyes.
+ Not my amber vampire eyes, gradually lightening with every meal I had --
+ the brown ones I'd sported when human.
+ The shade exactly matched the photographs I had from my first seventeen
+ years.
+ 
+\end_layout
+
+\begin_layout Standard
+This didn't escape Edward's notice.
+ As we left the room where Gianna lay, he remarked on it.
+ “I admit I missed your eyes,” he said.
+ “I'm glad they weren't lost completely.” 
+\end_layout
+
+\begin_layout Standard
+“She has your hair, though,” I told him, once we'd gotten far enough away.
+ She did: the same bronze-red-brown.
+ Just a little fuzz of it.
+ A question occurred to me while I stared raptly at our daughter.
+ “Can you hear anything from her?” 
+\end_layout
+
+\begin_layout Standard
+“Not yet.
+ I've never been able to hear a baby less than two months old, and usually
+ it takes six -- I'm sure she'll be far faster than that, unless she's got
+ her mother's brain, too,” he said wryly.
+ 
+\end_layout
+
+\begin_layout Standard
+“The bit where Alice couldn't see her turned out to be a fluke,” I said.
+ I touched Elspeth's nose and she expelled a small puff of air with a 
+\shape italic
+pah
+\shape default
+ sound.
+ 
+\end_layout
+
+\begin_layout Standard
+“But as you pointed out, that wasn't something you had while human,” he
+ replied, grinning involuntarily at the baby.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Oh,” I said, when we were out of earshot of the main house, “if anybody
+ asks...” I shifted Elspeth in my arms and pointed at the torn sleeve that
+ revealed part of the scar on my wrist.
+ “I got this when Elspeth bit me.
+ She's not venomous but the amniotic fluid was close enough.” 
+\end_layout
+
+\begin_layout Standard
+“Understood,” he said.
+ “If Maggie asks?” 
+\end_layout
+
+\begin_layout Standard
+I considered what he could say to her.
+ “I don't know the really fine points of what she'll notice and what she
+ won't.
+ Can you just say, `Elspeth bit her'? She 
+\shape italic
+did
+\shape default
+, after all.” 
+\end_layout
+
+\begin_layout Standard
+“Not in response to a direct question about your scar,” he said, “not when
+ I know the scar predates Elspeth.
+ The statement has to be something I believe to be true in context, not
+ just in isolation.” 
+\end_layout
+
+\begin_layout Standard
+I exhaled a breath through my teeth, petting Elspeth's hair as I did so.
+ She was very warm.
+ “She'll never buy that you don't know where it's from.
+ Ugh.
+ If Maggie asks you...
+ 
+\shape italic
+a baby half-vampire
+\shape default
+ bit me.
+ I trust she can be allowed to extrapolate incorrectly.” 
+\end_layout
+
+\begin_layout Standard
+Edward's eyes widened, but he nodded.
+ “Can I hold her?” he asked after a moment.
+ I handed Elspeth over, missing the heat and the vital thrum of her heart
+ immediately.
+ 
+\end_layout
+
+\begin_layout Standard
+The look on Edward's face was indescribably paternal as he cradled our child.
+ “She's perfect,” he murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+“I know,” I said, gloatingly.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oooh,” said Elspeth, with an uncannily toothy smile for a newborn infant,
+ and we arrived at our fairytale home in the woods to try to interest her
+ in non-blood comestibles.
+\end_layout
+
+\end_body
+\end_document
