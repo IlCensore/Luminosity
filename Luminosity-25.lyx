@@ -186,7 +186,10 @@ experiment
 \shape italic
 this
 \shape default
-! Enough people die having normal babies -- 
+\emph on
+!
+\emph default
+ Enough people die having normal babies -- 
 \shape italic
 my
 \shape default
@@ -1559,7 +1562,7 @@ mortal
  turning physically thirty and forty and fifty with her, so he wouldn't
  have to be young while she was old, alive while she was dead? Was Jared
  already trying to get himself under control so his age-matched girlfriend
- wouldn't rush by him? 
+ wouldn't rush by him?
 \end_layout
 
 \begin_layout Standard
@@ -1571,7 +1574,8 @@ ever
 \shape italic
 me
 \shape default
-? 
+\emph on
+?
 \end_layout
 
 \begin_layout Standard
