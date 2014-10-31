@@ -1,0 +1,1685 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{25}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Luminosity.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Little Witch
+\end_layout
+
+\begin_layout Standard
+I read Elspeth's mind before Edward did.
+ 
+\end_layout
+
+\begin_layout Standard
+This was mostly a coincidence: he was on an errand in town with Jasper at
+ the time, out of range.
+ They were trying to find a purveyor of forged documents so that Elspeth
+ could be freely moved about the globe.
+ Edward had to be along to help find such a person -- existing contacts
+ in Norway were thin on the ground.
+ Jasper was there because his preferred method of handling such business
+ relationships involved the application of artificial fear to discourage
+ excessive inquisitiveness.
+ I didn't care for that part, but I had other things on my mind and was
+ still vaguely avoiding Jasper.
+ 
+\end_layout
+
+\begin_layout Standard
+Meanwhile, Alice and I were having a photo shoot, taking pictures of Elspeth
+ in different outfits against assorted backdrops so that when Renée could
+ begin to see baby pictures, they'd seem to cover a couple of years of first-tim
+e-parent scrapbooking, not the few months it'd take her to rocket through
+ infancy and toddlerhood.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um,” said Elspeth, which was the sound she usually made when considering
+ whether a proferred food item was acceptable to her.
+ I'd been drawing on my residual knowledge of cooking to keep her fed; there
+ was no real kitchen in the cottage, just an old fashioned fireplace with
+ a pot hanging in it, so I did all the cooking in the main house and brought
+ the food out to her.
+ (Gianna had woken from her coma and I didn't particularly want Elspeth
+ listening to her screams.) Elspeth did not much care for food -- that, or
+ my cooking was just not as good now that I found none of the ingredients
+ appealing and could scarcely remember any part of the skill.
+ Still, she would reluctantly eat copious amounts of things that passed
+ muster once we'd coaxed her into trying them; she needed the fuel to grow
+ as fast as she did.
+ 
+\end_layout
+
+\begin_layout Standard
+“Are you hungry, Elspeth?” I asked her, swapping her sweater for a silly
+ ruffled dress that Alice had bought her.
+ We were taking most of our pictures indoors or against the backdrop of
+ the plain sky, so the season wouldn't be readily detectable, and Alice
+ -- who I'd given relatively free rein with the just-for-show outfits --
+ had selected items for all weathers.
+ 
+\end_layout
+
+\begin_layout Standard
+“Um,” said Elspeth again, and she placed her hand on my cheek.
+ 
+\end_layout
+
+\begin_layout Standard
+The feeling was like running through a memory in chronological order, but
+ it wasn't 
+\emph on
+my
+\emph default
+ memory.
+ Too fuzzy to be post-turning, too complete to be pre-, and too painless
+ to be from the middle of the process.
+ Also, I was 
+\emph on
+in
+\emph default
+ the memory -- my face, as it looked to those around me.
+ After a moment, I realized: though I had no idea how or why, Elspeth was
+ showing me her perspective on her own birth.
+ The visuals were all there, although they didn't interfere with my real
+ vision.
+ It didn't come with sound or any other sensory tracks.
+ There was just the picture of me leaning in and then Elspeth's vision wheeling
+ to show the rest of the room.
+ 
+\end_layout
+
+\begin_layout Standard
+And then the picture focused in on the blood from Gianna's cut.
+ 
+\end_layout
+
+\begin_layout Standard
+“Um
+\emph on
+mmmm
+\emph default
+,” elaborated Elspeth, putting her hand down.
+ 
+\emph on
+That
+\emph default
+ was the sound she made when she had tasted a food and it appealed to her.
+ As much as 
+\emph on
+food
+\emph default
+ food ever did, anyway.
+ 
+\end_layout
+
+\begin_layout Standard
+“Elspeth,” I said, “in our family, we do not drink human blood.
+ The rest of us have to drink animal blood, but you don't have to do that.
+ You can eat regular food.” I didn't talk baby-talk to her; it wouldn't do
+ any good to get used to that when we expected complete sentences back in
+ just a few days.
+ 
+\end_layout
+
+\begin_layout Standard
+“What's going on?” asked Alice, sounding lost and holding a flowery hat.
+ 
+\end_layout
+
+\begin_layout Standard
+“We've got ourselves a little witch,” I said, tickling my daughter and smiling.
+ “A little witch who thirsts for human blood, but we will not be encouraging
+ bad habits, no we will 
+\emph on
+not
+\emph default
+.” Elspeth giggled, apparently in spite of herself.
+ Then she made a remarkably mature sort of face, one that would have looked
+ like a disappointed authority figure on anyone but my two-day-old child.
+ 
+\end_layout
+
+\begin_layout Standard
+“What'd she do? Is she telepathic?” asked Alice.
+ “You acted like she'd asked you for something.” 
+\end_layout
+
+\begin_layout Standard
+“Sort of.
+ It was all visuals, no sound, no words -- her own memory,” I said.
+ “But I definitely had the impression that when she remembered the bit about
+ Gianna's blood, she wasn't asking after her auntie's welfare.” 
+\end_layout
+
+\begin_layout Standard
+Alice chuckled.
+ “Can I see if she'll show me something?” she asked, holding her arms out.
+ 
+\end_layout
+
+\begin_layout Standard
+I gave her Elspeth, who didn't appear to know what she was meant to do.
+ Eventually Alice took her hand and laid it against her cheek, the way Elspeth
+ had done of her own accord when trying to communicate with me.
+ “Ooh,” said Elspeth, apparently comprehending, and Alice's eyelids fluttered
+ while she processed the offered memory.
+ 
+\end_layout
+
+\begin_layout Standard
+“So now you have three sources of vision,” I said.
+ “How's that working out for you?” 
+\end_layout
+
+\begin_layout Standard
+“Just a bit dizzying,” murmured Alice.
+ “She's very insistent on the blood thing.
+ Maybe she thinks I'll give it to her if you won't.” 
+\end_layout
+
+\begin_layout Standard
+“Ah, no you don't, Elsie,” I said, retrieving her -- and the intended hat
+ -- from Alice.
+ “There will be no begging favors from others if you get a no from me.” 
+\end_layout
+
+\begin_layout Standard
+“Pah,” said Elspeth, disgruntled, and she tried to pull the hat away from
+ me, but I got it onto her head and arranged her in a photogenic pose so
+ Alice could snap the picture.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+When Edward got home, not long after the photos for the day had all been
+ taken, he noticed Elspeth's “voice” at once.
+ He leapt into the cottage with a grin on his face that momentarily disrupted
+ my ability to think, plucked Elspeth from her perch on the chair we'd last
+ posed her in, and spun around once, holding her at arm's length.
+ Alice slipped out to give us family time.
+ 
+\end_layout
+
+\begin_layout Standard
+“Ee!” was her pleased response to this treatment, and when he brought her
+ in closer, she planted her hand on 
+\emph on
+his
+\emph default
+ cheek, too, so before I could explain what was happening he was also the
+ recipient of a memory.
+ 
+\end_layout
+
+\begin_layout Standard
+He looked much less surprised than Alice had been, or me -- either Alice
+ had been thinking about it or Elspeth had, coherently enough that he'd
+ expected it.
+ 
+\end_layout
+
+\begin_layout Standard
+“What's she showing you?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“The last time she saw me,” he murmured.
+ “She recognizes me.” 
+\end_layout
+
+\begin_layout Standard
+“Lucky you,” I laughed.
+ “She was begging me and Alice for blood, earlier.” 
+\end_layout
+
+\begin_layout Standard
+Edward's face changed, a moment after I said the word “blood”.
+ “Oh, that does seem...
+ hm.” He blinked.
+ “If she dislikes human food 
+\emph on
+that
+\emph default
+ much...” 
+\end_layout
+
+\begin_layout Standard
+“She's two days old,” I said.
+ “This is, for her, old enough to express a preference.
+ Doesn't mean she's also old enough to be given charge of her own diet.
+ If she wants to hunt animals for herself when she's old enough to do that,
+ I'm not going to stop her.
+ That'd be kind of hypocritical.
+ But let's not rule out the possibility that she's just being a baby and
+ has yet to develop a taste for what she's offered.” 
+\end_layout
+
+\begin_layout Standard
+“I suppose,” he said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Um
+\emph on
+mmm
+\emph default
+,” said Elspeth insistently, patting his cheek.
+ 
+\end_layout
+
+\begin_layout Standard
+“There's mashed potatoes,” I said, gesturing at the fridge we'd moved into
+ the house to store Elspeth's food.
+ I had cooked for the day in the early morning, before she woke up, so during
+ her active period I wouldn't be distracted by putting together the meals.
+ “She hasn't tried those yet.” 
+\end_layout
+
+\begin_layout Standard
+Edward dutifully retrieved the tub of mashed potatoes, warmed them up in
+ the microwave that had also been added to our dwelling, and offered Elspeth
+ a forkful.
+ She frowned at the starchy item, but disdainfully parted her lips and consented
+ to taste it.
+ Instead of making either of her typical noises, she placed her hand on
+ Edward's cheek.
+ He gave her another bite of the food.
+ 
+\end_layout
+
+\begin_layout Standard
+“She approves?” I inquired, going to stand near them.
+ 
+\end_layout
+
+\begin_layout Standard
+He nodded.
+ “As much as she does of anything she's tried.
+ I'm getting that as much from my talent as hers, though.
+ It's a little tricky to decipher what she wants from the images alone.”
+ 
+\end_layout
+
+\begin_layout Standard
+“She doesn't have a lot to work with, if all she's doing is transmitting
+ her own memories.
+ But maybe she'll grow into more versatility,” I speculated.
+ “Interesting that she should be sticking to visuals while you work with
+ an auditory channel...” 
+\end_layout
+
+\begin_layout Standard
+“I can see images from other peoples' minds,” he said, “it just feels like
+ I'm hearing them.
+ Almost like synaesthesia.” 
+\end_layout
+
+\begin_layout Standard
+“But I didn't feel like I was hearing Elspeth's memory.” She was wolfing
+ down potatoes, barely chewing them -- she'd seemed to have a preference
+ for softer foods, despite her vampire-piercing set of chompers.
+ Possibly because she could swallow it faster and get the chore of eating
+ over with.
+ 
+\end_layout
+
+\begin_layout Standard
+“Maybe if you were aware of your shield, it would look visible to you,”
+ Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+“How heritable is witchcraft, anyway?” 
+\end_layout
+
+\begin_layout Standard
+“Where there's data, it suggests that it does run in families...
+ but it's skewed,” Edward said.
+ “For instance, Alec and Jane are biological twins and powerful witches,
+ but if only one of them had had a talent, it's unlikely we'd ever have
+ heard about the other.” 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “But you said Charlie's thoughts are indistinct to you.
+ That's sort of related to what I do.” 
+\end_layout
+
+\begin_layout Standard
+“It is.
+ And Aro's sister was a witch, after she turned -- according to Marcus's
+ memories, he turned her on the suspicion that Didyme's talent would be
+ as useful as his own.” 
+\end_layout
+
+\begin_layout Standard
+Elspeth finished the potatoes, having swallowed them nearly as fast as Edward
+ could bring the fork to her mouth.
+ Her quick metabolism was already burning them for fuel; there was no visible
+ protrusion in her belly.
+ “What did Didyme do?” I asked Edward, plucking her from his arms selfishly
+ to cradle her.
+ He looked at the pair of us with a pleased gleam in his eye.
+ 
+\end_layout
+
+\begin_layout Standard
+“She had an aura of happiness,” he said, plainly not thinking very hard
+ about the topic of conversation as he reached out to stroke Elspeth's cheek.
+ “Couldn't turn it off, couldn't direct it, couldn't do anything with it
+ but project it everywhere she went.
+ She had a lot of admirers, actually, but Marcus was the only one whose
+ interest she returned.” 
+\end_layout
+
+\begin_layout Standard
+“That sounds pleasant, I suppose, but not that useful by Volturi standards,”
+ I mused.
+ “How'd Aro react to that?” 
+\end_layout
+
+\begin_layout Standard
+“I haven't heard Marcus dwelling on it, and as I said, I've never caught
+ Aro thinking of her,” said Edward, still distracted by our baby's smile.
+ Elspeth blinked at him with her mesmerizingly brown eyes.
+ “She's so beautiful,” he murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+I handed her back to him.
+ “One of these days I'm going to stop thinking I'm the center of the universe,”
+ I teased.
+ 
+\end_layout
+
+\begin_layout Standard
+That broke his stare; his eyes flicked up to meet mine.
+ “She's half you,” he said.
+ “With your eyes -- your old eyes.
+ Can you blame me?” 
+\end_layout
+
+\begin_layout Standard
+“Not a bit.
+ I'm awfully pleased with her too, you know.
+ Just -- you take very readily to fatherhood,” I said.
+ “I knew it appealed to you, but watching it happen is something new to
+ integrate into how I think of you.” 
+\end_layout
+
+\begin_layout Standard
+He leaned over and kissed me, then returned to staring at Elspeth.
+ She stared back, obligingly enough.
+ I chuckled, then asked, “How did the errand go?” 
+\end_layout
+
+\begin_layout Standard
+“Well enough,” he said.
+ “We found a fellow in Oslo, and got Norwegian papers claiming that Elspeth
+ is a year old.
+ There are more on order, which will be finished in a few weeks, claiming
+ two, three, five, seven, ten, thirteen, and sixteen, on the theory that
+ this will cover enough ages to get along with during the time we're likely
+ to spend here.
+ That being limited by Carlisle's ability to pass for his supposed age at
+ work, of course.
+ Jasper's competent to add home-taken photographs as she approaches those
+ apparent ages.
+ He was working on the one-year-old version when I left him.” 
+\end_layout
+
+\begin_layout Standard
+Elspeth could probably pass for a smallish one-year-old already.
+ She was roughly baby-
+\emph on
+sized
+\emph default
+, but slimmer, more alert, and toothier than any brand-new human in the
+ world.
+ If I had to explain her tininess to someone confused about her claimed
+ yearling status, I supposed it wouldn't even be a lie to claim that she
+ was born prematurely.
+ 
+\end_layout
+
+\begin_layout Standard
+“I feel like she ought to be getting some social interaction with people
+ outside the family, at least once she's talking,” I said.
+ “But it's not safe to give her any real continuity, is it? Someone would
+ notice.
+ She'd either like the people she met and miss them, or not like them and
+ not get much out of having met them.” 
+\end_layout
+
+\begin_layout Standard
+“It's a big family, love,” he pointed out.
+ “Especially if Maggie and Gianna -- and Ilario -- stay.
+ It might do for the time being.” Ilario's original plan to go with his sister
+ and live near Rome was not meshing well with Maggie's affection for Ireland.
+ There had been other topics looming larger in their minds, of late, but
+ there had still been occasional spats about it.
+ I expected Gianna to be made tiebreaker or the engineer of compromise once
+ she woke up, and it might be that she'd split the difference by announcing
+ that she wanted to remain in Norway.
+ They weren't at all unwelcome, although it would make our group kind of
+ unwieldy.
+ 
+\end_layout
+
+\begin_layout Standard
+I kind of wanted to invite Charlie over, but even Edward didn't know that
+ he was in on the masquerade.
+ Charlie had been sort of passive-aggressive about this in his various e-mails,
+ lamenting that he didn't get to hold his new granddaughter.
+ I might need to find an excuse to bring her 
+\emph on
+there
+\emph default
+, in spite of my prior resolution not to run to La Push at the drop of a
+ hat anymore.
+ Maybe she could make friends with Cody, too, and have a peer of her own
+ species.
+ I didn't really want to take her to Chile to meet Nahuel.
+ He was nice enough, but as far as I knew he had no plans to permanently
+ abandon his preferred diet, and that wasn't the sort of influence I hoped
+ to bring into her life.
+ I didn't want anyone in Elspeth's life to normalize murder in her hearing
+ until she had something resembling critical thinking faculties.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth put her hand on Edward's cheek again.
+ “She wants you to read to her,” he announced.
+ “Interesting...
+ it was an image of when you read to her last night before she went to sleep,
+ but there was a feeling attached to it, not just the picture.” 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+That's
+\emph default
+ a request I'm perfectly happy to oblige,” I said, and I plucked the top
+ book off the stack of reading material I'd raided from Carlisle's library,
+ accepted Elspeth from Edward's arms, and began to read.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The subsequent morning, in the wee hours when Elspeth was still asleep,
+ I went up to the main house to whip up a few more batches of miscellaneous
+ food.
+ I could hear Gianna from a mile away.
+ I could hear Maggie too, singing brokenly, trying to soothe the unsoothable,
+ but Gianna was far louder.
+ 
+\end_layout
+
+\begin_layout Standard
+I tried to ignore it, just focused on the oats I was boiling and the chicken
+ I was trying to overcook until it would be soft enough to suit Elspeth,
+ but Gianna was hard to hedge out.
+ 
+\end_layout
+
+\begin_layout Standard
+I was halfway through stirring syrup into the oatmeal when she abandoned
+ wordless screaming for some very underhanded 
+\emph on
+wordy
+\emph default
+ screaming.
+ 
+\end_layout
+
+\begin_layout Standard
+“If you love me,” I heard Gianna cry, her voice already taking on the glassy
+ quality of a vampire's.
+ “Please, please, if you ever loved me.” 
+\end_layout
+
+\begin_layout Standard
+“Baby,” whispered Maggie, breaking off the song.
+ 
+\end_layout
+
+\begin_layout Standard
+“It hurts, it hurts,” sobbed Gianna.
+ Her spine -- which Carlisle had broken as soon as she came out of the coma
+ -- had healed hours ago.
+ “If you love me you'll make it stop.” 
+\end_layout
+
+\begin_layout Standard
+That was low, really.
+ I'd begged to die too, but I hadn't impugned the quality of Edward's love
+ when he'd refused.
+ Maggie whined, deep in her throat.
+ “It's mostly over,” she said, frantic.
+ I could hear Gianna thrashing around, Maggie trying to find purchase and
+ hold her.
+ Was Ilario even in the room, or had he left, unable to tolerate the spectacle?
+ “Baby, you're almost done, I promise, I promise
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Make it stop,” Gianna begged.
+ “I never asked you for anything -- anything -- this is the one thing I
+ want -- if you love me
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+Maggie sounded like she was trying to cry, but she couldn't, of course.
+ “I love you.
+ I love you so much, my Gianna, and I can't kill you, I could never, I wish
+ I could make the hurting stop right now any other way but I can't, baby,
+ but I love you, please, you have to know that.
+ It's almost over.” Then, a quaver in her voice that I barely detected, she
+ sang again, and Gianna gave up on arguing and just howled.
+ 
+\end_layout
+
+\begin_layout Standard
+I gritted my teeth a little.
+ The screaming was bad enough, but I also knew what it signified, and that
+ was worse.
+ It was all well and good to know that Gianna would wake up a glorious immortal
+ and return in joy every moment of misery she was causing Maggie now, and
+ get back every one she was enduring by fire herself.
+ She was still suffering.
+ 
+\end_layout
+
+\begin_layout Standard
+I packed up the sweetened oatmeal.
+ Gianna was hyperventilating.
+ I pulled the chicken out of the oven, and replaced it with a pan of assorted
+ vegetables to roast.
+ Gianna started repeating Maggie's name, over and over and over, too fast
+ and desperate and strung together to sound like she even intended to start
+ a complete sentence.
+ Maggie was too distraught by this to go on with her song, and she interrupted
+ it again, repeating Gianna's name in turn.
+ 
+\end_layout
+
+\begin_layout Standard
+I couldn't turn off my ears; if I was going to be in the house, there were
+ no earmuffs in the world fluffy enough to prevent me from hearing everything
+ they said.
+ I busied myself with the transfer of the chicken from its roasting pan
+ to a more portable container, trying to ignore the strangely intimate exchange
+ of pain upstairs.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Gianna's voice, suddenly, interrupting the litany of “Maggie,
+ Maggie, Maggie”.
+ 
+\end_layout
+
+\begin_layout Standard
+“Huh?” murmured Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+“What?” I said.
+ They'd hear me as well as I'd hear them, at this point -- the remaining
+ enhancements Gianna would get to her hearing weren't so great that she
+ couldn't already hear me from a flight of stairs away.
+ 
+\end_layout
+
+\begin_layout Standard
+“No, 
+\emph on
+no
+\emph default
+,” Maggie pleaded.
+ “Baby, don't do this to me, please
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Bella,” choked Gianna.
+ “I helped you.
+ 
+\emph on
+Help me
+\emph default
+.” 
+\end_layout
+
+\begin_layout Standard
+“I won't kill you,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Baby, please stop,” Maggie begged.
+ “Ilario said no and I said no and Bella said no and everyone's going to
+ say no, please don't ask, baby, I know you want to live, it's just the
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I want to die,
+\emph default
+” Gianna screamed.
+ 
+\end_layout
+
+\begin_layout Standard
+There was a silence, a pause, and it occurred to me to wonder how that statement
+, so bald and certain, would affect Maggie.
+ Not a request or an implication, just a fact.
+ 
+\end_layout
+
+\begin_layout Standard
+Spoken to Maggie, who 
+\emph on
+knew
+\emph default
+ lies when she heard them...
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Gianna wasn't lying
+\emph default
+ -- 
+\end_layout
+
+\begin_layout Standard
+There was a sound like fingernails on a chalkboard and Gianna's breath caught
+ and I was up the stairs and through the door without bothering to open
+ it.
+ I pried Maggie off of Gianna, breaking the redhead's wrist in my haste
+ with an unrestrained application of newborn strength.
+ 
+\end_layout
+
+\begin_layout Standard
+I seemed to have been just barely in time.
+ There were cracks running along the surface of Gianna's skin, where Maggie
+ had squeezed her, but she was basically intact, still breathing, her heart
+ still forcing envenomed blood through her veins.
+ Maggie let out an incoherent sob but didn't try to fight me; it had been
+ a moment of weakness against her mate's demands, then, not a concerted
+ change of opinion.
+ 
+\end_layout
+
+\begin_layout Standard
+The cracks knitted; Maggie's wrist healed.
+ “Should've let her,” gasped Gianna.
+ “Please.
+ Please.” 
+\end_layout
+
+\begin_layout Standard
+“Maggie, do you need to be somewhere else?” I asked.
+ Gianna didn't have the power to hurt herself; she'd be fine left alone,
+ physically, and the emotional succor Maggie had to provide was clearly
+ not going to do her any good.
+ 
+\end_layout
+
+\begin_layout Standard
+“I can't, I can't, I can't, I hurt her, oh God, I didn't want to hurt her,
+ I 
+\emph on
+can't
+\emph default
+,” Maggie wailed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Maggie,” whispered Gianna, but the named vampire shut her eyes tightly.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” Maggie told me.
+ I picked her up and carried her out of the house, away from the screaming.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I didn't worry about the vegetables in the oven.
+ If they were going to catch the house on fire, Alice would see in plenty
+ of time.
+ Maggie didn't try to get me to set her down, she just curled up inwards
+ on herself and made keening noises.
+ 
+\end_layout
+
+\begin_layout Standard
+I put her on the edge of a fjord, and she sat, mostly upright, hugging her
+ knees and burying her face.
+ “Thank you,” she murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+“You're welcome,” I said, although the stock response seemed inadequate
+ to the situation.
+ “Are...
+ you...
+ okay?” 
+\end_layout
+
+\begin_layout Standard
+“Ilario is better than me,” Maggie said in a monotone, unlike her usual
+ lively voice.
+ “He wasn't sure of himself, so he left, that was better for her, not so
+ risky, I wasn't sure and I stayed because I wanted her to need me but she
+ doesn't, she needs anybody 
+\emph on
+but
+\emph default
+ me, I was weak, I hurt her, I knew it could happen, it happened before...”
+ 
+\end_layout
+
+\begin_layout Standard
+“Before, it was a series of accidents,” I said.
+ “After, a response to a sincere request -- albeit a request you should
+ have seen coming.
+ It's not like your ultimate plan was ever to cause her harm.” 
+\end_layout
+
+\begin_layout Standard
+“I didn't ask to die, when I was turning,” Maggie murmured.
+ “I asked if it would be over and she said yes and I believed her because
+ it was true.” 
+\end_layout
+
+\begin_layout Standard
+“It's not just a matter of believing it,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie clenched her hands in the fabric of her pants.
+ The denim strained, but she didn't tear it.
+ “If I leave now,” she said, “if she never sees me once after she's done,
+ do you think she has a chance to find somebody better than me one day?
+ Who wouldn't have t-t-tried to
+\begin_inset space ~
+\end_inset
+
+--” I'd never heard a vampire stutter before.
+ 
+\end_layout
+
+\begin_layout Standard
+“I have no idea,” I said.
+ “And even if she could, it might take long enough that Alice couldn't see
+ it.
+ You couldn't be sure.” I didn't have the details of how Sue had felt about
+ Harry between his turning and hers except the obvious behavioral evidence.
+ Let alone how she'd have fared if he'd died while she was mid-change, and
+ that was the nearest template I could have extrapolated from.
+ 
+\end_layout
+
+\begin_layout Standard
+“What if I died? Would that do it?” 
+\end_layout
+
+\begin_layout Standard
+“I don't know,” I said.
+ “Besides, how would you manage it?” 
+\end_layout
+
+\begin_layout Standard
+“Ilario,” she said.
+ “I could find him and tell him what happened and I could just not fight
+ back...” 
+\end_layout
+
+\begin_layout Standard
+“And then what if it doesn't work and she wakes up and she's in Irina's
+ position from the get-go because you've gone and gotten yourself killed
+ trying to free her up for somebody `better'?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“You're right,” Maggie mumbled.
+ “But she deserves better.” 
+\end_layout
+
+\begin_layout Standard
+“She'll forgive you,” I said.
+ “She can't not.” 
+\end_layout
+
+\begin_layout Standard
+“I know, and that makes it worse.
+ If I hurt her before she could have sent me away and protected herself
+ and now she won't even be able to do that, at least if I see her, and who
+ am I kidding, I can't stay away forever if I'm alive, I'm not that 
+\emph on
+strong
+\emph default
+, if I were then I could be with her 
+\emph on
+now
+\emph default
+...” 
+\end_layout
+
+\begin_layout Standard
+“Once she's a vampire it's unlikely you'll be in a position to hurt her,”
+ I pointed out.
+ 
+\end_layout
+
+\begin_layout Standard
+“That doesn't mean I never did,” Maggie said.
+ “I 
+\emph on
+did
+\emph default
+.” 
+\end_layout
+
+\begin_layout Standard
+“Do you need me to stay here with you to keep you from doing something stupid
+ like provoking Ilario?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” said Maggie.
+ “I'll just...
+ wait here, I guess.
+ Will you ask someone to stay with Gianna, please? She shouldn't have to
+ be alone.
+ It doesn't have to be you, you've got a baby to take care of -- maybe Jasper,
+ if he can help her at all with his power, but he probably can't, it's not
+ that strong -- Esme?” 
+\end_layout
+
+\begin_layout Standard
+“I'll find Esme and ask her,” I agreed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Thank you,” Maggie murmured, and I gave her a useless pat on the head and
+ left her at the edge of the fjord.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I stopped at the house, turned the oven off, and went looking for Esme.
+ I found her in the garage, chatting with Rosalie while the latter tinkered
+ with the engine in a giant red car that I figured probably belonged to
+ Emmett.
+ 
+\end_layout
+
+\begin_layout Standard
+“Hello, Bella,” Esme said warmly when I let myself into the building.
+ Rosalie lifted a greasy hand from the car parts to wave at me.
+ 
+\end_layout
+
+\begin_layout Standard
+“Hi,” I said.
+ “Esme, Maggie can't stand to be around Gianna anymore, and Ilario left
+ just a few hours after she regained consciousness.
+ But Maggie doesn't want her to be alone and asked me to ask you to stay
+ with her for the last few hours.” 
+\end_layout
+
+\begin_layout Standard
+“Of course, Bella,” said Esme.
+ There was no possible universe in which Esme would refuse a request like
+ that; she was just the sort of creature that went about comforting the
+ distressed, and didn't resent her nature, either.
+ She patted Rosalie's hair -- braided into a blond pile on her head to keep
+ it out of the way -- and flitted past me to go to Gianna.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded to Rosalie and turned to go, having nothing in particular left
+ to say, but she stopped me -- “Bella.” 
+\end_layout
+
+\begin_layout Standard
+“What?” I asked, turning back.
+ 
+\end_layout
+
+\begin_layout Standard
+“Do you think -- not today, maybe not this week, but soon -- do you think
+ I could babysit Elspeth?” 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ I was used to the idea that Rosalie was thrilled to be involved in Elspeth's
+ creation and birth, and that had been helpful.
+ I was a little puzzled by the offer -- or rather, the request -- to be
+ involved in her care.
+ “We don't have a lot of other pressing obligations...” 
+\end_layout
+
+\begin_layout Standard
+“I understand.
+ I...
+ know you don't 
+\emph on
+need
+\emph default
+ me to do anything,” said Rosalie, pursing her lips.
+ “She sleeps and you don't, we aren't any of us going to school this year,
+ there's not much going on in general except Gianna's turning, etcetera
+ -- but if you ever wanted to go travel with Edward for a while again, just
+ the two of you, I would be 
+\emph on
+happy
+\emph default
+ to look after her.” 
+\end_layout
+
+\begin_layout Standard
+I considered the offer.
+ Elspeth was growing fast, so outrageously fast -- every moment I had with
+ her was precious, even more than if she'd been human.
+ Yet I had no grounds to confine that argument to myself and not extend
+ it to her other relatives.
+ Rosalie only had so many days to play with Elspeth-the-baby, too.
+ 
+\end_layout
+
+\begin_layout Standard
+Also, this would give me cover if I needed to go abroad again: I'd “let”
+ Rosalie hang onto Elspeth while Edward and I “got some time to ourselves”.
+ I 
+\emph on
+hoped
+\emph default
+ that I wouldn't need to make another significant trip again, but it wasn't
+ out of the question.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'll keep that in mind,” I said.
+ “Thank you.
+ You know, you could come with Alice to the photo shoot in a couple hours
+ -- we should really have more pictures with everybody in the family, not
+ just me and Edward and Alice.
+ Just because I don't want her around the main house until Gianna's up and
+ about and not so shouty doesn't mean everybody else has to be left out.”
+ 
+\end_layout
+
+\begin_layout Standard
+“I will,” Rosalie said.
+ 
+\end_layout
+
+\begin_layout Standard
+I smiled at her, then went back to the main house to fetch the roasted vegetable
+s and purée some fruit into a smoothie for Elspeth.
+ Then I started poaching some eggs.
+ Nice, balanced diet.
+ Esme was already doing her best to calm Gianna, who found her suicide-by-vampir
+e tactics far less effective against non-Maggie individuals.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I brought all the food to the cottage, fridged it, and went into the spare
+ room that held Elspeth's bed.
+ Edward was watching her sleep, unwilling to leave her unsupervised for
+ even a moment, but on this night he was holding her hand, pressing it to
+ his face, and had his eyes closed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella, you have to see this,” he murmured, very softly, so as not to wake
+ her.
+ He motioned me closer with his free hand and put Elspeth's palm against
+ my cheek.
+ 
+\end_layout
+
+\begin_layout Standard
+I could see her 
+\emph on
+dreams
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+I gasped involuntarily, not enough to wake her, as “remembered” colors and
+ forms and faces floated across my mind.
+ Peaceful, mostly meaningless, mesmerizingly lovely.
+ Edward's face and mine were the most prominent in the dream, but everyone
+ else she'd ever met made at least one appearance.
+ Even Gianna, sedated and inattentive, as Elspeth had last seen her, was
+ featured once.
+ Between faces, random hues faded into each other, spun into and out of
+ arbitrary shapes.
+ 
+\end_layout
+
+\begin_layout Standard
+“It's amazing,” I whispered to Edward, and he grinned at me, then went around
+ to the other side of her bed to try the other hand.
+ This worked well enough.
+ We held still, absorbed in Elspeth's dreams, until dawn started poking
+ through the window and she woke up with a comical yawn.
+ She noticed us leaned over her and, before reasserting control over her
+ hands, she pushed at us the image of ourselves, with a little smugness
+ attached.
+ I imagined her saying, 
+\emph on
+Ah, attention, just the way I like it.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+“Do you think it'll delay her talking, that she can do this?” I asked, picking
+ up Elspeth to get her fed promptly.
+ She did as much growing in her sleep as she did during the day and consistently
+ woke up hungry.
+ “Oatmeal, in the fridge.” 
+\end_layout
+
+\begin_layout Standard
+Edward microwaved the food and I grabbed a spoon.
+ “It could, but I doubt it'll slow her down by 
+\emph on
+much
+\emph default
+.
+ She seems to mostly understand us, anyway, and we can always ask her to
+ start using words if it becomes an issue.” 
+\end_layout
+
+\begin_layout Standard
+Elspeth reached out her hand to me and I bent my head to “listen
+\begin_inset Quotes erd
+\end_inset
+
+: she showed me the picture of Gianna's blood, again.
+ “No, no blood,” I said.
+ “Breakfast today is oatmeal.
+ You haven't had it before.
+ You might like it.” I stood back up while Elspeth made a pouty face at me.
+ “You'll look out for whether she's actually not feeling well as opposed
+ to just wanting it for the taste, right? It's not 
+\emph on
+impossible
+\emph default
+ that her dietary needs are different when she's growing than they will
+ be when she's an adult, but she's seemed healthy, just petulant.” 
+\end_layout
+
+\begin_layout Standard
+“All I'm getting is the petulance part,” he assured me.
+ He took the oatmeal out of the microwave, and Elspeth huffed a small sigh
+ as its non-blood smell steamed through the room.
+ 
+\end_layout
+
+\begin_layout Standard
+“Speaking of what you pick up on,” I said, giving the oatmeal a stir, “why
+ were you so enthralled by her dreams? They were new to me, of course, but
+ wouldn't you have been able to hear them regardless without her projecting
+ them to you?” 
+\end_layout
+
+\begin_layout Standard
+“Actually, I can't hear dreams,” he replied.
+ “They either don't count as `surface thoughts', my theory, or they're too
+ different from any mental activity 
+\emph on
+I
+\emph default
+ can do since I don't sleep, which is Alice's hypothesis.” 
+\end_layout
+
+\begin_layout Standard
+“Does Eleazar have an opinion?” I asked, scooping up a taste of oatmeal
+ to offer Elspeth and listening to her hum to herself as she contemplated
+ its flavor.
+ 
+\end_layout
+
+\begin_layout Standard
+“Never occurred to me to inquire,” Edward replied.
+ “At any rate, dreams are supposedly hard enough to remember while still
+ human -- I have no recollection of the process at all, myself -- so it
+ was very novel to be able to see Elspeth's.” 
+\end_layout
+
+\begin_layout Standard
+“From what I wrote down, most dreams are much more complicated than that
+ -- although probably not in anything resembling Elspeth's age range.
+ How did you get the idea?” 
+\end_layout
+
+\begin_layout Standard
+“She was making sounds in her sleep -- not talking, but it was close enough
+ to the way you used to mumble to yourself,” he said.
+ “And it seemed worth a try.” 
+\end_layout
+
+\begin_layout Standard
+“Um
+\emph on
+mmm,
+\emph default
+” sighed Elspeth, and I gave her more oatmeal.
+ She consumed it with a despondent and long-suffering expression.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Rosalie arrived to the photo festival as promised; the grease was washed
+ from her hands and her hair was down again.
+ Emmett came too; Elspeth, who had plenty of motor control, clung to his
+ head like it was a crows' nest in one picture.
+ 
+\end_layout
+
+\begin_layout Standard
+The look on Rosalie's face, when she had her turn to hold Elspeth and pose,
+ was glowing, proud, a heart-piercing smile -- with a twinge of sorrow.
+ She was either trying to forget that Elspeth wasn't her own baby, and not
+ quite succeeding, or she was reveling in aunthood and distracted by something
+ else, related or un-.
+ I glanced at Edward, looking for cues; he was calm, so I didn't worry about
+ it.
+ 
+\end_layout
+
+\begin_layout Standard
+Alice got a few shots of Rosalie holding a parka-clad Elspeth, and then
+ directed the costume change and the handoff.
+ When the baby had left her arms, Rosalie's face assumed its default expression:
+ lofty, neutral, introspective.
+ Rosalie's expression normally said, 
+\emph on
+you'll have to do better than that to get my attention
+\emph default
+.
+ That might have been what made her happiness so arresting when she displayed
+ it, come to think of it.
+ I was looking at her while I thought of this, and noticed a quiver of her
+ eybrows -- very subtle.
+ 
+\end_layout
+
+\begin_layout Standard
+Rosalie wasn't paying attention to me; she was watching Edward pose for
+ his pictures with Elspeth.
+ I walked into the frame after Alice was satisfied with the batch, and then
+ there was a nuclear family shot, and then Edward walked off, Elspeth got
+ a new outfit, and I took a picture with her by myself.
+ 
+\end_layout
+
+\begin_layout Standard
+It was an intricate sequence of tasks, but we all moved quite fast and Elspeth
+ was durable enough that we didn't have to dress and re-dress her like she
+ was made of soap bubbles.
+ (She could certainly be harmed if we were 
+\emph on
+really
+\emph default
+ careless, but avoiding it wasn't that hard and didn't slow us down that
+ much.) All told the taking of photos was an operation of fifteen minutes.
+ Alice danced away when the last snapshot was in her camera, to upload them
+ all to her computer, and get versions of them that made me look pink and
+ brown-eyed 'shopped for my ignorant family.
+ 
+\end_layout
+
+\begin_layout Standard
+Rosalie lingered, even as Emmett left.
+ 
+\end_layout
+
+\begin_layout Standard
+”...Do you want to give her her morning snack?” I asked.
+ We fed her five times a day, which wouldn't be that strange a feeding schedule
+ for a new baby if we weren't giving her giant portions of solid food.
+ Although it would be arguably stranger if she was getting a liquid diet,
+ because in her case that would take the form of blood.
+ “See if she likes eggs?” 
+\end_layout
+
+\begin_layout Standard
+“I'd like that,” said Rosalie, lighting up.
+ I handed her Elspeth.
+ She followed us into the house, and, with Elspeth in one arm, she warmed
+ up the eggs.
+ Rosalie seemed immensely gratified when they got a positive reception;
+ I supposed I should have guessed that eggs would be Elspeth's favorite
+ food, given their appeal to Gianna during the pregnancy -- and Sue during
+ hers, for that matter.
+ It was a small thing, and it made Rosalie immensely happy, so I refused
+ to let myself resent the fact that Elspeth's first eggs hadn't come directly
+ from my hands or Edward's.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth ate her half a dozen eggs with reserved gusto.
+ Part of me wondered where she 
+\emph on
+put
+\emph default
+ all her food.
+ She was maintaining a high body temperature and growing, so I supposed
+ it would make sense that she'd eat like a werewolf (invariably ravenous),
+ but the wolves were a whole lot bigger than her.
+ After Elspeth was informed that the sixth egg was the last, she promptly
+ beamed up at Rosalie and planted her palm on the blonde's cheek.
+ “Aww,” said Rosalie, melting.
+ “She's so polite.” 
+\end_layout
+
+\begin_layout Standard
+“Has she found a way to say `thank you'?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+Rosalie nodded, just a little, not dislodging Elspeth's hand.
+ “Just replaying what happened, with a feeling attached,” she cooed, rocking
+ the baby slightly.
+ 
+\end_layout
+
+\begin_layout Standard
+I had the most peculiar feeling that 
+\emph on
+I
+\emph default
+ was somehow being intrusive by hovering over Rosalie while she held 
+\emph on
+my
+\emph default
+ daughter.
+ I looked over at Edward, who was standing just behind me, a thin frown
+ spreading across his face.
+ There was no obvious way to demand that Rosalie hand Elspeth back and leave
+ without being rude -- and setting a bad example for manners seemed worse
+ than just letting Rosalie loiter a bit.
+ I put the egg container back in the fridge to keep it out of the way; I'd
+ wash it later while something or other was cooking the next morning.
+ 
+\end_layout
+
+\begin_layout Standard
+“Aren't you darling,” cooed Rosalie.
+ Elspeth smiled smugly.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward said, “Gianna's going to be done turning in less than a minute.” 
+\end_layout
+
+\begin_layout Standard
+“Oh, we should all go look in on her,” I said.
+ “Elspeth ought to get properly introduced.
+ Gianna did her a very important favor, after all.” I paused.
+ “Someone should also let Maggie know.” 
+\end_layout
+
+\begin_layout Standard
+“Rose, would you run and tell Maggie, please?” asked Edward, holding out
+ his arms for Elspeth.
+ “She's sitting on the edge of the fjord nearest the main house.” Rosalie
+ looked regretful, but handed over our daughter and went to inform Maggie.
+ Edward and I, Elspeth in tow, made a beeline for the main house; we slowed
+ down when we could hear Gianna's last, piercing screeches, waiting for
+ them to die down before we brought impressionable ears any nearer.
+ (Elspeth's hearing was not as keen as ours and Edward assured me that she
+ didn't hear a thing.) 
+\end_layout
+
+\begin_layout Standard
+We arrived at the room where everyone was congregating last, just after
+ Rosalie and Maggie.
+ Gianna was on her feet, gazing out the window, tall and whole and perfect.
+ The barest tea tint remained to her skin; she was Ilario's exact match
+ in coloration.
+ Behind her was everyone else in the coven, Ilario at the front of the group.
+ Maggie stood off to one side, cringing in expectation of some terrible
+ retaliation for her bad judgment hours earlier.
+ 
+\end_layout
+
+\begin_layout Standard
+“Gianna?” said Ilario softly.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna spun on one foot, took in the assembly of us with one sweep of her
+ eyes, and fixed her gaze on Maggie.
+ Her newly crimson eyes lit up with pleasure.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well...” said Maggie.
+ “Well, look at you, baby.” 
+\end_layout
+
+\begin_layout Standard
+Gianna flew forward, enveloping Maggie in a hug.
+ For the first time I consciously noted how much taller Gianna was than
+ her mate.
+ Maggie was pretty little, but when I'd compared her to Gianna as a human,
+ the known difference in strength was more salient than mismatched stature.
+ Maggie squeaked when embraced, and Gianna blinked and released her, having
+ made the same mistake I had the first time I tried to hug Edward as a newborn.
+ 
+\end_layout
+
+\begin_layout Standard
+Simultaneously, the two of them said, “Forgive me?” Presumably Gianna wanted
+ forgiveness for how she'd asked to die, and Maggie wanted it for listening
+ to her.
+ 
+\end_layout
+
+\begin_layout Standard
+It occurred to me that Ilario still didn't know what had happened while
+ Gianna was turning, and would have no idea why Maggie would need forgiveness,
+ unless he thought it was about her having left Gianna while she turned.
+ I supposed if he saw fit to make a fuss about the event at this point,
+ if he even learned the information, then Gianna would inevitably make it
+ not worth his while to attack Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna and Maggie grinned at each other, giggling softly over the concurrent
+ utterances.
+ After a moment, Gianna looked up at the rest of us.
+ ”...Good morning,” she said.
+ Etiquette was silent on the way to greet a group of vampires who were there
+ to watch one newly be a vampire.
+ “Oh my! Is that Elspeth?” 
+\end_layout
+
+\begin_layout Standard
+I nodded, taking her from Edward and holding her up so Gianna could get
+ a better look.
+ “Elspeth Annarose Cullen, in the flesh,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oh, she's so cute,” said Gianna.
+ “Hello, Elspeth.
+ You've gotten much bigger.” 
+\end_layout
+
+\begin_layout Standard
+“Say hi, Elsie,” I prompted.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth waved at Gianna, smiling toothily, and then stretched out her hand,
+ wanting to communicate by memory transfer.
+ Cautiously, aware that Gianna 
+\emph on
+was
+\emph default
+ still a newborn and that Elspeth's blood, while not very appealing, 
+\emph on
+was
+\emph default
+ present, I stepped forward to enable this.
+ Gianna looked politely puzzled by the baby's intentions until she had begun
+ conveying the desired information.
+ “Oh, she knows who I am,” Gianna said, beaming.
+ 
+\end_layout
+
+\begin_layout Standard
+“She's very smart, especially considering she's three days old,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Elspeth dropped her hand and I re-settled her in my arms.
+ 
+\end_layout
+
+\begin_layout Standard
+“You should hunt, baby,” Maggie said, wrapping herself around one of Gianna's
+ arms.
+ “Edward, is the place clear?” 
+\end_layout
+
+\begin_layout Standard
+He checked, and nodded, and Maggie urged Gianna out a window and into the
+ woods.
+ Ilario followed them after a moment's deliberation.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm glad that's over with,” I said.
+ “Well, Elspeth, do you want to have a look around this house?” 
+\end_layout
+
+\begin_layout Standard
+Elspeth planted her hand on my face and replayed the quick journey in through
+ the front door and up the stairs that she'd already undertaken, with an
+ attached feeling of incompleteness and curiosity.
+ “I'll take that as a yes,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+That was my last peaceful day.
+\end_layout
+
+\end_body
+\end_document

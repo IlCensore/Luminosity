@@ -1099,6 +1099,13 @@ filename "Luminosity-25.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "Luminosity-26.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
