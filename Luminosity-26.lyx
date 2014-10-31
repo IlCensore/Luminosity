@@ -799,12 +799,11 @@ no
 \emph on
 Help me
 \emph default
-.” 
+.”
 \end_layout
 
 \begin_layout Standard
 “I won't kill you,” I said.
- 
 \end_layout
 
 \begin_layout Standard
@@ -814,7 +813,7 @@ Help me
 \begin_inset space ~
 \end_inset
 
---” 
+--”
 \end_layout
 
 \begin_layout Standard
@@ -823,14 +822,12 @@ Help me
 I want to die,
 \emph default
 ” Gianna screamed.
- 
 \end_layout
 
 \begin_layout Standard
 There was a silence, a pause, and it occurred to me to wonder how that statement
 , so bald and certain, would affect Maggie.
  Not a request or an implication, just a fact.
- 
 \end_layout
 
 \begin_layout Standard
@@ -839,7 +836,6 @@ Spoken to Maggie, who
 knew
 \emph default
  lies when she heard them...
- 
 \end_layout
 
 \begin_layout Standard
@@ -847,7 +843,7 @@ knew
 \emph on
 Gianna wasn't lying
 \emph default
- -- 
+ --
 \end_layout
 
 \begin_layout Standard
@@ -1384,7 +1380,7 @@ The look on Rosalie's face, when she had her turn to hold Elspeth and pose,
  was glowing, proud, a heart-piercing smile -- with a twinge of sorrow.
  She was either trying to forget that Elspeth wasn't her own baby, and not
  quite succeeding, or she was reveling in aunthood and distracted by something
- else, related or un-.
+ else, related or unrelated.
  I glanced at Edward, looking for cues; he was calm, so I didn't worry about
  it.
  
@@ -1438,7 +1434,14 @@ Rosalie lingered, even as Emmett left.
 \end_layout
 
 \begin_layout Standard
-”...Do you want to give her her morning snack?” I asked.
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Do you want to give her her morning snack?” I asked.
  We fed her five times a day, which wouldn't be that strange a feeding schedule
  for a new baby if we weren't giving her giant portions of solid food.
  Although it would be arguably stranger if she was getting a liquid diet,
@@ -1599,7 +1602,15 @@ It occurred to me that Ilario still didn't know what had happened while
 Gianna and Maggie grinned at each other, giggling softly over the concurrent
  utterances.
  After a moment, Gianna looked up at the rest of us.
- ”...Good morning,” she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Good morning,” she said.
  Etiquette was silent on the way to greet a group of vampires who were there
  to watch one newly be a vampire.
  “Oh my! Is that Elspeth?” 
