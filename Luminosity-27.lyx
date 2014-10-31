@@ -1,0 +1,1830 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{26}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Luminosity.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Scatter
+\end_layout
+
+\begin_layout Standard
+The phone call came the next morning.
+ I was with the whole family, posing Elspeth for more pictures against the
+ backdrops available in the main house.
+ While Esme took her turn I picked up the phone unthinkingly, and froze
+ when I saw the identity of my caller.
+ Before I could invent an excuse to take the call privately, Jasper had
+ seen the name.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jacob Black,
+\begin_inset Quotes erd
+\end_inset
+
+ snarled Jasper.
+ Would he know the name? The surname certainly, but -- I remembered a snippet
+ of a paragraph from my notes, read and attached to memories early in my
+ second life.
+ Jasper had answered the phone first when I'd called Edward to tell him
+ that Jacob was at Charlie's house on Valentine's Day.
+ He'd have been near enough to hear the entire conversation.
+ He would know who Jacob was -- Billy's son.
+ A Quileute.
+ He'd know enough to be furious that I was in secret contact with him.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward's head snapped up and he was across the room in a moment to interpose
+ himself between me and Jasper.
+ The phone rang again, and everyone else was holding still, waiting to see
+ what was going on.
+ 
+\end_layout
+
+\begin_layout Standard
+If Jacob was 
+\emph on
+calling
+\emph default
+ me -- not texting, not relaying a message through Rachel, not sending an
+ e-mail -- then it was 
+\emph on
+urgent
+\emph default
+.
+ He would know as well as Rachel or Leah the protocols for getting ahold
+ of me.
+ Or at least it had 
+\emph on
+better
+\emph default
+ be urgent, because if it wasn't, I was going to 
+\emph on
+kill
+\emph default
+ him.
+ I flipped the phone open, trusting Edward and Alice to keep Jasper under
+ control while I dealt with the emergency.
+ “
+\emph on
+What
+\emph default
+?” I snapped.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Jacob, “you know that bloodsucker Becky's gang killed a while
+ back? His mate was here sniffing around, and we couldn't catch her when
+ we found her -- she went into the water and we lost the trail.
+ And she 
+\emph on
+snitched
+\emph default
+ on us to the Volturi and now there are some scary damn leeches who've got
+ near everybody lying on the ground blind and deaf and sorta paralyzed.
+ I peeled off my own pack, same way Becky did, and was able to get everybody
+ with an imprint to follow me and they didn't knock me out, somehow.
+ Nobody else managed to get away and we had to leave them.” 
+\end_layout
+
+\begin_layout Standard
+“Where are you?” 
+\end_layout
+
+\begin_layout Standard
+“We're making a run for it, eastward -- we've got Cody too.
+ Harry and Sue were going to try to save their other kids last I saw.
+ We couldn't stop to get your dad, he's still in Forks -- mine's still in
+ La Push.
+ Everybody just grabbed their imprints and we're on the run.
+ Lucky they were all around and nobody tried to go for the Makah rez because
+ that would've been suicide.
+ We need backup right the hell 
+\emph on
+now
+\emph default
+.
+ The leeches were talking about doing experiments on the pack so they're
+ not killing them right away but I don't want to count on that for long.”
+ 
+\end_layout
+
+\begin_layout Standard
+“A young-looking boy, dark blond hair...?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“He's one of 'em, yeah, and a girl who could be his twin sister and a couple
+ of big skeeters, seem to take orders from the girl,” Jacob said.
+ I could hear wind rushing past; he was probably riding one of the escaped
+ wolves, only in his own human form so as to be able to talk to me.
+ 
+\end_layout
+
+\begin_layout Standard
+“You got away when you split off your own pack?” I said, uncomfortably aware
+ of the fact that everybody in the room was staring at me.
+ “When the boy -- he's Alec -- when he knocked out one from a pack did it
+ carry over to everybody?” 
+\end_layout
+
+\begin_layout Standard
+“I think so -- it looked like Nina went first, only she was screaming, not
+ just collapsing, I think that might have been the girl and not the boy
+ because she had this sadistic grin on her face.
+ And then Becky's whole pack was down howling bloody murder, and then Rachel
+ got too close to “Alec” and we were out too, but I broke off.
+ Raych gave me an excuse, she Alpha-voiced me so I'd have something to disobey.
+ And it was like all the guys with imprints had enough motivation or something
+ to get gone with me and nobody else did.
+ I guess once we were up, we were out of there too fast for the leeches
+ to catch us.” 
+\end_layout
+
+\begin_layout Standard
+I ground my teeth.
+ It sounded like both Jane and Alec could echo their powers through an entire
+ pack via telepathic relay, and only Jacob's split had let anyone get away
+ at all.
+ “I'll do what I can.
+ Will you be able to answer this phone if I call you later?” 
+\end_layout
+
+\begin_layout Standard
+“I'll give it to Kim to hold,” he said, naming one of the imprints.
+ “You'll get her if you call again.” 
+\end_layout
+
+\begin_layout Standard
+“Anything else I've got to know?” 
+\end_layout
+
+\begin_layout Standard
+“Last I saw everybody was in that big field a ways up from the ravine,”
+ he said.
+ “One of the big bloodsuckers was baiting us, weaving in and out of the
+ rez, trying to get us all in one place to attack him as a group, and damned
+ if it didn't work.
+ I don't know if they'd be able to move all those wolves or not, but that'd
+ be the first place I'd check.
+ Also don't know if we're being chased now, but have to guess so.
+ Handing the phone to Kim now.
+ I'm slowing down Jared too much.” Jared was the wolf who'd imprinted on
+ Kim.
+ I heard the sound of Jacob giving away the phone and leaping off Jared's
+ back, phasing midair.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella?” said a girl, presumably Kim.
+ She was quavery.
+ “Are you going to be able to help us?” 
+\end_layout
+
+\begin_layout Standard
+“I'll do what I can,” I promised.
+ “I'm in trouble too, though, if they've got captives -- even if they don't
+ say anything in spite of Jane, Aro could show up at any time and he'll
+ get any information he wants.
+ Probably I could not be more on their hit list than I already am now, even
+ if I'd killed Aro's wife.
+ But I'll do what I can.” 
+\end_layout
+
+\begin_layout Standard
+“Okay,” said Kim in a small voice.
+ I snapped the phone shut.
+ 
+\end_layout
+
+\begin_layout Standard
+Everybody was still staring at me.
+ 
+\end_layout
+
+\begin_layout Standard
+I had missed a gaping, 
+\emph on
+obvious
+\emph default
+ security flaw.
+ Of 
+\emph on
+course
+\emph default
+ Irina wouldn't try to personally destroy thirty-one wolves even if she
+ found out that they were responsible for Laurent's death.
+ 
+\emph on
+Of course
+\emph default
+ she was not that stupid.
+ Even if she were 
+\emph on
+suicidal
+\emph default
+, revenge would take priority over getting herself dead in a hurry, and
+ the way you kill someone more powerful than you is to get someone more
+ powerful than 
+\emph on
+them
+\emph default
+ aboard.
+ 
+\emph on
+I'd done it myself
+\emph default
+ -- I'd brought James straight into the Volturi's lair when I'd needed him
+ dead and didn't have the power to kill him -- 
+\emph on
+why
+\emph default
+ hadn't I expected the same of Irina? 
+\end_layout
+
+\begin_layout Standard
+And now all hell had broken loose, and several of my most necessary allies
+ were looking like they'd never forgive me for unleashing it.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I was expecting an infuriated accusation from Jasper, but it was actually
+ Carlisle who recovered the ability to speak first.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella,” he said, every inch the gravely disappointed father figure, “what
+ have you done?” 
+\end_layout
+
+\begin_layout Standard
+That broke the silence; suddenly everyone was yammering to everyone else.
+ Esme, still holding Elspeth, brought Ilario, Gianna, and Maggie up to speed
+ on the werewolf matter.
+ Edward's rapidity of speech was overtaxed as he defended me from simultaneous
+ accusations from Jasper, Rosalie, and Emmett.
+ Alice tried to see something and then clutched her head and squeaked, which
+ distracted Jasper, but only made him angrier at me when she whispered that
+ everything was in shadow.
+ 
+\end_layout
+
+\begin_layout Standard
+I wanted to hide.
+ I wanted to run to my fairytale cottage and be with the smaller, less difficult
+ part of my family.
+ Edward was busy.
+ I thought of asking Esme for Elspeth, but in the current climate of the
+ house, there was no safer place for a baby than Esme's arms -- no one would
+ attack Esme, Esme would not attack anyone.
+ Me, on the other hand -- I might be less safe.
+ 
+\end_layout
+
+\begin_layout Standard
+“You woke up the 
+\emph on
+dogs
+\emph default
+?” Rosalie was shrieking.
+ 
+\end_layout
+
+\begin_layout Standard
+“You knew who had killed Laurent, and you said nothing?” Carlisle asked.
+ He wasn't shouting, just exuding dismay.
+ How had he made the connection between what Jacob had said and Laurent's
+ death? Some contact I wasn't aware of between him and Irina or other Denalis?
+ Didn't matter.
+ I wasn't getting out of this room without telling them all everything anyway.
+ This was not the time to figure out what secrets I could and couldn't salvage.
+ 
+\end_layout
+
+\begin_layout Standard
+“When did you even find the time to
+\begin_inset space ~
+\end_inset
+
+--” Emmett began, and then he looked at Edward, who stared him down.
+ “Ed, did you 
+\emph on
+know
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+Jasper wasn't talking.
+ He was hissing, curled protectively around Alice as though he thought I'd
+ attack her.
+ She'd quit yelping, having stopped trying to use her vision, but she wasn't
+ making any move to calm down her husband -- she was just staring at me,
+ uncomprehending.
+ 
+\end_layout
+
+\begin_layout Standard
+Esme, to her eternal credit, was trying to soothe Elspeth in between catching
+ up the three who were not aware of the full Cullen family history.
+ Elspeth wasn't crying, but she was clearly bewildered and displeased by
+ the shouting that was going on around her.
+ 
+\end_layout
+
+\begin_layout Standard
+“I
+\begin_inset space ~
+\end_inset
+
+--” I began, trying to answer any of the many questions aimed at me, but
+ words beyond that wouldn't come.
+ “I...” 
+\end_layout
+
+\begin_layout Standard
+“We need to get out of here,” Maggie said fiercely, turning to Gianna and
+ Ilario.
+ “We had no part in anything Bella did; we're safe from the Volturi if we
+ cut and run now.
+ Siobhan and Liam will have us -- especially since we're not competing for
+ their prey.
+ I asked earlier.
+ Let's go, 
+\emph on
+now
+\emph default
+, before we're complicit in anything.” 
+\end_layout
+
+\begin_layout Standard
+The siblings nodded, and Ilario shot me a dark look and Gianna an apologetic
+ one as they left the room after Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+Esme turned to face the middle of the room, where I stood.
+ She didn't look angry -- but she did look afraid.
+ I'd endangered her family.
+ The guilt was crushing: how could I hurt Esme, of all people? As if I hadn't
+ done enough to the Quileutes? If I hadn't activated them, Laurent might
+ have killed three or four people in the area, gotten in and out in a few
+ days, gone home to Irina, the Volturi wouldn't have found them or at least
+ not so 
+\emph on
+soon
+\emph default
+.
+ And now Esme's loved ones -- 
+\emph on
+including me
+\emph default
+, including 
+\emph on
+Edward
+\emph default
+ -- were all in likely danger.
+ 
+\end_layout
+
+\begin_layout Standard
+The questions died down.
+ I located my voice -- it had sunk to somewhere near the pit of my stomach
+ -- and tried to answer them, one at a time, over the tingle of fear from
+ Jasper's hisses.
+ 
+\end_layout
+
+\begin_layout Standard
+“I -- I -- I
+\begin_inset space ~
+\end_inset
+
+--” So this was how Maggie had stuttered: lots of room in the vampire brain,
+ lots of room for huge and crippling emotions, enough to let them displace
+ peripheral functions like language.
+ “I activated Rachel in July.
+ And most of the others.
+ Harry's a Quileute too.
+ His daughter hurt him and I had to turn him to save him
+\begin_inset space ~
+\end_inset
+
+--” I stammered, ineloquently, through the Cliff's notes of the secrets
+ I'd been keeping.
+ I had to double back several times to explain my motivations, about Aro's
+ witchcraft and Sue's pregnancy and the like, and even when I offered these
+ feeble justifications it sounded almost as though I'd been acting randomly.
+ Jasper growled at me (to an answering snarl from Edward) when I mentioned
+ that I wasn't immune to Alice, never had been, I just fell into werewolf-derive
+d shadows on a regular basis.
+ Alice looked hurt, still made no move to restrain Jasper, but she wasn't
+ snarling herself.
+ 
+\end_layout
+
+\begin_layout Standard
+When I'd run out of things to say, events and explanations both, silence
+ settled over the room.
+ Edward didn't relax at all.
+ 
+\end_layout
+
+\begin_layout Standard
+“Maggie was right,” said Rosalie, breaking the quiet.
+ “The smart thing to do, the safe thing, is to cut and run.
+ Bella's painted a great, big target on herself but 
+\emph on
+we
+\emph default
+ can prove to Aro that we weren't involved.” 
+\end_layout
+
+\begin_layout Standard
+This wasn't how I'd wanted it to go, I didn't want to be like the Denalis'
+ mother, sacrificed as an example to my family so they would develop a 
+\emph on
+healthy respect for the law
+\emph default
+ - 
+\end_layout
+
+\begin_layout Standard
+“Rose,” said Edward.
+ “Rose, you're not like this
+\begin_inset space ~
+\end_inset
+
+--” I could tell as he said it that he didn't believe it.
+ She 
+\emph on
+was
+\emph default
+ like that, exactly like that, and she had every right to be, she didn't
+ need to let her second life be broken to smithereens the way her first
+ one had because I was playing Secret Agent Vampire behind everyone's backs.
+ 
+\end_layout
+
+\begin_layout Standard
+“Edward, you 
+\emph on
+weren't
+\emph default
+ like this,” she snapped.
+ “Go get yourself executed with Bella while she tries to save the mutts
+ she made, fine, your prerogative, but don't expect us to live with the
+ mess she's created.” She paused.
+ “Don't drag Elspeth into it either.” 
+\end_layout
+
+\begin_layout Standard
+“No,” I said, suddenly.
+ “No, of course not.
+ I can't bring Elspeth there.” 
+\end_layout
+
+\begin_layout Standard
+“I'll take her,” said Rosalie readily.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded, rapidly.
+ “I got the wolves into this, I'll have to do what I can to get them out,
+ I'm the only prayer against Alec and Jane -- but I should go alone.
+ The rest of you should stay out -- Rose, if I can ask you to look after
+ Elsie even now...” Rosalie was nodding impatiently.
+ “Here would do, I suppose, or you could go to ground in one of the other
+ houses or Denali...” 
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Edward.
+ “Bella, I can't leave you.” 
+\end_layout
+
+\begin_layout Standard
+“I can't bring Elspeth there,” I repeated.
+ “Can you leave 
+\emph on
+her
+\emph default
+? Our daughter?” 
+\end_layout
+
+\begin_layout Standard
+“Don't go, Bella,” Edward pleaded, recoiling from the choice presented.
+ “You don't have to go.” 
+\end_layout
+
+\begin_layout Standard
+“I've gone and painted a target on myself, like Rosalie said,” I murmured.
+ “The Volturi are going to come after me at this point whether I go to them
+ first or not.
+ But if I go and I take out Jane and Alec somehow -- and realistically I'm
+ the only person who can do that -- and the wolves are there and they get
+ up and fight, then there might be a chance.” 
+\end_layout
+
+\begin_layout Standard
+“Go with them,” I said to Edward, gesturing at the rest of the family.
+ “Wherever.
+ Look after Elspeth.” 
+\end_layout
+
+\begin_layout Standard
+“Bella, do you seriously think they'll leave Edward alone?” asked Rosalie
+ scathingly.
+ “They know perfectly well he's your mate.
+ If you survive the head-on fight the very next thing they'll do is grab
+ Edward and use him as bait.” 
+\end_layout
+
+\begin_layout Standard
+I looked up.
+ My brain was kicking into overdrive.
+ I could not screw this up.
+ I had to be 
+\emph on
+right
+\emph default
+, I had to be 
+\emph on
+careful
+\emph default
+, if Rosalie was willing to tell me when and how I was being a moron then
+ I had to 
+\emph on
+use
+\emph default
+ that resource in order to be less of a moron.
+ “Would they do that with Elspeth, too?” 
+\end_layout
+
+\begin_layout Standard
+Rosalie didn't seem to have thought of that.
+ “...Maybe.” Esme tightened her hold on my daughter.
+ 
+\end_layout
+
+\begin_layout Standard
+I thought.
+ I was still thinking when Alice spoke.
+ 
+\end_layout
+
+\begin_layout Standard
+“Jasper,” she murmured, “we need to go.
+ Not with everyone else.
+ The bits I can see, the bits that aren't shadowed -- they're going to use
+ this as an excuse to try to collect me.
+ Aro's never wanted anything else as much as he's wanted a precog.
+ A criminal in my coven is just the pretense he needs.
+ We have to run and keep running until it's obvious we've cut contact and
+ there's no excuse to try us with the others.” 
+\end_layout
+
+\begin_layout Standard
+Jasper nodded once, jaw clenched tightly, eyes narrow.
+ They got up and left; I heard Alice's car starting up.
+ They didn't discuss where they were going -- of course; they probably weren't
+ even thinking about it while Edward could hear.
+ If we could find them, then that wouldn't be a plausible severing of contact.
+ Alice had said enough that no one who loved her would try to find her,
+ and that was all she could safely say.
+ 
+\end_layout
+
+\begin_layout Standard
+The room was beginning to look rather empty.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+How could I keep my husband and daughter safe? 
+\end_layout
+
+\begin_layout Standard
+I didn't even need to ask myself 
+\emph on
+what do I want?
+\emph default
+ -- it was too obvious, the sole consuming thought in my head.
+ Edward needed to be safe.
+ Elspeth needed to be safe.
+ Both of those things had to happen before anything else could attain a
+ shred of importance.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What do I have?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I had Edward -- and that was half the problem.
+ His very attachment to me was making him vulnerable.
+ If it weren't assumed by everyone who knew word one about vampires that
+ we would be together, then he could go somewhere with the others, hole
+ up and wait for the Volturi to clean up my undesireable self.
+ 
+\end_layout
+
+\begin_layout Standard
+Rosalie, and Esme and Carlisle and Emmett, might abhor what I'd done, might
+ be forced to write Edward off as a lost cause they'd have to pinch off
+ the family in order to salvage anything.
+ But they 
+\emph on
+did
+\emph default
+ want to protect Elspeth, and that was more plausibly doable.
+ The Volturi didn't have the same ironclad expectations about my relationship
+ with her.
+ There wasn't the same kind of precedent for half-vampire children.
+ 
+\end_layout
+
+\begin_layout Standard
+Could I 
+\emph on
+hide
+\emph default
+ her? I couldn't think of anyone to hide her 
+\emph on
+with
+\emph default
+, and while she might 
+\emph on
+survive
+\emph default
+ if I just dropped her off in the middle of nowhere, she wouldn't understand
+ the need for concealment and would eventually give herself away -- not
+ to mention that it was hardly what I had in mind when I thought of the
+ word “safe
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The Volturi had the resources to track down anyone I could trust her with,
+ from Renée to Gianna.
+ That held if I flung the definition of “trust” as far as it could go and
+ considered leaving her with distant acquaintances like the Chilean coven.
+ I couldn't leave her anonymously at an adoption agency or on someone's
+ doorstep.
+ She grew too fast, she'd be too obviously nonhuman to anyone taking a close
+ look.
+ Exactly the kind of oddity that the Volturi liked to stamp out with lots
+ of death.
+ 
+\end_layout
+
+\begin_layout Standard
+So: if the Volturi wanted her, they could find her.
+ Whoever had her needed to either run from them forever or be armed with
+ a way to make them uninterested in kidnapping or hurting her.
+ 
+\end_layout
+
+\begin_layout Standard
+Or she needed to spend so little time there that they never got around to
+ looking.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bella,” said Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I'm thinking
+\emph default
+.
+ It takes long enough to get to America from here that the best way to hurry
+ 
+\emph on
+isn't
+\emph default
+ to rush the thinking part,” I said, but anxiety betrayed the fact that
+ I didn't feel so confident.
+ 
+\end_layout
+
+\begin_layout Standard
+What 
+\emph on
+else
+\emph default
+ did I have? I was still a newborn, still a shield, might be able to kill
+ or at least interrupt Jane and Alec long enough to get wolves up and fighting,
+ before the other handful of Volturi on their team tore me to bits, if I
+ got there before reinforcements from Volterra arrived.
+ Rachel's pack and Becky's, minus Jacob and the five imprinted wolves he'd
+ peeled off, 
+\emph on
+maybe
+\emph default
+ plus Harry and Sue if they weren't already dead, could probably kill off
+ the handful of vampires that Jacob had described.
+ After that we could regroup; without their favorite illusionists the Volturi
+ would be at much more of a disadvantage against the wolves.
+ 
+\end_layout
+
+\begin_layout Standard
+So I might live long enough to be able to retrieve Elspeth from a temporary
+ hiding place without heavy duty defenses, if there were one that wouldn't
+ delay me too much to leave her at.
+ 
+\end_layout
+
+\begin_layout Standard
+I couldn't 
+\emph on
+count
+\emph default
+ on being able to go back for her.
+ But I'd already established that she could be found wherever I put her.
+ So that meant I had to leave her with someone who could hang onto her if
+ necessary, and that someone had to have a way to convince an angry Volturi
+ guard to leave her alone if one came knocking.
+ 
+\end_layout
+
+\begin_layout Standard
+The Volturi's top priority was containing information.
+ They were probably limiting their sphere of destruction to La Push, not
+ extending to Forks.
+ Charlie 
+\emph on
+might
+\emph default
+ be ignored for the time being, while the Volturi contemplated the wolves.
+ If he turned his siren on he could be streaking away from Forks like a
+ bat out of hell, difficult for even a vampire to keep up with, and he could
+ bring Elspeth along.
+ If I died...
+ 
+\end_layout
+
+\begin_layout Standard
+Charlie couldn't fight off a vampire.
+ His limited version of my shield might offer some sort of defense against
+ the same things I was immune to, but ultimately he was human, helpless
+ unless the Volturi had another reason to leave Elspeth -- and Charlie --
+ alone.
+ He wouldn't be able to drive the getaway car if he was in the middle of
+ turning, and I couldn't wait around three days for him to finish.
+ She -- and possibly also he -- would be bait if (when) caught.
+ He had to sleep, he couldn't run forever.
+ 
+\end_layout
+
+\begin_layout Standard
+So Charlie was out.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe I was dwelling too much on how I'd get her 
+\emph on
+back
+\emph default
+, and not enough on how I'd make her 
+\emph on
+safe
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+“If you go to Denali,” I said softly, indicating Carlisle and Esme, Rosalie
+ and Emmett, “and you take Elspeth, and I make it 
+\emph on
+impossible
+\emph default
+ for you to contact me...
+ and I 
+\emph on
+swear
+\emph default
+ never to come for her...
+ then they can't use her as bait.” 
+\end_layout
+
+\begin_layout Standard
+Edward swallowed.
+ “But...” 
+\end_layout
+
+\begin_layout Standard
+“Edward has to come with me, because they will never, ever believe that
+ we'd cut ourselves off like that...
+ they'd know that if they got him, they'd get me too, and they'd be right,”
+ I whispered.
+ “But Elspeth's another story.
+ I 
+\emph on
+can
+\emph default
+ leave her if...
+ if that's the only way she can be kept safe, is to be away from me.
+ Between you four and the Denalis you can make the Volturi at least ask
+ a few questions, before they try to attack.
+ They need excuses to wipe out covens or they lose their aura of legitimacy,
+ and they don't have one for any of you.
+ The only weak point is making sure Elspeth can't be used to find me.
+ So I have to be unable to receive threats.
+ No contact.
+ Like Alice and Jasper.
+ Even if I live through this in the short term.
+ Until and unless the Volturi are all 
+\emph on
+gone
+\emph default
+ or so scattered as to be no threat, I can't see her.” 
+\end_layout
+
+\begin_layout Standard
+“Bella,” whispered Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+“Please have a better idea,” I said.
+ “That's the best I can do.” 
+\end_layout
+
+\begin_layout Standard
+“We could just run.
+ The three of us.
+ You'll never be in time to save the wolves anyway.” 
+\end_layout
+
+\begin_layout Standard
+“I might be there in time,” I said.
+ “But you're right.
+ We could run.
+ Until they caught us.
+ And they 
+\emph on
+would
+\emph default
+.
+ You aren't immune to Demetri -- hell, we don't even know for sure if 
+\emph on
+I
+\emph default
+ am -- and he's met you, he can track you down anywhere on Earth.
+ But it might take him long enough that Elspeth wouldn't be a baby anymore,
+ and then she'd be obviously in cahoots with us, and they'd just kill us
+ all three.
+ You and I might be done for unless we manage to singlehandedly wipe out
+ the Volturi, but Elspeth has a chance if we leave her -- and it means she
+ won't be caught in the fight at La Push itself.” 
+\end_layout
+
+\begin_layout Standard
+Edward's face was frozen into a mask of dread.
+ But slowly, he managed to nod.
+ 
+\end_layout
+
+\begin_layout Standard
+“Fine,” said Rosalie tightly.
+ “We go to Denali, you go to your deaths, but Elsie's safe with me.
+ With all of us,” she added.
+ 
+\end_layout
+
+\begin_layout Standard
+“There has to be another way,” said Carlisle, and Esme nodded fervently.
+ 
+\end_layout
+
+\begin_layout Standard
+“There doesn't have to be another way,” I said.
+ “If there is one, if you think of one, please, 
+\emph on
+please
+\emph default
+ tell me -- but there doesn't have to be.
+ The Volturi 
+\emph on
+can
+\emph default
+ be too strong to fight, too evil to dispense mercy.” 
+\end_layout
+
+\begin_layout Standard
+There was a heavy pause, and then - 
+\end_layout
+
+\begin_layout Standard
+“I...
+ I guess we need plane tickets,” said Esme.
+ “I'll...
+ go buy them.” She handed Elspeth to me.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned to face Edward, standing close, so we could both hold her at the
+ same time.
+ Elspeth held up both little hands, touched our faces, showed us ourselves
+ and how miserable and afraid we looked, and wanted to know why.
+ 
+\end_layout
+
+\begin_layout Standard
+I had no idea what to tell her.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Esme bought tickets.
+ We collected our documentation.
+ I raided a petty cash location -- there was money stored all over the house,
+ in various denominations; I helped myself to a wad of American dollars
+ in case I did manage to get out of La Push alive.
+ Edward pocketed half.
+ 
+\end_layout
+
+\begin_layout Standard
+There weren't flights from Norway to the States so often that it would have
+ been worthwhile to simply leave immediately.
+ There was a little time before we needed to go to the airport.
+ I fed Elspeth, as much as she would swallow -- I didn't want her hungry
+ around humans and tempted to try to bite them, and even though we could
+ all give her our airplane food, it might not be as much as she'd want.
+ I put on my Valentine's bracelet.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward pulled a little paper packet out of a hiding place in our cottage.
+ “I was going to give you this tonight, after Elspeth was asleep,” he said.
+ “But...” 
+\end_layout
+
+\begin_layout Standard
+I unwrapped the packet.
+ It contained a locket.
+ I flicked it open; it already held pictures -- one from our wedding, one
+ of Elspeth.
+ I closed it, put it on, and tucked it into my shirt, and kissed him.
+ 
+\end_layout
+
+\begin_layout Standard
+Time was up.
+ We went to the garage and piled into a car; the other four were in another.
+ We were on the same flight over the Atlantic and would split up when we
+ had to change planes.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth definitely picked up on our collective mood and kept sending us
+ pictures of ourselves during the first leg of the journey, wanting to know
+ what was wrong.
+ 
+\end_layout
+
+\begin_layout Standard
+“We're going to let Grandma Esme and Grandpa Carlisle and Aunt Rosalie and
+ Uncle Emmett take you to see some friends in Alaska,” I whispered to her,
+ “but me and Daddy can't go, and we'll miss you.” 
+\end_layout
+
+\begin_layout Standard
+That explanation seemed to suffice for her.
+ She slept through most of the flight.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+At the airport where we had to change planes, I almost backed out.
+ Almost clung to Elspeth when Rosalie reached out for her, almost said we
+ 
+\emph on
+should
+\emph default
+ run, 
+\emph on
+should
+\emph default
+ hope to keep away from Demetri forever, 
+\emph on
+should
+\emph default
+ abandon the wolves and take Elspeth and not endure this loss 
+\emph on
+now
+\emph default
+ when it could certainly be put off until 
+\emph on
+later
+\emph default
+.
+ I re-checked all my logic in a flurry of desperation.
+ But I still couldn't think of a way to hide her, couldn't think of a way
+ to thwart the Volturi tracker indefinitely, and was still sure that I'd
+ been sentenced to death and Edward with me for the crime of being my husband.
+ Elspeth had as much of a chance as she could get, in Denali.
+ If something came up that 
+\emph on
+really
+\emph default
+ changed that situation, well, I knew where she was.
+ 
+\end_layout
+
+\begin_layout Standard
+I took a deep breath, and, forcing myself not to tremble, let Rosalie take
+ her.
+ “I love you,” I whispered to Elspeth, and Edward echoed my words.
+ Edward and I handed our phones to Carlisle, to make us impossible to contact
+ in that direction.
+ Impossible to threaten.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward hugged his adoptive parents, each in turn.
+ I didn't try.
+ It was my fault there needed to be a goodbye.
+ My fault the family was splintering.
+ 
+\end_layout
+
+\begin_layout Standard
+Their connecting flight was earlier than ours.
+ They walked away, with Elspeth peeping over Rosalie's shoulder and waving
+ forlornly, and Esme looking back every few moments, despairing.
+ They disappeared around a corner.
+ 
+\end_layout
+
+\begin_layout Standard
+We had time to buy new phones -- we left the airport and did that, then
+ went back in.
+ I texted Jacob, giving him my new number and telling him our expected arrival
+ time in case he wanted to be part of the cavalry.
+ There was no answer before we boarded our second plane.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth's absence felt cold.
+ I didn't 
+\emph on
+need
+\emph default
+ warmth.
+ I could live in the vacuum of space, if it came to that.
+ But I 
+\emph on
+missed
+\emph default
+ it, I missed 
+\emph on
+her
+\emph default
+, her heartbeat and her quick little breaths and the heat when I held her.
+ The play of color in her dreams.
+ I sat as close to Edward as the airplane seats allowed, wrapped myself
+ up in his presence and tried to offer back what I could to him.
+ 
+\end_layout
+
+\begin_layout Standard
+My baby was five days old, and in five days she'd become so important.
+ 
+\emph on
+Could
+\emph default
+ we stay away from Denali? What mattered was really if everyone else 
+\emph on
+thought
+\emph default
+ we could, I supposed, and no one else could look into my mind and feel
+ the cold.
+ 
+\end_layout
+
+\begin_layout Standard
+We talked, a little: quiet discussions of tactics.
+ If the Volturi had backup there before we arrived instead of just the twins
+ and the two others Jacob had seen, we would do thus and such; if Jacob's
+ pack didn't show, that would have this other implication.
+ I paid just enough attention to memorize the new information and dredge
+ up relevant tidbits about the wolves.
+ Most of my mind was on our daughter and how cold it was without her.
+ 
+\end_layout
+
+\begin_layout Standard
+I said that to Edward, when there was no other contingency plan to invent
+ -- “It's cold.” 
+\end_layout
+
+\begin_layout Standard
+He nodded.
+ He knew what I meant.
+ 
+\end_layout
+
+\begin_layout Standard
+I pulled my locket out of my shirt and touched the side of it that held
+ Elspeth's picture.
+ 
+\emph on
+She's safe, safe as I can make her
+\emph default
+, I told myself.
+ 
+\emph on
+That's what's important.
+ I've always known that it's more important that my loved ones be alive,
+ that they be happy, than that they be near.
+ That's why I don't live in Jacksonville with Renée and Phil right now,
+ attending twelfth grade and keeping notebooks and being human and being
+ single and childless.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+Single and childless.
+ No state had ever seemed so distant.
+ Edward was part of me, attached, inseparable, essential; Elspeth was part
+ of me, carved out of my heart and secreted away for safekeeping, leaving
+ an unhealing wound in her wake.
+ The Florida-dwelling high-schooler I could have turned into, with one different
+ choice, was not me.
+ She just would have gone by the same name.
+ Or maybe she'd have people calling her “Izzy” by this point.
+ Who knew.
+ 
+\end_layout
+
+\begin_layout Standard
+“I had such delusions of grandeur,” I murmured.
+ “I was going to build up the population of wolves over years and years,
+ collect allies, work on my shield, take over the world.
+ Convert everybody to vegetarianism, turn humans as fast as we could handle
+ them, cure death.” 
+\end_layout
+
+\begin_layout Standard
+“I love you,” said Edward.
+ I put my locket back in my shirt.
+ 
+\end_layout
+
+\begin_layout Standard
+“I love you,” I replied.
+ 
+\end_layout
+
+\begin_layout Standard
+There was nothing left to say.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+When we got off the plane, I checked my new phone.
+ There was a message from Jacob -- or from his phone, anyway.
+ Someone else had probably typed it.
+ 
+\emph on
+Jake fazed n says Rchl n Beky have smthg rong w/ thm,
+\emph default
+ it said, 
+\emph on
+unanmus not 2 go bak n risk it b/c nowere safe 4 imprins 2 hide
+\emph default
+.
+ I dialed the number, hoping to get more detail; there was no answer.
+ I tried four times and gave up.
+ 
+\end_layout
+
+\begin_layout Standard
+“That's six wolves out of the picture, whether they got run down or something
+ else happened that no one's picking up,” I said.
+ “And depending on what the “something wrong” is, maybe the other twenty-five
+ as well.
+ Those girls they took have families, too -- if they make a fuss about their
+ daughters being kidnapped that means a bigger coverup job for the Volturi...
+ just how many people did I get killed?” 
+\end_layout
+
+\begin_layout Standard
+“If the Volturi kill people, they kill people, not you,” Edward said, and
+ I knew he was copying what I'd said to Gianna about Maggie earlier.
+ It was unhelpful.
+ So many people, dead or about to be - 
+\end_layout
+
+\begin_layout Standard
+“They've probably wiped out everyone on the Quileute reservation,” I said.
+ “But there's only one Quileute imprint; that won't keep it contained even
+ if they explain everyone on the reservation going missing.
+ Three Makahs -- including a toddler! -- and a girl from Forks are the others;
+ they can get that information easily from any wolf.
+ What are the Volturi going to do, wipe out the entire population of the
+ Olympic Peninsula to keep people from investigating those disappearances
+ in a way that implicates the supernatural?” 
+\end_layout
+
+\begin_layout Standard
+“There are more immediate concerns,” Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+I pushed my hair out of my face, staring at the phone, willing it to ring;
+ it didn't, so I put it in my pocket.
+ “Right.
+ Anything could be going on with Rachel and Becky -- Jane could be hurting
+ them, it could just be that extended sensory deprivation via Alec is interactin
+g strangely with their telepathy -- either case, I might be able to get
+ them up and in the fight if I can take out or at least distract the illusionist
+s.” 
+\end_layout
+
+\begin_layout Standard
+“If we get close enough for me to hear their thoughts, I can probably figure
+ it out without us getting near enough that they'll notice us,” Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Right,” I said again.
+ “If the wolves are out of commission...
+ if I can't get them up even if I get the witch twins out of the picture...
+ 
+\emph on
+then
+\emph default
+ we have no chance in a stand-up fight, 
+\emph on
+then
+\emph default
+ we run and hope they take a long time to catch us.” 
+\end_layout
+
+\begin_layout Standard
+Edward nodded once.
+ 
+\end_layout
+
+\begin_layout Standard
+We headed west.
+ 
+\end_layout
+
+\begin_layout Standard
+“Do you want to check on your father?” Edward asked, as we passed close
+ to Forks.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I admitted, “but...
+ we shouldn't.” 
+\end_layout
+
+\begin_layout Standard
+“We don't have to do anything that will leave a trace,” Edward said.
+ “His thoughts aren't 
+\emph on
+quiet
+\emph default
+, only indistinct -- we just need to go through town and I'll be able to
+ hear him.” 
+\end_layout
+
+\begin_layout Standard
+“Even if he's okay, you still might not find him.
+ Jacob's pack could have warned him and he could be running away, or he
+ could be out of town for some unrelated reason.
+ We don't have time to check really thoroughly.
+ I'd be more worried if we went through town and you didn't hear him than
+ I am now.” 
+\end_layout
+
+\begin_layout Standard
+Edward nodded.
+ “After, then.” 
+\end_layout
+
+\begin_layout Standard
+“Right.
+ If there's an after.” 
+\end_layout
+
+\begin_layout Standard
+“We can run if the wolves aren't able to help,” he reminded me.
+ “There will be an after.
+ I won't 
+\emph on
+let
+\emph default
+ you die.” 
+\end_layout
+
+\begin_layout Standard
+We went past Forks, and I was glad I couldn't cry.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+We slowed down when we were within a few miles of the field where we expected
+ to find the center of the action.
+ Edward crept forward several paces ahead of me, listening.
+ When he stopped, I stopped.
+ We were only a mile and a half from the edge of the field -- barely out
+ of earshot for noises the volume of ordinary voices.
+ 
+\end_layout
+
+\begin_layout Standard
+“I hear Aro,” Edward said.
+ 
+\end_layout
+
+\begin_layout Standard
+“He's the most familiar voice there?” I asked, feeling compelled to whisper
+ even though I heard nothing besides ordinary forest noises.
+ 
+\end_layout
+
+\begin_layout Standard
+“Or close enough.
+ Some of his familiarity is borrowed from people he's read, including me.”
+ 
+\end_layout
+
+\begin_layout Standard
+“What are you getting from him?” 
+\end_layout
+
+\begin_layout Standard
+Edward closed his eyes and focused.
+ “He's reading someone.
+ It's very fast, I can't quite...
+ I think it's one of the wolves, maybe Rachel.” A minute of silence passed
+ as he waited for Aro to finish reading his target.
+ “Yes, that was Rachel.
+ The wolves are all alive, but Chelsea's there -- and someone I haven't
+ heard of, a new witch.
+ I don't hear all the details but the new witch is doing the same thing
+ Chelsea does.
+ The wolves are...
+ with the two of them working in concert...” 
+\end_layout
+
+\begin_layout Standard
+“We're dead,” I said.
+ Chelsea alone was enough to hold the Volturi together against fractious
+ vampire instinct; she and another vampire with a comparable power could
+ probably turn the wolves' loyalties.
+ The imprinted wolves would have had stronger outside claims on their devotion
+ than witchcraft could fabricate and would have been able to pull away given
+ the freedom of Jacob's third pack.
+ Not so for the others.
+ Jacob had mentioned Jane, Alec, and two “big skeeters”.
+ For the timing to work, Chelsea, and possibly also the new witch, had probably
+ been hiding until after he left.
+ They were resources too important to risk until the illusionists had done
+ their damage.
+ 
+\end_layout
+
+\begin_layout Standard
+“They don't know we're here.
+ I can listen a little longer, maybe find something that will help us hide,”
+ Edward said.
+ “The group that was here to start was Jane, Alec, Afton, Demetri, Chelsea,
+ and the new witch -- oh, her name is Addy.
+ Aro, with Renata, arrived fairly recently and he's checking Chelsea and
+ Addy's work before the wolves are allowed to wake.
+ Now he's reading Becky.” Demetri and Afton would be the “big skeeters
+\begin_inset Quotes erd
+\end_inset
+
+, then, most likely.
+ 
+\end_layout
+
+\begin_layout Standard
+“If Demetri is there and the wolves are the Volturi's new best friends,
+ shouldn't we be running as fast as we can so we have more of a head start
+ when they start looking for us?” 
+\end_layout
+
+\begin_layout Standard
+“Bella, they might 
+\emph on
+not
+\emph default
+ want to kill us,” said Edward, full of hope.
+ “They think the wolves are 
+\emph on
+useful
+\emph default
+, they're going to make them a sort of outer guard -- they might not blame
+ you for activating them.” 
+\end_layout
+
+\begin_layout Standard
+“Do you really think so?” I breathed.
+ I didn't want two large packs of wolves added to the Volturi's arsenal,
+ but if it meant that the arsenal wouldn't be turned on me and Edward -
+ 
+\end_layout
+
+\begin_layout Standard
+We could have our lives back, we could have our daughter back - 
+\end_layout
+
+\begin_layout Standard
+“It's not a sure thing,” he admitted.
+ “But it's possible.” 
+\end_layout
+
+\begin_layout Standard
+“Keep listening,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+After a moment, Edward said, “Harry and Sue are dead.” Of course they were.
+ They wouldn't have liked what was happening to their children, they'd have
+ tried to intervene, but they had no fighting experience whatever.
+ They could have been brought down at range with next to no effort, dismantled
+ and incinerated at leisure.
+ “So is everyone else who lived on the reservation -- except a number of
+ children who carry the gene and are too young to activate,” he went on
+ after a pause.
+ “They're going to bring them to Volterra and torch the village.” 
+\end_layout
+
+\begin_layout Standard
+Of course they were.
+ 
+\end_layout
+
+\begin_layout Standard
+“Can you hear anything about us?” I asked.
+ “Do they want us dead, do they want to give me a medal, do they think we're
+ beneath notice, what?” 
+\end_layout
+
+\begin_layout Standard
+“I can still hear only Aro,” Edward said.
+ “He's...
+ giving Alec the go-ahead to release one pack.
+ Rachel's.
+ They're going to make sure that they're sufficiently under control, that
+ they don't need a little more tweaking from Chelsea and Addy.” 
+\end_layout
+
+\begin_layout Standard
+“Check how, exactly?” I said, leery of the possibility that this could involve
+ sending wolves running in formations all over the area that might intersect
+ with where we were standing.
+ 
+\end_layout
+
+\begin_layout Standard
+“They're calling it good if the wolves will sit and stay when told,” said
+ Edward, disgustedly.
+ “And phase on command.
+ That's all they need to get them to Italy safely; Chelsea and Addy can
+ go on working with them indefinitely.” 
+\end_layout
+
+\begin_layout Standard
+“And...
+ the wolves are taking this how?” 
+\end_layout
+
+\begin_layout Standard
+“I can't hear their thoughts -- they're following the orders, but I don't
+ know how they feel about it.
+ We could go closer...” 
+\end_layout
+
+\begin_layout Standard
+“Not until we have some idea of whether we're on death row or not,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Aro's reading Rachel again,” Edward reported.
+ “Now he's giving the go-ahead to wake Becky's pack.
+ They're behaving similarly.” 
+\end_layout
+
+\begin_layout Standard
+“Did you get anything from his read on Rachel?” In the midst of so many
+ things to be concerned about, I didn't have much to spare for her, but
+ I was 
+\emph on
+somewhat
+\emph default
+ upset about her approximate enslavement by the Volturi.
+ 
+\end_layout
+
+\begin_layout Standard
+“Not much...
+ but...
+ it sounded like Chelsea managed to twist their loyalties in large part
+ by directing their native dislike of vampires at you,” he said regretfully.
+ “She doesn't spin affection out of thin air, she needs some resources to
+ work with; I surmise Addy works similarly.
+ It sounded like -- mind, it went by very fast, I've certainly missed bits
+ -- like the Volturi have set themselves up in the wolves' minds as a necessary
+ check on the general vampire population, to prevent rogue vampires like
+ you from causing damage.” 
+\end_layout
+
+\begin_layout Standard
+“Splendid.
+ Just splendid.
+ So the wolves all hate me and they're working for the Volturi to help them
+ necessarily check the vampire population -- are they thrilled at the honor,
+ do they wish the last few months were all a dream so they could live normal
+ human lives, or what?” 
+\end_layout
+
+\begin_layout Standard
+“The impression I have is one of the entire mess being a dirty job that
+ someone has to do.
+ But it went by extremely quickly, it was harder to follow than a normal
+ read -- a dozen minds all going by at once through hers -- I can't be very
+ precise.” 
+\end_layout
+
+\begin_layout Standard
+“Did Aro tell Chelsea and Addy to use that angle where I'm a dangerous rogue,
+ or did they pick it on their own, or was it the only one available? That
+ could be a clue about how dead we are,” I suggested.
+ 
+\end_layout
+
+\begin_layout Standard
+“I haven't heard about that.
+ Aro, at least, isn't thinking of us at all right now.
+ He's considering how best to deploy the wolves.” 
+\end_layout
+
+\begin_layout Standard
+“How long are they going to be standing around in that field?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't know.
+ They 
+\emph on
+aren't
+\emph default
+ aware that we're here, or Aro would be thinking about it,” Edward said.
+ “We can move in a little and I should be able to read the guard members,
+ if not the wolves.” 
+\end_layout
+
+\begin_layout Standard
+Part of me wanted to say no and demand that we turn tail and run.
+ There were only two of us, versus eight vampires (mostly witches) and twenty-fi
+ve wolves.
+ If they 
+\emph on
+did
+\emph default
+ want us dead, we needed as much distance as we could possibly get between
+ us and Demetri, who was 
+\emph on
+right there
+\emph default
+ and could be ordered to hunt us down at any moment.
+ And then he could point and say “thataway” and we would be toast.
+ 
+\end_layout
+
+\begin_layout Standard
+On the other hand, if they 
+\emph on
+didn't
+\emph default
+ want to kill us, if Demetri 
+\emph on
+wasn't
+\emph default
+ particularly interested in finding us, then we could go to Denali and get
+ Elspeth.
+ And that was possible.
+ They were using the wolves, after all.
+ 
+\end_layout
+
+\begin_layout Standard
+I was so cold.
+ 
+\end_layout
+
+\begin_layout Standard
+“Okay,” I murmured.
+ “But quietly.
+ And sign language.” 
+\end_layout
+
+\begin_layout Standard
+He signed back, “All right.” 
+\end_layout
+
+\begin_layout Standard
+We crept forward, one step at a time, waiting for someone else to cross
+ the border of Edward's hearing.
+\end_layout
+
+\end_body
+\end_document
