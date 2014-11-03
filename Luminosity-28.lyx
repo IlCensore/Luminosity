@@ -919,7 +919,7 @@ something
 \end_inset
 
 feeling
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 , then, like the second channel of hearing Edward had...
@@ -943,21 +943,21 @@ alive
 \end_layout
 
 \begin_layout Standard
-
-\emph on
 \begin_inset Quotes eld
 \end_inset
 
+
+\emph on
 I won't 
 \emph default
 let
 \emph on
  you die...
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
-
-\emph default
  I could remember his voice so clearly.
  So honeyed and certain.
 \end_layout
