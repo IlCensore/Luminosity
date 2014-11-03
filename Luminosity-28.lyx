@@ -1,0 +1,1824 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{26}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Luminosity.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Ashes
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hear the guard now except for Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ Edward signed to me.
+ We were just barely more than one mile from the field.
+ Only the fact that nobody was raising their voice kept us from being able
+ to listen directly to their conversation.
+ Only thick tree cover kept us from being able to see them, up to and including
+ the whites of their eyes.
+ And vice versa.
+ I held very still, moving only my hands to reply.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They don't want to kill 
+\emph on
+me
+\emph default
+...
+\begin_inset Quotes erd
+\end_inset
+
+ he signed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Aro's still hoping to recruit me.
+ They haven't gotten to the subject of you yet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, if they're hoping to recruit you, then that does limit what they can
+ do to me,
+\begin_inset Quotes erd
+\end_inset
+
+ I answered.
+ A hot flare of hope lit somewhere in my chest.
+\end_layout
+
+\begin_layout Standard
+Edward nodded, a guarded grin spreading across his face.
+ Then it disappeared.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I signed, alarmed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Run,
+\begin_inset Quotes erd
+\end_inset
+
+ he whispered, his hands unavailable to communicate silently because he
+ was grabbing my hand and pulling me away.
+ I couldn't keep up with his top speed, but he wasn't about to leave me
+ behind.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm slowing you down, we should split up, he can't track me and can't catch
+ you
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I started to say.
+ I didn't know why we were running, what he'd heard, but before I'd had
+ a chance to try to convince Edward to let go of my hand and take off in
+ another direction, we were tackled from behind.
+\end_layout
+
+\begin_layout Standard
+I snapped my head around enough to recognize Leah's wolf form.
+ She was the fastest wolf, faster than me, maybe not faster than Edward
+ but he'd been trying to keep pace with me, and we could have fought off
+ one wolf together but the others caught up almost at once.
+\end_layout
+
+\begin_layout Standard
+Leah and at least one other wolf snapped their heads towards me and I flung
+ out my one free hand to try to defend myself.
+ I couldn't tell if I'd done any damage because I was in pieces an instant
+ later.
+ My ears stopped working.
+ My eyes were unresponsive.
+ I couldn't inhale to see if my nose was working.
+ That was just as well because I couldn't have processed any sensory input
+ through the shattering pain.
+\end_layout
+
+\begin_layout Standard
+The pain, all by itself, wasn't as bad as turning, although it was in the
+ same class.
+ But it wasn't only pain: my proprioception was desperately confused.
+ It was insisting that every direction was down.
+ I sort of thought that I might be able to move some of my muscles, but
+ the input from them was unclear, fuzzed out in comparison to the sharp
+ awareness of the damage -- I could try to twitch a finger but I didn't
+ know whether I'd managed it or what the finger might be touching.
+ I couldn't do anything, couldn't help
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Edward
+\emph default
+ -- was he okay -- had he gotten away? -- he could outrun them if only he'd
+ leave me behind, but he never would...
+\end_layout
+
+\begin_layout Standard
+The sensations apart from the pain were impossible to interpret, and my
+ sense of time was shot to hell.
+ I could have been in a heap moments later or scattered across a football
+ field the following week, still in the mouths of several wolves or
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+There was a sensation I recognized: I was on fire.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+That
+\emph default
+ was as bad as turning.
+\end_layout
+
+\begin_layout Standard
+I couldn't scream.
+ Couldn't flail around.
+ There was only pain and dizziness and terror and 
+\emph on
+I was going to die
+\emph default
+ and what kind of shield could represent itself as protection for my mind
+ if it was going to let my mind cease to 
+\emph on
+exist
+\emph default
+, the mind was not 
+\emph on
+safe
+\emph default
+ without the body
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+I felt something -- something that wasn't pain.
+ I couldn't be 
+\emph on
+healing
+\emph default
+, not shattered into a hundred fragments and burning, but I 
+\emph on
+felt something
+\emph default
+, like I was under a blanket that hugged my surface -- my shield? Manifesting
+ in some form I could detect only 
+\emph on
+now
+\emph default
+, when it would die with me?
+\end_layout
+
+\begin_layout Standard
+I tried to pull it in, willed it to put out the fire, 
+\emph on
+come on, shield, if you want my mind safe you have to let it have someplace
+ to live -- the mind is not safe without the body
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+The shield sucked in closer to me and the fire was out and I was violently
+ rearranged into my normal shape.
+ The pain didn't fade at once.
+ I was still broken along all the original fracture points, though the shards
+ of my body had been forced flush with their neighbors.
+ My eyes and ears didn't return to me immediately.
+ But those wounds knitted, though they went sluggishly.
+ A lot of the venom had burned out of me.
+ There was enough left that I 
+\emph on
+could
+\emph default
+ heal, though.
+\end_layout
+
+\begin_layout Standard
+I didn't try to move.
+ I didn't want to dislodge the rearrangement my shield had provided.
+ But I could look around when my vision came back.
+ I was in a deep pit, on top of a heap of ashes.
+ Harry and Sue, I guessed.
+\end_layout
+
+\begin_layout Standard
+Maybe Edward.
+ Maybe he'd been killed first and I was lying on top of his ashes.
+ I recoiled from the thought.
+ They hadn't planned to kill him; perhaps they truly hadn't, perhaps he'd
+ only pulled us away from the field because they were going to kill 
+\emph on
+me
+\emph default
+, he might be alive
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+One of my ears started working.
+ Sounds echoed crazily between the walls of the pit, reaching my ear in
+ a distorted timbre.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+--
+\begin_inset space ~
+\end_inset
+
+my matches,
+\begin_inset Quotes erd
+\end_inset
+
+ grumbled a man's voice I hadn't heard before.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Damn wet climate.
+ Go ask Jane if she has a lighter, will you?
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Didn't think we were going to kill this one,
+\begin_inset Quotes erd
+\end_inset
+
+ said an unfamiliar woman.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Doesn't surprise me.
+ You'd get it if you had a mate,
+\begin_inset Quotes erd
+\end_inset
+
+ said the man.
+ There were footsteps, receding and then approaching again.
+\end_layout
+
+\begin_layout Standard
+Edward thought I was dead -- they all thought I was dead -- reasonable enough
+ given that I'd been broken into a hundred pieces and set on fire -- they'd
+ wanted to control him but that plan had been shot to hell when they'd killed
+ me
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+I tried to move, I had to do something, I had to save him, 
+\emph on
+he
+\emph default
+ had no shield.
+\end_layout
+
+\begin_layout Standard
+I dragged my left arm close to me, and felt the snug blanket of my shield
+ shift with it, but I was fragile.
+ Deep fissures ran along my skin; if I applied any pressure to the limb
+ it would break again.
+ I was dangerously low on venom; it might not be able to get me whole even
+ if I didn't worsen the injuries.
+ I couldn't even get out of the ash pit.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here's your lighter,
+\begin_inset Quotes erd
+\end_inset
+
+ said the woman.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thanks, Addy, you're a peach,
+\begin_inset Quotes erd
+\end_inset
+
+ said the man.
+\end_layout
+
+\begin_layout Standard
+There was a crackling noise.
+ My Edward, on fire, I couldn't 
+\emph on
+move
+\emph default
+ -- 
+\begin_inset Quotes eld
+\end_inset
+
+In the pit?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Addy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pit was to keep the smoke away from the wolves, they're gone now, no point,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ I didn't know whether to be glad of that or not; I couldn't bear to watch
+ him die but I couldn't bear that he was alone, that he thought 
+\emph on
+I
+\emph default
+ was dead.
+ I might as well be.
+ 
+\emph on
+Edward, Edward
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dunno how well the wolf thing'll work,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said skeptically.
+ I wanted them to shut up.
+ I didn't want to listen to this, I wanted the silence back, I wanted to
+ have no idea what was going on around me when what was going on was that
+ 
+\emph on
+Edward was dying
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't think you and Chelsea did a good job of it?
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We did a fine job.
+ She's fun to work with,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And the wolves are interesting material -- so interwoven; tweak one thing
+ and they all change.
+ But I mean things like the way that black one passed out when it smelled
+ the smoke from those newborns.
+ Biological stuff.
+ Are they worth the complications?
+\begin_inset Quotes erd
+\end_inset
+
+ My lungs regained their integrity; I was sure I could have taken a breath.
+ I didn't.
+ They'd hear me.
+ They'd probably only ignored the sound of my arm moving because it could
+ have been part of the fire that was supposed to be consuming me.
+ I willed it back.
+ Willed the flames to spring into existence again, trade this pain for that
+ one.
+ But I wasn't a pyrokineticist, I was a shield.
+ That was the only reason I was alive.
+\end_layout
+
+\begin_layout Standard
+Edward would have wanted me to live.
+\end_layout
+
+\begin_layout Standard
+The cracks in the arm I could see were getting shallower.
+ The physical pain, at least, was at a manageable level.
+ The hollow, dead feeling in my chest wasn't the sort of thing the venom
+ would ever heal.
+\end_layout
+
+\begin_layout Standard
+But Edward would have wanted me to live.
+\end_layout
+
+\begin_layout Standard
+I lay there, inert, listening to the crackling and popping of the fire as
+ it widowed me.
+ Listening to Addy and whoever the man was make small talk over his smoldering
+ remains.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aro thinks so,
+\begin_inset Quotes erd
+\end_inset
+
+ the man said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course.
+ And he knows more about the matter than I do,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Still, it seems to present a logistical challenge.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I wanted her to die.
+ I wanted whoever she was talking to, to die.
+ I wanted Aro dead and his 
+\begin_inset Quotes eld
+\end_inset
+
+brothers
+\begin_inset Quotes erd
+\end_inset
+
+ dead and their wives dead and every person who had ever peaceably wandered
+ the halls of their compound 
+\emph on
+dead
+\emph default
+ including me because Edward was gone and I couldn't stand it and if I were
+ dead I wouldn't have to.
+\end_layout
+
+\begin_layout Standard
+He would have wanted me to live.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you think the coven will be a problem?
+\begin_inset Quotes erd
+\end_inset
+
+ the man asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I doubt it
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Addy began.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Coming, boss!
+\begin_inset Quotes erd
+\end_inset
+
+ Some gesture of Aro's I hadn't been able to hear, maybe, calling them away.
+\end_layout
+
+\begin_layout Standard
+Footsteps receded.
+\end_layout
+
+\begin_layout Standard
+There was silence.
+\end_layout
+
+\begin_layout Standard
+Edward would have wanted me to live.
+\end_layout
+
+\begin_layout Standard
+I remained still.
+\end_layout
+
+\begin_layout Standard
+The visible damage, at least, healed.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+My thirst did not care that I was alone.
+ It came anyway, the insistent burn in my throat.
+\end_layout
+
+\begin_layout Standard
+I watched the sun rise, and watched little diamonds dance across my smoothed-ove
+r skin.
+ All that, and the only scar on me was the bite mark on my wrist.
+ But the trauma and recovery, if it could be called 
+\begin_inset Quotes eld
+\end_inset
+
+recovery
+\begin_inset Quotes erd
+\end_inset
+
+, had taken a lot out of me.
+ If I didn't get blood soon I wasn't sure exactly what would happen, but
+ it wouldn't be conducive to my health.
+\end_layout
+
+\begin_layout Standard
+I hadn't heard anything, all night.
+ The Volturi had been and gone, the wolves with them.
+ No one had even looked into the ash pit.
+ I could safely climb out and hunt, now.
+\end_layout
+
+\begin_layout Standard
+Edward would have wanted it.
+\end_layout
+
+\begin_layout Standard
+I pulled myself into a sitting position.
+ I felt brittle, but not achy or tired.
+ I could move around.
+ I was in adequate shape to kill an animal.
+\end_layout
+
+\begin_layout Standard
+I climbed out of the hole, slower than I needed to go.
+ I looked around at the dewy field, down into the pit where Harry and Sue
+ had been carelessly dumped.
+ Any humans who wandered through this place and found the greasy ashes would
+ think it was from a barbecue or something.
+ No one would mistake it for a grave.
+\end_layout
+
+\begin_layout Standard
+I kicked a little dirt over the ash, but couldn't muster any enthusaism
+ for a serious burial.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Harry,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sue.
+\begin_inset Quotes erd
+\end_inset
+
+ Just their names.
+ Acknowledging that I knew they were there, or that the transformed matter
+ that they'd once inhabited was there, anyway.
+\end_layout
+
+\begin_layout Standard
+Then I dared to turn around.
+\end_layout
+
+\begin_layout Standard
+There was a heap of ashes in the middle of the field, indistinguishable
+ from the ones I'd been lying on.
+\end_layout
+
+\begin_layout Standard
+I couldn't say his name.
+ It wouldn't come to my lips.
+\end_layout
+
+\begin_layout Standard
+I approached the pile, silently, and touched the ash.
+ It wasn't even warm anymore; I'd been waiting for nothing in the hole in
+ the ground long enough that they'd cooled.
+ I picked up one sliver of charcoal gently.
+\end_layout
+
+\begin_layout Standard
+I wanted to put it in my locket.
+ I didn't have my locket anymore -- or my rings, or my bracelet, or my clothes,
+ or my wallet, or my hair.
+ My shield had saved me from the fire, but not my possessions, and hair
+ didn't heal as flesh did.
+ The jewelry at least might have fallen off when I was originally tackled.
+ I wandered in that direction, cradling the piece of ash in my palm.
+\end_layout
+
+\begin_layout Standard
+I actually did find the necklace.
+ The clasp was broken, but the chain was mostly intact and the charm was
+ fine.
+ I tied the chain around my neck, and opened the locket to put the ash between
+ the pictures.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Elspeth...
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I wanted to look for the rest of my jewelry.
+ The rings, at 
+\emph on
+least
+\emph default
+, the physical evidence that Edward had existed, that he'd loved me, that
+ he'd been mine.
+ But finding the locket had taken long enough and I was unbearably thirsty.
+\end_layout
+
+\begin_layout Standard
+I listened.
+ The forest was relatively clear of wildlife -- sensible, given how many
+ vampires had been swarming around the place over the last who-knew-how-long.
+ I didn't know what day it was.
+ I'd lost all the cues of time when I'd been in fragments.
+ It was still autumn, at least.
+ But I heard some elk, at the borders of my hearing, and I chased them down
+ and killed three and drank them dry.
+ The taste of herbivores was rancid but I was past caring.
+ I needed the burn soothed.
+ Strength flowed back into my limbs as I absorbed the blood.
+ Too little, too late, but I was physically back to normal apart from being
+ bald.
+\end_layout
+
+\begin_layout Standard
+I noticed, when I'd filled up, that I could still feel my shield.
+ It hadn't ranked as a significant sensation when I'd been thirsty, but
+ now that I thought of it there was a definite layer of 
+\emph on
+something
+\emph default
+ wrapped around me.
+ I touched my arm, but my fingers didn't detect anything -- it was some
+ second layer of 
+\begin_inset Quotes eld
+\end_inset
+
+feeling
+\begin_inset Quotes eld
+\end_inset
+
+, then, like the second channel of hearing Edward had...
+\end_layout
+
+\begin_layout Standard
+My train of thought derailed at once.
+ I made an involuntary choking noise and coughed up a droplet of sour blood.
+ Would it be like that forever? Every thought leading to Edward, every thought
+ of Edward throwing me into fresh grief? I couldn't function that way.
+ That wouldn't have mattered -- but Edward would have wanted me to 
+\emph on
+live
+\emph default
+, to be 
+\emph on
+alive
+\emph default
+, not just to fail to be a heap of ashes.
+ I knew he would.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I won't 
+\emph default
+let
+\emph on
+ you die...
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ I could remember his voice so clearly.
+ So honeyed and certain.
+\end_layout
+
+\begin_layout Standard
+I wished with all my heart that he'd loved me less, enough that he could
+ have run without me.
+ He could have gotten away.
+ They hadn't 
+\emph on
+planned
+\emph default
+ to kill him, he'd said.
+ They wouldn't have needed to if he hadn't been too distraught over 
+\emph on
+me
+\emph default
+ to ever be recruited.
+ The fact that I had been able to survive the attack only made it more appalling
+ that he'd lost his life that way.
+ But even if I'd been completely burnt, he could have been fine.
+ If he'd loved me less.
+\end_layout
+
+\begin_layout Standard
+I went back and looked for my rings.
+ I found the bracelet first; one of its diamonds poked out from under a
+ leaf.
+ Some of the silver pieces were slightly munched.
+ It was less flexible than it had been.
+ But I put it on anyway, and kept looking.
+\end_layout
+
+\begin_layout Standard
+I found my engagement ring first.
+ The ring part had been bent out of shape but the lattice of gems was all
+ right.
+ The wedding band was nearby and looked fine; I put that on, but didn't
+ dare try to tap the other ring into shape.
+ I'd find a way to get it repaired professionally.
+ For the time being I threaded it onto the locket's chain.
+\end_layout
+
+\begin_layout Standard
+I couldn't find Edward's ring anywhere.
+ I searched every inch of the forest in a plausible radius of where we'd
+ been caught, I followed the path from there to the field, I shut my eyes
+ and forced myself to feel through the pile of ashes.
+ It wasn't there, even in the form of a melted lump of gold.
+ I didn't know what could have happened to it.
+ Had one of the Volturi bothered to steal it while leaving mine untouched?
+ Why? What would they want with it? I retraced all my steps, looking for
+ disturbed soil where it could have been stomped into the ground, going
+ through heaps of discarded foliage one needle at a time.
+ Nothing.
+\end_layout
+
+\begin_layout Standard
+While I probably 
+\emph on
+could
+\emph default
+ have paced back and forth stark naked in the woods looking for the ring
+ for the rest of my life, it didn't seem like the kind of 
+\emph on
+living
+\emph default
+ Edward would have wanted me to do.
+ I was beginning to think that I was forever going to have to motivate myself
+ to do anything that way.
+ That I would never be able to accomplish tasks that I couldn't somehow
+ make 
+\emph on
+about Edward
+\emph default
+, about what 
+\emph on
+Edward
+\emph default
+ would have wanted.
+\end_layout
+
+\begin_layout Standard
+What about Elspeth?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Everyone
+\emph default
+ thought I was dead -- or if they didn't now, they would soon enough, when
+ the news got out.
+ That gave me a measure of safety.
+ And her as well.
+ No one would be looking for me, and she would not be sought as bait for
+ a trap intended for a dead woman.
+ She was safe in Denali.
+\end_layout
+
+\begin_layout Standard
+If I went to get her, then my in-laws would know I wasn't dead.
+ That would eventually get back to the Volturi.
+ Then, I wouldn't just need to lie low, I'd need to run, and Elspeth could
+ be in danger.
+ I had ample evidence that my protections weren't worth a damn for anyone
+ else.
+ It hadn't done anything for Edward.
+\end_layout
+
+\begin_layout Standard
+I wanted her, I wanted to try to fill the hole Edward's death had left in
+ me with our daughter, I wanted to cradle her close and let her warm me
+ up, I wanted to stroke the hair that was so much like his, I wanted to
+ see her father's face in her dreams again.
+ I wanted her to know that she was only half-orphaned.
+\end_layout
+
+\begin_layout Standard
+But I 
+\emph on
+needed
+\emph default
+ her to be safe.
+\end_layout
+
+\begin_layout Standard
+I had lost more than I could stand to lose.
+ If Elspeth died, I didn't know if I would be capable of going on, even
+ given what I knew Edward would have wanted.
+ She was the last living part of him, and she had to go on breathing.
+\end_layout
+
+\begin_layout Standard
+I wandered towards the village, where supposedly everyone was dead or kidnapped
+ and everything burned.
+ Everything was.
+ Charred husks of homes crumbled around me as I walked through the deserted
+ reservation.
+ I went farther, towards Harry's shack.
+ It was intact, or at least as intact as it had ever gotten to be from its
+ original tumbledown state.
+ There were some clothes inside.
+ I took an outfit of Sue's.
+ She wouldn't need it and no one would miss it.
+ She had a small collection of scarves.
+ I wrapped one around my hairless scalp.
+ Between the baldness and the now-constant feel of my shield clinging to
+ my skin, I felt terribly strange.
+\end_layout
+
+\begin_layout Standard
+I wondered why the village wasn't crawling with cops, suspecting arson.
+ Charlie should have been there, prowling the area, trying to figure out
+ what had happened.
+ Maybe the Volturi had intervened with some police connection and the destructio
+n was officially a natural disaster.
+ Maybe I'd been in bite-sized chunks for a few weeks and all of the detective
+ work had been and gone.
+ Maybe Charlie was dead.
+\end_layout
+
+\begin_layout Standard
+Charlie didn't approach the importance of Edward or Elspeth, but I could
+ check on 
+\emph on
+him
+\emph default
+.
+ He wouldn't notice me if I hid well enough.
+ I could stake out his house for a while and see if he was going about his
+ life normally.
+\end_layout
+
+\begin_layout Standard
+I wondered if Carlisle and the others would bother to tell my father I was
+ dead.
+ Would it make him safer or less safe to believe that? I couldn't keep in
+ touch with him; if there were actual 
+\emph on
+evidence
+\emph default
+ in his inbox or phone call history that I was alive then that could be
+ found one day.
+ But if he simply 
+\emph on
+thought
+\emph default
+ I was alive, on the grounds that no one had told him otherwise, that might
+ be fine.
+ Unless he started digging around to find out why I wasn't answering my
+ phone or my e-mail.
+\end_layout
+
+\begin_layout Standard
+Renée was probably in less danger than Charlie either way.
+ She wasn't a cop and couldn't get the same kind of attention if she became
+ inquisitive.
+ I supposed I could go to Florida and skulk around her house, to see if
+ she went on crying jags or otherwise indicated that she believed me dead.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Such a trip turned out to be unnecessary.
+ At nightfall, I went into Forks and climbed Charlie's next-door neighbor's
+ chimney.
+ I hid behind it, pressed between the bricks and the shingles and leaning
+ just enough to see Charlie's house.
+ His cruiser wasn't there.
+ I didn't see my old truck, either.
+ I didn't particularly care.
+ It'd be noticed if it went missing, so I couldn't exactly take it.
+ I'd travel faster on foot anyway.
+\end_layout
+
+\begin_layout Standard
+I waited several hours, half an eye on Charlie's empty house.
+ The rest of my mind was on Edward.
+ On my memories of him.
+ It was like chewing on broken glass to think of them, but I couldn't stop
+ myself.
+ I needed Edward, and if all I could have were memories, then that was what
+ I'd take.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Edward, do you trust me?
+\begin_inset Quotes eld
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Absolutely.
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I bit my lip, almost hard enough to pierce the skin.
+ I considered doing that on purpose -- it would be distracting, at least,
+ and my 
+\emph on
+own
+\emph default
+ venom wouldn't scar -- but then Charlie's police car pulled onto the street.
+ He was driving it, so he was alive, at least for the time being.
+ He did look bereaved...
+ but then, Billy and Harry were dead.
+ They'd been his best friends.
+ Their deaths alone could do that.
+\end_layout
+
+\begin_layout Standard
+He parked in the driveway and went inside.
+ I heard him put something in the microwave.
+ Then he picked up the phone and dialed it.
+ I could faintly hear the beeps; by their pitch, I knew it was Renée's number.
+\end_layout
+
+\begin_layout Standard
+I wasn't close enough to make out Renée's half of the conversation; I jumped
+ lightly from the neighbor's roof onto the ground and darted immediately
+ into a shrub with a good angle to his window, so I could see what Charlie
+ was doing as well as hear.
+ I was wearing long sleeves and dark colors, but that didn't mean nobody
+ could see me if they were looking the wrong way while I wasn't behind cover.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anything?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, she didn't answer the phone today either,
+\begin_inset Quotes erd
+\end_inset
+
+ Renée said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What makes you think she was in the fire? She didn't say anything to me
+ about visiting you -- did she just not mention it or -
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It...
+ might have been a surprise visit,
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie said carefully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There are friends of the family in La Push she might have stayed with so
+ she could surprise me.
+\begin_inset Quotes erd
+\end_inset
+
+ He was trying to convince Renée that I was dead without going into the
+ evidence.
+ He'd evidently not looked at the field with the vampire ashes, because
+ he could have seen me in the pit, but even I hadn't known what vampire
+ ashes looked like until I saw them.
+ So the absence of the correct kind of ash in La Push proper wouldn't necessaril
+y have tipped him off.
+ But the sheer destruction, my lack of contact, and the fact that he knew
+ I was up to my neck in the mess with the wolves would have.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you know yet who might have set the fire? It 
+\emph on
+was
+\emph default
+ arson, wasn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ Renée asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think so -- but the scope of it was -- well, the case has gone federal.
+ I'm not supposed to touch it.
+ Even if the feds hadn't taken over, since Bella might have been in it,
+ I might have been considered too close to the case.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How can our little girl be gone?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Renée in a small voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, we can't be sure,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie.
+ There was no hope in his voice, he was just trying to calm Renée.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can't be sure at all.
+ There's nothing recognizeable in the ashes.
+ But...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you haven't been able to get in touch with our 
+\emph on
+son-in-law
+\emph default
+? Or his family?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Renée, and I almost wailed aloud from the stab of loss at hearing
+ Edward mentioned, but I held my tongue.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's as impossible to get hold of as she is,
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I tried his sister, Alice, I had her number, but there's no answer from
+ her either.
+ I don't know how to call anyone else.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella was 
+\emph on
+pregnant
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ wailed Renée.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One second,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie in an unstable voice, and he put my mother on hold and turned
+ away from the phone and brought both fists down on his kitchen table, a
+ scream of rage boiling up from somewhere deep in his chest.
+ He lifted his hands and curled them into fists in his hair, then struck
+ the table again, making noises of frustration and grief.
+ He knew Elspeth had been born already.
+ He'd seen her baby pictures.
+ He knew he was a grandfather.
+ He'd never be able to tell Renée that she was a grandmother already, that
+ she hadn't lost that chance when I'd 
+\begin_inset Quotes eld
+\end_inset
+
+died
+\begin_inset Quotes eld
+\end_inset
+
+.
+ He had no way to get in touch with his granddaughter.
+ He didn't know if she was alive.
+\end_layout
+
+\begin_layout Standard
+I was a little tempted to show myself.
+ But oddly, Charlie's pain didn't strike me as deeply as it would have a
+ month ago.
+ I didn't like it, but it was safer this way.
+ The impulse to comfort him was shallow.
+ The need to prevent more of my family from dying was deep.
+ My parents had to think I was dead.
+ Everyone did.
+\end_layout
+
+\begin_layout Standard
+Charlie exhausted his need to yell and hit things.
+ He took several deep breaths, picked up the phone again, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Sorry about that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll call me if you hear anything else, won't you?
+\begin_inset Quotes erd
+\end_inset
+
+ Renée said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course.
+ Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have to go.
+ Goodbye.
+\begin_inset Quotes erd
+\end_inset
+
+ He hung up without waiting for her to answer, and stood as still as a human
+ could, swaying faintly and staring into space.
+\end_layout
+
+\begin_layout Standard
+He swore under his breath, got his dinner out of the microwave, and started
+ forcing food down his throat.
+\end_layout
+
+\begin_layout Standard
+I crept out of the shrubbery and disappeared into the woods.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I had nowhere in particular to be.
+ Nothing in particular to do.
+ I could go anywhere except a few hazardous locations.
+ It was a pity that those were the only places I wanted to be -- Denali,
+ where my daughter was.
+ Volterra, where a lot of people I wanted to kill were.
+\end_layout
+
+\begin_layout Standard
+I walked toward Chicago.
+ Edward's birthplace.
+ I didn't bother running -- there was no hurry.
+ On sunny days I stayed put in uninhabited areas, to reduce the odds of
+ being noticed as too glittery by some human.
+ I took in a lot of scenery.
+ I ate animals unfortunate enough to cross my path.
+ I happened to pass through a town one evening and notice costumed children
+ wandering door-to-door for candy; thereafter I was aware of the date, irrelevan
+t though it was.
+\end_layout
+
+\begin_layout Standard
+I thought of Edward several times a minute, flipping through every memory
+ I had of him, as though I could fix them more securely in my heart by rehearsin
+g them.
+ I forced more detail out of the fuzzy human recollections than I'd bothered
+ with when I'd first gone through my notes.
+ Every last time he'd touched me.
+ Every single kiss.
+ Every word he'd spoken.
+ Every expression that had crossed his face.
+\end_layout
+
+\begin_layout Standard
+Elspeth occupied my thoughts, too, but I did less remembering and more speculati
+ng: what would Rosalie feed her today? Where would Carlisle take her on
+ her one-month 
+\begin_inset Quotes eld
+\end_inset
+
+birthday
+\begin_inset Quotes eld
+\end_inset
+
+? Did she talk yet or was her witchcraft slowing her down? What was her
+ voice like, when she uttered words? Did Emmett toss her into the air to
+ make her laugh? What would Esme see now, if she watched her dream? Did
+ she get along with Tanya and Kate and Carmen and Eleazar and David? Was
+ Irina still there, or had she broken off from the coven? Which house was
+ she living in, which room held my baby when she slept...?
+\end_layout
+
+\begin_layout Standard
+I needed money to get my ring repaired and to replace the chain of my locket
+ and repair the bracelet.
+ It was also limiting my movement that I didn't have any shoes; I didn't
+ need them for comfort, but their absence did attract attention.
+ That made the shoes a more urgent problem than the ring.
+ The lack of hair -- new growth just barely fuzzing back into existence
+ -- was already more oddness that would be ideal; I was glad for Sue's scarf.
+\end_layout
+
+\begin_layout Standard
+It was November.
+ Anyone would remark on my lack of shoes.
+ I found a five dollar bill on the ground in a town in Idaho that I passed
+ through, and used it to buy cheap boots from a thrift store.
+\end_layout
+
+\begin_layout Standard
+A week later, I stopped at a random, medium-sized town in Montana, on a
+ snowy afternoon.
+ I knocked on a few doors in a suburb, offering to shovel driveways and
+ sidewalks.
+ I looked seventeen; it was a plausible occupation, requiring no ID, as
+ long as I didn't knock when I 
+\begin_inset Quotes eld
+\end_inset
+
+should have been in school
+\begin_inset Quotes eld
+\end_inset
+
+.
+ One old lady worried over my lack of a coat.
+ I told her I didn't need one, that I'd keep warm doing the shoveling, but
+ she insisted that I take her granddaughter's old parka, and I did, not
+ wanting to argue or get more attention over my unseasonable attire.
+ I shoveled snow until it got dark and people stopped answering their doors,
+ accumulating just under a hundred dollars in the process.
+\end_layout
+
+\begin_layout Standard
+At the very end of November, I got to Chicago.
+ I didn't know exactly where in the city Edward had grown up.
+ I walked up and down every street, half-expecting one block to feel different,
+ like 
+\emph on
+him
+\emph default
+, but it was all just unfamiliar urban landscape.
+ Eventually I'd covered everything that could reasonably be called 
+\begin_inset Quotes eld
+\end_inset
+
+Chicago
+\begin_inset Quotes eld
+\end_inset
+
+.
+ No place felt unusual.
+\end_layout
+
+\begin_layout Standard
+I shoveled more snow.
+ I didn't visit any home twice.
+ I picked a jeweler's when I'd saved up enough money.
+ They replaced the chain, and were able to slightly improve the bracelet.
+ The ring wasn't as good as new when they finished with it, but at least
+ it was wearable.
+ I had both of my rings back, the rings he'd given me.
+ My hand felt better.
+\end_layout
+
+\begin_layout Standard
+I walked to Florida.
+ As I went south, I had to be more careful about when I was in public --
+ there was more sun -- but I got there eventually.
+ I was in Jacksonville by Christmas.
+\end_layout
+
+\begin_layout Standard
+I went to my mother's address, in the middle of the night, but there was
+ no car in the driveway and I couldn't hear anyone breathing inside.
+ They were probably visiting Phil's family for the holiday, or maybe some
+ of my extended relations.
+ That was good.
+ She should be with family.
+\end_layout
+
+\begin_layout Standard
+Renée had e-mailed me all the information I'd need to get into the Jacksonville
+ house when she'd moved there.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just in case,
+\begin_inset Quotes erd
+\end_inset
+
+ she'd written.
+ I took the spare key out from under the flowerpot, let myself in, disarmed
+ the security system, and wandered around in the dark.
+\end_layout
+
+\begin_layout Standard
+Renée had a desktop computer and hadn't brought it along on her Christmas
+ vacation.
+ I knew the password to her e-mail -- it was 
+\begin_inset Quotes eld
+\end_inset
+
+Isabella!!
+\begin_inset Quotes erd
+\end_inset
+
+, always had been, she wasn't security-conscious at all and didn't care
+ if I could see her messages anyway.
+ Especially now that she thought I was dead.
+ I logged in and looked at all her correspondence with Charlie over the
+ last couple months.
+ Apparently Carlisle 
+\emph on
+had
+\emph default
+ eventually gotten in touch with Charlie.
+ That was good; that meant that Carlisle was okay.
+ The Volturi hadn't killed everyone I'd ever associated with out of spite.
+ Renée didn't get the real story, naturally.
+ But she'd been thoroughly convinced that I was dead.
+ Apparently they'd held a funeral for me in Forks, and Renée and Phil had
+ gone, but no Cullens had attended.
+ Charlie thought it was disgraceful that they hadn't shown up.
+ I couldn't blame them, though.
+\end_layout
+
+\begin_layout Standard
+I wondered if they'd had a funeral for Edward.
+\end_layout
+
+\begin_layout Standard
+I shut down the computer, turned the alarm back on, locked the door behind
+ me, put the key away, and walked north.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I had no other locations I wanted to visit at all.
+ I wandered completely aimlessly.
+ I hunted when I was thirsty, and just like Edward had said I would, I got
+ neater over time.
+ I shoveled driveways when I needed money to replace my clothes, and to
+ save extra cash in case I couldn't think of any replacement work for warmer
+ months.
+ Mowing lawns would do on cloudy days, but unlike snow, grass wasn't persistentl
+y accompanied by cloud cover.
+\end_layout
+
+\begin_layout Standard
+I remembered Edward and wondered about Elspeth.
+\end_layout
+
+\begin_layout Standard
+It occurred to me in mid-January that I didn't really know what Elspeth
+ might be doing.
+ She might not be in Denali anymore.
+ Carlisle was unharmed by the Volturi, or he wouldn't have been able to
+ contact Charlie.
+ They could probably move around freely.
+ Maybe they were living in one of their own houses by now.
+ I'd only seen Norway, Québec, and Forks, but there were more.
+ I knew where they were.
+ I supposed I'd need to steer clear of those towns.
+ They could buy a new house, but I was unlikely to stumble on it.
+\end_layout
+
+\begin_layout Standard
+I walked up the east coast.
+ There was a Cullen house in Maine, but it was in Farmington, not close
+ to the ocean; I felt safe enough wandering along the beach.
+ I ate a number of killer whales.
+ Edward had shared the first orca I'd ever eaten.
+\end_layout
+
+\begin_layout Standard
+I walked into Canada.
+ It was easier to cross the border unnoticed on foot than in a car, or rather,
+ it was easier to do it without Edward looking out for me and pulling strings
+ to make the border agents ignore me.
+ I crossed Québec without getting too near the house there.
+\end_layout
+
+\begin_layout Standard
+I was in Winnipeg when I noticed I was drifting very definitely northwest.
+ The direction of Alaska.
+\end_layout
+
+\begin_layout Standard
+I was cold all the time.
+ My shield, hugging me day and night without pause, was not comforting;
+ it was just a reminder that I was alive while Edward was not.
+ I wanted my warm child.
+ A reminder that he'd left something behind.
+\end_layout
+
+\begin_layout Standard
+But I couldn't have her.
+ I shouldn't let myself even get close to Denali, not when it could put
+ her in danger even if she 
+\emph on
+wasn't
+\emph default
+ there.
+ I turned south and took a meandering route towards Dallas.
+\end_layout
+
+\begin_layout Standard
+I got to Dallas in late March.
+ I was starting to be able to think about things other than my dead husband
+ and lost daughter for more than a few seconds at a time.
+ I went into libraries and bookstores when I passed them, flipped through
+ and memorized random books and newspapers and magazines.
+ I people-watched.
+ I window-shopped, and gingerly doled out the cash I'd saved from shoveling
+ snow -- I acquired a nice, durable backpack and slowly filled it with spare
+ clothes, and a canteen to fill with water.
+ I agreed to take photos for strangers.
+ I visited landmarks and eavesdropped on conversations and wished Edward
+ was with me.
+\end_layout
+
+\begin_layout Standard
+I allowed myself four hours per day of dwelling on him and our child, and
+ other than that, I just traveled and tried to be alive.
+ Like Edward would have wanted.
+\end_layout
+
+\begin_layout Standard
+I was passing through Tennessee when I found Jasper.
+\end_layout
+
+\end_body
+\end_document
