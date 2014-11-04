@@ -1,4 +1,4 @@
-Luminosity
+Luminosity and Radiance
 ==========
 
-LyX version of Alicorn's Luminosity
+LyX version of Alicorn's Luminosity and Radiance
