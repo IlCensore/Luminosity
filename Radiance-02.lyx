@@ -1,0 +1,2014 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+%\setcounter{chapter}{1}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Runner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What? But Mama, I like this town -- I told Kora I'd be here until June
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--''}
+\end_layout
+
+\end_inset
+
+ This wasn't the first time Mama's ever had us drop everything and leave,
+ but it never gets easy.
+ 
+\emph on
+Easier
+\emph default
+, sure -- not 
+\emph on
+easy
+\emph default
+.
+ And I really liked Kora, more than I usually like the people I latched
+ onto.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There isn't time to argue,
+\begin_inset Quotes erd
+\end_inset
+
+ Mama said firmly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have all our things.
+ We need to go, now.
+ Come on.
+\begin_inset Quotes erd
+\end_inset
+
+ She started out -- east -- and I followed.
+ She can't pick me up and run in a populated place because she doesn't look
+ strong enough to do it.
+ But she 
+\emph on
+can
+\emph default
+ drag me by the hand, if I refuse to go with her; I tried that once when
+ I was two and a half.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Why
+\emph default
+ do we have to go all of a sudden?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What happened?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I smelled a wolf.
+ Just a trace, but whoever it was will certainly have had the chance to
+ notice our scents.
+ We're going to Iowa City, we'll stay overnight, and then we're going to
+ Peoria, where we will also stay one night, and then, unless I see anyone
+ familiar or smell wolf again, we can find another town to stay in longer.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who was it?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, jogging after her.
+ We don't usually go to cities that big.
+ They are more likely to have vampires in them, since humans are thicker
+ on the ground and it's less obvious if one goes missing occasionally.
+ Mama prefers towns big enough to have libraries, but only just.
+ The sunnier the area, the bigger a town she'll risk.
+ I guess she thought the wolves would stay out of cities or something.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ she said tightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't tell one from another by scent alone, and I certainly didn't risk
+ following the trail.
+\begin_inset Quotes erd
+\end_inset
+
+ We got out of (human, nighttime) visual range of the town.
+ She turned around and picked me up so she could start running.
+ Even carrying me and all our stuff, she's faster than I am.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They might or might not be directly hostile, depending on the pack, but
+ we can't take the chance.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ It makes me especially sleepy when Mama carries me, and I wasn't up for
+ much more conversation than that.
+ I nodded off.
+ 
+\end_layout
+
+\begin_layout Standard
+When I woke up, I was in midair, and my ears were full of wolves snarling
+ and Mama shouting.
+ 
+\end_layout
+
+\begin_layout Standard
+It was still dark, and I was terribly groggy.
+ I landed on the ground, slid, and blinked, trying to figure out what all
+ the noise was.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\noun on
+Run
+\noun default
+!
+\begin_inset Quotes erd
+\end_inset
+
+ Mama screamed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+\noun on
+Run
+\emph default
+\noun default
+!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+There is one rule that Mama has that's very, very strict, but which I never
+ actually had to follow before.
+ 
+\end_layout
+
+\begin_layout Standard
+When she says 
+\emph on
+run
+\emph default
+, I have to leave her and escape by myself if I can.
+ 
+\end_layout
+
+\begin_layout Standard
+I did.
+ 
+\end_layout
+
+\begin_layout Standard
+The rest of the rule is that I am supposed to go in a random direction as
+ long as I can possibly stay awake.
+ I am supposed to gradually make my way to New York City or San Francisco,
+ whichever's closer, however I can.
+ We have a rendezvous point in Central Park and one in Golden Gate Park,
+ each of which I've seen once.
+ I am not supposed to worry about her, because worrying will not help keep
+ me safe, and she will have better chances if she thinks I am safe.
+ 
+\end_layout
+
+\begin_layout Standard
+If I get stuck, or I'm in some kind of danger I can't get away from without
+ help, or if someone finds out what I am, I am supposed to call Grandpa
+ Carlisle rather than keep trying to meet up with Mama.
+ (If he doesn't answer the phone I am supposed to try Grandma Esme, and
+ Aunt Rosalie, and Uncle Emmett, and everybody in the Denali coven, and
+ the Irish coven starting with Gianna, the lady who gave birth to me, in
+ that order.
+ This is in case someone has changed their number or has their phone turned
+ off.
+ If I can't get hold of any of those people I am allowed to try Grandpa
+ Charlie.) If I go to the rendezvous point every day for a month and she
+ doesn't get there, I am supposed to call for help then too.
+ 
+\end_layout
+
+\begin_layout Standard
+I have a story memorized about how another vampire, not Mama, kidnapped
+ me and was finally killed by a coven that decided to let me live.
+ I am supposed to tell Grandpa Carlisle and the rest of the family this
+ story instead of telling them that I was with Mama.
+ I am supposed to pretend to be traumatized and refuse to show any of the
+ memories from that time.
+ It's possible that she could live through some things that would still
+ keep her from meeting me in the right park, so it all still has to be a
+ secret as long as that doesn't put me in danger.
+ If I ever meet the Volturi named Aro, I am supposed to throw an absolute
+ tantrum and beg not to have to be near him on the grounds that he killed
+ Daddy.
+ If I have to let him touch me anyway, then I am supposed to deliberately
+ send him all the memories of the months of my life before Mama found me
+ in case this can confuse him.
+ 
+\end_layout
+
+\begin_layout Standard
+If they find out that Mama is or might be alive anyway, I am supposed to
+ tell anyone who asks absolutely everything, and do whatever I have to to
+ keep myself alive even if it means helping the Volturi find and hurt Mama.
+ If I can, I am supposed to avoid the guard members named Chelsea, Addy,
+ and Jane, and anyone else who is very likely to hurt me or make me think
+ differently.
+ 
+\end_layout
+
+\begin_layout Standard
+I'm not so sure about the part where I'm to cooperate with the Volturi,
+ but I understand the part about running.
+ Mama is very tough.
+ She explained to me how she survived when the Volturi tried to kill her.
+ She might be able to do the same thing again, although she hasn't had a
+ need to try it twice.
+ 
+\end_layout
+
+\begin_layout Standard
+But I can't expect to hold up in a fight against even the stupidest, weakest
+ vampire in the world.
+ I can't escape from one who wants to catch me, either, but they 
+\emph on
+might
+\emph default
+ let me go if I try anyway, because that means I'm not trying to be a threat.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't get a great look at the wolves, but running away I definitely heard
+ at least three of them, all barking at the same time.
+ Mama stopped screaming once I ran.
+ I couldn't tell if she wasn't able to scream, or if she didn't see any
+ need to bother after I was away.
+ 
+\end_layout
+
+\begin_layout Standard
+I ran, and ran, and kept running, and twenty minutes later when I thought
+ I would trade my left arm for the chance to curl up in a ball and sleep,
+ I noticed that a wolf was chasing me.
+ 
+\end_layout
+
+\begin_layout Standard
+That was not part of the plan.
+ I might actually be able to beat 
+\emph on
+one
+\emph default
+ wolf in a fight -- maybe -- if I'm not tired.
+ Their advantage against vampires is only that they come in groups and work
+ together well, so one of them isn't as dangerous even to someone who is
+ not a proper vampire, like me.
+ But I wasn't supposed to fight, I was supposed to run.
+ I can't really outrun wolves either.
+ 
+\end_layout
+
+\begin_layout Standard
+Being tired also makes it harder to run.
+ 
+\end_layout
+
+\begin_layout Standard
+I was tired.
+ I hadn't been going at top speed to begin with, and steadily slowed down
+ from there, and I almost hit a tree.
+ When I dodged it, the wolf was there to meet me.
+ 
+\end_layout
+
+\begin_layout Standard
+It was 
+\emph on
+huge
+\emph default
+.
+ Mama told me all about werewolves, and how big they can get, but it's different
+ seeing one up close.
+ I only got a split second to look at it before it planted both paws on
+ my front and shoved me into the tree I'd just gone around.
+ 
+\end_layout
+
+\begin_layout Standard
+I don't know if I hit my head on the tree wrong, or if my need for sleep
+ just picked that moment to force me unconscious, but I was out like a light.
+ 
+\end_layout
+
+\begin_layout Standard
+The first thing I noticed when I woke up was that Mama wasn't holding my
+ hand.
+ She 
+\emph on
+always
+\emph default
+ did, even if we were running, no matter what, I'd always wake up with one
+ hand in hers.
+ 
+\end_layout
+
+\begin_layout Standard
+After that I noticed a lot of things in a row: 
+\emph on
+somebody
+\emph default
+ was holding me, carrying me someplace, but not Mama, or a vampire at all
+ -- too warm, and with a heartbeat.
+ By the light filtering through my eyelids, it was past sunrise; I'd slept
+ late.
+ I didn't feel injured, although I could have started that way and healed
+ overnight.
+ 
+\end_layout
+
+\begin_layout Standard
+I opened my eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+Looking down at me was a boy.
+ He looked about sixteen or seventeen, and Native American with long hair
+ tied back in a ponytail.
+ 
+\emph on
+Probably a wolf
+\emph default
+, was my first thought, but no -- in the sun, he was faintly glowing.
+ Just like me.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Cody Clearwater
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey, you're awake,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+\noun on
+Aaaaaaaah
+\noun default
+!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Sure, the last Mama heard was that Jacob's pack took Cody with them when
+ they ran, but anything could have happened in that time, including the
+ Volturi getting the third pack and Cody with them.
+ 
+\end_layout
+
+\begin_layout Standard
+I tried to twist myself out of his grip but he held on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hey,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not gonna hurt you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Let me go!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I yelled.
+ I drew on my power to make it convey how scared I was.
+ If he didn't want to hurt me, he might not want me to be scared either,
+ and if he did want to hurt me, it wasn't going to get worse if he knew
+ I was afraid.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please please let me go
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We have to keep running,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The kept wolves are after us.
+ If I put you down will you follow me?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The 
+\emph on
+who
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know what you know -- okay, there's good werewolves and bad werewolves,
+ and I'm with the good wolves, and some bad wolves found you and that vampire
+ you were with back there, and some good wolves and me were there too, and,
+\begin_inset Quotes erd
+\end_inset
+
+ he huffed, 
+\begin_inset Quotes eld
+\end_inset
+
+it's kind of hard to deliver exposition and run at the same time, so can
+ I maybe ask you to just trust me? We're seriously like five minutes from
+ camp and it's safe to stop there.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said meekly.
+ My stomach rumbled.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We've got food,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said encouragingly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Food-food, or blood?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ He'd been carrying me around for goodness only knew how long; he had to
+ have figured out that I was a half-vampire.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean food-food.
+ If you want blood you have to catch it yourself.
+ You venomous?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wolves'll be able to share prey with you, then, if you drag them back to
+ camp once they're dried up.
+ I can't do that.
+ Have to eat my own leftovers.
+\begin_inset Quotes erd
+\end_inset
+
+ He winked at me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you put me down, please? I'll come with you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+He tossed me into the air, and I was able to come down on my feet and keep
+ up with him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nice landing.
+ So what's your name?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Did he not know? 
+\begin_inset Quotes eld
+\end_inset
+
+What's yours?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Cody Clearwater.
+ Look, I'm really 
+\emph on
+not
+\emph default
+ going to hurt you, and I'm already pretty sure you're Elspeth Cullen, but
+ I'm trying to be friendly here instead of all creepy with the `I know who
+ you are, wooo' crap.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ I sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And I knew who you were too.
+ Wooo.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He laughed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Up there,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, pointing at a completely nondescript area of forest.
+ I was pretty sure we were still in Iowa.
+ 
+\end_layout
+
+\begin_layout Standard
+I followed him.
+ He could have hurt me when I was knocked out, or asleep, or whichever I
+ was, if he'd wanted.
+ I'd need to go to New York eventually, but stopping for food and to get
+ my bearings would probably help.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's nothing here, Cody,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do you think we're still all alive, with the kept wolves running around?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pera hides us.
+ Pera! Pera, it's Cody and a friend!
+\begin_inset Quotes erd
+\end_inset
+
+ he yelled at the apparently empty trees.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not just that I don't see anything,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+I also don't hear or smell anything.
+ I haven't tripped over anybody, either.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pera's good,
+\begin_inset Quotes erd
+\end_inset
+
+ he agreed, going a few feet forward to try again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Problem is the hiding goes both ways.
+ Except Pera herself, everybody she hides can only see other hidden people.
+ So I have to get close to her in particular, not just any random person,
+ and she doesn't have very good hearing.
+ She might even still be asleep.
+ 
+\emph on
+Pera!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Cody disappeared.
+ 
+\end_layout
+
+\begin_layout Standard
+I considered whether to run for it.
+ I could go on to New York alone, maybe.
+ After a minute's thought, I'd actually gone so far as to take two steps.
+ If Pera's power would hide me from everyone and vice versa I'd 
+\emph on
+never
+\emph default
+ be able to find Mama until Pera let me go, and I wasn't sure I could trust
+ her.
+ But then Cody came back into existence.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Welcome, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said a woman.
+ She was standing right next to me, one hand out like she'd just touched
+ my shoulder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm Pera.
+\begin_inset Quotes erd
+\end_inset
+
+ She looked sleepy and Hispanic and in her late twenties, or early thirties.
+ I saw a few tents set up that hadn't been there before, presumably hidden
+ the same way, and heard snoring and breathing and heartbeats.
+ Between two of the tents was a chocolate-furred wolf, lounging on the ground.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's...
+ nice to meet you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said hesitantly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Um, can someone please tell me 
+\emph on
+what is going on?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's safe here.
+ Oh, and I promised food.
+\begin_inset Quotes erd
+\end_inset
+
+ He tossed me a granola bar from out of a paper grocery bag that was hanging
+ from a branch.
+ 
+\end_layout
+
+\begin_layout Standard
+I unwrapped it and ate.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My explanation?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So, like I said, good wolves and bad wolves, where `good' means `don't want
+ to eat your face' and `bad' means `might want to eat your face'.
+ I've been calling the bad wolves `kept'.
+ They work for the Volturi...
+\begin_inset Quotes erd
+\end_inset
+
+ He trailed off.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Feel like telling me how much of the backstory you already know, so I can
+ skip the parts that'll be repetitive?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will if you'll tell me what you already know about me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're Elspeth Cullen,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, rolling his eyes good-naturedly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your grandfather Charlie was a good friend of my parents before they died.
+ Before 
+\emph on
+your
+\emph default
+ parents died, your mom was the one who activated the pack.
+ She also turned my dad when my sister hurt him, delivered me when I came
+ along, and forgot to warn anybody about a vampire from Alaska named Irina,
+ who tipped off the Volturi about wolves existing when Becky's pack killed
+ her mate.
+ The Volturi showed up, Jake split off this pack and warned your mom, she
+ and your dad showed up, Rachel and Becky and their packs had been completely
+ brain-fried by a couple of the guard, and your parents both died.
+ You were someplace else at the time, I'm going to guess your parents' coven,
+ but who knows.
+ And now, for some reason, you're in the middle of Iowa with a vampire --
+ she a relative of yours maybe?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know who the Volturi are, I know how wolves work, I know about the twins'
+ packs working for the Volturi, I know what happened to my parents,
+\begin_inset Quotes erd
+\end_inset
+
+ I listed, not mentioning 
+\emph on
+what
+\emph default
+ I knew about Mama's status.
+ I finished my granola bar and Cody threw me a bag of popcorn.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay.
+ So, Pera here is Brady's girl,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said, pointing at Pera.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Brady was with Becky's pack, back before your parents and mine were killed,
+ and he was a kept wolf for almost a month.
+ We -- Jake's pack and imprints and me -- were on the run that entire time.
+ We're pretty sure the only reason we didn't get killed or captured was
+ that the Volturi figured they could take their time and get us later.
+ But then they brought in Pera, 'cause they like collecting witches and
+ she's one hell of a witch.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thanks ever so,
+\begin_inset Quotes erd
+\end_inset
+
+ said Pera, in heavily accented English.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody grinned at her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ he went on, 
+\begin_inset Quotes eld
+\end_inset
+
+before they could fry Pera's brain or turn her into a vampire, Brady laid
+ eyes on her and poof, she's the center of his universe, you know how this
+ works.
+ Pera wants to 
+\emph on
+not
+\emph default
+ be fried or bit, so Brady defects packs, joins Jake's, and they get the
+ hell out of Dodge.
+ Where by `Dodge', I mean `Volterra'.
+ They find us via telepathy and since then we've had it way easier, courtesy
+ of Pera being excellent.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How would the Volturi have caught Pera in the first place?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, puzzled, between bites of popcorn.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They've got some hell-of-a-witch-es too,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was betrayed by someone who I had thought was a friend,
+\begin_inset Quotes erd
+\end_inset
+
+ Pera said gravely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I do not believe she could have captured me if I had been on my guard and
+ had not trusted her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That part's a long story,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Later.
+ Anyway, when we're hidden we can't see or talk to anybody who 
+\emph on
+isn't
+\emph default
+.
+ Well, Pera can see everybody, but they can't see her when she hides.
+ It can make a person kind of stir-crazy to have such a limited social circle.
+ So sometimes Pera unhides a few of us because we don't want to start killing
+ each other.
+ Problem is that Demetri can tell 
+\emph on
+where
+\emph default
+ we are, and if anybody unhides while he's lurking with a pack of Volturi
+ or kept wolves, we've got trouble.
+ The good news is that they don't usually bother to stake us out, and they
+ only use small teams for the purpose because they don't want to tie up
+ large portions of the guard.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But they were staking you out yesterday?
+\begin_inset Quotes erd
+\end_inset
+
+ I surmised.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Looks that way,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Me and Jake and Jared and Victor unhid to scope out the area and what should
+ we find but a few kept wolves.
+ They're the ones attacked you and your friend.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What happened to her?
+\begin_inset Quotes erd
+\end_inset
+
+ I demanded.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody winced.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Uh...
+ by the time any of us got on the scene she was...
+ already in bits and on fire.
+ The kept wolves ran off all by themselves -- the smoke'll knock wolves
+ out if they breathe it -- and Jake and Jared chased Demetri.
+ Victor and I went after you because we could tell by the scent you were
+ a halfsie and I wanted to see who you were, but when Victor caught up to
+ you and nabbed you you 
+\emph on
+fainted
+\emph default
+, so we figured you were scared of wolves and he went to join up with Jake
+ and Jared and I carried you this-a-way.
+ Those three will be back any minute now -- Any news, Quil?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked the chocolate-furred wolf.
+ The wolf, apparently Quil, shook his head.
+ I supposed he was in wolf form to serve as a walkie-talkie.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ If everyone had run from the scene at the time Cody described, Mama was
+ probably alive.
+ Being on fire would hurt terribly, of course -- but she could live through
+ it.
+ She would meet me in Central Park.
+ I just needed to go there.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are...
+ you okay, about your friend...?
+\begin_inset Quotes erd
+\end_inset
+
+ Cody asked, leaning in.
+ He looked concerned.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm fine,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I wouldn't call her my friend.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What would you call her?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Marie,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Mama's middle name was her alias of choice only about a third of the time.
+ But that was more often than any other single one.
+ Jacob's pack -- and the imprints and Cody -- seemed to be against the Volturi.
+ But that didn't mean I should tell all the secrets.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+And?
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want to tell us what you were doing in the middle of Iowa with Marie?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Traveling.
+ I need to go to New York City.
+ I can find family there,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Um, I guess Pera will have to unhide me for me to do that...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+A Native-looking woman's head poked out of one of the tents.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So help me,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+if all this chat wakes the baby again, I will sic Victor on you all when
+ he comes back.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good morning to you too, Maureen,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody dryly.
+ 
+\end_layout
+
+\begin_layout Standard
+Pera said, 
+\begin_inset Quotes eld
+\end_inset
+
+Really, it is 
+\emph on
+very
+\emph default
+ early.
+ I would like another few minutes of sleep before they return and I have
+ to hide them too.
+ Perhaps you could take your conversation elsewhere.
+\begin_inset Quotes erd
+\end_inset
+
+ She went into one of the tents; Maureen zipped hers back up too, and it
+ was just me and Cody and Quil and a lot of tents in the woods.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let's go for a walk and talk,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody suggested, and I followed him.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So...
+ explain Pera's power to me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The tents were hidden, but I saw the same trees before and after she hid
+ me.
+ So the 
+\emph on
+trees
+\emph default
+ couldn't be hidden.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wow, you go right for the tricky questions.
+ I've lived with Pera most of my life and I barely understand how she works.
+ Hmm...
+ Okay, so you have the hiding place.
+ That's where we are now.
+ And you have outside, which is where we were before she hid us.
+ Outside is where people normally receive their mail.
+ Objects and plants and animals, on the other hand, usually exist both in
+ the hiding place and outside, for some reason.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But the tents...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pera can touch stuff to make it exist only in the hiding place, and that's
+ what happened with the tents -- we didn't want someone stealing them or
+ something.
+ This also explains why we 
+\emph on
+have
+\emph default
+ tents, and food, and stuff.
+ Sorry to inform you that you've fallen in with a pack of thieves.
+ Pera just walks into places and hides whatever we want so we can walk out
+ without it being noticed.
+ If we pick things up without them being hidden first, people outside can
+ see them floating -- disappearances are easier to time so nobody sees it
+ happen.
+ I mean, the Volturi can't get much more out for our blood than they already
+ are, but there's no sense leaving collateral damage by letting bystanders
+ see too much.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess that makes sense.
+\begin_inset Quotes erd
+\end_inset
+
+ Hiding all the time like that would make it difficult to pursue any sort
+ of gainful employment.
+ I've never stolen anything and I don't think Mama has either, but she gave
+ me explicit permission to mug humans for money or their phones or whatever
+ I needed if I ran out of pocket money on the way to a rendezvous.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You think so? It confuses the hell out of me,
+\begin_inset Quotes erd
+\end_inset
+
+ he laughed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway.
+ Pera can see, hear, and generally sense hidden things and outside things
+ both, all the time, but she can only physically interact with stuff that's
+ wherever she is.
+ Except she can touch things in either place to hide or unhide them.
+ She's hidden now, and she could hear me when I was unhidden.
+ So I wandered around yelling `Pera, hey, Pera' until she woke up and poked
+ me to hide me.
+ Then I explained and she hid you too.
+ You could walk into the nearest town and it'd be the spookiest thing you
+ ever saw.
+ Cars driving themselves and whatnot.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are our clothes hidden?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, looking down at myself.
+ I was a little scruffy from all the flinging that had happened to me overnight.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And are clothes on people outside invisible to hidden people?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ We're not sure why that happens.
+ Anything that's really 
+\emph on
+on
+\emph default
+ your person, not just in your hand or whatever -- like something that would
+ stay put if you went completely limp and were levitated into the air --
+ will come with you when you hide or unhide, and isn't in both places like
+ other stuff.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What would happen if someone or something went from the hiding place to
+ outside while it was in the same place as something outside? Or vice versa?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said frankly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pera avoids that because she's pretty sure it couldn't be good.
+ If I'm asking her to hide me, and she doesn't do it right away, I walk
+ a few steps forward in case I'm intersecting something or somebody.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Okay.
+ That's interesting.
+ It's amazing she can do so much while she's human.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ We all owe her our lives about a thousand times over.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do need to go to New York,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, after a silence.
+ Mama would surely be long gone from where she'd fallen by now, on her way
+ to the park to wait for me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's not 
+\emph on
+so
+\emph default
+ urgent that I have to go 
+\emph on
+right now
+\emph default
+, but I feel like I should be clear that I'm not...
+ joining the pack, or anything.
+ I really appreciate that you picked me up.
+ I wouldn't have wanted to get gotten by the kept wolves.
+ And it might make sense for me to hang out for a while if that's okay,
+ at least until they and Demetri are gone.
+ But -- eventually, as soon as it's safe, I need to go to New York.
+\begin_inset Quotes erd
+\end_inset
+
+ I could put off setting out, if that would make the trip safer.
+ Unlike me, Mama doesn't have a one-month limit on how long she's supposed
+ to wait.
+ She'll be worried if I take forever to get there, but she told me to take
+ the safest route even if it's slower.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's okay,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We move around a lot.
+ Just to make it inconvenient for the Volturi and the kept wolves, so they
+ have to haul out Demetri every time they want to know where we're at.
+ And to avoid hitting places too hard with all the theft.
+ I don't think anybody'd mind escorting you, as long as you're not in a
+ hurry.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Really? They're...
+ I mean, you seem like a nice bunch of people, but why would you want to
+ escort me halfway across the country?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because I like you,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, grinning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're the only other half-vampire I ever met, I kind of want to keep you
+ around.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you're in charge of where the pack travels?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked skeptically.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, no,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said, frowning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't mean to give that impression.
+ But we don't usually have any place in particular to go, so if you suggest
+ one no one's liable to kick up a fuss.
+ I'll just say, `Hey, Jake, let's take Elspeth to New York City where she
+ needs to go' and he'll say `Sure, Cody, that sounds fine to me,' and then
+ next time we break camp we'll go in that direction and so on.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So...
+ this sounds like a fine plan to me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and Cody grinned broadly.
+ His smile changed his whole face, like he had a very limited version of
+ my power: he could communicate 
+\emph on
+I am happy
+\emph default
+, impossible to disbelieve or misunderstand.
+ Traveling with the pack would certainly be easier and safer than trying
+ to stretch the money in my pocket across half a dozen states.
+ Mama would approve.
+ 
+\end_layout
+
+\begin_layout Standard
+I'd just need to keep quiet about the details.
+\end_layout
+
+\end_body
+\end_document
