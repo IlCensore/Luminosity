@@ -1,0 +1,2346 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{28}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Luminosity.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Linux Libertine Mono O
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Things Left Behind
+\end_layout
+
+\begin_layout Standard
+I was wandering through the vicinity of Nashville, taking an uninhabited
+ route to avoid being seen in the sun.
+ I was starting to get a little thirsty, and my necklace and rings were
+ on my locket chain, where they were less likely to be damaged by the one-sided
+ fight between me and a coyote if I happened across one.
+ When I went over a shallow rise, I saw him, clearly a vampire, from a few
+ hundred feet away.
+ 
+\end_layout
+
+\begin_layout Standard
+It took me longer than it should have to recognize him.
+ He was alone, for one thing; no Alice.
+ His outfit was nothing like the style that had been typical of Jasper before.
+ When he was facing away from me, the hair was enough to make him look Jasper-li
+ke in spite of that -- it was a little shaggier than I'd last seen, but
+ the right color and type.
+ But when he turned around, having heard my approach, his eyes were red.
+ 
+\end_layout
+
+\begin_layout Standard
+Figuring I'd been mistaken, and this vampire merely resembled Jasper, I
+ stepped forward.
+ I would have needed to run from Jasper before being recognized, lest he
+ get in touch with the family and let them know I was alive.
+ A stranger, on the other hand, I could interact with in relative safety.
+ I hadn't encountered another nomad in all my wandering, but imagined it
+ was customary for me to find out what this vampire's territory was so I
+ could keep out of it or arrange to peaceably pass through.
+ 
+\end_layout
+
+\begin_layout Standard
+By the time I was close enough to see the web of scars on his face, and
+ understand that it wasn't just some doppelganger, it was too late: he'd
+ had the chance to see through my new hairdo.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ I heard him growl.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I lied, and then I turned to run.
+ I had a head start and I retraced the steps I'd taken, so I wouldn't be
+ caught off guard by strange terrain.
+ It took him almost twenty minutes to catch me.
+ But catch me he did.
+ 
+\end_layout
+
+\begin_layout Standard
+He took my arm off, easily, still the consummate handler of newborns.
+ Holding it hostage, he sprang back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ he said again, keeping out of my reach as I lunged for my limb and hissed
+ at the pain.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Give it back.
+\begin_inset Quotes erd
+\end_inset
+
+ I looked him in the eye -- what had he and Alice been 
+\emph on
+doing
+\emph default
+? What would have possessed them to return to eating humans? 
+\end_layout
+
+\begin_layout Standard
+Where was she? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ he drawled, voice full of his native Southern accent.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I could use some news from home and you don't seem so inclined to give it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't have any.
+ Give me my arm.
+\begin_inset Quotes erd
+\end_inset
+
+ I looked at the limb, trying to use vision instead of confused kinesthetic
+ sensation to make it attack him; it just flailed wildly.
+ I couldn't even tell if I was really controlling it or if it was just twitching
+ on its own.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're looking rather well,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ His tone was somehow harsh and languid at the same time.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The cancer patient look suits you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I launched myself at him, trying to grab my arm away.
+ I actually managed it, through some fluke or just the power I could still
+ put behind a leap, and I took off one of his hands off in the process.
+ I ran again once I was clear, licking the severed edge of my arm so it
+ would seal properly and attaching it back to my shoulder.
+ I flung Jasper's hand away, hoping to distract him, and kept running.
+ 
+\end_layout
+
+\begin_layout Standard
+From what I could hear, he wasn't even going after his hand.
+ He was just chasing me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bella, dear sister,
+\begin_inset Quotes erd
+\end_inset
+
+ he called.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's only me, Alice isn't here to stop me now.
+\begin_inset Quotes erd
+\end_inset
+
+ What was 
+\emph on
+wrong
+\emph default
+ with him? 
+\end_layout
+
+\begin_layout Standard
+Where was Alice? 
+\end_layout
+
+\begin_layout Standard
+I asked him that: 
+\begin_inset Quotes eld
+\end_inset
+
+Where is she?
+\begin_inset Quotes erd
+\end_inset
+
+ I yelled, over my shoulder.
+ 
+\end_layout
+
+\begin_layout Standard
+That stopped him in his tracks.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You don't know?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, barely loudly enough for me to hear over the wind in my ears.
+ 
+\end_layout
+
+\begin_layout Standard
+I stopped too, and looked over my shoulder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's dead, Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, sounding so lost that it was like he wasn't a powerful, leonine
+ fighter missing a hand and covered in proof of his ability to take me apart.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice is dead.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The news hit me harder than I would have guessed.
+ Alice.
+ My sister, my friend -- dead.
+ Little, happy Alice, dancing wherever she went -- dead.
+ Just like Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+How?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+Jasper started to lope towards me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Volturi,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, the lonely timbre receding from his voice as he returned to whatever
+ mania had possessed him before I'd asked about her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Had one of Nahuel's sisters with them to block her vision, and a witch I've
+ never seen before who works like Jane.
+\begin_inset Quotes erd
+\end_inset
+
+ He sounded comfortable and casual by the time the sentence was over, in
+ spite of the fact that there was no pleasant way he could have learned
+ that the witch was similar to Jane.
+ Something was definitely wrong with him.
+ Some defense mechanism against dealing with Alice's death, spiraling out
+ of control to make him unstable.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Alice?
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered, backing away from him.
+ That was two new, powerful witches with the Volturi, Addy and whoever Jasper
+ had seen.
+ Maybe the sister of Nahuel's they'd recruited was the witch one too.
+ Maybe this embarrassment of riches was why they'd been willing to kill
+ my Edward, and Alice, who they'd wanted so badly.
+ 
+\end_layout
+
+\begin_layout Standard
+The pain flashed back onto his face, but he controlled it again -- or it
+ disappeared of its own accord.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alec knocked me over, deprived me of all the usual senses, but that doesn't
+ cut the empathy,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That works just fine...
+ well, not on you, dear sister...
+ but otherwise just fine...
+ and I felt...
+ Alice...
+ die.
+\begin_inset Quotes erd
+\end_inset
+
+ Except for the pauses, he could have been discussing any neutral subject,
+ commenting on my scarf or something.
+ 
+\end_layout
+
+\begin_layout Standard
+I kept backing up; he kept moving forward.
+ He didn't seem to be paying any attention to what had to be an awful pain
+ in his wrist, where his hand should have been.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why are your eyes red?
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because I've been eating people, dear sister.
+\begin_inset Quotes erd
+\end_inset
+
+ He practically 
+\emph on
+purred
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+But that was obvious, that he'd been eating people, didn't he understand
+ why I'd ask...? 
+\begin_inset Quotes eld
+\end_inset
+
+But why? Alice
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't say her name!
+\begin_inset Quotes erd
+\end_inset
+
+ he roared, suddenly all violence and fury.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You have no right to say her name.
+ 
+\emph on
+It's your fault
+\emph default
+.
+ They had no excuse until you stepped out of line, 
+\emph on
+dear sister
+\emph default
+, they had no way to separate us from the group to make the attack feasible
+ until you forced us to scatter, 
+\emph on
+dear sister
+\emph default
+, you have 
+\emph on
+no right
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay!
+\begin_inset Quotes erd
+\end_inset
+
+ I cried, and he calmed again, all the rage drained out of him like someone
+ had tipped him over and poured it out.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To answer your question,
+\begin_inset Quotes erd
+\end_inset
+
+ he said conversationally, 
+\begin_inset Quotes eld
+\end_inset
+
+I was originally able to stop eating people in the first place because,
+ wouldn't you know it, they don't really like to be eaten.
+ They tend to have strong feelings about it...
+ not pleasant ones...
+ Well, when I knew there was something else to be done, I was all too willing
+ to try to leave that behind, although of course it was difficult.
+ Dear.
+ Sister.
+ But now I find meals a pleasant respite.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I feel 
+\emph on
+their
+\emph default
+ pain, you see,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmured, creeping forward as I scrambled back, 
+\begin_inset Quotes eld
+\end_inset
+
+if I focus on 
+\emph on
+their
+\emph default
+ terror, think about 
+\emph on
+their
+\emph default
+ despair...
+ I don't have to remember 
+\emph on
+hers
+\emph default
+.
+ Dear, dear sister.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, don't be sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's really no point.
+ I can't tell, you see.
+ And besides...
+ I'm going to kill you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I would have died immediately if Jasper had been in his right mind and had
+ both hands.
+ But he was short a weapon, and his onslaught was clumsy and desperate.
+ His attitude and his stance and his strategy shifted chaotically as he
+ lunged and struck, and while it made him unpredictable, it sacrificed all
+ of his follow-through.
+ 
+\end_layout
+
+\begin_layout Standard
+It was only April; I had almost two months left of newborn strength.
+ Jasper seemed stronger than Emmett -- I remembered that drinking human
+ blood conferred an improvement there -- but I was stronger still, and I
+ could commit to my attacks.
+ 
+\end_layout
+
+\begin_layout Standard
+I could, at least, until Jasper started talking again.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you even love him?
+\begin_inset Quotes erd
+\end_inset
+
+ he said, launching a kick to my head that turned into a mere acrobatic
+ maneuver halfway through its journey when he changed his mind.
+ I rolled away, kipped up, and then realized what he was talking about and
+ found myself so stunned by the question that I couldn't dodge as he landed
+ a solid punch to my sternum with his attached hand.
+ 
+\end_layout
+
+\begin_layout Standard
+I flew through the air; he was waiting when I landed and stomped on my knee,
+ breaking my leg in half.
+ I screamed and scrabbled for the lost leg, and Jasper chose to forego continuin
+g to divide me from myself, instead saying, 
+\begin_inset Quotes eld
+\end_inset
+
+Because if you did love him...
+ you'd be like me, now, wouldn't you?
+\begin_inset Quotes eld
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+I shouldn't be talking to him, I should be focusing on surviving
+\emph default
+.
+ I picked up my leg, spat on it, and fused it back to my knee, then sprang
+ to my feet and ran again.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice didn't see it...
+ too many wolves,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, sprinting after me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But we heard about it...
+ you know, before they killed her because of you...
+ Edward is dead, or did you somehow not know? Did you abandon him?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No!
+\begin_inset Quotes erd
+\end_inset
+
+ I shrieked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you seem to be doing so well, Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper snarled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Of course, I can't 
+\emph on
+tell
+\emph default
+, not really, but I'd think, if you loved him, that you'd be in more or
+ less my boat...
+ or you'd be barely awake, like Marcus...
+ or you'd be focused on revenge, like Irina...
+ but no, you're fine, you're in the middle of Tennessee...
+ 
+\emph on
+hiking
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not 
+\emph on
+fine!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ He caught up to me again, pushed himself into the air and aimed a foot
+ squarely at the middle of my back.
+ I had enough forward momentum that it didn't actually injure me, but it
+ threw off my gait and I went tumbling forward down the slope I'd been following.
+ 
+\end_layout
+
+\begin_layout Standard
+Jasper stood at the top of the hill, watching me recover my feet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't tell,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, shrugging, 
+\begin_inset Quotes eld
+\end_inset
+
+like I said.
+\begin_inset Quotes erd
+\end_inset
+
+ Then he was after me again.
+ I spun to connect a fist with his face as he approached.
+ I missed his head, but caught the shoulder of his good arm.
+ It came off.
+ He didn't make any effort to retrieve it, just kept advancing; he was on
+ me again in an instant, compensating for his rebalanced body well enough
+ to land a kick at my throat.
+ 
+\end_layout
+
+\begin_layout Standard
+My neck cracked but didn't sever, and he stopped, 
+\emph on
+again
+\emph default
+, to taunt me while I gurgled and healed.
+ The knitting wound was slower than the others -- I'd had to reattach an
+ arm and a leg in the last minute; I wasn't made entirely of venom.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now,
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper said, 
+\begin_inset Quotes eld
+\end_inset
+
+I know he loved you.
+ And you felt something for him...
+ I think...
+ before I lost you.
+ But did you 
+\emph on
+love
+\emph default
+ him? Really? Or are you immune to that too, dear sister?
+\begin_inset Quotes erd
+\end_inset
+
+ He darted towards me to do more damage, when my neck was half healed, but
+ I pushed at him with both hands and one foot and he went hurtling through
+ the air.
+ He skidded when he landed, not bothering to get his bearings again until
+ my neck was glued whole and I was up and running again.
+ 
+\end_layout
+
+\begin_layout Standard
+If Jasper ever got the presence of mind to pick up his lost appendages and
+ seriously attack me without pause, I was dead.
+ I needed to do something clever.
+ He'd been reacting very strongly to Alice's name; it might throw him off
+ enough that I could reason with him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice wouldn't want me dead!
+\begin_inset Quotes erd
+\end_inset
+
+ I yelled.
+ 
+\end_layout
+
+\begin_layout Standard
+He stopped in his tracks, and I glanced over my shoulder to gauge his reaction.
+ The lost, forlorn look again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She loved you,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ And then his face twisted with hate.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you 
+\emph on
+betrayed
+\emph default
+ her.
+ 
+\emph on
+She loved you
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ He gave chase again; I kept running, with enough of a start that I guessed
+ he'd catch me again in four minutes.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Damn
+\emph default
+ my ambition.
+ I hadn't been born accidentally immune to Jasper, I'd 
+\emph on
+chosen
+\emph default
+ it
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Could
+\emph default
+ I turn it off? I could feel it, now -- it had responded to my volition
+ when I'd added the immunity, and when I'd been dying -- maybe -- if I just
+ wanted a little 
+\emph on
+hole
+\emph default
+ in it, he'd be able to feel my presence the way he was used to.
+ He was raving enough that I might be able to convince him that it was a
+ case of mistaken identity.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't know how to make it 
+\emph on
+make sense
+\emph default
+ for Jasper to feel me, but maybe it didn't need to make sense.
+ Or maybe it didn't need to make a 
+\emph on
+specific
+\emph default
+ kind of sense.
+ 
+\end_layout
+
+\begin_layout Standard
+He 
+\emph on
+had
+\emph default
+ been able to feel my emotions before, after all...
+ I visualized my shield getting thinner, letting my emotions seep through.
+ I didn't actually know what Jasper's range was, but he was catching up
+ anyway; if it was working, he'd notice when he crossed it.
+ I thought I could feel the press of my shield getting lighter or changing
+ temperature or something -- it wasn't 
+\emph on
+quite
+\emph default
+ like feeling a normal object, I didn't know how to map all the sensations
+ onto metaphors (or functions) yet.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What...
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper stopped again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're...
+ but you look like...
+ 
+\emph on
+wait
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He was not only confused about who I was, he was also willing to quit attacking
+ me for that reason? That was better than I'd hoped.
+ If I could pass off the entire conversation...
+ I ran through it again in my head.
+ I hadn't 
+\emph on
+definitively
+\emph default
+ given away my identity, he'd said all the names first...
+ although I'd need one hell of a story to cover my appearance 
+\emph on
+and
+\emph default
+ gold eyes 
+\emph on
+and
+\emph default
+ a few of the things I'd said.
+ If he really wasn't sure, though, I might be able to get out with no complete
+ story at all, and leave him to fill in the blanks with the next most believable
+ thing.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Wait
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper said desperately.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, you're not her -- you only look like -- she's dead, you look
+ like someone I used to know, but she's dead too, I've been seeing things,
+ I'm sorry.
+ Peter and Charlotte will -- they've been helping
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He 
+\emph on
+had
+\emph default
+ lost his conviction that I was myself.
+ Being rumored deceased was helpful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What are you even talking about?
+\begin_inset Quotes erd
+\end_inset
+
+ I yelled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jesus! I was just going to ask if I could go through your territory! And
+ then you called me `Bella' and you took my damn 
+\emph on
+arm
+\emph default
+ off! The hell is your problem? And you've been eating 
+\emph on
+people?
+\emph default
+ Is that seriously normal? I mean, yeah, they smell awesome, but I thought
+ my creator was pulling my leg that vampires actually went around killing
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+ Had to cover the confusion about the red eyes.
+ The red in his eyes was at least a different 
+\emph on
+sort
+\emph default
+ than newborn red, although it was still a foolish mistake I was pretending
+ to have made.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But, you know, not pulling my leg completely 
+\emph on
+off
+\emph default
+ like 
+\emph on
+you
+\emph default
+.
+ Thanks for the tip about us not really being immortal, though, I thought
+ that word meant we can't die, I'll be more careful about talking to strangers
+ now.
+\begin_inset Quotes erd
+\end_inset
+
+ That should explain why I'd asked 
+\begin_inset Quotes eld
+\end_inset
+
+how
+\begin_inset Quotes erd
+\end_inset
+
+ about Alice's death.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry!
+\begin_inset Quotes erd
+\end_inset
+
+ he yelled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You look like someone I knew, but she's dead
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you going to attack me again if I stop and talk to you?
+\begin_inset Quotes erd
+\end_inset
+
+ I demanded.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I won't, I won't,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, and I slowed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You look a lot like her,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A lot.
+ But maybe you don't.
+ I've been seeing things, things that aren't there...
+ Maybe you don't really look like her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This...
+ Bella person?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, stopping a safe distance away.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your sister? Man, I don't know about 
+\emph on
+her
+\emph default
+, but I know I don't look one bit like 
+\emph on
+you
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Uh, look -- I'm with a coven -- you can talk to them about the territory
+ thing -- they're in
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No offense, man, but I don't think I want to hang around,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Or leave more reliable records of my face, in Peter and Charlotte's minds.
+ It was a stroke of bewildering luck that Jasper had been hallucinating
+ enough to think I was really someone else.
+ It was not going to hold with his friends.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just tell me which way is out of here and go get your hands back on and
+ take a chill pill.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did...
+ did you lose someone? It doesn't make sense unless...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not my freakin' therapist,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's not your business that my boyfriend is -- not your business.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Act, act, act, live, live, live
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry.
+ Uh -- go -- that way -- Nashville's the only major city my coven claims,
+ just stay out of the area and you'll never see me again -- I'm sorry
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Toodles,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, in the most uncharacteristic farewell I could think of, and I bolted.
+ 
+\end_layout
+
+\begin_layout Standard
+I got out of the Nashville area without meeting Peter or Charlotte, and
+ continued north once I had safely detoured.
+ I thanked my lucky stars that my identifying jewelry had been tucked into
+ my shirt, and I didn't dare take it out again until I'd crossed the state
+ line.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Jasper's accusations had shaken me, and when I was out of his coven's range
+ and had coaxed my shield back to its normal strength, I tried to consider
+ them.
+ Of course if Jasper couldn't sense an emotion from me, that didn't necessarily
+ mean it wasn't there...
+ but did he have a point, however poorly derived? 
+\emph on
+Could
+\emph default
+ I be immune to the full force of the mate bond? It was the 
+\emph on
+sort
+\emph default
+ of thing I found myself impervious to.
+ I felt like I'd been more powerfully connected to Edward than I'd imagined
+ possible, but I didn't have a true basis for comparison.
+ Edward would have, if he could read my mind, but he couldn't.
+ 
+\end_layout
+
+\begin_layout Standard
+And...
+ I 
+\emph on
+was
+\emph default
+ holding up better than Jasper.
+ He was 
+\emph on
+hallucinating
+\emph default
+, he'd lapsed his vegetarianism, his mood and demeanor swung wildly all
+ over the map from moment to moment.
+ I 
+\emph on
+was
+\emph default
+ functioning better than Marcus.
+ He was practically a zombie, after centuries without Didyme.
+ And I was less obsessed with revenge than Irina.
+ While I did want the Volturi dead, I'd already wanted that before they'd
+ killed Edward.
+ 
+\end_layout
+
+\begin_layout Standard
+In short, I was 
+\emph on
+coping
+\emph default
+.
+ I thought about Edward every single day, and hadn't managed to scale back
+ my allotted four hours daily of dwelling on him and Elspeth, but I was
+ having a life without him.
+ 
+\end_layout
+
+\begin_layout Standard
+But the answer that Jasper had thought of -- that I just didn't 
+\emph on
+really
+\emph default
+ love Edward, that I was somehow protected from that too -- didn't feel
+ right.
+ I'd had to drag myself around by telling myself he'd have wanted me to
+ live; I'd acquired more momentum over the months since, but the basic motivatio
+n was still the same, if I looked at it.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe there was some other explanation for why I was -- effectively -- managing.
+ Irina's behavior was the least bizarre of the three examples -- and she,
+ unlike Jasper or Marcus, wasn't a witch.
+ Jasper had apparently 
+\emph on
+felt
+\emph default
+ Alice die.
+ I allowed myself a shudder at how awful that must have been.
+ Marcus saw relationships -- had he watched his wink out? Would that be
+ a more affecting experience than mine, where I'd only had to 
+\emph on
+hear
+\emph default
+ myself widowed? 
+\end_layout
+
+\begin_layout Standard
+And there was Elspeth.
+ 
+\end_layout
+
+\begin_layout Standard
+For all that I thought it was idiotic for anyone to count having children
+ as a kind of immortality on a par with the 
+\emph on
+regular
+\emph default
+ kind of immortality...
+ 
+\end_layout
+
+\begin_layout Standard
+It wasn't 
+\emph on
+nothing
+\emph default
+.
+ Elspeth was alive, might well live forever if she hadn't inherited my hubris,
+ and she was Edward's daughter.
+ Half him.
+ Even if I couldn't see her, at least not until every threat were somehow
+ extinguished in spite of the fact that the Volturi had at least two new
+ witches and two packs of werewolves...
+ she existed.
+ 
+\end_layout
+
+\begin_layout Standard
+I was cold.
+ But I knew 
+\emph on
+why
+\emph default
+ I was cold, I knew 
+\emph on
+what
+\emph default
+ I was missing, and that warmth hadn't gone out of the world, she was only
+ far away.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth deserved to 
+\emph on
+have
+\emph default
+ a mother, a mother who wasn't a gibbering mess or an apathetic lump of
+ misery, even if she couldn't be raised by that mother.
+ Even if she had to think I was dead for the rest of her eternity.
+ 
+\end_layout
+
+\begin_layout Standard
+I kept walking.
+ 
+\end_layout
+
+\begin_layout Standard
+I was passing through Michigan when I found her.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I heard her voice first.
+ I knew it was her before I even processed the word she'd spoken.
+ There was no mistaking it, even though I'd heard only the syllables she'd
+ deigned to utter when she was days old.
+ 
+\end_layout
+
+\begin_layout Standard
+I froze in my tracks.
+ Michigan? There were no family houses I knew about in Michigan.
+ They'd bought a new one, then.
+ Moving around more to cover for Elspeth's growth.
+ How big would she be now? 
+\emph on
+I should run, I should jump into Lake Huron and swim to Ontario, I can't
+ be here, they can't know
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+But what if she said something else? What if she spoke again, and I missed
+ it? 
+\end_layout
+
+\begin_layout Standard
+The word she'd said was 
+\begin_inset Quotes eld
+\end_inset
+
+puppy
+\begin_inset Quotes erd
+\end_inset
+
+.
+ That was...
+ odd.
+ Vampires, at least full ones, couldn't be around animals without the animals
+ going out of their minds trying to get away; that was fine when we were
+ going to eat the creatures anyway, but it would be a suspicious pattern
+ of behavior to inspire in pets.
+ Why would she be around a puppy? 
+\end_layout
+
+\begin_layout Standard
+Was my daughter 
+\emph on
+unsupervised
+\emph default
+? Were they leaving her by herself, that she'd found a dog that wasn't barking
+ its head off about the presence of vampires? 
+\end_layout
+
+\begin_layout Standard
+I listened more carefully.
+ There were at least two people with her -- heartbeats, at human speed.
+ I'd entrusted my daughter to my in-laws and they were leaving her with
+ a 
+\emph on
+babysitter
+\emph default
+? Why were they not with her, in one combination or another, every minute
+ of the day? What were they doing that was so important that they'd hand
+ off my baby to someone else? One of the humans was an adult -- a woman,
+ it sounded like -- the other a child.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth said something again: 
+\begin_inset Quotes eld
+\end_inset
+
+Can I walk the puppy in the forest?
+\begin_inset Quotes erd
+\end_inset
+
+ It wasn't really a forest, just a cluster of trees in a park, barely thick
+ enough to obscure vision.
+ If I ran six steps forward to its edge I might be able to glimpse her.
+ I barely, 
+\emph on
+barely
+\emph default
+ stayed put.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right, Elsie,
+\begin_inset Quotes erd
+\end_inset
+
+ said the woman, and my daughter laughed with glee, and my heart would have
+ stopped if it had been running.
+ More footsteps, a dog's and a little girl's...
+ 
+\end_layout
+
+\begin_layout Standard
+She was coming closer.
+ I should run.
+ If she saw me, if she smelled me, if she had any inkling that I was here,
+ she could tell anyone about it, could tell my 
+\emph on
+neglectful
+\emph default
+ erstwhile siblings and parents-in-law about how she'd run into me.
+ After she got home from her day with the 
+\emph on
+babysitter
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+But my body was obedient to what I really wanted, and I 
+\emph on
+wanted
+\emph default
+ to see my child again.
+ She walked closer still.
+ 
+\end_layout
+
+\begin_layout Standard
+Then the footsteps stopped.
+ I heard her sniffing the air.
+ The dog was sniffing, too, and started to whine.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama?
+\begin_inset Quotes erd
+\end_inset
+
+ said Elspeth.
+ 
+\end_layout
+
+\begin_layout Standard
+Every thought of running away evaporated.
+ 
+\end_layout
+
+\begin_layout Standard
+I could not, 
+\emph on
+could not
+\emph default
+ leave.
+ Not now.
+ Not anymore.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama?
+\begin_inset Quotes erd
+\end_inset
+
+ said Elspeth again, and she was getting closer.
+ She was having to fight the dog to do it; I could tell by listening that
+ she was stronger than it was, but it was very determined not to approach
+ nearer.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Silly puppy,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and I thought I heard her hook the leash over a branch to make
+ the animal stay while she investigated.
+ 
+\end_layout
+
+\begin_layout Standard
+She pushed branches aside, and I couldn't breathe, and I couldn't move,
+ and then she came into view.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama!
+\begin_inset Quotes erd
+\end_inset
+
+ she exclaimed.
+ She looked like a tall five-year-old, maybe a skinny six-year-old.
+ Her hair -- 
+\emph on
+that
+\emph default
+ hair, exactly the shade, bronzed and brilliant -- fell in waves to her
+ knees.
+ Her eyes were still that same brown that her father had loved so much.
+ Someone had put her in a spring green outfit with daisies on it.
+ She was the most beautiful thing in the universe.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't think the human would have been able to hear her speaking to me.
+ She rushed forward, jumped into my arms as they folded around her automatically
+, and planted her hand on my face.
+ 
+\end_layout
+
+\begin_layout Standard
+Memories flooded past.
+ Everything.
+ Every instant of her childhood stolen from me, I could have it all back.
+ I'd never be able to put her down, never be able to tell her to keep me
+ a secret and send her back to the babysitter and the other child with the
+ dog.
+ I was going to have to steal her away; there was nothing else I was strong
+ enough to do.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered, interrupting her.
+ There were too many lost minutes for me to make them all up standing in
+ a park some insufficient handful of miles away from her ostensible caretakers.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What, Mama?
+\begin_inset Quotes erd
+\end_inset
+
+ she replied, leaving her hot hand on my face but halting the flow of shared
+ memory.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you show me what happened right before you came to the park, please?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She beamed at me and did exactly that.
+ 
+\end_layout
+
+\begin_layout Standard
+The woman and her little son were the Cullens' next door neighbors at their
+ current residence.
+ They had a dachshund, which Elspeth found fascinating, but which the regular
+ vampires had to pretend to be allergic to.
+ The neighbor lady had offered to bring Elspeth along on the dog's walk,
+ and Elspeth had begged to go, and they'd seen no harm in it: she was smart
+ enough to keep her extraordinary qualities to herself, and to stay quiet
+ about the oddities of her relatives.
+ 
+\end_layout
+
+\begin_layout Standard
+The human was starting to wonder at how long Elspeth had 
+\begin_inset Quotes eld
+\end_inset
+
+walked the puppy in the forest
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elsie?
+\begin_inset Quotes erd
+\end_inset
+
+ she called.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's almost time for our picnic!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama, come to the picnic?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Elspeth eagerly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, I can't.
+ I need to take you away from here.
+\begin_inset Quotes erd
+\end_inset
+
+ I was hugging her close to me, and she was snuggling up, and she was so
+ warm, 
+\emph on
+so warm
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Away to the place you went?
+\begin_inset Quotes erd
+\end_inset
+
+ Was that seriously how they'd explained my supposed death to her? That
+ I'd 
+\begin_inset Quotes eld
+\end_inset
+
+gone away
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, saving the complex explanation for later.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you ready to go?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The puppy is stuck.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The neighbor will find the puppy and get it unstuck.
+\begin_inset Quotes erd
+\end_inset
+
+ Finally, my feet at last were willing to move, now that she was in my arms.
+ The human was meandering towards the cluster of trees.
+ If I bolted, now, and got into the water as soon as I could to disrupt
+ my trail, and it took the human even a couple of minutes to give up looking
+ and contact one of the Cullens, then I had a shot at evading detection.
+ Unless...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, did you ever meet a vampire man named Demetri?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She shook her head, and showed me every male vampire she'd ever met, including
+ Edward, but remembering him didn't hurt as much as it would have without
+ her right there.
+ Edward, Carlisle, Emmett, Jasper, Ilario, Eleazar, David, that was all
+ -- apparently if a contingent of Volturi had visited the family they'd
+ been all women.
+ Demetri hadn't met her.
+ We couldn't be tracked.
+ 
+\end_layout
+
+\begin_layout Standard
+I clutched at Elspeth and I ran.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I needed to cut off our trail.
+ But Elspeth needed to breathe, which made sustained, discreet underwater
+ travel challenging.
+ No one who would be looking for me was a tracker.
+ Without any witches to help them, the family was limited to scent and tradition
+al detective work to follow me.
+ 
+\end_layout
+
+\begin_layout Standard
+After even a few minutes for the trail to cool, scent alone wouldn't be
+ enough to identify 
+\emph on
+me
+\emph default
+ specifically, although they'd know 
+\emph on
+a
+\emph default
+ vampire was involved.
+ The distinguishing features of a person's scent evaporated much more quickly,
+ so they'd only be able to tell my species, not recognize my person.
+ I could confuse my trail to the point of untrackability in a sufficiently
+ crowded area.
+ But the crowds could be questioned later, and might remember us.
+ Water would really be best if we could manage it.
+ My backpack was fortunately waterproof; I'd considered that an important
+ feature when I'd bought it, considering my penchant for aquatic food.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, sweetie, do you happen to know how long you can hold your breath?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A whole minute!
+\begin_inset Quotes erd
+\end_inset
+
+ she bragged, sending me the relevant memory.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't pull any oxygen out of the air I inhaled.
+ If we both held our breaths, and I carried her in one arm and dove underwater,
+ we could stay underwater for two minutes at a time if I gave her my air.
+ That wasn't enough time to get out of visual range from a speedboat if
+ someone on it spotted us and knew which direction to go, but it 
+\emph on
+was
+\emph default
+ enough time to get far enough away to confuse anyone who thought we were
+ human.
+ I could pop up in unpredictable locations and be unfollowable.
+ All they'd be able to tell, if they were questioned later, would be that
+ we'd been in the lake.
+ 
+\end_layout
+
+\begin_layout Standard
+I'd avoid spending too long in the water -- I just needed to break my trail,
+ and then there would be thousands of miles of coastline on which I 
+\emph on
+could
+\emph default
+ have emerged.
+ By the time they found the specific beach we'd come out on the scent would
+ be long gone.
+\end_layout
+
+\begin_layout Standard
+I clung to uninhabited areas so I could run instead of walking until I got
+ to the edge of the water.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We're going to swim across this lake,
+\begin_inset Quotes erd
+\end_inset
+
+ I told Elspeth, after confirming that there was no one along the stretch
+ of coast I'd found.
+ I explained how we were going to stay underwater, made sure she knew to
+ poke me if she needed air early, and dove in.
+ 
+\end_layout
+
+\begin_layout Standard
+I managed to stay out of the paths of boats for the entire trip across the
+ lake.
+ The swim took four hours, but Elspeth was very patient about it, and looked
+ fascinated by the fish we passed.
+ We climbed out on a beach in Ontario, and it was already after dark.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm hungry, Mama,
+\begin_inset Quotes erd
+\end_inset
+
+ Elspeth informed me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay, Elspeth, I'll get you something to eat,
+\begin_inset Quotes erd
+\end_inset
+
+ I promised.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I need to figure out where we are first.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I never got to hunt with you before, I'm excited,
+\begin_inset Quotes erd
+\end_inset
+
+ she announced.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You've been hunting?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, blinking.
+ 
+\end_layout
+
+\begin_layout Standard
+She showed me.
+ They'd been feeding her animal blood.
+ Or rather, taking her along on hunting trips and letting her get it for
+ herself, which she'd become capable of months previously.
+ I 
+\emph on
+was
+\emph default
+ annoyed that my dietary regimen had been thrown out the window once I was
+ out of the picture, but on the other hand, wild animals were free and human
+ food wasn't.
+ I didn't have access to deep pockets full of ancient fortune anymore.
+ It was probably better, all things considered, if she hunted for food.
+ 
+\end_layout
+
+\begin_layout Standard
+I ran along a highway, slowing to a walk whenever I heard a car coming,
+ until I arrived in a town.
+ I found a convenience store that was open, read an atlas with one hand
+ to avoid having to put Elspeth down, and identified an area that was unlikely
+ to be inhabited where she could hunt.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You have to put me down so I can chase stuff,
+\begin_inset Quotes erd
+\end_inset
+
+ she pointed out when we'd arrived.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't want to let her go.
+ But she did need to eat, and if she was accustomed to bringing down her
+ own food...
+ I set her on her feet.
+ She ran lightly ahead of me, and I jogged behind, just keeping her in sight.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth drained two raccoons and a small deer, then announced she was done.
+ She had good table manners, which was a relief, because replacing her clothes
+ every time she ate would have gotten very expensive and I only had a few
+ hundred dollars left from snow shoveling.
+ 
+\end_layout
+
+\begin_layout Standard
+She didn't protest at all when I scooped her up again.
+ She fell asleep in my arms as I ran, heading nowhere in particular except
+ away from the lake.
+ 
+\end_layout
+
+\begin_layout Standard
+It occurred to me to feel bad for Carlisle and Esme and Emmett and Rosalie.
+ They wouldn't know what had happened to Elspeth.
+ I also worried vaguely about the neighbor who'd taken her to the park being
+ suspected of having something to do with it.
+ But there was no way to let it be known that she was okay, that the neighbor
+ was innocent, without making my survival an even more obvious hypothesis
+ than it already was.
+ I had to stay 
+\begin_inset Quotes eld
+\end_inset
+
+dead
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If she just vanished without a trace, any nomadic vampire accustomed to
+ helping him or herself to interesting live curios could have been the culprit.
+ If she kept in touch with her grandparents and aunt and uncle, on the other
+ hand, that sharply narrowed the field of suspects.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe when she was older, there would be some workaround.
+ She could claim to have escaped a captor or something, once grown, without
+ being young enough that they'd insist on her coming to live with them again.
+ Elspeth's adulthood was only a few years away.
+ They could fret over it for that long.
+ My 
+\emph on
+parents
+\emph default
+ had to think that 
+\emph on
+I
+\emph default
+ was dead for longer, possibly forever.
+ 
+\end_layout
+
+\begin_layout Standard
+In the meantime, I had my daughter, and I could keep her, and she was warm
+ in my arms.
+\end_layout
+
+\end_body
+\end_document
