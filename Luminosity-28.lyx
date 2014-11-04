@@ -1189,16 +1189,18 @@ I waited several hours, half an eye on Charlie's empty house.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
 
 \emph on
-\begin_inset Quotes eld
-\end_inset
-
 Edward, do you trust me?
-\begin_inset Quotes eld
+\emph default
+
+\begin_inset Quotes erd
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -1206,7 +1208,7 @@ Edward, do you trust me?
 \end_inset
 
 Absolutely.
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -1268,8 +1270,12 @@ No, she didn't answer the phone today either,
 \end_inset
 
 What makes you think she was in the fire? She didn't say anything to me
- about visiting you -- did she just not mention it or -
-\begin_inset Quotes eld
+ about visiting you -- did she just not mention it or
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -1360,7 +1366,7 @@ Well, we can't be sure,
 \end_inset
 
 Can't be sure at all.
- There's nothing recognizeable in the ashes.
+ There's nothing recognizable in the ashes.
  But...
 \begin_inset Quotes erd
 \end_inset
@@ -1374,9 +1380,9 @@ Can't be sure at all.
 
 And you haven't been able to get in touch with our 
 \emph on
-son-in-law
+son-in-law?
 \emph default
-? Or his family?
+ Or his family?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1443,7 +1449,7 @@ One second,
 \end_inset
 
 died
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 .
@@ -1565,7 +1571,7 @@ ng: what would Rosalie feed her today? Where would Carlisle take her on
 \end_inset
 
 birthday
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 ? Did she talk yet or was her witchcraft slowing her down? What was her
@@ -1598,13 +1604,16 @@ A week later, I stopped at a random, medium-sized town in Montana, on a
  snowy afternoon.
  I knocked on a few doors in a suburb, offering to shovel driveways and
  sidewalks.
- I looked seventeen; it was a plausible occupation, requiring no ID, as
- long as I didn't knock when I 
+ I looked seventeen; it was a plausible occupation, requiring no 
+\noun on
+id
+\noun default
+, as long as I didn't knock when I 
 \begin_inset Quotes eld
 \end_inset
 
 should have been in school
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 .
@@ -1630,7 +1639,7 @@ him
 \end_inset
 
 Chicago
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 .
