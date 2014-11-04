@@ -67,7 +67,7 @@
 \index_command default
 \float_placement bp
 \paperfontsize 10
-\spacing other 1.3500000000000001
+\spacing other 1.35
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -215,6 +215,18 @@ Alicorn
 \size giant
 \color red
 Luminosity
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Book I
 \end_layout
 
 \begin_layout Standard
