@@ -1,0 +1,1958 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Newcomer
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want a rundown of who's who in the pack, or would you rather let them all
+ introduce themselves?
+\begin_inset Quotes erd
+\end_inset
+
+ Cody asked me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How many people are there?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eight wolves total,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, 
+\begin_inset Quotes eld
+\end_inset
+
+six imprints, four squirts, and me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eight wolves?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I thought it started with Jacob, Jared, Victor, Quil, Sam, and Darren, and
+ then I guess you explained Brady when you explained Pera -- who's number
+ eight?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's Zachary,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He wasn't activated in the first wave, and he wasn't in La Push when the
+ Volturi started kidnapping and killing people -- nobody could get him to
+ drop by for a visit.
+ He was in Albuquerque.
+ We got to him before the kept wolves did.
+ Jake made me lick his nose so he'd activate.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I giggled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think I know about all the imprints...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Might know their names, but what's that without the color commentary?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Cody lightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You met Pera, she's Brady's girl like I said.
+ `Pera' is short for `Esperanza' and she's from Mexico and she taught everybody
+ Spanish, but except for the shorties and me and Brady, they suck at it.
+ The other wolves can't even borrow Brady's fluency, because wouldn't you
+ know, they're only telepathic when they can't talk.
+ I guess he can understand stuff for them when they're all wolves, but they
+ can't speak more than a few phrases really.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you know English and Spanish and what else?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Smatterings of Quileute -- nobody in the pack really 
+\emph on
+speaks
+\emph default
+ the stuff, but we have a few words.
+ About six sentences worth of French that Thea remembered from high school.
+ You?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fluent in English, Spanish, American Sign Language, Norwegian, Portuguese
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Cody was looking at me strangely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Marie taught me all the languages she -- ever learned,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, carefully dancing around the tense problem with 
+\emph on
+knows
+\emph default
+ versus 
+\emph on
+knew
+\emph default
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Italian, French, Ukrainian.
+ Conversational but not really fluent in Finnish and Swedish and Gaelic.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't be surprised if the parents and Quil are all over you to teach their
+ spawn and imprint, respectively,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, impressed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said there are four...
+ children?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ I assumed that was the meaning of 
+\begin_inset Quotes eld
+\end_inset
+
+squirts
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+spawn
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ Maureen and Victor have a toddler and a newborn, Ruth and Natalie.
+ If you want Maureen to love you forever, offer to babysit.
+ She's a great mom but her kids are a handful.
+ And Sam and Emily have Paige, and Darren and Thea have Noah -- those are
+ almost a year old each, born really close together.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But Claire's young too, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Technically she's older than you or I.
+ Isn't that weird?
+\begin_inset Quotes erd
+\end_inset
+
+ he remarked, shaking his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, Claire you could almost mistake for one of the anklebiters.
+ But she's an imprint, and she bosses her Quil around like he's a stuffed
+ animal.
+ Emily's her aunt and I got Claire to call her `Auntie Em' and Emily still
+ hasn't trained her out of it, it's really cute.
+ Emily's Sam's imprint, of course.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sam used to be engaged to your sister, right?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ I hadn't encountered anything that disconfirmed the version of history
+ Mama had told me, but it was good to check.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody sobered when I brought up his sister.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah,
+\begin_inset Quotes erd
+\end_inset
+
+ he said quietly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, Leah and Sam used to be engaged.
+ And Emily's her cousin and they were really close until Sam imprinted.
+ I know more about my sister from them than from anybody else.
+ Or at least how things were with her before...
+ stuff happened.
+ I include myself in the category of happening stuff,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, a little of the original frivolity returning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's me, I'm a happening guy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can tell,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, smiling a little.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do...
+ you prefer if I not bring up your family?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He shook his head; the motion was energetic enough to toss his ponytail
+ over one shoulder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, it's fine.
+ My parents are dead vampires, my brother and sister are kept wolves, and
+ that's...
+ not going to get any worse if you talk about it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, but I changed the subject anyway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jared and Kim are together, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, but Kim hasn't got the baby-crazies, or not yet,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody replied, 
+\begin_inset Quotes eld
+\end_inset
+
+so it's just the pair of them.
+ It was sort of funny.
+ Maureen decided she wanted a baby, once we were pretty sure we were safe
+ hiding with Pera.
+ Ruth got born, delivered by a midwife that Pera hid and Victor bullied
+ into helping.
+ And then suddenly Emily and Thea wanted babies too, like it's contagious.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But not Kim, or Pera,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Quil was out of the question; his imprint was seven years old.
+ And human.
+ Mama had explained to me how this was supposedly not something to be concerned
+ about, and I 
+\emph on
+did
+\emph default
+ believe her, but it would have been more convincing if Quil had an actual
+ girlfriend in addition to his imprint, which he apparently didn't.
+ His options 
+\emph on
+were
+\emph default
+ nonexistent, though, under the circumstances.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, not them,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was basically raised by the whole pack, but Kim did more than anybody
+ else.
+ So she either hated the experience and never wants to be a mom for real,
+\begin_inset Quotes erd
+\end_inset
+
+ he said with a self-deprecating smirk, 
+\begin_inset Quotes eld
+\end_inset
+
+or I was such a fantastic child that she thinks no human baby could ever
+ compare and she'd be inevitably disappointed.
+\begin_inset Quotes erd
+\end_inset
+
+ I laughed, and he added, 
+\begin_inset Quotes eld
+\end_inset
+
+I think Pera might want kids, but there's no good way to tell if that'd
+ interfere with her witchcraft, and, well, having a kid is a little dangerous.
+ Maureen and the others can take the chance for themselves, but we'd all
+ be in serious trouble if Pera were in a bad way.
+ I mean, if she were even just laid up for a couple of weeks, there goes
+ our inconspicuous theft.
+ I haven't actually talked to her about it, but that's what I think's going
+ on.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's sad,
+\begin_inset Quotes erd
+\end_inset
+
+ I said quietly.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We rely on Pera a 
+\emph on
+lot
+\emph default
+, and it's sort of hard on her.
+ She never unhides, either.
+ Do me a favor and be her friend, at least till we get to New York? You're
+ the only new person she's met in a long time.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll try, but -- why doesn't she ever unhide?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mmm...
+ okay, I'll tell you her story since she hates telling it,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So Pera's nineteen years old and hanging out in Mexico, living her life,
+ practicing witchcraft in her spare time, right? And this vampire lady finds
+ her and says `nice to meet you, I'm Del, I'm a vampire, I can copy powers,
+ would you object terribly if I copied yours because it's new and interesting?'
+ Pera never met a vampire before that, she didn't know what to think, but
+ she let Del copy her power and they hung out and were basically friends
+ for a few weeks.
+ Del's actually the one who helped Pera be as skilled a witch as she is
+ now.
+ They practiced together and bounced ideas off each other and stuff.
+ Before Pera met Del she could only hide herself, not other people and certainly
+ not objects.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Del was the friend who betrayed her?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right in one.
+ Del got bored after a few weeks of being friends with Pera, and left, and
+ Pera went back to hanging out in Mexico and living her life etcetera.
+ And then skip forward six years, Pera's twenty-five and still hanging out
+ in Mexico, and who should come knocking but Del.
+ Pera 
+\emph on
+trusted
+\emph default
+ Del.
+ But as soon as she let Del touch her to copy the power again, Del's like
+ `gotcha, I work for the Volturi now and I'm taking you to them so they
+ can brainwash you and turn you into a vampire.' And since they had the same
+ power then, Pera couldn't just hide to get away.
+ She's human; without the hiding advantage she couldn't do anything Del
+ didn't let her do.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So Del brought her back to Volterra, and Pera wasn't bothering to hide since
+ it wouldn't help, so Brady could see her,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Del did the whole supervillain-reciting-the-evil-plot thing on the way to
+ Italy from Mexico.
+ So Pera knew about the wolves and she was able to react pretty fast once
+ Brady started giving her 
+\emph on
+imprint face
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Imprint face?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll see it when you see a wolf and his imprint together.
+ It's pretty distinctive.
+ It's this look they get in their eyes, really focused and intense and tender.
+ Says, 
+\emph on
+you are the center of the universe and I worship the ground you walk on
+ and your wish is my command and I will defend you with my life
+\emph default
+.
+ It'd be corny if they weren't so 
+\emph on
+sincere
+\emph default
+ about it.
+ I'd compare it to vampire mates, but I do remember my parents, and they
+ didn't 
+\emph on
+stare
+\emph default
+ at each other like that.
+ So either it's different basic stuff, or vampires just don't have the face
+ to go with it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Huh.
+ So Brady gave her `imprint face', and then -- let me guess.
+ She told him she wanted out, and he defected packs and she hid him and
+ he was able to clobber Del well enough that they could get out?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Close.
+ Everybody was unhidden at the time, Pera told Brady what she wanted, and
+ he threw Del 
+\emph on
+at
+\emph default
+ another vampire.
+ Her copying thing is involuntary -- whenever she touches a witch, she gets
+ their power, she doesn't have to do it on purpose,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It was still really lucky that he was able to catch her off guard, though.
+ So she lost Pera's power and got someone else's, and before she could get
+ it back, Pera hid herself and Brady.
+ Del couldn't touch Pera to steal her power again, so the rest of the trip
+ to join up with the pack was pretty simple.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was? It doesn't seem like it would be,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Demetri could tell where they were -- even if the Volturi couldn't directly
+ capture them, couldn't they down their plane or sink their boat or whatever?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They didn't think of that until they'd already snuck onto a plane,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, 
+\begin_inset Quotes eld
+\end_inset
+
+and it landed okay and the pack was there to meet them and get hid too.
+ We think the Volturi were hoping to find some way to get Pera still, and
+ didn't want to kill her.
+ Since then they've tried a few times to do us in that way -- they set trees
+ near us on fire and stuff.
+ But we've always been able to get to safety in time.
+ Wolves are fast.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+That made sense.
+ The Volturi put up with my aunt Alice not working for them for a long time,
+ because they thought eventually they could get her to change her mind.
+ When that didn't work, they killed her.
+ But Pera was able to keep herself and the whole pack pretty safe.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is Pera the only witch in the pack?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Unless one of the midgets grows up and learns to shoot lasers out of his
+ or her eyes, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Far as I know there are no witch wolves, and the imprints are all basic
+ humans, and I'm the least interesting half-vampire you'll ever meet.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There are only six of us,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You could still be very interesting.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, there might be a whole colony of half-vampires in Bermuda or something
+ and we wouldn't know, right?
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But if they're there, I guarantee you, every one of them is more interesting
+ than me.
+ Fascinating bunch, the hypothetical Bermudan half-vampires.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I giggled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Where do I fall in this interestingness spectrum?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm interested,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Come on, I've been telling you the ins and outs of everything to do with
+ my dull and boring self and social circle, you tell me something.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I wanted to.
+ I 
+\emph on
+really
+\emph default
+ wanted to.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama says that powers depend on and interact with how their witches think
+ about them.
+ In a way, Mama's power and my power and Daddy's are all opposites of each
+ other.
+ Mama keeps her mind to herself, and that's how she likes it.
+ Daddy could read everybody else's (except Mama's).
+ 
+\end_layout
+
+\begin_layout Standard
+I can share mine.
+ I 
+\emph on
+want
+\emph default
+ to.
+ 
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+want
+\emph default
+ to tell everybody I meet everything.
+ I want everybody to know who I am and what I'm like.
+ When I was really little, I could sort of do that.
+ I could show my family memories, and later I learned to attach feelings,
+ and a couple of months later I could show them things I'd only imagined.
+ I still had to be discreet with the neighbors, but at least there were
+ a few people I didn't have to keep secrets from.
+ It seemed to plateau there.
+ 
+\end_layout
+
+\begin_layout Standard
+I think the only reason my power got any better after that was because Mama
+ picked me up and suddenly I had only one person I could be totally honest
+ with.
+ My power sometimes seems like a second person living in my head, and that
+ second person wants to talk to more people, tell them more things, hide
+ less, share more, misdirect less.
+ It's like it was throwing variations of itself at me, hoping to find something
+ I could use with people besides Mama safely.
+ 
+\end_layout
+
+\begin_layout Standard
+I plateaued again when I was four, and got the hang of letting my power
+ pick my words so people wouldn't misunderstand me.
+ That's something I can use with anyone.
+ Have to, actually, unless I lie outright.
+ But it still doesn't cooperate all that much when I'm holding back or using
+ a nickname or leaving things out.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh -- sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm trying to think of -- of what to tell you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Take your time,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, sounding amused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's such a weighty question, after all.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Why 
+\emph on
+shouldn't
+\emph default
+ I tell him everything? Pera could hide him from the Volturi.
+ He didn't want to hurt me.
+ He was friendly and helpful and nice and the only person of my own species
+ I'd ever met.
+ Why 
+\emph on
+shouldn't
+\emph default
+ I just reach over and put my hand on his face and let him have it and not
+ be cooped up inside myself? I wouldn't see Mama again until I got to New
+ York or even longer if I got there first, she was always my outlet for
+ this but she wasn't 
+\emph on
+there
+\emph default
+...
+ 
+\end_layout
+
+\begin_layout Standard
+The second person in my head was kicking and screaming and demanding attention.
+ 
+\emph on
+I want to talk to someone
+\emph default
+, I could imagine her wailing.
+ 
+\emph on
+I'm so lonely.
+ It doesn't count if you do it with words, I want to 
+\emph default
+show
+\emph on
+ things to someone, I want to do it 
+\emph default
+right.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm a witch,
+\begin_inset Quotes erd
+\end_inset
+
+ I said softly after a lengthy silence.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah? What kind?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This kind,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and I touched his cheek.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Cody wasn't used to it like Mama was.
+ He hadn't spent a solid month watching every memory of my early life go
+ by like she had when she was catching up.
+ He hadn't watched all of my dreams for the past five years.
+ He didn't have quite a vampire's processing speed.
+ 
+\end_layout
+
+\begin_layout Standard
+I tried to start gently, not dropping him into the middle of my life without
+ explanation.
+ I offered up stuff I can remember from when I was a baby.
+ That isn't a secret from anyone, really.
+ So sharing it 
+\emph on
+might
+\emph default
+ have suffered the same limitations as when I did something sneaky like
+ going by `Anna', which is part of my real name but not all of it.
+ But it didn't, I could feel it.
+ I wasn't holding back, I was just starting at the beginning.
+ I'd pretty much decided that I wasn't going to hide from Cody, even if
+ Mama wouldn't have approved.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Wow
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody gasped.
+ I almost pulled my hand away, afraid I'd upset him somehow, and the second
+ person in my head merrily sent that concern to Cody too.
+ He put his own hand up to hold mine in place.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not saying to stop,
+\begin_inset Quotes erd
+\end_inset
+
+ he managed, 
+\begin_inset Quotes eld
+\end_inset
+
+just wow.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I could slow down,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+if you need me to.
+ Or tone it down a little
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This is fine...
+ This is 
+\emph on
+amazing
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stop me if you need to,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I haven't done this exactly this way before.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I -- don't even know what you're doing,
+\begin_inset Quotes erd
+\end_inset
+
+ he admitted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Showing you the abridged story of my life.
+\begin_inset Quotes erd
+\end_inset
+
+ Mama hadn't wanted the abridged version, when she'd found me.
+ She'd wanted every single waking second, all its detail intact.
+ It had taken as long to share it with her as it had to live through, but
+ there was less to see then and we spread it out.
+ I didn't expect to be transmitting to Cody for the next five and a half
+ years, though, so I was letting my power decide what it most urgently wanted
+ me to share.
+ It was fast-forwarding, compressing similar moments into summaries, glossing
+ over repetitive bits as needed.
+ 
+\end_layout
+
+\begin_layout Standard
+Even so, it was averaging ten minutes per day I recounted.
+ By the time I'd gotten to the part where I was on the plane to Alaska from
+ my birthplace, the sun had gotten quite a bit higher in the sky.
+ Cody's stomach grumbled loudly.
+ 
+\end_layout
+
+\begin_layout Standard
+I let my arm fall to my side, and he let out a little breath as though he'd
+ been holding it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You didn't eat anything,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I was pretty hungry too.
+ My popcorn and granola bar had only taken the edge off.
+ Solid food isn't as satisfying as blood, weight for weight, and I hadn't
+ had much.
+ 
+\end_layout
+
+\begin_layout Standard
+He shook his head a little, to clear it more than to communicate.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+is true.
+ Not that I couldn't have forgotten about it for another couple hours to
+ keep watching -- and hearing and whatnot.
+ You're obviously the 
+\emph on
+most
+\emph default
+ interesting half-vampire I'll ever meet.
+ Wow.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I grinned, thrilled at having gotten to finally let my power do what it
+ was supposed to do and at getting such an appreciative reception.
+ I wished I could purr.
+ I didn't have the same vocal equipment as a vampire, and couldn't, but
+ it would have been so appropriate.
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+I guess we should probably hunt, huh?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Guess so,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, but neither of us moved.
+ 
+\end_layout
+
+\begin_layout Standard
+We stood there, alone together in the forest, and then suddenly Cody leaned
+ forward and kissed me right on the mouth.
+ 
+\end_layout
+
+\begin_layout Standard
+It was a swift, impulsive thing, and he seemed to change his mind three-quarters
+ of the way through, because he pulled back with a sheepish look on his
+ face and mumbled, 
+\begin_inset Quotes eld
+\end_inset
+
+It seemed called for.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It...
+ it did?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, not sure what to make of the kiss at all.
+ I wasn't sure if I should be thinking 
+\emph on
+ha, a boy kissed me and Mama's not here to say he can't!
+\emph default
+ or 
+\emph on
+where did that come from?
+\emph default
+, or maybe just a nice all-purpose 
+\emph on
+\noun on
+aaaaaaaah
+\noun default
+!
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ I'm...
+\begin_inset Quotes erd
+\end_inset
+
+ It sounded like he was about to say he was sorry, and then decided that
+ would be off-putting or untrue.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I won't do it again if you don't want.
+ It just...
+ seemed to make sense.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I -- I -- I should probably have warned you before I
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I motioned with the hand I'd used to send him memories.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It can make people think they know me better than they do, even if I'm not
+ using it at full strength.
+ People like me more than they have reason to, and
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cody shook his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I liked you before that.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, there 
+\emph on
+is
+\emph default
+ no before that,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I'm talking, I'm either lying through my teeth or there's at least some
+ of 
+\emph on
+that
+\emph default
+.
+ Sometimes I even feel it if I'm just...
+ making facial expressions, or something, but it's harder to keep track
+ of then.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+that
+\emph default
+ is part of the 
+\emph on
+you
+\emph default
+ I like, isn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ Then I decided to kiss him.
+ 
+\end_layout
+
+\begin_layout Standard
+I was not 
+\emph on
+quite
+\emph default
+ so quick about it, but I did break away soon.
+ I was awfully hungry.
+ Cody had a big, goofy grin on his face when I pulled back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let's hunt,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, vaguely aware that I was smiling in a probably-silly way too.
+ 
+\end_layout
+
+\begin_layout Standard
+We took down a pair of deer and drank up.
+ We split the meat from his kill, since the wolves couldn't eat anything
+ with his venom in it.
+ My deer they could eat, since I was venom-free, and a couple of the wolves
+ had a taste for raw meat.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Darren especially,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's gone as long as a week at a time without eating anything we got from
+ a store.
+ I'm not sure if that's because he actually likes eating deer for breakfast,
+ lunch, and dinner, or if he's just especially guilty about all the stealing,
+ but he'll probably call dibs on the food.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fine by me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I made to sling the deer over my shoulders, but Cody picked it up first.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I got it,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, grinning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm surprised enough that you managed to get fed without messing up your
+ hair; carrying a deer on your back all that way would definitely break
+ your hot streak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I tossed my hair; heavy waves of it flounced into the air and drifted back
+ down.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's probably full of snarls.
+ You just can't tell because it's so wavy to begin with that it all looks
+ like part of the normal texture.
+ It's really annoying, actually.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you don't like it, why don't you cut it?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, adjusting the deer and striking out for camp with me at his heels.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not that I advocate the plan.
+ Even if it's really full of snarls it's pretty awesome hair.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I was momentarily paralyzed by the question.
+ Yeah, I'd decided to tell him everything and damn Mama's rules -- but if
+ I brought up Mama when I wasn't ready to have a couple hours of conversation
+ and show-and-tell about her, it would be really awkward; he thought she
+ was dead, after all.
+ Would he mind very much if I saved it for later? Could my power put up
+ with a few more incomplete weasel-sentences after having been promised
+ honesty? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My hair is like my daddy's,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ It felt normal for a true but partial statement.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, you could keep it in a braid or something if it gets in your way,
+ even if you don't want to cut it.
+ I braid my hair sometimes and it's only a little past my shoulders,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sometimes I do,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied.
+ Mama actually braided my hair for me more days than not.
+ But when we went to a town we planned to stay in for a while, I always
+ started presenting myself with my hair down and then changed a few days
+ later.
+ Over a month 
+\emph on
+I
+\emph default
+ don't grow noticeably too much, anymore, but my hair does; switching styles
+ a few times makes that less obvious, or at least Mama thinks so.
+ That's why I had my hair down, two days after coming to Kora's town.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I'm not good at braiding my own hair because I can't see what I'm doing.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bet you Kim'll braid it for you if you ask,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Everybody's probably awake by now.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That would be nice of her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We jogged back to the cluster of tents, where indeed everyone seemed to
+ be up and it looked like the three unhidden wolves had returned.
+ Cody said, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, all, this is the lovely Elspeth Cullen, world's most interesting half-vampi
+re.
+ Elspeth, let me connect some names to faces for you...
+\begin_inset Quotes erd
+\end_inset
+
+ He pointed at the nearest woman, the only white person in the place besides
+ me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's Thea.
+ Staring at her is Darren -- hey, man, want this deer? Certified free of
+ vampire juice, here you go -- and spitting up on her shoulder is their
+ little Noah.
+ Sam and Emily are over by the rock, trying to get Paige to say `dada'.
+ You saw Quil, but he was furrier at the time; that's Claire sitting on
+ his shoulders pretending he's a spaceship.
+ Victor and Maureen are chasing Ruth over there, and looks like Kim is holding
+ Natalie for them, and Jared is the one next to her tying his shoes -- I
+ guess they just got back, or he forgot to put on shoes again.
+ Zachary's there with Brady and Pera, boring them with...
+ Zach, dude, are you seriously talking 
+\emph on
+again
+\emph default
+ about football? When did you even see a game to talk about? And last, but
+ not least given that he's Alpha and everything, is Jacob Black, head of
+ the pack...
+ Jake? Jake, what's...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I caught up to Cody's introductions, looking at and memorizing each face,
+ and finally looked at Jacob.
+ Like all the wolves, he was a big guy -- six foot seven, at a guess, and
+ made of muscle, and looked twenty-five even though I knew he was really
+ at least four years short of that.
+ It was subtle, but everyone oriented themselves around him: he was clearly
+ in charge, and the pack, wolves in particular, were ready to drop what
+ they were doing and obey him if he said 
+\emph on
+jump
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob wasn't giving any orders, though.
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob was staring at me.
+ 
+\end_layout
+
+\begin_layout Standard
+With a look that said, 
+\emph on
+you are the center of the universe and I worship the ground you walk on
+ and your wish is my command and I will defend you with my life
+\emph default
+.
+\end_layout
+
+\end_body
+\end_document

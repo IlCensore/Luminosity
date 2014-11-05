@@ -1,0 +1,1663 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Guesser
+\end_layout
+
+\begin_layout Standard
+Jacob lit up to rival the sun when he saw me step back into the circle of
+ tents.
+ He didn't get up from where he was sitting, or try to usher me closer.
+ Apparently he was settled on a strategy of letting his skittish imprint
+ settle down alone.
+ I felt his eyes on me, though, while I drifted towards Kim.
+ She was finishing an angled French braid in Pera's hair.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hullo, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ Kim said to me gently when she'd finished putting the tie in place around
+ the end of Pera's plait.
+ Pera wandered towards where the food was kept and took a bottle of juice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want me to do your hair, too?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Kim.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you wouldn't mind,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't reach well enough to brush it properly on my own, even, let alone
+ braid it...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ Kim said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You just stand there and I'll look after it, all right?
+\begin_inset Quotes erd
+\end_inset
+
+ She started carefully brushing out the ends of my hair and working her
+ way up.
+ 
+\end_layout
+
+\begin_layout Standard
+It was soothing, mostly.
+ Kim isn't Mama, but Mama's not the only person who ever does my hair, either.
+ Grandma Esme used to sometimes, and Aunt Rosalie, and occasionally humans
+ like Kora's mother do too.
+ So it wasn't too strange to let Kim tease the tangles out and twist strands
+ into a thick, orderly rope.
+ I closed my eyes and thought of nothing.
+ 
+\end_layout
+
+\begin_layout Standard
+I have a lot of hair, and braiding it takes a long time, especially for
+ a human.
+ Thinking of nothing had just begun to become itchily boring when Kim snapped
+ an elastic around the end of my braid and said, 
+\begin_inset Quotes eld
+\end_inset
+
+There you are, then, Elspeth.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said politely, opening my eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob hadn't moved an inch from where he'd been when I showed up.
+ I wasn't sure if he'd even blinked.
+ He was just gazing at me, steadily and with a faintly awed smile on his
+ face.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned away, and cast about for something else to do.
+ I considered the bag of munchies, but I wasn't really 
+\emph on
+hungry
+\emph default
+, only 
+\emph on
+bottomless
+\emph default
+.
+ There were conversations going on around the camp.
+ I listened, trying to see if any of them were such that I might join.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Daphne's probably old enough to activate now,
+\begin_inset Quotes erd
+\end_inset
+
+ Zachary said wistfully to Quil.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe she's friends with Brooke,
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Quil, sounding sad.
+ I wasn't sure who they were talking about, exactly, but my best guess was
+ relatives of theirs the Volturi had kidnapped for possessing the werewolf
+ gene.
+ I didn't want to intrude on that converstion.
+ 
+\end_layout
+
+\begin_layout Standard
+It hit me, not for the first time, but a little deeper: everyone in the
+ pack was 
+\emph on
+damaged
+\emph default
+.
+ I'm used to Mama being damaged.
+ Technically I lost someone too.
+ But I've only got a few days' worth of memories of Daddy.
+ I don't think of him very often, since Mama ran out of stories to tell.
+ It doesn't exactly 
+\emph on
+hurt
+\emph default
+ for him to be gone (or not often, anyway).
+ But any of the wolves could have relatives in Volterra, in magically enforced
+ service to their natural enemies.
+ Any of the wolves 
+\emph on
+or
+\emph default
+ imprints would be bereaved, or had simply been torn from family back home
+ when evacuated.
+ 
+\end_layout
+
+\begin_layout Standard
+The four babies weren't really damaged the same way, I thought, but the
+ way the pack lived was certainly an 
+\emph on
+odd
+\emph default
+ place to bring up a child.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody turned out okay, though.
+ 
+\end_layout
+
+\begin_layout Standard
+I listened for other, safer conversations.
+ Emily was attempting to interest Claire in a book which Claire thought
+ had 
+\begin_inset Quotes eld
+\end_inset
+
+not enough pictures
+\begin_inset Quotes eld
+\end_inset
+
+, while Sam held Paige and looked on.
+ Maureen was nursing Natalie and telling a raptly attentive Victor about
+ what she wanted to do the next time the pack stopped in a town; Ruth played
+ with a battered teddy bear at her feet.
+ Thea was chasing her little Noah between the trees.
+ 
+\end_layout
+
+\begin_layout Standard
+Brady and Pera had stolen off a ways for a little privacy, but I could just
+ spot them kissing.
+ I did some mental math and realized that Brady would have been 
+\emph on
+thirteen
+\emph default
+ when he imprinted on her, and she'd have been twenty-five at the time.
+ That seemed nearly as questionable as Quil and Claire, for all that Brady
+ had been the one to do the imprinting.
+ Perhaps the kissing part was a recent development.
+ 
+\end_layout
+
+\begin_layout Standard
+I scrunched my eyes shut for a moment, and tilted my head back to look at
+ the sky.
+ Eventually I grabbed an empty lawn chair and sat next to Kim.
+ The pack sure had a lot of stuff.
+ I supposed that they didn't need to move too fast anymore, and the wolves
+ would be able to carry plenty as long as they could go at a sedate pace.
+ How long would it take me to get to New York, if I stuck with them? Maybe
+ we could sneak onto a train or something.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Kim said conversationally, 
+\begin_inset Quotes eld
+\end_inset
+
+So I hear Bella is alive after all, but Cody didn't explain in any detail.
+ Will you tell me the story?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll show you, if you like,
+\begin_inset Quotes erd
+\end_inset
+
+ I offered, and she nodded, curious.
+ When I'd done that, and Kim had exclaimed over how remarkable it was, Maureen
+ shoved by to demand a look at my witchcraft too.
+ Soon I had a double line of wolves, imprints, and Cody, one line for each
+ hand, who wanted to see what I had to show them.
+ I rotated through them all with the summary of my explanation of Mama's
+ survival, and when no one wanted to be done with the show, I shared things
+ almost at random.
+ It was delicious, to have an audience and no secrets to keep.
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob didn't join either line, although he half-stood once when it was clear
+ that everybody except the babies was lining up.
+ Then he changed his mind and sat back down.
+ Waiting for me to come to him, I supposed, even though I was letting every
+ person in the pack have a look and it wasn't really a 
+\emph on
+special
+\emph default
+ thing.
+ 
+\end_layout
+
+\begin_layout Standard
+Even when he had sat back down, he had that faint, happy look on his face.
+ 
+\emph on
+She's here, she exists, that's enough
+\emph default
+, was my guess as to what the smile meant -- but my guess wasn't necessarily
+ any good.
+ I didn't know him.
+ 
+\end_layout
+
+\begin_layout Standard
+I would probably need to talk to him eventually, about going to New York.
+ He 
+\emph on
+was
+\emph default
+ in charge, after all.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This memory is in Chinese,
+\begin_inset Quotes erd
+\end_inset
+
+ complained Thea, occupying my left hand.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't understand it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's Swedish,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, pausing the display.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What we're saying isn't important, I'm just showing the scenery.
+ It's a pretty sunrise.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I don't understand it,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ Jared, standing at my other hand, rolled his eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I could leave out the sound, if you want,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm fast-forwarding and the conversation was already too fast for a human
+ to follow, anyway.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Make it in English,
+\begin_inset Quotes erd
+\end_inset
+
+ Thea insisted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ hang on a sec,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, dropping my hands and thinking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I haven't tried to translate a memory before.
+ I might be able to do it but I have to think.
+\begin_inset Quotes erd
+\end_inset
+
+ It seemed like it should be possible.
+ I'm all about making myself understood, after all: Thea can't understand
+ Swedish, so I should be able to send her non-Swedish if I'm really doing
+ what I think I am.
+ Something like the way I summarized, when I showed Cody an abridged autobiograp
+hy earlier...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Okay, I'll try,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I put my fingertips back where they'd been and rewound the sunrise conversation.
+ 
+\end_layout
+
+\begin_layout Standard
+It wasn't all that interesting, only Mama telling me about what she'd been
+ doing between nearly getting killed and running into Uncle Jasper.
+ (Mama wavers on whether she wants me to think of him as an uncle or not,
+ but I usually do.) She'd been doing such dull things that she could talk
+ about it in the incomplete Swedish she had, so it had been an opportunity
+ for me to practice.
+ I didn't 
+\emph on
+translate
+\emph default
+, exactly, not into English, but I sent the meanings of our words along
+ with the senses and the feelings that were already attached to the memory.
+ Thea seemed satisfied.
+ 
+\end_layout
+
+\begin_layout Standard
+I was a very new and shiny amusement for the pack.
+ They kept me occupied showing random things all morning and into the afternoon,
+ and at last Emily wanted to know if I could teach languages that way.
+ Everyone else drifted off to other activities.
+ I fiddled around for a couple of hours, holding my palm to her cheek while
+ she reported on my effectiveness patiently.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know if this is getting me through the material any 
+\emph on
+faster
+\emph default
+ than drilling with Pera does,
+\begin_inset Quotes erd
+\end_inset
+
+ mused Emily, while most of the pack were rummaging through the food supply
+ for dinner, 
+\begin_inset Quotes eld
+\end_inset
+
+but it seems like it'll 
+\emph on
+stick
+\emph default
+ better.
+ Everything you send is so vivid and...
+ and it feels 
+\emph on
+true
+\emph default
+, but I don't know how much sense that makes for vocabulary words...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know what you're talking about,
+\begin_inset Quotes erd
+\end_inset
+
+ I assured her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's harder to forget things you really believe.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Emily nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're a charming girl,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jacob...
+\begin_inset Quotes erd
+\end_inset
+
+ She trailed off, and eyed me uncertainly.
+ Maybe she'd been about to say something like 
+\emph on
+is lucky to have you
+\emph default
+ or 
+\emph on
+chose well
+\emph default
+ (as though he 
+\emph on
+chose
+\emph default
+).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nothing,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you go to bed as early as Cody does? We'll need to...
+ figure out some sleeping arrangement, before you need sleep.
+ We don't have an extra tent, so there will have to be some squeezing.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm usually asleep an hour or two after sunset.
+\begin_inset Quotes erd
+\end_inset
+
+ I counted seven tents, which looked like they'd hold two or three people,
+ maybe four small people.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How are you arranged now?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All the pairs together, parents share with our children, and Jacob and Zachary
+ and Cody are tripled up in the green one,
+\begin_inset Quotes erd
+\end_inset
+
+ Emily said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Perhaps Jacob will put Jared on night watch -- we need someone looking out
+ for things like fire or other attacks that can still harm us even while
+ we're hidden, before Cody wakes up and takes over by default,
+\begin_inset Quotes erd
+\end_inset
+
+ she explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you could share with Kim.
+ That wouldn't be too crowded, at least.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That sounds fine,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't look like rain, though, so I could just sleep outside...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nonsense,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emily briskly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's about Jared's turn anyway.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+She couldn't 
+\emph on
+possibly
+\emph default
+ have missed the subtext that I 
+\emph on
+prefer
+\emph default
+ not to sleep in a tent with a non-Mama person, so I shrugged, supposing
+ she had some reason to insist.
+ If I were in a sleeping bag then I probably wouldn't disturb Kim with dream
+ leakage.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll want to ask Jacob about the watch schedule, before you need to go
+ to sleep, though,
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Emily.
+ 
+\emph on
+That
+\emph default
+ would explain why she wanted me in a tent, if she thought I ought to talk
+ to him.
+ 
+\end_layout
+
+\begin_layout Standard
+She wasn't being even slightly subtle, so I went ahead and said, 
+\begin_inset Quotes eld
+\end_inset
+
+There isn't a reason I have to check that myself.
+ You only want me to talk to Jacob.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Emily sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't understand why you aren't.
+ What's stopping you?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ I don't know what to say to him.
+ He could have gotten in the line,
+\begin_inset Quotes erd
+\end_inset
+
+ I said defensively.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's giving you space because you are so 
+\emph on
+obviously
+\emph default
+ terrified of him,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you have no reason to be.
+ You know he won't do you any harm.
+ There's nothing standing in your way.
+\begin_inset Quotes erd
+\end_inset
+
+ She reached her arm behind her, and Sam was suddenly at her shoulder as
+ though summoned by the gesture.
+ She touched his hand, patted it twice, and I looked up and watched him
+ bend to kiss her hairline.
+ Emily put her arm down, and Sam left, just about glowing with satisfaction
+ as he plucked Paige from where she'd been resting in Kim's arms.
+ 
+\end_layout
+
+\begin_layout Standard
+In a low voice, Emily said, 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't understand, at first, what I had -- what Sam gave me.
+ I only thought that he had betrayed Leah.
+ For weeks, I thought I was somehow being loyal to her, by hurting him.
+ If I had your power, I would show you how much I regret it.
+ Sam forgives me, of course.
+ But I did hurt him.
+ Jacob doesn't deserve to be hurt, Elspeth.
+\begin_inset Quotes erd
+\end_inset
+
+ And her eyes said, 
+\emph on
+Please don't ruin our community by rejecting our leader.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I cringed, and glanced over to Jacob.
+ He was still looking my way -- but when my face turned towards his, the
+ faint smile disappeared and he snapped his eyes to Emily.
+ He frowned at her, looking disappointed in her conduct.
+ 
+\end_layout
+
+\begin_layout Standard
+Oh, of course.
+ He was too far off to hear a quiet conversation, but guilt would be all
+ over my face, announced by magic if nothing else.
+ Jacob would not approve of Emily making me feel bad, even on his behalf.
+ 
+\end_layout
+
+\begin_layout Standard
+Emily looked at Jacob and pursed her lips, then tossed her hair and got
+ up to join Sam and their daughter where they stood without another word
+ to me.
+ 
+\end_layout
+
+\begin_layout Standard
+I sat, tucked in towards myself as much as I could be without actually curling
+ into a ball.
+ 
+\end_layout
+
+\begin_layout Standard
+I heard quiet voices, just too soft for me to hear, and then someone tapped
+ me on the shoulder.
+ I looked up, and it was Cody, avoiding eye contact.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jacob wants to know,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+if there's anything that I or anybody can do to make you feel better.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I just want to go to New York and find Mama,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll let him know,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can take your time.
+ It's okay.
+\begin_inset Quotes erd
+\end_inset
+
+ He sighed, and went over to Jacob.
+ 
+\end_layout
+
+\begin_layout Standard
+Maureen brought me one of her daughters (Ruth, the older one) and said that
+ if I had nothing to do I could talk to her in Spanish.
+ That kept me occupied until Ruth asked how to say 
+\begin_inset Quotes eld
+\end_inset
+
+mother
+\begin_inset Quotes eld
+\end_inset
+
+, and then yelled 
+\begin_inset Quotes eld
+\end_inset
+
+Madre, Madre!
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Maureen didn't understand that, until Pera tapped her on the arm and sent
+ her to pick Ruth back up.
+ 
+\end_layout
+
+\begin_layout Standard
+When the sun set, Cody went to bed first thing.
+ Jared was put on night watch once others started drifting to their tents,
+ and Kim told me so and invited me to sleep in her tent, but I said I would
+ prefer to sleep under the stars.
+ She gave me a sleeping bag and a pillow and I found a mossy spot, far off
+ from the conversations of people who could and did stay up later than me.
+ 
+\end_layout
+
+\begin_layout Standard
+I tossed and turned, and finally slept, to have my first night full of dreams
+ that no one could see.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I woke up the next morning to darkness and quiet.
+ But I wasn't the only one awake -- I could see Cody, who'd apparently already
+ sent Jared to bed.
+ He was pacing.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Cody?
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered, sitting up.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, morning, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, also quiet enough to leave the sleepers asleep.
+ He paused midstride and pivoted to look my way, though it looked like he
+ was focusing on something over my left shoulder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sleep all right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fine,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and it was close enough.
+ I wasn't physically uncomfortable, at least.
+ I tried to grasp at the fading threads of dreams, but they wouldn't stick.
+ That night's worth was lost, then, and I couldn't even tell Mama about
+ them later.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're breaking camp to start for New York today,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody told me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm glad.
+\begin_inset Quotes erd
+\end_inset
+
+ I climbed out of my sleeping bag and rolled it up into its case.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How long have you been up?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Couple hours.
+ Do you s'pose Joham's kids have this kind of weird sleep schedule? Early
+ to bed, early to rise, to the point of absurdity?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked idly, but he sounded distracted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That wasn't one of the things my parents asked Nahuel when they visited
+ him, or Mama would have told me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I suppose it varies, anyway, I seem to be a few hours ahead of you.
+\begin_inset Quotes erd
+\end_inset
+
+ He scratched the back of his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Want to hunt?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You haven't already?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, surprised.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I'm hungry.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We hunted together in silence.
+ Sticking close to camp for night watch purposes, we found no large game,
+ and instead consumed rabbits and half a flock of crows between us.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The early bird gets eaten by the early half-vampires,
+\begin_inset Quotes erd
+\end_inset
+
+ he remarked offhand, plucking a wayward feather out of his hair.
+ He didn't seem to have much attention on our surroundings.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded at the comment on the birds, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Are you okay?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\end_layout
+
+\begin_layout Standard
+I peered at him, and he shrugged and jogged back to the tents.
+ I followed, but slowly.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+No one else woke up for the next hour and a half.
+ In that time I tried to work out on my own what might be bothering Cody,
+ because I thought something was, even if he wouldn't tell me.
+ 
+\end_layout
+
+\begin_layout Standard
+Here is how I use my power to learn things about other people.
+ 
+\end_layout
+
+\begin_layout Standard
+It takes a very, very long time.
+ It's completely indirect.
+ There is some guesswork.
+ There are always gaps.
+ I can't just call up my power and point it at someone and learn who they
+ are.
+ 
+\end_layout
+
+\begin_layout Standard
+First, I make a guess about the thing I am trying to learn.
+ Then, I think of something about myself that is like my guess.
+ And then I figure out how I would explain that part of myself to the person,
+ and see if the explanation refers to things about my guess.
+ If it is, then my guess was close to right.
+ 
+\end_layout
+
+\begin_layout Standard
+It's confusing, and it took me a long time to figure out.
+ Here's how it might work.
+ Suppose I go back to Kora's town and find her, and she seems sad.
+ I figure out as much as I can without any magic and I decide that my best
+ guess is that she misses her best friend who is out of town.
+ The closest thing I have to that is when I miss people who I have had to
+ leave behind -- people like Kora.
+ 
+\end_layout
+
+\begin_layout Standard
+So I think about how I would tell her the way I feel about that.
+ If I wanted to say to Kora, 
+\begin_inset Quotes eld
+\end_inset
+
+I miss my old friend Raine as much as you miss your best friend
+\begin_inset Quotes eld
+\end_inset
+
+, then that would mean 
+\emph on
+saying that will make Kora understand something true
+\emph default
+, because that is how my power works.
+ Then I would know that my feelings about Raine and Kora's about her friend
+ are the same.
+ 
+\end_layout
+
+\begin_layout Standard
+But it would 
+\emph on
+not
+\emph default
+ make sense to tell Kora that.
+ I'm never going to see Raine again, and Kora's friend will come home, for
+ one thing.
+ I knew Raine for a much shorter time and we were not as close.
+ And that is the biggest problem with using my power to do this.
+ It only works if I make a correct guess, and I can only make a correct
+ guess if I have something that's sort of like what's going on for the other
+ person.
+ 
+\end_layout
+
+\begin_layout Standard
+That is how I missed what was wrong with Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The others in the pack got up almost in unison, even Jared, who had only
+ had a couple hours of sleep.
+ After they ate breakfast, we packed up all the things in the camp.
+ Zachary showed me how to break down a tent, and how to lash a batch of
+ them to Sam so he could run without dropping anything.
+ 
+\end_layout
+
+\begin_layout Standard
+Zachary also offered to let me ride on his back -- all of the other imprints
+ rode their own respective wolves, but no one suggested that I go with Jacob.
+ I thanked him, but I decided to go on my own feet, like Cody did.
+ I carried a few of the sleeping bags.
+ I need sleep, but it's on a rigid schedule; in the middle of the day I
+ don't get tired no matter what I do.
+ I kept up with the wolves as we ran, listened to imprints shouting conversation
+s at each other over the wind, and took in scenery.
+ Once or twice I came up with new guesses about Cody, but I couldn't verify
+ any of them.
+ 
+\end_layout
+
+\begin_layout Standard
+Since we were hidden, we didn't need to avoid populated places.
+ We ran along the edge of a highway for most of the day, and it did indeed
+ look like the cars were driving themselves; even weighed down with cargo
+ and riders, the pack could keep pace with slower traffic in the right lane,
+ and I went alongside a station wagon for a bit peering in through the window.
+ At noon, we stopped so the wolves could eat without detouring to hunt,
+ and then piled them back up with stuff to carry and moved on again.
+ We were in Illinois by nightfall.
+ 
+\end_layout
+
+\begin_layout Standard
+To my surprise, we didn't stop in an empty place and set up tents.
+ Instead we went into a town, and found a hotel.
+ I asked Cody about it.
+ He seemed to have something else on his mind, but explained, while we waited
+ for someone to open the door so it wouldn't appear to swing wide of its
+ own accord to unhidden people.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We only camp out sometimes,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sometimes we find unoccupied houses, or hotels with empty rooms, and we
+ haunt them a bit.
+ It's nice to have running water, and even if something we do is seen, it
+ would be sort of hard to have the Volturi after us more than they already
+ are.
+ I mean, I guess it's technically possible, we could kill one of their wives
+ or something,
+\begin_inset Quotes erd
+\end_inset
+
+ he mused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But anyway, yeah, we're in a hotel for the night.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do we get into rooms?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pera hides the door, unhides whoever's going in, they walk right through
+ it, she unhides it, and they open it for us from the inside,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Clever,
+\begin_inset Quotes erd
+\end_inset
+
+ I observed, wondering where his jokes had gone.
+ The door to the hotel creaked open, and the pack jostled through it; I
+ was sure that this made the door appear to stick open for an unnaturally
+ long time, but no one was likely to figure it out.
+ 
+\end_layout
+
+\begin_layout Standard
+The hotel had enough empty rooms that I got my own.
+ I helped myself to the running water.
+ And then, before I went to bed, I decided to give up on figuring out Cody,
+ and try my new tool for figuring out myself.
+ 
+\end_layout
+
+\begin_layout Standard
+I sat on the bed, put my hand on my face, and put myself back in the blank
+ place with two of me.
+ I tried the idea of signing at myself, and was very disoriented to find
+ that only one of me did it.
+ 
+\emph on
+Hello
+\emph default
+, that one signed, and I 
+\begin_inset Quotes eld
+\end_inset
+
+saw
+\begin_inset Quotes erd
+\end_inset
+
+ double: the one whose hands were still saw the one who greeted her, and
+ vice-versa, no longer a perfect mirror.
+ 
+\end_layout
+
+\begin_layout Standard
+I put my hand down.
+ That was really 
+\emph on
+weird
+\emph default
+.
+ And if I didn't give my selves names, I was going to get dizzy trying to
+ think of which did which thing.
+ But I didn't know what to call them.
+ Not that I was short of names -- any pair of aliases would have done, or
+ just 
+\begin_inset Quotes eld
+\end_inset
+
+One
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Two
+\begin_inset Quotes erd
+\end_inset
+
+ -- but I didn't know how to tell them apart so names could stick.
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+The one who said hello
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph default
+ and 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+the one who didn't
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ weren't really differentiating features.
+ 
+\end_layout
+
+\begin_layout Standard
+I put the puzzle aside for later, and went to sleep.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth!
+\begin_inset Quotes erd
+\end_inset
+
+ came Sam's urgent voice from outside the room's door.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, are you there?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I sat up and looked at the clock in the room.
+ It was not quite five a.m.
+ Sam was on night watch -- even in a building, there were possible avenues
+ of attack the Volturi could use, or some other reason to move.
+ But if it was an emergency, wouldn't he have forced the door down...? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm here,
+\begin_inset Quotes erd
+\end_inset
+
+ I called, and I hopped out of bed to open the door.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Sam's face was drawn and worried.
+ In the hall behind him, Jacob was pacing, and Pera was looking around groggily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam, 
+\begin_inset Quotes eld
+\end_inset
+
+Cody is gone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

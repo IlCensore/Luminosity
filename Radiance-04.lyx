@@ -1,0 +1,2621 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Leader
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jake, man, don't -- Jake
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Elspeth
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jacob.
+ He said my name like I'd never heard any word spoken, ever, some blend
+ of worship and need and possessiveness.
+ He 
+\emph on
+stated
+\emph default
+ it, like it was a fact all by itself: 
+\emph on
+Elspeth exists, and that is supremely important
+\emph default
+.
+ His eyes were so 
+\emph on
+soft
+\emph default
+, like he was about to cry with happiness.
+ 
+\end_layout
+
+\begin_layout Standard
+I stared back, but my face was less 
+\emph on
+imprint face
+\emph default
+ and more 
+\emph on
+deer in headlights face
+\emph default
+.
+ I didn't know how to react at all.
+ I'd never spoken a word to Jacob in my life, and he was 
+\emph on
+staring
+\emph default
+ at me like...
+ like all of the other wolves looked at their imprints.
+ 
+\end_layout
+
+\begin_layout Standard
+What was this supposed to mean for 
+\emph on
+me
+\emph default
+? I was hidden.
+ I'd stay that way until Pera unhid me.
+ She was in the pack too, she was part of the flow of people around Jacob
+ identifying him as the boss.
+ If 
+\emph on
+he
+\emph default
+ wanted me to stay, would she ever let me go? But I had to go! I could travel
+ with them for a while, but I needed to meet up with Mama! 
+\end_layout
+
+\begin_layout Standard
+And then I wondered about the other women, and little Claire, scattered
+ around the camp and looking at me and Jacob to see what we would do --
+ were they free to go? Pera was, obviously, except that her absence would
+ cost lives; she might not 
+\emph on
+feel
+\emph default
+ free, being so necessary.
+ And Claire was a child (but where were her parents? I remembered she was
+ a Makah; 
+\emph on
+their
+\emph default
+ tribe hadn't been wiped out...) Maureen and Emily were also Makah.
+ Thea's family in Forks, some troop of blondes like her, would probably
+ be alive too.
+ 
+\end_layout
+
+\begin_layout Standard
+I'd never given any of this a second thought when Mama first recited their
+ names for me.
+ We didn't know if Jacob's pack was alive, or if they'd been captured by
+ the Volturi, or 
+\emph on
+what
+\emph default
+.
+ Mama never heard from them again after they left La Push for good.
+ Puzzling over the moral issues of scooping up two-year-old Claire and bolting
+ hadn't been an important task, then.
+ 
+\end_layout
+
+\begin_layout Standard
+I'd fallen in with thieves; had I also fallen in with kidnappers? 
+\end_layout
+
+\begin_layout Standard
+Mama told me that wolves hate to be without their imprints.
+ They can technically do it, if they have to, but they wouldn't choose it.
+ 
+\end_layout
+
+\begin_layout Standard
+But she also told me that wolves care very much about their imprints and
+ will do what they need, be what they need.
+ If anyone there had been kidnapped, it was because they weren't safe at
+ home.
+ So maybe I just needed to explain that I would be quite safe with Mama.
+ 
+\end_layout
+
+\begin_layout Standard
+Would he believe me? We 
+\emph on
+had
+\emph default
+ been attacked by kept wolves...
+ 
+\end_layout
+
+\begin_layout Standard
+My brain was running in circles; I'm not very well designed for thinking
+ things out by myself.
+ Usually I would bring problems to Mama and she would help me.
+ But Mama wasn't there.
+ I didn't know what to do without her.
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob said, 
+\begin_inset Quotes eld
+\end_inset
+
+You look so afraid, please don't be afraid...
+ I'm not going to hurt you, Elspeth...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I spun around and ran.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Nobody chased me immediately, although I heard voices bubbling up and talking
+ over each other the moment it was obvious what I was doing.
+ I didn't go far.
+ I had to be able to find my way back unless I wanted to be the equivalent
+ of a ghost forever, wandering around in the 
+\begin_inset Quotes eld
+\end_inset
+
+hiding place
+\begin_inset Quotes erd
+\end_inset
+
+.
+ But I needed to be by myself for a little bit and tackle the new, terrifying
+ problem of 
+\emph on
+how to make decisions without Mama
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+I look sixteen, I mostly act sixteen, but I'm 
+\emph on
+five
+\emph default
+ -- and a half -- and Mama has always been in charge since she found me
+ and I've never seriously rebelled.
+ I liked kissing Cody but I would never have done it 
+\emph on
+first
+\emph default
+, not without getting Mama to actually change her rule about boys.
+ As soon as I thought of that I was ashamed of having kissed him even 
+\emph on
+second
+\emph default
+.
+ Mama said I had to wait until I was 
+\emph on
+seven
+\emph default
+.
+ I didn't 
+\emph on
+know
+\emph default
+ if she'd make an exception for a boy my own species and my own real age,
+ because she wasn't there to ask.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't know what she'd say about Jacob either.
+ I had 
+\emph on
+no idea
+\emph default
+.
+ It was terrifying.
+ 
+\end_layout
+
+\begin_layout Standard
+It meant I had to decide all alone, or try to get help from people I barely
+ knew who had other interests in the problem besides making me safe.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama likes to talk about priorities.
+ She told me once, 
+\begin_inset Quotes eld
+\end_inset
+
+You can only have one top priority.
+\begin_inset Quotes erd
+\end_inset
+
+ I'm her top priority and that means I can trust her to look out for me
+ no matter what.
+ 
+\emph on
+Anything
+\emph default
+ else she cares about that competes with me being okay will not be addressed
+ until I am okay.
+ 
+\end_layout
+
+\begin_layout Standard
+I don't know a lot about anyone else's priorities.
+ 
+\end_layout
+
+\begin_layout Standard
+I don't even know a lot about 
+\emph on
+mine
+\emph default
+.
+ I never had to.
+ Mama thinks it's important for people to know themselves, what they want
+ and what they have and how they're going to make the first thing happen
+ with the second thing.
+ But I didn't see the need much while I was little and she decided everything.
+ I had what Mama got for me.
+ I wanted 
+\begin_inset Quotes eld
+\end_inset
+
+what was best
+\begin_inset Quotes eld
+\end_inset
+
+, and Mama knew what that was, and she made sure I had it.
+ 
+\end_layout
+
+\begin_layout Standard
+I stood in the forest, staring up at the sky where it peeked through the
+ leaves, and I wished for my mama.
+ 
+\end_layout
+
+\begin_layout Standard
+She would have thought about the problem and then she would have done what
+ needed doing.
+ Whisked me away, or hugged me and petted my hair until I felt better and
+ sent me along to join the pack as Jacob's imprint, or -- or 
+\emph on
+something
+\emph default
+.
+ She might have needed time to ask for more information or mull something
+ over or get me to show her my feelings on the matter, but she would have
+ thought of something and done it.
+ 
+\end_layout
+
+\begin_layout Standard
+The only reason it didn't hit me so hard before was because I have rules
+ about what to do when Mama says to run, all lined up ready to go when I
+ needed them.
+ But then Jacob had to 
+\emph on
+complicate
+\emph default
+ things.
+ How would I get to where I needed to go and take my leave with him being
+ all 
+\emph on
+imprinty
+\emph default
+ at me so I couldn't leave without hurting him, even if he'd let me go?
+ 
+\end_layout
+
+\begin_layout Standard
+I knew it wasn't really his 
+\emph on
+fault
+\emph default
+.
+ Imprinting is involuntary.
+ But it left me with a problem and no Mama there to fix it for me.
+ 
+\end_layout
+
+\begin_layout Standard
+I sat under a tree, still squinting up at the sky.
+ I heard footsteps, and turned to look, expecting Jacob.
+ But it was Cody.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey,
+\begin_inset Quotes erd
+\end_inset
+
+ he said awkwardly, sounding tired.
+ Without the bouncy confidence he'd shown before, and in comparison to all
+ the wolves I'd just seen, he looked thin and small, even though he's two
+ inches taller than me and before I'd have said he was more 
+\emph on
+wiry
+\emph default
+ than 
+\emph on
+skinny
+\emph default
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are...
+ you okay?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody sat down, at a comfortable ninety-degree angle instead of right next
+ to me or facing me directly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want to talk about it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, trying not to cry.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But...
+ but the person I want to talk to isn't here.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you want me to leave you alone?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked tentatively.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hate being alone,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I just -- I had to -- he was 
+\emph on
+staring at me
+\emph default
+ and I didn't know what to do -
+\begin_inset Quotes eld
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Cody nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jake's...
+ a good guy,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I respect the hell out of Jake.
+ Like, if you'd met him before I was born he would have had little devil
+ horns and smoke would have come out of his ears, that's how much hell I
+ respected out of him.
+\begin_inset Quotes erd
+\end_inset
+
+ I laughed in spite of myself.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Who do you want to talk to?
+\begin_inset Quotes erd
+\end_inset
+
+ Cody asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My mama.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh.
+ I'm sorry.
+ Didn't, uh, didn't lift a ouija board the last time we raided a Wal-Mart,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She isn't dead,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, leaning against the tree bark and closing my eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+Cody blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Beg pardon? Brady brought us up to speed on what the Volturi were saying
+ and doing while he was a kept wolf, when he defected.
+ They killed my parents 
+\emph on
+and
+\emph default
+ yours.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't want to talk anymore.
+ Leaving my eyes closed, I held up my hand, offering to show what I was
+ too tired to tell.
+ 
+\end_layout
+
+\begin_layout Standard
+He hesitated, but eventually he took my narrow hand in his broad one.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aunt Rosalie, smiling guiltily as she held me, while Grandpa Carlisle explained
+ that Mama and Daddy had 
+\begin_inset Quotes eld
+\end_inset
+
+gone away
+\begin_inset Quotes erd
+\end_inset
+
+ and would not be back, but that I didn't have to worry and would always
+ be taken care of...
+ 
+\end_layout
+
+\begin_layout Standard
+Walking through the park with the neighbor lady and her son and their dog,
+ leading the dachshund into the trees, smelling something familiar and flowery,
+ walking forward, leaving the animal behind, seeing Mama and knowing that
+ Grandpa was wrong
+\emph on
+...
+ 
+\end_layout
+
+\begin_layout Standard
+Mama explaining why Grandpa had said what he said, explaining about her
+ shield, telling me that this was why I must run
+\emph on
+ without thinking of going back for her if she said to, and I knew without
+ her saying so that she wished Daddy had run when he'd had the chance...
+ 
+\end_layout
+
+\begin_layout Standard
+Mama showing me the bench in Central Park where I should check for her,
+ once every day, until the month was up, if I did have to run; Mama telling
+ me all the phone numbers she had so I would know who to go to for help
+ if she couldn't be there, and the worry on her face when she told me the
+ numbers were old but I should try anyway...
+ 
+\end_layout
+
+\begin_layout Standard
+I let my arm fall and my eyes open.
+ Cody had an absent, almost 
+\emph on
+awed
+\emph default
+ expression.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's alive,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think so,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, anxious.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If it doesn't work twice, or if someone went back to check on her before
+ she could get up and run away...
+ but she's probably alive.
+ That's why I have to go to New York.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you think...
+\begin_inset Quotes erd
+\end_inset
+
+ Then he frowned and shook his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I guess it would only be her, she has the shield.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't be sorry your mom is alive,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, half-smiling.
+ He held up a hand when I opened my mouth to correct him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know that's not what you meant.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm used to her being in charge of everything,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't know what to do without her.
+ I thought it would be...
+ maybe not easy, but straightforward, to just find her again if we did get
+ separated.
+ And then you said the pack could escort me and I thought that way it would
+ be easy, 
+\emph on
+too
+\emph default
+, and now it's not that, and it's not straightforward anymore either.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake's a good guy,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody repeated, slowly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I don't know him.
+ And he doesn't know 
+\emph on
+me
+\emph default
+, either! I've never spoken 
+\emph on
+one word
+\emph default
+ to him, or shown him 
+\emph on
+one
+\emph default
+ thought, or 
+\emph on
+anything
+\emph default
+, and 
+\emph on
+what if he won't let me leave with Mama or even try to find her
+\emph default
+? I 
+\emph on
+need
+\emph default
+ her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Whoa, whoa,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's not -- I don't think he's going to do that.
+ I mean, he'd probably rather if you and your mom 
+\emph on
+both
+\emph default
+ stuck with us, yeah, but -- he wouldn't keep you prisoner.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have any other imprints ever wanted to leave?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ don't think so,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said, frowning.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What would happen if one did? Kim, maybe,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, naming the only adult imprint without a baby or essential witchcraft.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I -- I guess since she's Quileute she probably has no close family left
+ to go home to, but if she wanted to leave anyway?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jared would...
+ he'd want to go with her,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody slowly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He'd want to go wherever she went.
+ But he'd try to convince her to stay, first.
+ They'd be easy pickings alone.
+ You won't have that problem, though, your mom will be with you, she's done
+ fine at keeping you safe this long and the Volturi aren't after you in
+ particular.
+ Probably not even now.
+ Wolves don't see well enough in the dark that the kept ones could have
+ recognized her, and by the time a see-in-the-dark vampire showed up she
+ wasn't...
+ really...
+ recognizeable.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What if...
+ Suppose Pera could hide and unhide people without touching them, from any
+ distance, and 
+\emph on
+she
+\emph default
+ wanted to leave, by herself, and only help remotely.
+ It'd be safe for her to go.
+ Would Brady let her?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ don't...
+\begin_inset Quotes erd
+\end_inset
+
+ Cody was unsettled by the question.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't imagine her doing that.
+ She's happy with Brady.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I pulled my knees up to my chin.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But you think that Jacob imprinting on me won't change anything, and I can
+ still go meet Mama in Central Park and leave with her?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I wouldn't say it doesn't change anything,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody admitted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...I know I keep saying this, but Jake's a good guy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why did you follow me out here, instead of someone else?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uhhh...
+ Jake thought you'd be more comfortable talking to me,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody sheepishly, 
+\begin_inset Quotes eld
+\end_inset
+
+since we were talking before and...
+ since you ran away when you saw him.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does he know that you kissed me?
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was hoping to avoid having to tell him that,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It would be so awkward that auks would go extinct with envy.
+ He'd either be pissed because you're 
+\emph on
+his
+\emph default
+ imprint or disgusted because we're technically five.
+ Or both.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This is too hard,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, burying my face in my knees.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+am
+\emph default
+ five! I'm 
+\emph on
+five
+\emph default
+ and I want Mama to be in charge.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you want,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said, 
+\begin_inset Quotes eld
+\end_inset
+
+I can go back and tell everyone about your mom so you don't have to explain.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I'm good at explaining things,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, but that doesn't mean you should 
+\emph on
+have
+\emph default
+ to do it if you're all scrambled in the head about...
+ stuff.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's nice of you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I really do hate being alone.
+ If you could stay...
+ it helps.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Cody fidgeted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think Jacob's going to get nervous if he doesn't hear anything back.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes erd
+\end_inset
+
+...But he might also be mad at me if he finds out I left you alone when you
+ didn't want me to,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said, digging the heel of his hand into his forehead.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ugh.
+ Everybody else imprinted 
+\emph on
+before
+\emph default
+ I was born except Brady, and I didn't 
+\emph on
+know
+\emph default
+ Brady until he joined our pack.
+ I don't know how to figure out what Jake would want, anymore.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What did he say?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When he sent you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Said, 
+\begin_inset Quotes eld
+\end_inset
+
+Cody, please make sure Elspeth is all right.
+ She seems to trust you,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody reported.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I don't know if that means 
+\emph on
+make sure
+\emph default
+ as in check on you and tell him what's up, or 
+\emph on
+make sure
+\emph default
+ as in help you be all right.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll be okay if you need to go ask,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, sighing and giving me a sad look.
+ He ran lightly over the forest debris and soon I couldn't hear his steps
+ anymore.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I was alone, and I really 
+\emph on
+didn't
+\emph default
+ like it.
+ 
+\end_layout
+
+\begin_layout Standard
+I wanted Mama, but she wasn't there.
+ Cody would do, but he was gone too.
+ Given twenty minutes I could have gotten to be good enough friends with
+ any non-Jacob person from the pack that they'd be fine.
+ But I couldn't go get one of them without running into Jacob, and he would
+ 
+\emph on
+not
+\emph default
+ do, because I didn't know what to do about him.
+ 
+\end_layout
+
+\begin_layout Standard
+In a fit of creative desperation, I pressed my hand to my 
+\emph on
+own
+\emph default
+ cheek, and tried to send something to myself.
+ 
+\end_layout
+
+\begin_layout Standard
+I saw double, for a moment.
+ Then, under my real vision, I saw-as-though-remembered a mirror image of
+ myself, standing opposite me in a blank place of no color at all.
+ 
+\end_layout
+
+\begin_layout Standard
+For a moment, I couldn't tell which of the two of me I was, and then I decided
+ that was a silly question, because I was clearly both of them.
+ I just had the world's best apparatus for talking to myself.
+ 
+\end_layout
+
+\begin_layout Standard
+I tried to actually say something to myself, but it didn't seem to work.
+ I supposed that might make sense.
+ When I'd first started showing things when I was a baby, it only worked
+ for pictures, not for sound.
+ Maybe there would be a progression like that with showing myself things.
+ 
+\end_layout
+
+\begin_layout Standard
+It had just occurred to me to try talking to myself in sign language when
+ I heard Cody jogging back towards me.
+ I put my hand down and the blank place with two of me in it disappeared.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Talking to yourself?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, lifting an eyebrow at the motion of my arm while he sat back
+ down.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was trying,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and he laughed, 
+\begin_inset Quotes eld
+\end_inset
+
+but it didn't work quite the same.
+ Which kind of 
+\begin_inset Quotes eld
+\end_inset
+
+make sure
+\begin_inset Quotes erd
+\end_inset
+
+ did it turn out to be?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Second kind,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Far as Jacob's concerned, if you should happen to want me around, I am to
+ follow you to the ends of the earth and depart only at your whim.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't need to go to the ends of the earth,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Only to New York.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I am to follow you to New York,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, 
+\begin_inset Quotes eld
+\end_inset
+
+Alpha's orders.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I tilted my head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Everybody does what Jacob says, don't they?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's the boss,
+\begin_inset Quotes erd
+\end_inset
+
+ agreed Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's only wolves who 
+\emph on
+can't
+\emph default
+ disobey him if he gives an order.
+ The Alpha voice only works within the pack proper.
+ Me and the imprints just know he's good at being in charge.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you tell him about Mama?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mentioned it, but he said he could wait for the whole story if you needed
+ company,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know she told you all the facts about imprinting, but...
+ I've grown up around imprinted wolves, I know pretty well how they tick.
+ You don't need to be scared of him, Elspeth.
+ He'll look out for you, first of everything.
+ He can't not.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's what my mama does, is look out for me first of everything,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think Jacob wants to be my 
+\emph on
+parent
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well...
+ no,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That would...
+ not be likely.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm five,
+\begin_inset Quotes erd
+\end_inset
+
+ I said again.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+You
+\emph default
+ kissed 
+\emph on
+me
+\emph default
+, too,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want to be five or do you want to be sixteen?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Even normal sixteen-year-olds aren't deciding things for all eternity,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not my mama.
+ I don't think I 
+\emph on
+want
+\emph default
+ to let an older man sweep me off my feet and then never look twice at anybody
+ else until the stars burn out.
+ Just the other day I was asking Mama for permission to let a boy take me
+ out for ice cream when I expected to leave town in less than a month and
+ never think about him again.
+ I don't want to be 
+\emph on
+done
+\emph default
+ yet.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody softly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And now, whatever you do, even if you go out for ice cream five thousand
+ times with five thousand people...
+ it'll all constitute 
+\begin_inset Quotes eld
+\end_inset
+
+keeping Jacob waiting
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Because he'll wait, forever...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All my choices are horrible to somebody.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, 
+\begin_inset Quotes eld
+\end_inset
+
+I think 
+\emph on
+Jacob
+\emph default
+ would probably say that you should take care of yourself and let him handle
+ his own issues.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Something in the way he emphasized Jacob's name sounded odd.
+ I looked at Cody, and he looked away, pensive for some reason.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Would 
+\emph on
+you
+\emph default
+ say that?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm of two minds,
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Cody.
+ I waited for him to explain; eventually he met my eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+On the one hand,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+you should be able to have ice cream with anyone you want with whatever
+ level of seriousness you want.
+ Or -- or deer.
+ I liked you myself, remember -- still do if I'm honest -- and then this
+ 
+\emph on
+happened
+\emph default
+, and now it's confusing and it's got to be worse on your end because it's
+ not just one possibility closed off for you, it's all of them made way
+ more difficult.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+And on the other hand?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Cody waved his left hand, once, as though to designate it 
+\begin_inset Quotes eld
+\end_inset
+
+other
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This hand's the one that's thinking about Jake, who is a swell guy and who
+ I'd like to see happy, and this hand is also doing some pondering about
+ what happens to the pack if you leave and he's got to 
+\emph on
+handle his own issues
+\emph default
+ and still be Alpha.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does...
+ he really have a lot to do?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, Pera hiding everybody is the best possible defense, and I haven't
+ got the impression that she needs much micromanagement...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not just defense,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, he's essential when a few of us unhide if there are kept wolves
+ or vampires about.
+ He's the best fighter by a long shot and the Alpha voice is the only thing
+ that can override a couple of dangerous instincts, in emergencies, plus
+ he coordinates everyone's movements.
+ But if he couldn't lead, then we 
+\emph on
+could
+\emph default
+ just quit unhiding until he was up to scratch again.
+ The real biggie would be order in the pack, day-to-day.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+People fight?
+\begin_inset Quotes erd
+\end_inset
+
+ I guessed, skeptical; what I'd seen had looked so peaceable.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like you wouldn't believe,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody fervently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Early on, before we had Pera, there wasn't much, because it was just running,
+ running, running, all the time.
+ Maureen and Thea had their purses on them when we first escaped and Zachary
+ had enough warning to grab his wallet, and we ate out of their savings
+ accounts.
+ The wolves went in shifts and slept while riding on whoever was awake so
+ we didn't have to stop moving for more than a few minutes to grab food.
+ So there was this all-consuming panic and an obvious common enemy.
+ Infighting only got bad once everyone got used to the idea that we were
+ safe while we hid.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What happened?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A lot of things happened.
+ This was years ago, Jake was still only fifteen even though he looked almost
+ like he does now.
+ He wasn't comfortable throwing his authority around.
+ He didn't want to be an Alpha, he'd only done it because it was the only
+ way to not be attached to his sisters' packs anymore and escape.
+ He'd spend a lot of time in wolf form, trying to talk to them.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ I remembered, 
+\begin_inset Quotes eld
+\end_inset
+
+Alphas can talk to each other...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Cody nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If they want to.
+ It's not automatic, like it is within the pack.
+ And Rachel and Becky weren't really interested in talking to him anymore.
+ But he kept trying, and trying, getting more withdrawn, and things started
+ to fall apart.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like how?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Kim and Thea would have the most amazing fights, screaming at each other
+ to wake the dead even if the dead were wearing earmuffs.
+ Once Thea threw a shoe and clonked Kim on the head with it, and the next
+ thing you know, Jared and Darren are at each others' throats defending
+ their lady-loves.
+ Claire would get on Emily's nerves sometimes, and Emily would snap at her
+ and Claire'd get scared and run to Quil, and Quil would try to tell Emily
+ off and Sam would threaten to perforate him for suggesting that Emily's
+ anything less than the most perfect aunt in the universe to Claire.
+ Zachary would make off-color jokes and they'd offend Maureen and she'd
+ tell Victor to teach Zach how to behave like a civilized person, which
+ apparently in Maureen-secret-code-language means 
+\begin_inset Quotes eld
+\end_inset
+
+take half his pelt off
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Pera was kind of shell-shocked over having been kidnapped by the Volturi
+ and then escaping, and she didn't speak more than ten words of English,
+ then, so she kind of rebuffed Kim when Kim tried to be friends and then
+ Brady was fighting with Jared over that.
+ Those were the major themes, but almost every combination of people except
+ wolves with their own imprints, and Jake, would be fighting sometimes.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I suppose,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+that you were a neutral party throughout all of this.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was three, four months old, what could I have been doing?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Even I was talking by then,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+and I was delayed for weeks compared to you because I could...
+\begin_inset Quotes erd
+\end_inset
+
+ I tapped his cheek.
+ 
+\emph on
+Do things like this instead
+\emph default
+, I finished.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You are ceaselessly amazing,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody declared.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway, I really did stay out of it for the most part.
+ Feel free to seek second opinions if you want, but all my memories are
+ of wandering away for a bit when it got loud and fur started flying.
+ Sometimes I played with Claire; we were about the same size, for lack of
+ a better word, then.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So then what happened?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, one day Jake didn't go off to try to talk to Becky and Rachel.
+ He didn't make a production about it, he was just in the camp from the
+ time he got up to bedtime, no fur on.
+ There weren't any fights that day.
+ Whenever it seemed like there might be one, Jake would give whoever was
+ picking it a look.
+ It's not like he was staring anyone down, daring them to try to start an
+ argument under his nose.
+ Nobody stopped dramatically in midsentence because they were scared he'd
+ intervene.
+ It just...
+ didn't happen.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Is that it?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, having expected something more cinematic.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, of course not, that was only the first day.
+ The next day, Jake slept in a bit, and Thea took Kim's hairbrush and from
+ there everybody got into a combination shouting match and wolfy war.
+ It was awful.
+ Claire was wailing her head off a safe distance away.
+ Quil was dividing his time between trying to comfort her and trying to
+ bite Darren's head off.
+ Pera had learned some English and she was threatening to unhide everyone
+ and let us all die or get brain-fried for all she cared, and Maureen was
+ pulling out the racial slurs over that.
+ Brady went straight for Maureen without even trying to go through Victor
+ and Victor nearly killed him.
+ That kind of thing, flying every which way, I was up a tree for most of
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake slept through this?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked skeptically.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think so.
+ I think he was waiting to get out of his tent until all the adults were
+ involved so he could address everyone at once without anyone virtuously
+ claiming innocence.
+ He walked out and just said, 
+\begin_inset Quotes eld
+\end_inset
+
+Cool it.
+\begin_inset Quotes erd
+\end_inset
+
+ I can't tell when he's using Alpha voice and when he's not, but I'm pretty
+ sure he was just then, because all the wolves stopped 
+\emph on
+dead
+\emph default
+, and the girls quit screaming soon after.
+ Then Jake said he wanted to talk to everybody, one at a time, privately,
+ no exceptions, and that he expected everyone he wasn't chatting with to
+ behave themselves in his absence.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's thirteen people if he included Claire,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How long did it take?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fourteen, counting me, and it took the entire rest of the day and a chunk
+ of the night.
+ He gave everybody at least an hour; a few people got more.
+ I don't know exactly what he said to anyone but me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why were you on his list, if you weren't involved in any of the fights?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He said he was catching up on all his responsibilities and just because
+ I was 
+\begin_inset Quotes eld
+\end_inset
+
+acting more mature than all the teenagers in the pack put together
+\begin_inset Quotes erd
+\end_inset
+
+ didn't necessarily mean I had nothing going on that needed to be addressed,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think he was collecting a complete list of grievances so he'd know just
+ what everybody was fighting about and could deal with it.
+ I wasn't very articulate then, of course, so I was saying things like 
+\begin_inset Quotes eld
+\end_inset
+
+Thea yells really loud
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+it makes Claire scared when Quil fights the other wolves and sometimes she
+ hits me because she is scared and I'm scared she might hurt her hand
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Quotes erd
+\end_inset
+
+ He chuckled to himself.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody went on, 
+\begin_inset Quotes eld
+\end_inset
+
+after he had talked to everybody, it was late -- I was already asleep, I
+ can barely keep my eyes open past sunset.
+ Jake sent everybody else to bed.
+ I think he stayed up all night, though, because I was up at four-thirty
+ in the morning and he was hanging out, wolf-shaped, in the middle of camp
+ staring into space.
+ I sat with him for a while, but he didn't phase, so I didn't try to carry
+ on a conversation and eventually went off hunting.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Once everybody was up, Jake started making announcements.
+ He had a list of things we needed to get so nobody would feel like they
+ had to steal each other's stuff.
+ He had rules about what language was and wasn't appropriate.
+ He talked about how everybody had better be nice to Pera because she was
+ saving all of our lives constantly on a daily basis.
+ He told Quil it was Quil's job to swoop Claire away from Emily 
+\emph on
+before
+\emph default
+ Emily got fed up with her -- since Quil can't get fed up with her.
+ He Alpha-voiced all the wolves about fighting, and said if they felt like
+ their imprints needed defending they should come to him about it and he'd
+ sort it out.
+ He told all the imprints except Claire that it was immature and ridiculous
+ for them to resort to violence-by-proxy and if they couldn't handle their
+ disagreements by themselves without shouting and throwing things, they
+ could come to him instead of fracturing the pack over it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I said, 
+\begin_inset Quotes eld
+\end_inset
+
+And then everything calmed down?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not just like that.
+ But Jake enforced everything he said he was going to.
+ Perfectly, every single time.
+ Eventually fighting wasn't normal anymore,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But he still has to make himself a visible presence, has to be in the middle
+ of the pack ready to crack down if someone starts up again.
+ I don't like to think what would happen if anything happened to him.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wow,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like I said,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody sighed, 
+\begin_inset Quotes eld
+\end_inset
+
+he's a great guy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Silence ensued.
+ 
+\end_layout
+
+\begin_layout Standard
+After a minute, Cody said, 
+\begin_inset Quotes eld
+\end_inset
+
+Are you okay?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess so,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think I'm going to put off making any really weighty choices until I get
+ to New York and find Mama...
+ but it's not that weighty a choice just to go back and...
+ and let Kim braid my hair.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Kim wanted to be a hairdresser,
+\begin_inset Quotes erd
+\end_inset
+
+ Cody informed me, hopping to his feet and offering a hand to pull me up.
+ I accepted it and stood, and then he extricated his hand, an uncomfortable
+ look on his face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She knows a lot of kinds of braids,
+\begin_inset Quotes erd
+\end_inset
+
+ he said weakly.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded solemnly, and folded my hands behind my back.
+ We walked back towards the cluster of tents.
+\end_layout
+
+\end_body
+\end_document
