@@ -1,0 +1,2409 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Welcomer
+\end_layout
+
+\begin_layout Standard
+I didn't keep track of time while I was under the wolf's paws.
+ I just lay there and hoped my legs would be okay.
+ I knew I could heal fast, but I didn't know how much the ability extended
+ or how smart it was -- would my hard skin make it impossible to set the
+ bones without more damage? What if they healed wrong and I couldn't walk
+ again? What if Santiago didn't know anything about half-vampires and broken
+ legs would be fatal for some obscure reason that nobody could predict because
+ we're so rare...? 
+\end_layout
+
+\begin_layout Standard
+There was more screeching from broken vampires, more barking and shouting
+ from the fighting wolves, all muffled by paw-pads on one ear and soil on
+ the other, and finally I heard a muffled woman's voice: 
+\begin_inset Quotes eld
+\end_inset
+
+Let her up, Brooke.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The paws lifted, but I didn't move, and I screwed my eyes shut.
+ Chilly vampire hands seized my legs one at a time and twisted them and
+ pushed, and that hurt more than the 
+\emph on
+breaks
+\emph default
+ had, and I screamed and the wolf who'd been holding me whined.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There, now,
+\begin_inset Quotes erd
+\end_inset
+
+ said the woman, and I opened one eye, and it was Santiago, businesslike
+ even as a divot in her neck healed bright white and scarred.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't do anything foolish like trying to walk, and that should heal in a
+ day or two, you won't even need casts.
+ Brooke, you're her wheelchair, understand? Go get in uniform and pick her
+ up.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The brown-and-cream wolf nodded once, trotted away, and walked back on two
+ quieter feet.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+uniform
+\begin_inset Quotes erd
+\end_inset
+
+ turned out to be a black sleeveless dress-like thing, held together with
+ snaps and velcro that might let it survive a few phasings without tearing.
+ She looked sort of like Quil, same curve to the lips and eyebrows, but
+ even though all the wolves looked the same age she had a younger glint
+ in her eyes.
+ A little sister, maybe.
+ I didn't ask, I just closed my eyes again and let her pick me up.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Brooke in my ear, adjusting me in her arms.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You let me know pronto if I jostle you wrong, okay? I don't wanna hurt you.
+ We're just gonna take you home with us, and it'll be okay, all right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I made some whining noise, which could have been taken any which way, and
+ stretched my neck just enough to look at the battlefield.
+ 
+\end_layout
+
+\begin_layout Standard
+Heaps of vampire bits and shreds of clothes everywhere.
+ Kate was reattaching one of her fingers, Eleazar was staring at what had
+ to be the least interesting item on the ground there, while Carmen smoothed
+ his hair.
+ Tanya was looking away, standing stiffly and holding her arm on while it
+ healed.
+ Some wolves were limping, and one human-shaped one was applying some kind
+ of suction device to a wound on another's shoulder -- maybe removing poisonous
+ venom.
+ 
+\end_layout
+
+\begin_layout Standard
+Santiago surveyed the damage and frowned thoughtfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Harriet, Danielle, Iris,
+\begin_inset Quotes erd
+\end_inset
+
+ she said finally, 
+\begin_inset Quotes eld
+\end_inset
+
+you three get the witches into boxes.
+ We're taking all of them this time, I don't know what ever 
+\emph on
+possessed
+\emph default
+ Addy to leave the empath behind.
+\begin_inset Quotes erd
+\end_inset
+
+ Three wolves ran off and came back as girls with heavy wooden boxes; they
+ carefully picked up pale shining fragments as Santiago directed and dropped
+ them into the containers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Wendy, torch the other
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not David,
+\begin_inset Quotes erd
+\end_inset
+
+ pleaded Carmen.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please, he's family.
+ We could have argued him around if he hadn't needed innocent thoughts to
+ trick Edward.
+ He'll give you no trouble from now on.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Santiago pursed her lips and eyed Carmen, sizing her up.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He fought us,
+\begin_inset Quotes erd
+\end_inset
+
+ she pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Daphne will be out of commission for days from that bite.
+\begin_inset Quotes erd
+\end_inset
+
+ She inclined her head towards the smallest wolf, the white one with the
+ nasty chunk out of her shoulder and bloodstains pinking the fur on that
+ leg.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But she's alive,
+\begin_inset Quotes erd
+\end_inset
+
+ Carmen said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We can control David.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Santiago looked at Carmen speculatively, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Fine.
+ Wendy, torch the other 
+\emph on
+two
+\emph default
+.
+ Note,
+\begin_inset Quotes erd
+\end_inset
+
+ she went on, glancing back to the other vampires, 
+\begin_inset Quotes eld
+\end_inset
+
+that I'm not the ultimate authority here.
+ My decision can be overridden.
+ But for now, you can keep him.
+\begin_inset Quotes erd
+\end_inset
+
+ A light brown wolf loped away, and came back in uniform with a lighter
+ in hand.
+ Santiago pointed her to the two piles that I guessed were Peter and Charlotte.
+ 
+\end_layout
+
+\begin_layout Standard
+I closed my eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+TheywereonlyhereasafavortoJasper,
+\begin_inset Quotes erd
+\end_inset
+
+ I blurted.
+ 
+\end_layout
+
+\begin_layout Standard
+I almost expected to be ignored, but when I peeked, Wendy looked my way,
+ and then at Santiago, and I continued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They didn't want to come.
+ They only owed Jasper because he helped them a long time ago.
+ If you let them go they'll give up and go home, you've already 
+\emph on
+got
+\emph default
+ Jasper and he can't ask them for anything anymore, you don't have to kill
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We would be willing to keep an eye on them,
+\begin_inset Quotes erd
+\end_inset
+
+ Carmen put in swiftly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you, the Denali Reform Institute for Vampires Who Were Only Criminals
+ That One Time And Might Be Good Now?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Wendy in a snide undertone.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wendy,
+\begin_inset Quotes erd
+\end_inset
+
+ said Santiago sharply, and the wolf ducked her head apologetically and
+ mumbled something.
+ Santiago looked back at Carmen.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not confident in your ability to handle all three of them alone.
+ Keep them in pieces, all three, and I'll get in touch with an answer on
+ which, if any, may live before they're liable to starve.
+ If I find you've let them reconstruct themselves before hearing from me
+ or one of my superiors 
+\emph on
+it will not go well with you
+\emph default
+, do you understand?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We understand,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Tanya.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you care what we do with her?
+\begin_inset Quotes erd
+\end_inset
+
+ Eleazar said, pointing downward.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Santiago blankly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm pointing at someone,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you care what happens to her?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Santiago peered briefly in the direction his finger was aimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't waste my time,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and Carmen looked confusedly at her mate.
+ Santiago then turned to the three wolves who'd collected bits of Daddy
+ and Jasper and Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did you get everything?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked, and they nodded in unison.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ Let's get ready to head out, girls.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The wolves who were still wolf-shaped phased and got into uniforms, and
+ the whole ones put slings and bandages where they needed to be on the damaged
+ ones.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Santiago,
+\begin_inset Quotes erd
+\end_inset
+
+ Wendy asked after putting her lighter away, 
+\begin_inset Quotes eld
+\end_inset
+
+what about the other Cullens on their way here?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why, our allies will receive them as welcome guests, of course,
+\begin_inset Quotes erd
+\end_inset
+
+ said Santiago, nodding to an uncomfortable Tanya.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And tell them that we must have captured their friends and family at the
+ airport, because they never arrived and David, who went to meet them, never
+ came home.
+ And keep the pieces of David and the other two properly secreted away,
+ because they wouldn't care to find out what happens if they don't.
+ And encourage the rebels to use their home as a base of operations.
+ And send us,
+\begin_inset Quotes erd
+\end_inset
+
+ she continued with a graceful twist of her hand, 
+\begin_inset Quotes eld
+\end_inset
+
+a list, of every far-flung friend and acquaintance that Carlisle and his
+ coven can bring here to help, and every one who he cannot.
+ And do us the kindness of letting us know where we can find the disloyal
+ in convenient, manageable groups, as when they go hunting or recruiting.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The Denalis were silent, and Santiago prodded, 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't that what you'll do? I highly recommend it,
+\begin_inset Quotes erd
+\end_inset
+
+ and Tanya nodded.
+ Santiago looked at her, and then said, 
+\begin_inset Quotes eld
+\end_inset
+
+Harriet, perhaps you should get another box for David.
+ We can look after him in Volterra.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Carmen bit her lip, Tanya clenched her fists, Eleazar turned away, and Kate
+ bowed her head, but no one protested while Harriet fetched a fourth box
+ and gathered David's twitching shards into it, piece by piece.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now then,
+\begin_inset Quotes erd
+\end_inset
+
+ said Santiago, when that task was complete.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think it's time we went home, girls.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Santiago and the wolves had a big military-type helicopter, which Danielle
+ piloted.
+ Brooke held me and sat on the edge of a row of seats so no one would nudge
+ my legs accidentally.
+ They still throbbed, but by the time the helicopter lifted off into the
+ air, the pain was starting to ease marginally.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We're gonna get you home to Jacob,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke promised.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He'll be so happy to see you! He was completely frantic, our pack and Rachel's
+ had to absorb his wolves temporarily because he was com-
+\emph on
+plete
+\emph default
+-ly out of control.
+ I wonder if we're gonna have to permanently reorg once he's better,
+\begin_inset Quotes erd
+\end_inset
+
+ she mused, pursing her lips.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's going to happen to me?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, hating how squeaky I sounded.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, oh Elspeth honey, you're gonna be okay!
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I promise! Don't be scared! You're an 
+\emph on
+imprint
+\emph default
+.
+ You're an 
+\emph on
+alpha's
+\emph default
+ imprint.
+ That makes you so special, you have no idea, you are looking at a 
+\emph on
+really nice
+\emph default
+ setup.
+ You get to live in the village and you don't even have to work or anything
+ like we do, you just have to spend some time with Jacob so he's not, you
+ know, I'd make the swirling-my-finger-around-my-ear gesture but I'm not
+ supposed to put you down.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Village?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mm-hm.
+ That's where the wolves and the imprints and the puppies all live,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And Cody, that's where they put him too, but he's in East with the Clearwaters
+ -- except I have no idea where any of us are gonna wind up after the reorg
+ if there is a reorg, it's kind of complicated.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+East?
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke sounded like she was trying to be informative, but she wasn't very
+ good at it.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The village has four sections, East and West and South and North,
+\begin_inset Quotes erd
+\end_inset
+
+ she replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They've got nicknames but 
+\emph on
+I
+\emph default
+ think we should call them by the 
+\emph on
+proper
+\emph default
+ names that Santiago and Felix and Afton and Corin use.
+\begin_inset Quotes erd
+\end_inset
+
+ She nodded smartly, looking very proud of herself for this.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+East is for Rachel's pack, and West is for us -- we're Becky's.
+ The pack members who don't have imprints, I mean.
+ Boys with imprints, from whatever pack, live in South, and the puppies,
+ if they don't have families to live with, live in North.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You keep saying 
+\begin_inset Quotes eld
+\end_inset
+
+puppies
+\begin_inset Quotes erd
+\end_inset
+
+...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The kids who can't activate yet,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's just what we call them, since they're not just ordinary kids, but
+ they aren't wolves 
+\emph on
+yet
+\emph default
+, either.
+ From the reservation back when, or who were picked up since, or who were
+ 
+\emph on
+born
+\emph default
+ since.
+ Every now and then one grows up enough and goes 
+\emph on
+floof
+\emph default
+ and then somebody's got a new packmate.
+ Ashleigh just joined up with Rachel's crew last month.
+ We had a party for her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why,
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, glancing at the rows of girls, all in the same uniforms with short
+ haircuts and athletes' shapes, 
+\begin_inset Quotes eld
+\end_inset
+
+are there only girls here?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're a field team,
+\begin_inset Quotes erd
+\end_inset
+
+ explained Brooke.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We're not going to spontaneously imprint, so it's safer to have us running
+ all hither and yon -- 
+\begin_inset Quotes eld
+\end_inset
+
+hither and yon
+\begin_inset Quotes erd
+\end_inset
+
+, isn't that funny? Afton says it all the time.
+\begin_inset Quotes erd
+\end_inset
+
+ She said Afton's name like he was her favorite teacher, or wise general,
+ or something.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The boys who aren't imprinted stay home, so if they see some girl she's
+ right there where Chelsea can look at her and bring her into the village.
+ And the boys who 
+\emph on
+are
+\emph default
+ imprinted are supposed to be making puppies.
+\begin_inset Quotes erd
+\end_inset
+
+ She giggled.
+ I wondered how old she was.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't...
+ bother you at all, that Chelsea does what she does?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, like 
+\emph on
+that's
+\emph default
+ a big deal in the grand scheme of things,
+\begin_inset Quotes erd
+\end_inset
+
+ scoffed Brooke.
+ She tilted her head self-consciously.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think I'm any good at talking about the 
+\begin_inset Quotes eld
+\end_inset
+
+grand scheme of things
+\begin_inset Quotes erd
+\end_inset
+
+ and making it sound right.
+ Corin does it better.
+ Anyway, Chelsea's on our side.
+ We're like cops! Magical wolf cops who stop vampires from going on huge
+ rampages and turning everybody they see and destabilizing the world by
+ being all chatty about it! We've already got Alpha orders from an Alpha
+ no one picked because she was just born that way, and the boys have imprints
+ which are totally random, there is so 
+\emph on
+much
+\emph default
+ wacky brain magic flying around in our heads that I'm glad at least 
+\emph on
+some
+\emph default
+ of it is directed by a 
+\emph on
+person
+\emph default
+ and not the 
+\emph on
+forces of the universe
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ She frowned.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Corin does the 
+\begin_inset Quotes eld
+\end_inset
+
+forces of the universe
+\begin_inset Quotes erd
+\end_inset
+
+ thing better too.
+ He's got a really 
+\emph on
+grand
+\emph default
+ way of talking, you know? You'll see when you meet him.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is Chelsea going to do anything to me?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked nervously.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably a little,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke predicted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, you ran away the one time, and that was really hurtful to Jacob,
+ and he's important.
+ So she'll want to make sure that you can be happy in the village and not
+ want to run away anymore.
+ But without Chelsea, you'd still have to stay in the village, you see?
+ You'd just need to be under guard all the time.
+ It's better her way because you get more freedom of movement.
+ And maybe you wish we didn't need you, but that's not 
+\emph on
+Chelsea's
+\emph default
+ fault, it's just that Jacob imprinted on you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I don't 
+\emph on
+want
+\emph default
+ Chelsea to do anything to me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Doesn't that matter? To you or her or anyone?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, you know they'll never trust you alone like that, but I guess you
+ could ask,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke.
+ She looked like she wanted to shrug, but this might have jostled me, and
+ she was keeping quite still to avoid that.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How old are you?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, finally.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fifteen,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke brightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I activated three years ago.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+She would have been nine or ten when the Volturi swept into La Push.
+ Nine or ten when they killed her family.
+ Nine or ten when they took her to Volterra.
+ Nine or ten when Chelsea made her not care about who she'd lost and twisted
+ her to look up to the leaders they provided.
+ 
+\end_layout
+
+\begin_layout Standard
+I wanted to be sick, but I can't actually throw up.
+ (I tried once when I went out for brunch with a bunch of human friends
+ and they all got food poisoning, except me, and I thought it was conspicuous.)
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you okay, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke asked.
+ She had large, dark eyes, full of concern that was probably genuine on
+ some level.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did I hurt you? It's a little choppy today, usually Olivia drives the helicopter
+ but she got injured in Omaha so Beatrice took her home early.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't answer her.
+ I pretended to fall asleep instead, and after a while I really did.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+When I woke up, I was on an airplane instead of a helicopter, and a different
+ wolf girl was holding me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Wha?
+\begin_inset Quotes erd
+\end_inset
+
+ I said groggily.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Brooke's sleeping, I'm Quinn,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We only took the helicopter to the airport and then we switched to the plane,
+ if you're wondering why it got more beige around here all of a sudden.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh.
+ Where are we now?
+\begin_inset Quotes erd
+\end_inset
+
+ I heard wolves chatting with each other -- such 
+\emph on
+normal
+\emph default
+-sounding conversations, about somebody's baby and somebody else's knitting
+ project and some third person's idea for a vacation to Rome.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Somewhere over the Atlantic Ocean.
+ Do you need food? We've got food in here,
+\begin_inset Quotes erd
+\end_inset
+
+ Quinn told me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I could eat,
+\begin_inset Quotes erd
+\end_inset
+
+ I admitted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you eat?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We've got all kinds of stuff.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anything, I'm not picky -- assuming you mean regular food.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, I mean regular food.
+ Iris!
+\begin_inset Quotes erd
+\end_inset
+
+ called Quinn.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Would you bring something for Elspeth to eat over here?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Iris, presumably nearest the food, fetched an assortment of things and I
+ started with an apple.
+ I was glad my arms weren't broken; at least I could feed myself.
+ My legs were feeling better too, although they still ached faintly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We'll be in the village in six, maybe seven hours all told,
+\begin_inset Quotes erd
+\end_inset
+
+ said Quinn.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Word from home is that you and Jacob get a suite -- two bedrooms, he insisted,
+ just like Brooke's brother and his seven-year-old -- in South.
+ There's plenty of extra room in the village since they were planning all
+ along to have a growing population.
+ So they don't even have to dig out a new home for you, which is good, because
+ Addy's busy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's...
+ underground?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked between finishing my apple and accepting a tub of chicken salad.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ But it's nice,
+\begin_inset Quotes erd
+\end_inset
+
+ she assured me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Carved out of bedrock, not, like, dirt.
+ And we have plumbing and electricity and Internet and good ventilation,
+ there's skylights in most rooms -- with one-way glass at the top, so anyone
+ who wanders over us thinks there's just a lot of mirrors set into a field
+ for some reason.
+ I think it might be passed off as an art installation or something, actually,
+ I haven't been up top to look for a placard.
+ We get in through tunnels a ways from the village itself.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+At least I would be imprisoned in a 
+\emph on
+nice
+\emph default
+ place.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't make any more attempt at conversation; eventually Quinn struck
+ up a chat with Iris about Iris's plans to redecorate West's lounge.
+ I thought about ways to escape the plane.
+ But even if I got away from Quinn in spite of my hurt legs and managed
+ to leap out, I'd land in the ocean and eventually drown if I was left to
+ my own devices.
+ If I waited until we were overland, Santiago could easily follow me to
+ the ground, catch me there, and find some less humane way to transport
+ me to Italy.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe I could get Jacob to help me escape, like Pera had done with Brady.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe Chelsea really would leave my brain alone, and then I'd be able to
+ think straight about what to do at my leisure.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe Mama wouldn't be fooled at Denali, and she'd run away and think of
+ a way to save me.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe I would just live under a rock for the rest of eternity, prevented
+ from even 
+\emph on
+wanting
+\emph default
+ to leave.
+ 
+\end_layout
+
+\begin_layout Standard
+I finished my chicken salad, and before I started on the carrots Iris handed
+ over, I put my hand on my face.
+ 
+\emph on
+I love my mama,
+\emph default
+ one of me signed at the other of me.
+ 
+\emph on
+That's 
+\emph default
+true.
+ Remember
+\emph on
+ that, okay, me? No matter what.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+For the first time, the other me answered.
+ 
+\emph on
+It's true,
+\emph default
+ she signed in reply.
+ But that was all she said.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The wolves slept in shifts.
+ By the time the plane landed, Quinn had handed me back over to Brooke,
+ who'd since woken.
+ We transferred from the plane to a bus.
+ Brooke took this opportunity to tell me the village rules.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll probably be allowed Internet.
+ Puppies aren't, except supervised in lessons, since they don't know how
+ to follow the rules about being secret properly, but imprints all have
+ it, but they might not be letting Claire, but you're more mature than her,
+ even though you're younger.
+ So you'll probably be allowed it.
+ Food and your room are free, but you get some money for other stuff.
+ It's in euros but you can get some of it in dollars if you want something
+ from America, or whatever other kind of money if you want something from
+ someplace else.
+ If you want more money you can do a job.
+ You probably can't be on a field team, but you could babysit or teach puppies
+ their lessons or cook or run errands outside -- if they decide you're okay
+ to let out, I mean, that'll probably depend -- or whatever.
+ If you have a problem with anybody you're supposed to go to your alpha
+ first -- but in your case that'd be Jacob so maybe he's not so impartial,
+ so you might get told to go to one of the vampires first thing.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The ones who are usually there are Santiago, Corin, Afton, and Felix?
+\begin_inset Quotes erd
+\end_inset
+
+ I clarified.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They're in charge -- they take field teams out and basically run the place
+ -- but I don't know about 
+\begin_inset Quotes eld
+\end_inset
+
+usually there
+\begin_inset Quotes erd
+\end_inset
+
+ so much.
+ They don't 
+\emph on
+live
+\emph default
+ with us, they live way down the northwest tunnel in the main compound.
+ At least one of those four is there part of every day.
+ And Chelsea visits once a day, during the assembly.
+ You have to go to those, everybody who's home during an assembly is supposed
+ to go.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does anything happen during an assembly 
+\emph on
+besides
+\emph default
+ Chelsea doing...
+ her thing?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, of course,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke, sounding surprised that I'd ask.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+People -- Rachel and Becky usually -- make announcements about stuff, and
+ since the village was started we've come up with traditions, except I guess
+ it's a little silly to call things five years old traditions, but they'll
+ be traditions in like, I don't know how long it takes, fifty years? But
+ there's a few people who play instruments or sing -- Gwyn dances! She got
+ Santiago to teach her, Santiago is 
+\emph on
+really
+\emph default
+ good but doesn't perform usually -- and sometimes they'll do that.
+ And we have birthday parties if it's someone's birthday, and if somebody's
+ marrying his imprint that happens during assembly too, and there's activation
+ parties when a puppy gets old enough to phase.
+ There was a funeral once, too,
+\begin_inset Quotes erd
+\end_inset
+
+ she added soberly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who died?
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eve Greene.
+ She was one of Rachel's.
+ Her brother Albert still is,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bad vampires killed her in the field, three years ago.
+ Albert named his daughter after her when she was born last year.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Brooke's natural cheer reasserted itself after a moment, and she went on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In South quiet hours are from ten at night to eight in the morning.
+ Everybody knows English but a lot of us are at least working on Italian
+ -- most of the puppies know both -- and some people have some other language,
+ to get along in other countries.
+ Most people do their own laundry but a couple of the puppies will do it
+ for you, for pocket money, if you want.
+ Huh, I don't know what else you need to know, I moved in so long ago.
+ You'll pick it up.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't ask her any more questions, and after a long digression about how
+ she was saving up her money to buy a new loveseat for her room but might
+ change her mind and blow it all on a private stash of candy instead, Brooke
+ finally fell silent.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+In spite of the descriptions Brooke and Quinn had provided of the village,
+ I'd worked myself up to the point where I honestly expected it to be a
+ forbidding and dank network of cellars.
+ 
+\end_layout
+
+\begin_layout Standard
+It wasn't.
+ It was quite dry, and full of natural light, and while the stone itself
+ was pale beige, a lot of the walls were painted -- some flat colors, some
+ murals, including some that were probably by puppies.
+ Most of the doors had handmade signs on them, including names -- Brooke
+ pointed out her door to me on our way, and it turned out that she shared
+ it with Daphne, the small wolf who'd been bitten.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You have to earn a single room,
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Brooke.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I like Daph', but she snores.
+ I roomed with Catherine before, but when Daphne activated there was a whole
+ room shuffle and Harriet moved into a single for totally 
+\emph on
+owning
+\emph default
+ a bad vampire 
+\emph on
+by herself it was amazing
+\emph default
+, and I got Daphne.
+ She'll probably be sick for a week,
+\begin_inset Quotes erd
+\end_inset
+
+ added Brooke sadly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bites are 
+\emph on
+not fun
+\emph default
+.
+ I only got one that bad one time before, but I had a nip on my ear once
+ too, and Afton had to clip out a notch to keep it from spreading.
+ But then Embry told me my notch was cute.
+ Embry is 
+\emph on
+dreamy
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ she confided in a whisper.
+ 
+\end_layout
+
+\begin_layout Standard
+Brooke walked me around the entire village so I'd learn my way around, on
+ the grounds that Jacob was still sleeping.
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Alec had to put him under for a while because he was so worried about you,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke said, 
+\begin_inset Quotes eld
+\end_inset
+
+and that messed with his sleep patterns a lot.
+ He'll probably even be excused from assembly this evening.
+\begin_inset Quotes erd
+\end_inset
+
+) 
+\end_layout
+
+\begin_layout Standard
+I watched children playing hide-and-seek in a brightly furnished playroom
+ in North.
+ (
+\begin_inset Quotes eld
+\end_inset
+
+The nickname for it is Nursery if you're being nice and 
+\begin_inset Quotes eld
+\end_inset
+
+Norphanage
+\begin_inset Quotes erd
+\end_inset
+
+ if you're not,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke explained.) I spotted Ruth there, and she recognized me and waved.
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Even puppies with parents play there a lot of the time; they just don't
+ live there,
+\begin_inset Quotes erd
+\end_inset
+
+ I was informed.) In the halls, coming and going every which way, were wolves,
+ in and out of uniform -- there were white uniforms as well as black, which
+ I guessed were linked to pack -- and in and out of fur.
+ All the halls and doorways and rooms were more than spacious enough to
+ fit wolves.
+ 
+\end_layout
+
+\begin_layout Standard
+I spotted more faces I recognized in South -- Quil with Claire on his shoulders,
+ Victor in deep discussion with a white-uniformed fellow, Emily carrying
+ Paige into the room labeled 
+\begin_inset Quotes eld
+\end_inset
+
+Sam, Emily, & Paige Uley
+\begin_inset Quotes erd
+\end_inset
+
+.
+ They all greeted me, but didn't seem especially interested in pausing to
+ chat or even asking why I was being carried.
+ I wondered if Chelsea had snipped their interest in me, in case I couldn't
+ be retrieved and they had to make...
+ some kind of alternate arrangement for Jacob.
+ 
+\end_layout
+
+\begin_layout Standard
+I saw Cody's name next to Seth's on a door in East.
+ Leah had a single, across the hall -- 
+\begin_inset Quotes eld
+\end_inset
+
+Leah is Rachel's first beta,
+\begin_inset Quotes erd
+\end_inset
+
+ Brooke said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Betas are second-in-command and can take over if the alpha is asleep or
+ sick or hurt.
+ Rachel and Becky both have two -- Leah and Vivian, and Olivia and Harriet.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+A lot of the tour was like that, just names, cascading after each other.
+ I filed them all away in my memory.
+ Once I'd been introduced to the South laundry room, I asked Brooke, 
+\begin_inset Quotes eld
+\end_inset
+
+How many people live here, anyway?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hmm,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's nineteen of us in Becky's pack if you don't count the wolves from
+ Jacob's that we're borrowing.
+ And nineteen in Rachel's, also not counting Jacob's.
+ Jacob and his are eight more wolves and seven more imprints counting you,
+ but Esperanza doesn't live here yet, and she might not later either, since
+ they're gonna turn her but Chelsea has 
+\emph on
+lots
+\emph default
+ of work to do first, since if she wants to leave after they turn her it'd
+ be 
+\emph on
+really
+\emph default
+ hard to stop her.
+ I dunno what the plan is there.
+ But let's count her.
+ And Jacob's pack brought three puppies
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Three?
+\begin_inset Quotes erd
+\end_inset
+
+ I interrupted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Three,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't learn their names yet.
+ Sam has one, and Darren has one, and Victor has one, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Natalie
+\emph default
+.
+ I bit my lip.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There was another one.
+ Victor has two daughters.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I guess I could have just not noticed her,
+\begin_inset Quotes erd
+\end_inset
+
+ offered Brooke, although she seemed more confused about my distress than
+ about the possibility that an entire baby had gone missing.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And our pack has two imprints and nine puppies, and Becky's has three imprints
+ and nine puppies, and there are twenty-one orphan puppies in North.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Two
+\emph default
+ imprints had 
+\emph on
+nine
+\emph default
+ kids in 
+\emph on
+five years
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said Brooke.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Iris and Danielle already had their kids -- one each -- before they activated.
+ The imprints in our pack only have seven between them.
+ Iris still lives in West with us, not in South like boys with imprints,
+ but she has a room for her and her kid.
+ Danielle's married to another wolf, from before activating, but he's in
+ Rachel's pack so if he ever imprints there's not so much drama, and they
+ live in South together.
+ A couple of Rachel's other wolves had kids before too.
+ Like, Shawn had two kids before he activated, and then later he imprinted
+ and had two more, and Vivian has one.
+ So let's see...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I did the arithmetic.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+An even hundred, if you count me and Pera, and not Victor's baby,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, hey, cool, round number,
+\begin_inset Quotes erd
+\end_inset
+
+ enthused Brooke.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+A bell, signaling the time for assembly, rang just as Brooke had finished
+ walking me through the halls of West.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ooh,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, walking more briskly; she probably would have jogged if it wouldn't
+ have risked bouncing me uncomfortably.
+ My legs were mostly healed, but I still didn't like the idea of sharp movement.
+ 
+\end_layout
+
+\begin_layout Standard
+Rachel -- who still wore the fluffy haircut Mama had described -- announced
+ that once her brother was deemed fit for duty, all of his original wolves
+ would be returned to him except Zachary, whom she was retaining in her
+ own pack.
+ For gender balance purposes, she and Becky were each planning to transfer
+ two female wolves to him; girls were invited to volunteer but would be
+ chosen from on high if no one did.
+ The next female activations were also planned to be assigned to Jacob.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For the time being,
+\begin_inset Quotes erd
+\end_inset
+
+ Rachel said, 
+\begin_inset Quotes eld
+\end_inset
+
+everyone will stay in the rooms they have now, although new uniforms are
+ in the works -- brown, to keep up with the fur color theme.
+\begin_inset Quotes erd
+\end_inset
+
+ She winked at the audience.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When things have settled down up in the compound and Addy has the time,
+ she's going to carve out a new wing that we'll probably call Southeast
+ or something similarly unimaginative, because everyone knows we 
+\emph on
+always
+\emph default
+ call the wings by the appropriate cardinal directions.
+\begin_inset Quotes erd
+\end_inset
+
+ Most of the white-uniformed wolves -- clustered to one side of the hall
+ in which the assembly was held -- chuckled.
+ Brooke pouted virtuously.
+ I noted that even the people not in uniform seemed to have a lot of black
+ or white in their outfits, depending.
+ I wondered if I'd be going around in brown a couple of weeks later.
+ 
+\end_layout
+
+\begin_layout Standard
+Then Rachel announced my presence.
+ She summarized who I was -- 
+\begin_inset Quotes eld
+\end_inset
+
+You guys remember Bella Swan-subsequently-Cullen, right? The first wave
+ knows who I mean!
+\begin_inset Quotes erd
+\end_inset
+
+ There was some scattered laughter.
+ I didn't know what they thought was funny.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth's her half-vampire daughter.
+ She's got a long fascinating story that leads up to my baby brother imprinting
+ on her, so she's one of us now.
+ I expect everybody to welcome her the way we welcome every new imprint,
+ and not to pester her while she's settling in.
+ You can talk to anyone else in Jacob's pack and learn whatever you need
+ to know -- or talk to Cody, who's bunking with his brother Seth in case
+ you've forgotten.
+ And Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rachel, addressing me directly, 
+\begin_inset Quotes eld
+\end_inset
+
+you'll need to see Chelsea personally after assembly, okay? Okay.
+\begin_inset Quotes erd
+\end_inset
+
+ I shivered, but Rachel had already moved on.
+ She introduced a group of children who sang lispingly, and then it seemed
+ to be over.
+ 
+\end_layout
+
+\begin_layout Standard
+Brooke carried me towards the only vampire in the hall, a tall, elegant
+ woman in a blue sundress.
+ She had dark blonde hair with gray streaks in it at the temples, gathered
+ into a ponytail -- she must have been getting on a bit by the time she
+ was turned.
+ Or she colored it that way on purpose.
+ Or she'd grayed early.
+ I didn't know why I was bothering to speculate about her hair.
+ It was probably her least important feature, considering.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My name is Chelsea.
+ I'm so sorry we didn't have a chance to meet the last time you were in
+ town.
+\begin_inset Quotes erd
+\end_inset
+
+ She had a vaguely pleasant smile on her face.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I -- I -- I
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I needed to ask her to leave me alone, find some credible way to promise
+ to stay in the village without tampering, and I was too terrified to spit
+ it out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sure Brooke has shown you everything you need,
+\begin_inset Quotes erd
+\end_inset
+
+ Chelsea went on, 
+\begin_inset Quotes eld
+\end_inset
+
+but of course you can ask anyone here for help finding anything you might
+ have trouble locating.
+ Your suite already has some basic furniture in it, but it's all hand-me-downs.
+ You and Jacob should work out what you want in your suite together.
+ He's not going to have any significant work occupying his time to start
+ out.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You look nervous,
+\begin_inset Quotes erd
+\end_inset
+
+ she observed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't mean to frighten you.
+ I really do want the best for everyone here, yourself included.
+ I promise that whatever terrible stories you've heard about what I do,
+ it's not so bad.
+ You didn't feel a thing, did you?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I managed.
+ 
+\end_layout
+
+\begin_layout Standard
+Chelsea tilted her head, the same mild smile shaping her lips.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wanted to ask -- Brooke said maybe if I asked -- 
+\emph on
+please don't
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I exclaimed in a panic.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Too late,
+\begin_inset Quotes erd
+\end_inset
+
+ said Chelsea, expression perfectly calm.
+ She lifted a hand and brought her first two fingers together with a faint
+ clicking noise, twice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Snip, snip.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

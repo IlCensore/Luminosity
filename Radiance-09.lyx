@@ -1,0 +1,1975 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Father
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Daddy
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I said again, sure that he would react if he would only 
+\emph on
+understand the word
+\emph default
+, if he would make the connection that 
+\emph on
+he
+\emph default
+ was my 
+\emph on
+daddy
+\emph default
+ and therefore 
+\emph on
+I
+\emph default
+ was his 
+\emph on
+daughter
+\emph default
+ and he should not look at me like that, like he didn't care, like I could
+ be 
+\emph on
+anybody
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+He shrugged, and rolled his eyes, and looked at Adelaide.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't suppose you'll kill me now,
+\begin_inset Quotes erd
+\end_inset
+
+ he said to her, tonelessly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Perhaps,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, like she was dangling a tantalizing treat in front of him.
+ Then she fixed her attention on me.
+ She had 
+\emph on
+presence
+\emph default
+ -- more than she'd had before.
+ She announced herself, her personality was leaking through the edges of
+ her harmless housewife appearance with the ironic t-shirt.
+ It might be my power, but it was my power with the weight of a much older
+ person with more varied experiences behind it.
+ There was more 
+\emph on
+to
+\emph default
+ her.
+ Greed and sharp curiosity emanated from her, and a lazy annoyance directed
+ at the departed witches, but most of all there was just 
+\emph on
+depth
+\emph default
+, the sense that here stood a person who had many years of history and accumulat
+ed knowledge.
+ 
+\emph on
+Will I shine like that when I'm a hundred? A thousand?
+\emph default
+ I wondered dizzily.
+ 
+\end_layout
+
+\begin_layout Standard
+Adelaide smiled at me, not exactly 
+\emph on
+threateningly
+\emph default
+, but there were 
+\emph on
+edges
+\emph default
+ to it: her indulgence would cover me for the time being and when it ended
+ so would I.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Aren't 
+\emph on
+you
+\emph default
+ interesting,
+\begin_inset Quotes erd
+\end_inset
+
+ she purred.
+ 
+\end_layout
+
+\begin_layout Standard
+Dimly, I recognized that if I was interesting, something had gone very badly
+ wrong.
+ I was not supposed to be interesting.
+ Had that had something to do with the nonsense I'd been whispering to myself...?
+ That didn't make sense.
+ People who said nonsensical things were at least 
+\emph on
+slightly
+\emph default
+ interesting.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No ma'am,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, cowed.
+ There wasn't a point in trying to get away.
+ Even with my harmless power, Adelaide was a vampire and could catch me
+ in an instant.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+I
+\emph default
+ think you are,
+\begin_inset Quotes erd
+\end_inset
+
+ Adelaide murmured, boring into me with intent eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was going to have a look at you after the witches were fed...
+ I suppose you knew your father was here?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+This was the part where I was supposed to be picked up and carried away
+ by...
+ someone...
+ and that wasn't happening, and 
+\emph on
+why
+\emph default
+ would Daddy want Adelaide to kill him? Why wouldn't he want to run out
+ of the city at top speed and find Mama
+\begin_inset space ~
+\end_inset
+
+--? 
+\end_layout
+
+\begin_layout Standard
+Daddy's eyes flicked back to me with the first sign of interest they'd shown.
+ 
+\end_layout
+
+\begin_layout Standard
+Adelaide noticed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is it, Edward?
+\begin_inset Quotes erd
+\end_inset
+
+ she inquired.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know Chelsea and I were very thorough.
+ She doesn't matter to you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+There was one thing Chelsea couldn't break, though
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+MAMA IS ALIVE
+\emph default
+, I screamed in my head as hard as I could.
+ I could see Daddy's eyes widen, and Adelaide said, 
+\begin_inset Quotes eld
+\end_inset
+
+Come here, Edward, don't annoy me or I'll decide not to kill you,
+\begin_inset Quotes erd
+\end_inset
+
+ and she held out her hand
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+Daddy took three steps toward her, then whirled with blinding speed and
+ caught me up with one arm around my waist and knocked the wind out of me
+ and followed the other escaped witches out of the dungeon and he was so
+ fast, faster than Mama, just like she said
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+And he didn't care about me a bit.
+ 
+\end_layout
+
+\begin_layout Standard
+He only wanted me to lead him to her.
+ 
+\end_layout
+
+\begin_layout Standard
+But this was part of the plan, I supposed, that I be picked up and carried
+ somewhere, and I was, so I let it happen.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Somehow, we didn't run into anyone on our way out of the compound.
+ Probably Daddy listening for and avoiding thoughts, and with the other
+ witches escaped too everyone would be in a panic and spread thin trying
+ to contain them.
+ Daddy nodded once when I thought of this.
+ 
+\end_layout
+
+\begin_layout Standard
+We were not as lucky outside the compound -- there were humans everywhere
+ and it was full daylight.
+ I guessed that he didn't care about secrecy anymore.
+ The worst thing that could happen if humans saw a vampire streaking through
+ Volterra would be that the Volturi would try to capture him again, to put
+ back in the dungeon or just kill, and he didn't plan to let that happen
+ with Mama alive.
+ (He nodded again.) 
+\end_layout
+
+\begin_layout Standard
+With Mama 
+\emph on
+probably
+\emph default
+ alive.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ he snapped.
+ I winced.
+ I had only a handful of memories of his voice, and it had sounded different
+ then.
+ But then, he'd loved me then.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama 
+\emph on
+might
+\emph default
+ have gotten away, in New York, but I didn't see...
+ but surely someone would have thought of her within Daddy's range if she'd
+ been 
+\emph on
+seen
+\emph default
+, let alone caught...? 
+\end_layout
+
+\begin_layout Standard
+He pursed his lips, but seemed to accept that as evidence for her survival.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+She
+\emph default
+ loves me,
+\begin_inset Quotes erd
+\end_inset
+
+ I tried.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm 
+\emph on
+her
+\emph default
+ daughter.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He glanced down a little, probably to look at my eyes that Mama says are
+ like the ones she had before turning, but then paid attention to where
+ he was going again with a small shake of his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You aren't 
+\emph on
+her
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where are we going?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked after a moment.
+ We were almost out of the city, and the shouts of confused humans were
+ thinning.
+ I wondered what they'd think of us.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm trying to catch up with Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aunt Alice is alive too?
+\begin_inset Quotes erd
+\end_inset
+
+ I exclaimed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ She was in the room with me and I could read her, so Chelsea gave up on
+ trying to cut off my affection for her, but I didn't have any way to communicat
+e 
+\emph on
+back
+\emph default
+.
+ I was working on convincing Addy to relay messages to her for me when you
+ sprung us.
+ Alice might or might not help.
+ She's still the best chance of finding Bella if you don't know where she
+ is, although Alice will want to find Jasper first.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's in Nashville, with Peter and Charlotte,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know.
+\begin_inset Quotes erd
+\end_inset
+
+ He blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How do 
+\emph on
+you
+\emph default
+ know?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We were out of the city and into the countryside.
+ I put my hand on his cheek and showed him the time Mama told me about meeting
+ Uncle Jasper.
+ A look of intense sorrow and focus took over his features, like what he
+ saw hurt him but pulling away from it would hurt more.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How do 
+\emph on
+you
+\emph default
+ know?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice saw him, of course.
+\begin_inset Quotes erd
+\end_inset
+
+ He frowned.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She 
+\emph on
+ought
+\emph default
+ to have seen Bella when that happened -- and then I'd have 
+\emph on
+known
+\emph default
+ -- but by then she was occasionally looking elsewhere, trying to practice
+ the vision sharing she's learned to do on other subjects
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Vision sharing?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, blinking.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There isn't a lot to do in the dungeon,
+\begin_inset Quotes erd
+\end_inset
+
+ Daddy said dryly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+More so for Alice than me; I could have two-way conversations with Addy,
+ if no one else, and I can listen to many voices where Alice sees only one
+ thing at a time.
+ She learned a new trick.
+ But Jasper didn't hold up very well, and the visions weren't helping.
+\begin_inset Quotes erd
+\end_inset
+
+ He sounded...
+ 
+\emph on
+unimpressed
+\emph default
+ by me.
+ Like he thought that even 
+\emph on
+with
+\emph default
+ Chelsea's interference he could have properly cared for some other, better
+ daughter if she'd shown up, who knew more and could have guessed about
+ Alice without help.
+ I searched his face, hoping he'd contradict the thought.
+ 
+\end_layout
+
+\begin_layout Standard
+He rolled his eyes at me again and I shrank in towards myself.
+ I didn't 
+\emph on
+like
+\emph default
+ this, I didn't 
+\emph on
+like
+\emph default
+ that Chelsea could just reach in and 
+\emph on
+steal my father's love
+\emph default
+.
+ Things weren't supposed to work that way.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mama's not going to be happy with you for acting like this,
+\begin_inset Quotes erd
+\end_inset
+
+ I coaxed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Look,
+\begin_inset Quotes erd
+\end_inset
+
+ said Daddy impatiently, 
+\begin_inset Quotes eld
+\end_inset
+
+it 
+\emph on
+does
+\emph default
+ matter to me that you're Bella's daughter and that she loves you, and I'm
+ going to look after you for her until we find her again because that's
+ what she would want, and Bella is stronger than I am and in the same position
+ of course 
+\emph on
+she
+\emph default
+ would have continued to love you, but 
+\emph on
+I
+\emph default
+ am not immune to Chelsea.
+ At the time what she did was even a mercy.
+ One less person to agonize over.
+ Alice can't see you anyway.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why did the Volturi try to kill Mama, instead of putting her in the dungeon
+ too?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy couldn't copy her when she tried,
+\begin_inset Quotes erd
+\end_inset
+
+ Daddy said shortly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They had no way to control her, and they didn't need 
+\emph on
+my
+\emph default
+ cooperation, not with the setup you saw.
+\begin_inset Quotes erd
+\end_inset
+
+ He shook his head a little, and his face shone with admiration.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But she was too strong, too committed to life.
+ I should have known.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's just her shield,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's a power, like mine or yours, it just let her stay alive.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Powers reflect the people who have them,
+\begin_inset Quotes erd
+\end_inset
+
+ he said implacably.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You, for instance, 
+\emph on
+demand attention
+\emph default
+ even while I am trying to catch Alice and slowed down by 
+\emph on
+your
+\emph default
+ weight.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm going to show Mama 
+\emph on
+everything
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I snapped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Every last thing.
+ I can't make you love me but you don't have to be 
+\emph on
+horrible
+\emph default
+ to me! You're still my 
+\emph on
+daddy!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We were well into the countryside.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice!
+\begin_inset Quotes erd
+\end_inset
+
+ hollered Daddy, and he scowled at me, probably because I'd make him invisible
+ to her.
+ I felt a hot tear creeping down my cheek.
+ Why did I even 
+\emph on
+do
+\emph default
+ that stupid jailbreak? Why bother? When I'd...
+ somehow...
+ gotten past Saeed, why hadn't I just left the compound by myself and gone
+ for help that 
+\emph on
+hadn't
+\emph default
+ had 
+\emph on
+this
+\emph default
+ done to them? I could have probably got to Ireland under my own power,
+ even if none of my phone numbers worked, and then I could have tried to
+ find Gianna and Maggie and Ilario and gotten new phone numbers if nothing
+ else, and then I could have called Grandpa Carlisle and he would have bought
+ me a plane ticket and I would have been wherever they were living in less
+ than a 
+\emph on
+day
+\emph default
+ and nobody would have been the 
+\emph on
+least bit
+\emph default
+ horrible to me.
+ 
+\end_layout
+
+\begin_layout Standard
+I felt a sudden fear for what Mama would be like, with Daddy back in her
+ life.
+ 
+\end_layout
+
+\begin_layout Standard
+Did she love me because I was 
+\emph on
+her
+\emph default
+ daughter? 
+\end_layout
+
+\begin_layout Standard
+Or because I was 
+\emph on
+his
+\emph default
+? 
+\end_layout
+
+\begin_layout Standard
+Would she have any use for me with this 
+\emph on
+jerk
+\emph default
+ around being 
+\emph on
+magically bonded to her
+\emph default
+? 
+\end_layout
+
+\begin_layout Standard
+Daddy didn't react to my thoughts this time, not even to roll his eyes.
+ I looked ahead, and thought I saw a sparkling shape hurtling away from
+ us, but we were gaining.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice!
+\begin_inset Quotes erd
+\end_inset
+
+ I shouted, wondering if I'd be harder to ignore.
+ 
+\end_layout
+
+\begin_layout Standard
+Either I was better at getting attention or we'd just gotten closer in the
+ past second.
+ Alice turned her head, but didn't stop running.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They'll use wolves! I'm better at noticing those coming than you are!
+\begin_inset Quotes erd
+\end_inset
+
+ bellowed Daddy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll help you make it to Jasper if you'll help me find Bella after that!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Alice still didn't stop, but she slowed down a little, and let us catch
+ up.
+ She looked confused when she got a closer look at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ she guessed, neutrally.
+ She had almost no hair left.
+ Otherwise she looked just like I remembered her, only without the smile.
+ She wore a fiercely determined frown instead.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, wondering if Alice would be any nicer to me than Daddy.
+ I wasn't sure what attitude Chelsea left behind after severing a relationship.
+ I might just be seeing how Daddy acted towards strangers, and maybe Alice
+ was nicer to strangers than him.
+ I couldn't remember Mama having much to say about how Daddy acted towards
+ people he had 
+\emph on
+no
+\emph default
+ connection with -- the closest would be Gianna and Ilario, and Mama had
+ been 
+\emph on
+there
+\emph default
+ then and they'd been under the family's protection.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Keep back a little,
+\begin_inset Quotes erd
+\end_inset
+
+ she told Daddy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She'll get in my way.
+ But we can work together.
+\begin_inset Quotes erd
+\end_inset
+
+ He fell behind a few paces, but was close enough to talk, if there was
+ anything to talk about.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where are we going?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked for the second time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was 
+\emph on
+going
+\emph default
+ to make for the west coast and swim for it, deep enough that I'd be impossible
+ to chase with wolves,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice with a twist of annoyance in her voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure what to do with you.
+ Maybe I should go on my own after all.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Perhaps I can help,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\end_layout
+
+\begin_layout Standard
+I noticed, for the first time, that she was running alongside us.
+ She was faster than me -- I couldn't have kept up with Daddy, even at the
+ reduced speed I forced him down to.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Allirea,
+\begin_inset Quotes erd
+\end_inset
+
+ said Daddy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I've been aware of you -- intermittently -- but obviously haven't had the
+ chance to introduce myself.
+ My name is Edward Cullen.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The mind-reader,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Then you know what I want, and what I can give you for it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He nodded once.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+Allirea's power is to fade from notice.
+ It extends to anything that she's doing.
+ If she carries us on an airplane in luggage, no one will pay attention
+ to any of us as long as we're hidden from sight -- she could conceal one
+ of us most of the way in plain view, but not all three, especially not
+ Elspeth.
+ She's sincere about the offer if we help her with what she wants.
+ She wants Demetri killed and can't do it herself, because her power doesn't
+ work on him.
+ We'll probably need to do that anyway, when he catches up with us -- although
+ I think the top recapture priorities will probably be Benjamin and Li-qing,
+ maybe Dwi, not us.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fine,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, and they veered right, heading north to what was presumably
+ the nearest airport.
+ She glanced over her shoulder at Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+remember
+\emph default
+ you,
+\begin_inset Quotes erd
+\end_inset
+
+ she said with a little hiss.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I did not go there willingly,
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said, calmly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Demetri was ready to drag me back if I tried to run.
+ I could no more escape than you could see me coming.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Alice glanced at Daddy, and he nodded, and she accepted the excuse.
+ She at least trusted Daddy, even if she didn't particularly care about
+ him anymore.
+ He cared about her, though, probably second-most out of everybody after
+ my mama.
+ 
+\end_layout
+
+\begin_layout Standard
+I was much farther down the list.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+We waited for Allirea outside a town while she went in to steal suitcases,
+ and clothes for Daddy and Alice.
+ She was back in a few moments.
+ They got dressed, and Alice as the second-strongest and second-fastest
+ carried the suitcases, and we continued to the airport.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't try to chat any more during the run to the airport.
+ No one else did either, after Alice had described to Allirea where we needed
+ to fly.
+ When we got there, we hid behind a van in the parking lot and everyone
+ but Allirea got into a bag.
+ Alice was small enough to fit into a backpack if she scrunched up, which
+ she did; Allirea slung the bag over her arms.
+ Daddy and I were each in wheeled suitcases.
+ I remembered Mama telling me the story of when she'd traveled that way.
+ Allirea left my suitcase unzipped enough that I could breathe easily, but
+ I still thought Mama had probably been more comfortable this way than I
+ had.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Remember,
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said firmly, 
+\begin_inset Quotes eld
+\end_inset
+
+you are stowing onto an airplane.
+ You must not get out of your suitcases.
+ You will get where you need to go.
+\begin_inset Quotes erd
+\end_inset
+
+ She repeated that a few more times.
+ 
+\end_layout
+
+\begin_layout Standard
+Then I was trundling along the ground in my bag, probably being pulled towards
+ my plane by a baggage handler or something, and I didn't remember getting
+ the label that would send me to the right place, but maybe Daddy had taken
+ care of that after I'd gotten in my suitcase and couldn't see what was
+ going on...? I stayed put and was glad I wasn't claustrophobic.
+ 
+\end_layout
+
+\begin_layout Standard
+I smelled the stale odor that airplanes have, and I waited and listened
+ to people talking, and eventually I fell asleep.
+ 
+\end_layout
+
+\begin_layout Standard
+When I woke up, I was still in the suitcase, still on the airplane.
+ I had no idea what time it was, or how my sleep schedule was responding
+ to all the excitement and changes in time zone.
+ Someone had slipped a lot of little packets of peanuts into the bag with
+ me while I slept, though, and I had just enough maneuvering room to open
+ them and shake them into my mouth one bag at a time.
+ They didn't taste very nice, but in sufficient quantity they were filling,
+ and I was hungry.
+ 
+\end_layout
+
+\begin_layout Standard
+The captain announced that we were approaching the Nashville International
+ Airport, and it occurred to me to be scared of Uncle Jasper.
+ Mama had described him as being absolutely out of his mind, and she'd noticed
+ him being wildly moody -- 
+\emph on
+she
+\emph default
+ wouldn't have caught it if he were also using his empathy erratically,
+ since she was immune, but 
+\emph on
+we
+\emph default
+ could.
+ I didn't really like the idea of being made to feel random things by a
+ mad vampire.
+ Maybe I could stay back, or maybe he'd get better instantly when Alice
+ went to him.
+ 
+\end_layout
+
+\begin_layout Standard
+And once we found Jasper it would be time to look for Mama, and I didn't
+ know where she was.
+ 
+\end_layout
+
+\begin_layout Standard
+There were two obvious places we could look for Mama: 
+\end_layout
+
+\begin_layout Standard
+One was with the family, whom she might have contacted on the assumption
+ that Cody would reveal everything to the Volturi anyway.
+ (I didn't think he'd already done it.
+ If he had, somebody would have thought of Mama near enough Daddy that he'd
+ hear, and if 
+\emph on
+any
+\emph default
+ thoughts would get his attention, it would be ones about Mama.
+ Cody himself must not even be within a mile of the main compound, I decided.
+ It would be too much of a coincidence for him to have thought of her 
+\emph on
+not once
+\emph default
+, even with a lot on his mind as he probably had.
+ They might keep him and the wolves out of the way so Adelaide could have
+ a clear view of the place when she borrowed Alice's power.) 
+\end_layout
+
+\begin_layout Standard
+The other was the rendezvous point in San Francisco.
+ She could be hoping that the pack would have gotten away, and me with them,
+ or that Jacob would at least have sent me ahead on my own for safety.
+ And then, if she'd not contacted the family, she would probably wait there
+ for me, because the New York point was blown.
+ I had 
+\emph on
+not
+\emph default
+ told Cody about the Golden Gate Park one.
+ I didn't remember even telling him there 
+\emph on
+was
+\emph default
+ one besides the one in Central Park.
+ 
+\end_layout
+
+\begin_layout Standard
+I decided that Mama was probably more likely to get hold of the family than
+ to just wait in San Francisco.
+ With their help she could have someone ready to meet me there -- Aunt Rosalie,
+ maybe -- but could also get help against the possibility that I had been
+ captured by the Volturi.
+ Which I had, but she wouldn't have expected me to get 
+\emph on
+out
+\emph default
+ again.
+ And she 
+\emph on
+definitely
+\emph default
+ wasn't expecting Daddy or Aunt Alice.
+ 
+\end_layout
+
+\begin_layout Standard
+I wasn't sure where Grandma and Grandpa and Rosalie and Emmett were living,
+ though, since they'd surely moved at least once since I'd last been with
+ them.
+ They called their residences 
+\begin_inset Quotes eld
+\end_inset
+
+permanent
+\begin_inset Quotes erd
+\end_inset
+
+ and often retained the houses for a long time, but tended not to 
+\emph on
+live
+\emph default
+ in them for more than four or five years even without a rapidly growing
+ half-vampire child.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama wouldn't know where they were either.
+ She would have tried all the old phone numbers, but unless one of them
+ was the same as it had been before, she wouldn't get ahold of them.
+ But even without that, she could have gone to Denali, which really 
+\emph on
+is
+\emph default
+ a permanent residence.
+ I tried to estimate how long it would have taken her to get there on foot
+ from New York, but eventually gave up; it would depend too heavily on how
+ careful she thought she needed to be to lose the Volturi contingent.
+ She might be there already, she might be on her way, she might be heading
+ for California instead, I couldn't know.
+ 
+\end_layout
+
+\begin_layout Standard
+I supposed I could just let Daddy be in charge of figuring out how to find
+ Mama.
+ Whether he liked it or not, he was my parent, and I'd spent the last while
+ wishing for a parent to be in charge.
+ 
+\end_layout
+
+\begin_layout Standard
+I wasn't sure I liked the idea anymore, though.
+ 
+\end_layout
+
+\begin_layout Standard
+Even after we found Mama, having Daddy back could make her really 
+\emph on
+different
+\emph default
+, and that scared me.
+ Mama hadn't been Chelseaed -- probably 
+\emph on
+couldn't
+\emph default
+ be Chelseaed -- but with Daddy around, I wouldn't be her top priority anymore.
+ With Daddy around, her life wouldn't revolve exclusively around making
+ me safe and happy.
+ With Daddy around, she would be 
+\emph on
+Daddy's wife
+\emph default
+ before being 
+\emph on
+my Mama
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Then again, the only person whose 
+\emph on
+indelible
+\emph default
+ top priority was me was...
+ Jacob, and I still wasn't very impressed with him.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama had almost certainly gotten away, and could have taken me with her
+ if he hadn't 
+\emph on
+trapped
+\emph default
+ me because he didn't understand how vampires work.
+ 
+\end_layout
+
+\begin_layout Standard
+Then I wouldn't have found Daddy and Alice, but I was having a hard time
+ being very pleased that I had.
+ 
+\end_layout
+
+\begin_layout Standard
+Maybe Mama would make everything better.
+ 
+\end_layout
+
+\begin_layout Standard
+Or maybe it was time to grow up.
+ 
+\end_layout
+
+\begin_layout Standard
+The plane came in for a bouncy landing.
+ My suitcase was pulled out of the plane, and I waited for some sign that
+ it was time to get out.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+By the sounds around me, I guessed that I was in the Nashville airport parking
+ lot at the time I remembered Allirea existed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can come out now,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and I nudged the zipper on my bag out of the way and unfolded
+ with a very welcome stretch, shedding staticky peanut wrappers as I stood.
+ The vampires' bags didn't start partly open, so even though they were faster,
+ I was out first.
+ I watched Alice pop out of her bag in a tremendous hurry, and she hauled
+ Daddy out of his when he wasn't quick enough to suit her.
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea readily abandoned the suitcases, and Daddy picked me up like he
+ would have picked up a sack of vegetables and followed his sister out of
+ the parking lot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Keep 
+\emph on
+back
+\emph default
+ with her,
+\begin_inset Quotes erd
+\end_inset
+
+ snapped Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have to 
+\emph on
+see
+\emph default
+ -- my Jasper, my 
+\emph on
+Jasper
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Daddy fell behind obediently enough, and Alice shot forward.
+ 
+\end_layout
+
+\begin_layout Standard
+Between the two of them, Alice and Daddy were able to avoid our being seen
+ by any humans, although there was some leaping between rooftops involved.
+ Alice ran like she was possessed.
+ We lost sight of her occasionally, although she reined herself in before
+ ever getting out of Daddy's mind-reading range.
+ 
+\end_layout
+
+\begin_layout Standard
+Jasper was sheltering from the daylight in a warehouse that stank of human
+ blood, presumably from the last hunt.
+ Alice hurtled towards her mate, but stopped short.
+ I wondered if he was so convinced she was dead that he might have attacked
+ her for an imposter, had she continued and tried to give him a hug.
+ As it was, he stared.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not again -- I was getting better -- 
+\emph on
+Charlotte, Peter, help
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jasper,
+\begin_inset Quotes erd
+\end_inset
+
+ she whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm alive.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+felt you die
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, twisting his hands in his mane of unkempt hair.
+ 
+\end_layout
+
+\begin_layout Standard
+Daddy stepped forward, setting me on my feet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ he summarized.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Copies powers.
+ You saw her when she was 
+\begin_inset Quotes eld
+\end_inset
+
+wearing
+\begin_inset Quotes erd
+\end_inset
+
+ Jane's, but she can copy anyone -- except Bella
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're dead too!
+\begin_inset Quotes erd
+\end_inset
+
+ shouted Jasper, whirling on Daddy, but he only looked away from Alice for
+ a moment before turning back to her and continuing to stare.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She copied 
+\emph on
+you
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ Daddy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She faked Alice's death for you with your own power.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're dead, both of you, dead
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ He didn't even glance at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Alice
+\emph default
+ -- I kept seeing things, and then they stopped, but it's back again
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Two vampires who I guessed were Charlotte and Peter jogged to his side and
+ stared incredulously at Alice.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell me,
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tell me you can't see her
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can see her,
+\begin_inset Quotes erd
+\end_inset
+
+ said Peter quietly, frowning at Alice and knitting his dark eyebrows.
+ For some reason, he was wearing a suit; trim and urbane, he looked like
+ the diametric opposite of crazed Jasper.
+ Charlotte, all in denim, was Alice's height, though her riot of frizzy
+ yellow-rose curls stood in contrast to my aunt's patches of limp dark hair.
+ She nodded at her mate's statement, wide-eyed.
+ 
+\end_layout
+
+\begin_layout Standard
+Jasper glared at Peter.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're probably a hallucination too,
+\begin_inset Quotes erd
+\end_inset
+
+ he accused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's happened before, you being a hallucination.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jasper,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's my fault, I'm sorry -- I learned to share visions, but I didn't know
+ how to help you understand them -- I'm so sorry.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Jasper just stared at her, pained unbelief written all over his face.
+ 
+\end_layout
+
+\begin_layout Standard
+I decided to be useful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's alive,
+\begin_inset Quotes erd
+\end_inset
+
+ I said firmly.
+ 
+\end_layout
+
+\begin_layout Standard
+It is very hard not to believe me when I say true things.
+ Jasper blinked, spared me a half-second's glance, and then took a step
+ forward to cradle Alice's face in his hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\end_layout
+
+\begin_layout Standard
+She looked up at him, and smiled cheekily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jasper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
