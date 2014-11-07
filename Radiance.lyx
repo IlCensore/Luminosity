@@ -118,8 +118,6 @@
 \begin_body
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -164,8 +162,6 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -173,8 +169,6 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -182,8 +176,6 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -226,7 +218,7 @@ Radiance
 
 \begin_layout Standard
 \align center
-Book II
+Luminosity -- Book II
 \end_layout
 
 \begin_layout Standard
@@ -283,8 +275,6 @@ mmxiiii
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -301,8 +291,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -310,8 +298,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -347,7 +333,11 @@ Twilight
 \emph on
 Radiance 
 \emph default
-© Alicorn.
+and 
+\emph on
+Luminosity
+\emph default
+ © Alicorn.
  Published at 
 \begin_inset ERT
 status open
@@ -390,8 +380,6 @@ Consolas
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -399,8 +387,6 @@ Consolas
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -449,8 +435,6 @@ thispagestyle{plain}
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -467,8 +451,6 @@ thispagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -499,8 +481,6 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -508,8 +488,6 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -526,8 +504,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -535,8 +511,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -553,8 +527,6 @@ pagestyle{myheadings}
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-01.lyx"
@@ -572,8 +544,6 @@ filename "Radiance-02.lyx"
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-03.lyx"
