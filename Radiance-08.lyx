@@ -1,0 +1,1977 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Fader
+\end_layout
+
+\begin_layout Standard
+She was nut-brown, lithe and broad-featured with dark hair shaved so close
+ to her head that I couldn't determine its texture.
+ She sat like a wild animal, clinging to the curved stone on the side of
+ Carlo's head where his neck wound was and looking ready to leap or run
+ or fight.
+ There was a little blood on her lips, which she licked off as she returned
+ my gaze with dark, considering eyes, but she hadn't gotten any on the drapey
+ pale green wrap she was wearing.
+ I thought the outfit looked vaguely Indian.
+ But 
+\begin_inset Quotes eld
+\end_inset
+
+drinks blood
+\begin_inset Quotes erd
+\end_inset
+
+ plus 
+\begin_inset Quotes eld
+\end_inset
+
+not pale
+\begin_inset Quotes erd
+\end_inset
+
+ meant 
+\begin_inset Quotes eld
+\end_inset
+
+half-vampire
+\begin_inset Quotes erd
+\end_inset
+
+, and that 
+\emph on
+probably
+\emph default
+ meant one of Nahuel's sisters, and one of them would be Korean and one
+ Swiss and
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Allirea?
+\begin_inset Quotes erd
+\end_inset
+
+ I guessed quietly, and she nodded once, expression unchanging.
+ The Aborigine sister, the witch who could make herself seem irrelevant,
+ which would explain why I hadn't noticed her until she decided to show
+ herself.
+ I sifted through recent memories.
+ I'd definitely 
+\emph on
+seen
+\emph default
+ her.
+ But she hadn't been important then.
+ I would have paid attention to individual grains of grit in the corners
+ of the cell before paying attention to her.
+ Trying to focus on the memories of her from before she'd shown herself
+ felt difficult.
+ They weren't worth remembering, and things that I didn't decide were worth
+ remembering could be forgotten -- I didn't recall if she'd been in the
+ room with me when I'd woken or if she'd come in with Carlo -- 
+\begin_inset Quotes eld
+\end_inset
+
+Did 
+\emph on
+you
+\emph default
+ kill Carlo?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, frowning, trying to think through mud.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You were not going to eat him,
+\begin_inset Quotes erd
+\end_inset
+
+ shrugged Allirea.
+ She had an Australian accent and a matter-of-fact tone.
+ I was mildly surprised about the accent, because I knew she would have
+ been born before Australia was colonized by English-speakers and there
+ was no reason she should have that accent and not another.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He was not going to shut up.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I had a vague idea that I should be upset about that, but surely 
+\emph on
+nothing
+\emph default
+ Allirea had done before letting me notice her was at all important; it
+ was just clutter in my thoughts, she hadn't done anything worth noticing
+ then, that was all.
+ I pushed the useless notion away.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is the guard going to be upset if he hears me talk to you?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+And then she wasn't important anymore, and I sighed and wished the blood
+ didn't smell so good.
+ I picked at a loose thread on my sleeve.
+ I wondered how long without food it would take me to get really impaired
+ by hunger.
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea faded back in, and I blinked at her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You didn't answer my question,
+\begin_inset Quotes erd
+\end_inset
+
+ I recalled vaguely.
+ Well, an answer to my question 
+\emph on
+would
+\emph default
+ have been worth remembering, and I didn't remember it, so she hadn't.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Saeed!
+\begin_inset Quotes erd
+\end_inset
+
+ she yelled.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Allirea?
+\begin_inset Quotes erd
+\end_inset
+
+ asked the guard incredulously.
+ He peered through the window.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The hell are you doing in there?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Demetri will be angry with you if I tell him you put me here,
+\begin_inset Quotes erd
+\end_inset
+
+ she said flatly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't put -- did I?
+\begin_inset Quotes erd
+\end_inset
+
+ said the guard, presumably Saeed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I put you there it's only because you were fading, I didn't 
+\emph on
+mean
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Demetri will not care,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, her voice frosted with an imperious tone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You are not a witch, you are not a useful fighter, you are only a minor
+ guard of little use, and no one will object if he kills you.
+ But perhaps I will not tell him, if you do something for me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you want?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Saeed suspciously.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't let the prisoner out, that would 
+\emph on
+definitely
+\emph default
+ get me killed...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You do not have to let her out,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea, waving a hand.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I would like you to go away for two hours, and let 
+\emph on
+me
+\emph default
+ out when you come back.
+ Obtain for her something that humans eat while you are gone,
+\begin_inset Quotes erd
+\end_inset
+
+ she suggested.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, and take this away.
+\begin_inset Quotes erd
+\end_inset
+
+ She shoved Carlo's corpse, the knuckles of her hand into his shoulder;
+ I was disturbed by the inert way he flopped back to the floor.
+ 
+\end_layout
+
+\begin_layout Standard
+Saeed muttered to himself, but opened the door with his rubber gloves, picked
+ up the dead man by the nearest arm, and tossed him into the hall.
+ It was more of the same dark stone that made up my cell.
+ The angle was wrong for me to see other doors, if there were any.
+ He shut the door, and I heard him dragging Carlo off to whatever fate awaited
+ drained humans.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Allirea waited patiently, perched on the sloped floor, until he wasn't audible
+ anymore.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Saeed is not very attentive.
+ He is a poor guard, and would not have been likely to pay mind to our conversat
+ion even if I faded in and we spoke loudly.
+ But now he is gone.
+ I have been observing you.
+ Did you know that your dreams leak out of your hands when you sleep?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said uncomfortably.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why have you been, uh, observing me?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea has not touched you yet,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She is very busy with the new wolves, who must be molded as a unit.
+ So
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are the wolves okay?
+\begin_inset Quotes erd
+\end_inset
+
+ I interrupted.
+ Allirea hadn't done anything hostile, so she might tell me, and I was worried
+ about the pack too, although they were a distant second compared to Mama.
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The puppies are in the nursery with the others, the wolves and the women
+ are being seen to by Alec and Chelsea.
+ While Alec is still there, there is something I need help with.
+ Will you help me?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+After sparing a moment to wince at the idea of Chelsea working her witchcraft
+ on the pack, I blinked at Allirea's request.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think I can do very much.
+ I'm in a prison cell.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea waved a hand as though this were trivial.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can shelter you in my magic enough to let you walk out with me when Saeed
+ returns to let me out.
+ If my plan works, we will be able to escape afterwards.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+We
+\emph default
+ can escape?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, confused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You and me? Why would you want to leave? It sounded like Demetri was your
+ mate.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+She leaned forward, sudden intensity sparking her eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+I
+\emph default
+ am 
+\emph on
+his
+\emph default
+ mate,
+\begin_inset Quotes erd
+\end_inset
+
+ she snarled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But you and I, the hybrids, the master race, do not have those ties, those
+ obsessions, those insanities.
+ Only wolf men, and vampires, have that parasite in their minds.
+ Like 
+\emph on
+Demetri
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ She spat his name.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And this means that I cannot fade from his notice, there is no magic that
+ will let him ignore me, no distraction that will let him deem me unimportant,
+ no plea that will make him leave me alone, and he can find me anywhere,
+ track me to any corner of the earth, and he is faster than me and stronger.
+ The Volturi value him and will not be deprived of his service for the sake
+ of my will or my sanity, and so while I can threaten 
+\emph on
+idiots
+\emph default
+ like Saeed with his wrath and make good on the threat if I am willing to
+ play the part of the wronged mate for a while, I am no freer than you are.
+ I could walk out, yes, pass unnoticed through the front door and run wherever
+ I liked, but he would find me and think I meant only to play a game with
+ him and he would pick me up and laugh at my screams and claim his 
+\emph on
+prize
+\emph default
+ and carry me back to Volterra.
+ I run away often.
+ He 
+\emph on
+finds
+\emph default
+ me, always.
+ This time I want to kill him.
+ I will give you anything it is in my power to give if you will help me
+ 
+\emph on
+kill him
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+A very ugly scenario spun into view in my mind, and I thought of the sickening
+ sounds of a laughing vampire and a screaming girl who couldn't convince
+ him that he wasn't welcome, that she didn't feel the way he did, that it
+ wasn't symmetrical and fated and perfect.
+ Trying to avoid imagining any finer detail of that -- 
+\emph on
+that
+\emph default
+, which I could vaguely understand I had only escaped by the sheer luck
+ that Jacob was not a psychopath, which Allirea could not 
+\emph on
+possibly
+\emph default
+ deserve even if she killed people (and she probably did) -- I said instead,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Master race?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea calmed a little and shrugged at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It is what Father calls us.
+ His purpose in conceiving me and my sisters and our brother.
+ We are born, not made; we have the recourse of sleep; we can survive on
+ different foods if we must; we can bear children.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+That last was startling.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We can
+\begin_inset space ~
+\end_inset
+
+--?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+By humans or vampires, either,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea, twisting her mouth into a grimace.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Perhaps by wolves, but that I have not tried.
+\begin_inset Quotes erd
+\end_inset
+
+ I shivered at the implications that she'd 
+\begin_inset Quotes eld
+\end_inset
+
+tried
+\begin_inset Quotes erd
+\end_inset
+
+ with a vampire -- probably a specific vampire.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have three, by humans, and they are much like us, a little slower perhaps.
+ I managed to kill 
+\emph on
+his
+\emph default
+ children before they were born, my small revenge, but Noemi once took a
+ vampire lover -- not a mate, only a momentary interest -- and her son is
+ also quite like us, a little faster, less willing to eat plants and other
+ repulsive items.
+ We do have time to talk about these things,
+\begin_inset Quotes erd
+\end_inset
+
+ she added, 
+\begin_inset Quotes eld
+\end_inset
+
+but first I want to know if you will help me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've never killed anyone,
+\begin_inset Quotes erd
+\end_inset
+
+ I said meekly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I -- I don't think I can.
+ Not just because it's killing someone, but he's a 
+\emph on
+vampire
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We can kill vampires, given the opportunity,
+\begin_inset Quotes erd
+\end_inset
+
+ she assured me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Teeth and matches and the element of surprise.
+ That last is my weapon.
+ Anyone other than 
+\emph on
+Demetri
+\emph default
+ may think me unimportant even as I take them apart -- though Renata can
+ turn me aside without knowing I am present, and Marcus can see me coming
+ by the threads of relationships that are only half-me, and even I find
+ Adalheid
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Heidi?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She goes by that, yes.
+ Adalheid is too beautiful to kill, and I am not immune to Chelsea anyway
+ or I think I would have managed to slaughter the whole of the guard for
+ their crimes of inaction against me.
+ But my plan does not call for you to try to kill Demetri, not by yourself.
+ The trouble is that I think your power fights mine.
+ I've tried to fade you, while you were asleep, and could not shelter you
+ from notice half so well as I can others.
+ Do you know how to make your...
+ 
+\emph on
+self
+\emph default
+ stop 
+\emph on
+announcing
+\emph default
+ itself so loudly?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you don't I can kill Saeed and we might escape that way...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It calms down when I lie,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The less truth in something I say -- about myself, not just about anything
+ necessarily -- the less it works.
+ Like -- 
+\begin_inset Quotes eld
+\end_inset
+
+My name is Jennifer, I'm from Memphis.
+\begin_inset Quotes erd
+\end_inset
+
+ Did that tone it down enough?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not Jennifer and I've never even 
+\emph on
+been
+\emph default
+ to Memphis.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It helped,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Probably enough to get us out without my having to kill Saeed.
+ You will need to mutter lies constantly, though.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If...
+ if you're not immune to Chelsea, how can you still hate Demetri?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, drawing my eyebrows together in puzzlement.
+ 
+\end_layout
+
+\begin_layout Standard
+She drew in a hiss through her teeth.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She needs something to begin with, material to sculpt her products out of.
+ With Adelaide's help she
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Adelaide?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do not call her by her 
+\emph on
+ridiculous
+\emph default
+ nicknames,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea derisively.
+ Nicknames? 
+\emph on
+Addy?
+\emph default
+ I guessed silently, thinking of the witch by that name Mama had told me
+ about.
+ 
+\emph on
+Del? If they're the same person...
+
+\emph default
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nicknames are for children.
+ When 
+\emph on
+Adelaide
+\emph default
+ helps, when she copies Chelsea and they work together, they are much more
+ powerful than Chelsea alone, but there still must be a seed of something
+ to coax it into bloom.
+ I had a week to learn to hate Demetri before I was ever near Chelsea, and
+ there are no seeds.
+ I have made 
+\emph on
+very sure
+\emph default
+ that there are no seeds, because more than anything I am terrified of becoming
+ 
+\emph on
+attached
+\emph default
+ to him and losing any hope of revenge or freedom.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ My head was spinning with all the new information, and with the necessity
+ of forcing down awful thoughts about Allirea and Demetri, and trying to
+ think of sufficiently false things to say that they'd suppress my witchcraft
+ and let Allirea hide me for her plan -- 
+\begin_inset Quotes eld
+\end_inset
+
+What's your plan?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alec is holding the wolves and their women while Chelsea works on them,
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You are not one of the wolves, who must be handled as a group, and you are
+ not a weak and easily-molded human, so you are set aside to be separately
+ handled.
+ While Alec does work there, though, he does not watch over the witches
+ in the dungeon.
+ Often they are kept in pieces, but it has come time to feed them, and for
+ that they must be whole, though not necessarily awake.
+ Adelaide has borrowed Alec's power, and is keeping them unconscious while
+ they are fed, which is a tedious process.
+ Adalheid must bring extra prey, make several trips far afield.
+ The guard given the task of feeding the witches must satiate themselves
+ as much as possible so they can handle the blood without drinking it themselves.
+ The witches' food must be extracted from the prey, the food poured into
+ the witches' mouths by funnel and
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait, 
+\emph on
+what
+\emph default
+? Witches in the dungeon?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked incredulously, interrupting the gruesome description of how to
+ feed an unconscious vampire.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+With Adelaide, it is not necessary to win a witch's allegiance before he
+ or she can be useful to the Volturi,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Even a witch with no seeds of loyalty for Chelsea to coax into flower can
+ be copied.
+ So of course such witches are broken into fragments, and allowed to heal
+ and feed under Alec's -- or Adelaide's -- supervision before being broken
+ again.
+ But 
+\emph on
+now
+\emph default
+, they are whole, and not watched by Alec himself, and with 
+\emph on
+your
+\emph default
+ help there will be a jailbreak.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't understand what I can do,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Suppose,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea, 
+\begin_inset Quotes eld
+\end_inset
+
+that I go into the dungeon, faded as far as I can fade, and I tap Adelaide
+ on the hand.
+ She will copy my power and lose Alec's, and the witches will wake.
+ But then she will be able to fade and, unnoticed, break the witches into
+ pieces again.
+ She will borrow their powers in place of mine as she does so, of course,
+ but these are powerful, prized witches, and Adelaide is more than clever
+ enough to use the surprise my fading will give her to put them all down
+ in the right order.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I was starting to see.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But my power is completely harmless.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Precisely,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I will fade 
+\emph on
+you
+\emph default
+ as much as I can, and you will mutter lies to force your loud power down,
+ and 
+\emph on
+you
+\emph default
+ will tap Adelaide on the hand.
+ She will have no advantage over the witches at all.
+ At least some of them will escape their confinement, and freshly fed, they
+ will have the strength to break out and scatter.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you're hoping that...
+ one of the witches will be glad we did this and want to help you with Demetri?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, finding the plan ingenious but not really clear on what purpose
+ it served beyond freeing the prisoners.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I cannot plan on that; Chelsea has been unable to make these prisoners loyal
+ to the Volturi, but she has cut every other tie she can, and that would
+ not leave them sociable enough that I expect their gratitude.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then why do you want to do this?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What I expect is that when Demetri gets back, his next task will be to search
+ for the escaped witches 
+\emph on
+before
+\emph default
+ he is permitted to look for me,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea viciously.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I run away often, after all.
+ I am always found and brought 
+\emph on
+home
+\emph default
+ again.
+ I can be left waiting for him to retrieve me -- but the secret of the witches
+ in the dungeon is one the Volturi have tried hard to keep.
+ It improves their reputation, when every coven that has seen Adelaide reports
+ on her as bearing a different terrifying power.
+ It maintains their facade of authority, when they are still rumored to
+ kill those who defy them and leave lie those who obey their laws, rather
+ than this half-death inflicted for greed and not justice.
+ And so it will be very urgent that the witches be found and brought back,
+ and Demetri is the tracker.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So this is to give you a longer
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea, and her voice was alive with a strange glee.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not entirely.
+ Time is important, but not all I want.
+ 
+\emph on
+You
+\emph default
+ must know vampires.
+ Vampires who could help me.
+ Or who would at least be defensive when Demetri turned up in their territory,
+ alone because he has never needed help to capture me, and looking for someone
+ that they do not acknowledge to be present.
+ They might kill him.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Oh.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ It was an elaborate plan, but if Allirea could fade me well enough to let
+ me walk out of my cell, she could probably do it well enought that it would
+ be safe for me to try her plan.
+ 
+\end_layout
+
+\begin_layout Standard
+And I 
+\emph on
+do
+\emph default
+ know vampires.
+ 
+\end_layout
+
+\begin_layout Standard
+I am supposed to call for help, if I run into trouble I can't handle on
+ my own.
+ 
+\end_layout
+
+\begin_layout Standard
+Being captured by the Volturi and likely to be Chelseaed at any moment seemed
+ like it might be that sort of trouble.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll help you,
+\begin_inset Quotes erd
+\end_inset
+
+ I told Allirea, and she gave me a savage grin.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Remember,
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said for the tenth time, 
+\begin_inset Quotes eld
+\end_inset
+
+you will not be able to think of me when I fade, and I can only shelter
+ you while I am doing so for myself.
+ You must form these plans without me there to remind you, you must mutter
+ the lies to 
+\emph on
+yourself
+\emph default
+, you must intend to walk past Saeed and by the path I described to the
+ dungeons without waiting for me to 
+\emph on
+show up
+\emph default
+, you must walk in as though alone and touch Adelaide without remembering
+ quite how you are able to do it.
+ You must 
+\emph on
+mean
+\emph default
+ to do all this enough that you actually will, when you cannot remember
+ what lets you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I understand,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, for the tenth time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Repeat what you will do,
+\begin_inset Quotes erd
+\end_inset
+
+ she insisted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When Saeed opens the door, I start muttering lies under my breath and don't
+ stop,
+\begin_inset Quotes erd
+\end_inset
+
+ I recited.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I walk right past him, and go briskly but not at a run to the door at the
+ end of the hall.
+ I open the door, go down two flights of stairs, turn right, open the third
+ door on the left, and walk in, staying 
+\emph on
+behind
+\emph default
+ the part of the room where the witches are so I don't walk into the field
+ of unconsciousness.
+ They won't notice me and I should accept that and not try to get attention
+ in any way.
+ I wait until the guard feeding the witches feeds the last one.
+ Before he starts breaking the witches again, I touch Adelaide.
+ There will be pandemonium but I have to keep muttering lies.
+ Then I will be picked up and carried out of the compound and out of the
+ city, and this won't seem important and I shouldn't try to stop it.
+ I should keep up with the lying until I remember why I'm doing it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good,
+\begin_inset Quotes erd
+\end_inset
+
+ said Allirea, letting out a breath.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Say it again.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I rolled my eyes and repeated the instructions again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can remember things I think are worth remembering just like you can,
+\begin_inset Quotes erd
+\end_inset
+
+ I told her.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Even a vampire would have some trouble with this,
+\begin_inset Quotes erd
+\end_inset
+
+ Allirea said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Saeed is only going to be able to let me out because he has years' worth
+ of experience being punished by Demetri every time he ignores this sort
+ of intention.
+ It is not your 
+\emph on
+memory
+\emph default
+ I affect, not directly.
+ Only your judgment about what is worth remembering.
+ You will remember all the instructions, but you must fully intend to carry
+ them out and be comfortable with forgetting 
+\emph on
+why
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I frowned, but repeated the plan again, resolving as firmly as I knew how
+ to take each step.
+ 
+\end_layout
+
+\begin_layout Standard
+After the two hours Saeed had been told to spend out of earshot, I heard
+ his footsteps -- soft clunky noises of rocky vampire feet on the stone
+ floor.
+ He opened the door and threw me a paper bag with a grease stain on it --
+ my food -- and I was supposed to be lying, but I was 
+\emph on
+really hungry
+\emph default
+, and I couldn't do a lot of lying with my mouth full, and eating seemed
+ like a higher priority.
+ I opened the bag and popped something that looked like a croquette into
+ my mouth.
+ But I did need to walk out of the room and I needed to start muttering
+ lies first.
+ For some reason.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm a polar bear,
+\begin_inset Quotes erd
+\end_inset
+
+ I mumbled with my mouth full, and I climbed out of the bowl of the floor
+ and past Saeed, who seemed to be trying and failing to fix his eyes on
+ me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was born in Panama,
+\begin_inset Quotes erd
+\end_inset
+
+ I lied under my breath, and started for the door at the end of the hallway,
+ briskly, but not at a run.
+ I didn't really have a reason to go at that speed, but I didn't have a
+ reason to go at any other speed, either, so it would do.
+ I ate another croquette.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I spend my free time figure-skating.
+ I've never been to Michigan in my life.
+ I can't swim.
+\begin_inset Quotes erd
+\end_inset
+
+ Down one flight of stairs, I started on another.
+ Maybe this was the way out? I didn't know why I'd have the layout of the
+ Volturi compound memorized, though.
+ Mama hadn't explored the whole thing, let alone told me about it all.
+ There were windows, out of which I could see a sunny sky.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I've never met a werewolf before, it is dark outside, I have six legs
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Down the second flight of stairs.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned right.
+ It seemed like a sensible direction to try.
+ If I still couldn't remember what I was looking for when I got to the end
+ of this route I could always try another, I reasoned.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I won a hot air balloon race last week.
+ I have nine thousand pairs of shoes...
+\begin_inset Quotes erd
+\end_inset
+
+ I reached the third door on the left, and turned the handle.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm a paraplegic.
+ My name is Tamara.
+ I work in accounts receivable...
+\begin_inset Quotes erd
+\end_inset
+
+ I giggled, and then had the idea that might not be wise to giggle when
+ I was supposed to be keeping up with the lies.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't just giggle,
+\begin_inset Quotes erd
+\end_inset
+
+ I announced softly, and surveyed the room.
+ 
+\end_layout
+
+\begin_layout Standard
+The room was about thirty feet long and half as wide.
+ At the end near the door, facing the rest of the room, stood a plump vampire
+ woman in a flower-patterned skirt and a T-shirt from the Associazione Volontari
+ Italiani Sangue.
+ I nearly burst out laughing, but instead told myself severely, 
+\begin_inset Quotes eld
+\end_inset
+
+That is not even a 
+\emph on
+little
+\emph default
+ funny.
+\begin_inset Quotes erd
+\end_inset
+
+ Her eyes were burgundy, and sat in an innocuously bored-looking face.
+ She had her brown hair in a careless bun, and if I'd seen her walking down
+ the street in some more normal context with normal-colored eyes, I would
+ have suspected she was a housewife.
+ Given her actual location I thought she was probably Adelaide.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm a stockbroker,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured, moving carefully along the wall behind her so I wouldn't get
+ in the way of the Alec-field she projected.
+ 
+\end_layout
+
+\begin_layout Standard
+The other vampire moving about in the room, wrapped up in a Volturi cowl
+ with the hood shadowing his face, was taking some care to keep out of the
+ way too.
+ He was hugging the walls as he walked.
+ He held the funnel through which he was feeding the prisoners, and the
+ container full of blood he poured through it, with long tongs.
+ I glanced down at the witches.
+ 
+\end_layout
+
+\begin_layout Standard
+None of them had any clothes on.
+ That made sense, since they were just going to be shattered into tiny pieces
+ which couldn't wear clothes again -- or rather they would be if I didn't
+ have my plan -- I was pretty sure my plan involved the witches not being
+ broken into tiny pieces.
+ I wasn't too disturbed by that, after a few days living with the wolves
+ and their occasional carelessness.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I am 
+\emph on
+deeply offended
+\emph default
+ by all this nudity,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+What 
+\emph on
+was
+\emph default
+ disturbing was the lifeless way they were laid on the floor.
+ They had their eyes open, glassy unseeing red or black stares pointed in
+ no direction in particular.
+ Most of them had their hair in patches, a casualty of the frequent breaking
+ and rebreaking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's nothing horrible about that at all,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ I looked away again; the one witch's face I'd looked at closely was enough
+ to tell me that I didn't like to watch them.
+ I counted feet instead, and there were sixteen pairs of feet in two rows,
+ facing towards the middle of the room.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm a zookeeper who works with pandas,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I burst into flames in the sunlight, I run a flea circus, I'm going to run
+ away and 
+\emph on
+join
+\emph default
+ the circus, I'm 
+\emph on
+not
+\emph default
+ running out of ideas for things to say -- I'm ten years old, I'm eleven,
+ I'm twelve
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I continued counting up, mechanically, and bolted down a croquette every
+ five sentences while waiting for the guard feeding the witches to finish.
+ He was nearly through, only one more witch to pour blood into -- the same
+ one I'd looked at, with an olive tinge to his skin and a square jaw, nearest
+ the door.
+ I was claiming to be seventy-six when the last of the liquid was tipped
+ into his mouth.
+ It looked like swallowing was a reflex that Alec's power didn't affect.
+ 
+\end_layout
+
+\begin_layout Standard
+I was supposed to do something, when the last witch was fed.
+ I had this memorized.
+ I consulted my memory, still counting.
+ The guard put down the container that had held the blood and the funnel,
+ and picked up what looked like a long-handled 
+\emph on
+saw
+\emph default
+, except its teeth were real teeth -- vampire teeth, I supposed, sharp enough
+ to incapacitate a vampire at a distance so the guard wouldn't fall prone
+ like the victim.
+ I shivered and tried not to wonder who the teeth had belonged to.
+ He hefted the saw, looked to Adelaide for confirmation
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+I remembered what I was supposed to do and reached forward to touch Adelaide's
+ elbow.
+ 
+\end_layout
+
+\begin_layout Standard
+Pandemonium, as expected, broke out.
+ 
+\end_layout
+
+\begin_layout Standard
+Adelaide made a choking sound, and there was a flurry of movement from the
+ witches as they sprang into alert postures.
+ The guard's saw was knocked out of his hand and I had to duck it as it
+ went flying, and there was a horrible screeching as he was ripped apart
+ by vengeful witches.
+ Most of them bolted for the door, but one man 
+\emph on
+vanished
+\emph default
+ and two were cooperating on grinding the guard to dust first.
+ All of them had the sense not to touch Adelaide, who looked very confused
+ and was no faster than they were.
+ She reached out for one, but he kicked her in the stomach and she hit the
+ wall behind her, and her shirt got in the way of a power transfer.
+ 
+\end_layout
+
+\begin_layout Standard
+I said I was eighty-five, and then glanced over at the witches who remained.
+ The two who'd dismantled the guard dropped the last fragments and raced
+ out of the room after the others.
+ One was just standing there, staring into space nearly as glazedly as if
+ he were still affected by Alec's power.
+ 
+\end_layout
+
+\begin_layout Standard
+I stopped in the middle of the word 
+\begin_inset Quotes eld
+\end_inset
+
+eighty-six
+\begin_inset Quotes erd
+\end_inset
+
+, and spluttered, and looked again at his face.
+ At the color of the patches of hair he had left.
+ At his 
+\emph on
+face
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Daddy,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and that was not a lie, and Adelaide spun and looked at me.
+ 
+\end_layout
+
+\begin_layout Standard
+Daddy looked at me too, red-eyed, and absolutely indifferent.
+\end_layout
+
+\end_body
+\end_document

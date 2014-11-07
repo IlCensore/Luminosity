@@ -1,0 +1,1736 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Prisoner
+\end_layout
+
+\begin_layout Standard
+I grabbed Pera's arm and pulled her away, but I'm not fast enough to get
+ prey out of the path of a vampire, and I think Mama might have killed her.
+ Two things prevented that.
+ One, Brady -- and the other wolves -- leapt forward as soon as Mama moved,
+ and two, Mama checked 
+\emph on
+herself
+\emph default
+, jerking away from the attack.
+ The wolves were on her an instant later.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+No
+\emph default
+, don't, don't hurt her, just hold her, I don't know what's wrong, 
+\emph on
+don't hurt her
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I shrieked.
+ I couldn't see past the huge furred shapes, but I distinctly heard an awful
+ screeching noise...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Don't hurt her don't hurt her don't hurt her
+\begin_inset space ~
+\end_inset
+
+--
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+A grey wolf with white frost to his fur was knocked out of the press of
+ the pack against Mama.
+ That was Brady, I knew, but I didn't see who'd pushed him aside.
+ He snarled, but didn't get up.
+ 
+\end_layout
+
+\begin_layout Standard
+A few more wolves stepped back, until there were only four, each pinning
+ one of Mama's limbs with his forepaws.
+ Rust-brown Jacob had her right arm, Victor's ochre paws covered her left,
+ inky-black Sam and chocolate Quil held a leg each.
+ It didn't look like Mama was broken, or if something had been fractured,
+ it had knitted at once.
+ Mama looked stunned, and wasn't breathing.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What happened?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked her in a small voice.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Singer
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ she choked on too little air, and didn't breathe again.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned to Pera, who was cowering against a tree.
+ Brady whined, but must have been commanded to stay down, because he didn't
+ get up and go to her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pera, you have to unhide her,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Pera shuddered ungracefully, and clearly didn't want to get anywhere near
+ Mama as her witchcraft required.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just do it, then it'll be safe,
+\begin_inset Quotes erd
+\end_inset
+
+ I pleaded.
+ 
+\end_layout
+
+\begin_layout Standard
+Emily approached Pera and helped her up, gently leading her towards Mama.
+ Pera gingerly touched one of Mama's feet, poking out from beneath Sam's
+ claws, and Mama vanished and the four wolves tipped forward a few inches
+ onto the ground.
+ 
+\end_layout
+
+\begin_layout Standard
+Brady phased.
+ Usually the wolves would trot off behind cover with a set of clothes to
+ do that, but they weren't always careful, and I wasn't stunned or scarred
+ for life by it after a few days living with the pack.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What,
+\begin_inset Quotes erd
+\end_inset
+
+ he growled, 
+\begin_inset Quotes eld
+\end_inset
+
+was 
+\emph on
+that
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't know,
+\begin_inset Quotes erd
+\end_inset
+
+ I promised, 
+\begin_inset Quotes eld
+\end_inset
+
+I couldn't have, and she couldn't either -- but um -- vampires sometimes
+ find that a specific person smells much better than others, and Pera was
+ bleeding already...
+ that's what a 
+\begin_inset Quotes eld
+\end_inset
+
+singer
+\begin_inset Quotes erd
+\end_inset
+
+ is, a person like that.
+ She didn't 
+\emph on
+mean
+\emph default
+ to hurt you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, turning to Pera, who was still shivering, and staring at something
+ I couldn't see -- probably Mama.
+ 
+\end_layout
+
+\begin_layout Standard
+Zachary had trotted over towards where the clothes were kept, and he flung
+ a pair of pants at Brady, who put them on and went to wrap his arms around
+ Pera.
+ She leaned on him and didn't speak; he murmured comfort in her ear.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Please unhide me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, walking towards Pera.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have to talk to Mama and
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jacob's voice from behind me.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned around slowly, bewildered, to see who he was looking at, what other
+ comment he'd responded to, but he was looking right at me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean, 
+\emph on
+no
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, incredulous.
+ 
+\end_layout
+
+\begin_layout Standard
+He shook his head slowly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, she just attacked Pera.
+ I was willing to believe she was safe on your say-so, but she just 
+\emph on
+attacked Pera
+\emph default
+.
+ Nobody unhides until she's gone.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I stared at him, waiting for this pronouncement to turn into a terrible,
+ badly-timed joke.
+ I searched for humor somewhere in his expression, and found none.
+ He was only sad -- but firmly resolved anyway.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's my mama,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's safe.
+ She raised me for five 
+\emph on
+years
+\emph default
+.
+ It's only the singer
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And what if you smell a little too much like Pera, after hanging around
+ her all this time?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Jacob softly, his voice full of sorrow.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What if she hurt you, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama will 
+\emph on
+never
+\emph default
+ hurt me,
+\begin_inset Quotes erd
+\end_inset
+
+ I shouted.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said she wouldn't hurt Pera, either,
+\begin_inset Quotes erd
+\end_inset
+
+ Brady growled, and I turned to look at him over my shoulder.
+ He looked like he wanted to kill somebody.
+ Mama, probably.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There was no way to 
+\emph on
+know
+\emph default
+ that Pera would be her singer,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They're so rare -- Mama's only ever heard of 
+\emph on
+three
+\emph default
+ before
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But it means her control isn't perfect, and I will 
+\emph on
+not
+\emph default
+ have you in danger,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jacob.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not even if you hate me for it.
+\begin_inset Quotes erd
+\end_inset
+
+ He sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can write to her, of course, I think that will be safe enough.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My 
+\emph on
+mama
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's my 
+\emph on
+mama
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I whirled around, daring to hope that Pera would disobey Jacob.
+ She could.
+ It was within her power.
+ But there was no mutiny in her eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned back to Jacob, forcing my power into an almost-visible channel
+ of pleading, but while he still looked terribly sorry to trap me, he didn't
+ budge.
+ 
+\end_layout
+
+\begin_layout Standard
+There's only a couple of things I can do that vampires can't, but one of
+ them is cry.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I didn't let myself cry for long.
+ I could at least 
+\emph on
+write
+\emph default
+ to Mama.
+ I found the pen and the pad of paper, again, and started scribbling.
+ 
+\emph on
+Mama, are you still there?
+\emph default
+ I held up the pen, loosely in my palm, so she could take it if she was.
+ 
+\end_layout
+
+\begin_layout Standard
+The pen lifted out of my hand, and the pad with it, and Mama wrote back
+ in her precise round letters, 
+\emph on
+I'm still here.
+ Is everyone safe? Can you stop hiding?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+We're all safe
+\emph default
+, I wrote, with a glare in Jacob's direction.
+ 
+\emph on
+The singer is the same witch who hides and un-hides people.
+ Jacob will not 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{let}
+\end_layout
+
+\end_inset
+
+ her unhide anyone while you're here because he doesn't think you're safe.
+ Even me.
+ He imprinted on me, Mama,
+\emph default
+ I added belatedly, wishing I could just 
+\emph on
+send
+\emph default
+ her things instead of having to write.
+ Writing is even worse than speaking aloud.
+ 
+\end_layout
+
+\begin_layout Standard
+Mama took the pen, but there was a significant pause before she wrote anything.
+ 
+\emph on
+Apart from not being free to unhide, are you safe, Elspeth?
+\emph default
+ she wrote, finally.
+ 
+\emph on
+They aren't hurting you or harrassing you or otherwise mistreating you apart
+ from that? Jacob isn't pressuring you at all about anything related to
+ the imprint?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Besides that, no,
+\emph default
+ I scrawled back.
+ I have very bad handwriting, and being upset wasn't doing anything to improve
+ it.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Let's continue writing in a tree, where humans will be less likely to see
+ the odd behavior of this pen,
+\emph default
+ she wrote.
+ The pen and paper appeared to float towards and up into the branches of
+ a large, thickly-leafed tree, and I followed.
+ Once Mama found a place that suited her and had given me a few seconds
+ to sit within reach of the writing implements, she wrote, 
+\emph on
+Do you think there is any chance you can convince Jacob to change his mind,
+ or the witch to let you free without his permission?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know.
+ Maybe.
+ Not soon, though.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Please tell me everything that's happened since we were separated,
+\emph default
+ Mama wrote.
+ 
+\end_layout
+
+\begin_layout Standard
+I wrote, haltingly and messily and with the liberal use of margin notes
+ and arrows, about how I had spent the last five days and what I'd learned.
+ I couldn't see Mama reacting, and I hated it, not knowing how she was taking
+ anything I wrote, not knowing if she was disappointed in me for telling
+ all the secrets or for kissing Cody, not knowing if she was angry at Jacob
+ or at Cody or at Pera, not knowing whether she would frown at my summary
+ of the Clearwater children's dialogue or smile at my listing of everyone
+ in the pack.
+ 
+\end_layout
+
+\begin_layout Standard
+Eventually I brought her up to speed, as best I could without being able
+ to show her anything, and she plucked the pen out of my hand and wrote
+ 
+\emph on
+You've had quite a week, Elsie.
+ And I'm not at all convinced that you're safe with the pack as Jacob suggests.
+ Not with the Volturi impatient and willing to get 
+\begin_inset Quotes eld
+\end_inset
+
+creative
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If his motive is really your safety, and it probably is, he can be convinced
+ to let you go.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I wrote, 
+\emph on
+What do you think they'll do?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know for sure,
+\emph default
+ she replied.
+ 
+\emph on
+It's obvious that the Volturi haven't been trying to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{kill}
+\end_layout
+
+\end_inset
+
+ the pack members.
+ That wouldn't be difficult.
+ Things like setting the trees on fire are easy to escape, if it's only
+ a few trees.
+ They could have timed it differently so the camp would be ringed with fire
+ and harder to escape.
+ There has been nothing stopping them from attacking with poison gas or
+ just getting hold of a bomb and setting that off.
+ They've probably been trying to keep Pera alive, and have only harrassed
+ the pack to try to tempt them into giving up.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+That hadn't occurred to me.
+ There were really a 
+\emph on
+lot
+\emph default
+ of indirect, object-based attacks that could go from outside into the hiding
+ place.
+ The fact that the pack was alive -- with no casualties -- after half a
+ decade 
+\emph on
+did
+\emph default
+ seem to mean that the Volturi hadn't wanted them dead.
+ 
+\emph on
+Do you think that's the sort of thing they'll try now?
+\emph default
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Maybe, maybe not.
+ There are other things they could try; I doubt they'd give up a gift like
+ Pera's readily.
+ Send Heidi wandering by and lead Pera where they want her, maybe, since
+ you said Pera can see people whether they're hidden or not.
+ The only reason I can think of why they wouldn't have tried Chelsea already
+ would be if Chelsea can't work across the divide, like you.
+ Perhaps Heidi can't either, but that seems less likely.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But Chelsea can't work on imprinting relationships any more than she can
+ on vampire mates, can she?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She can't work on the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{wolves}
+\end_layout
+
+\end_inset
+
+.
+ I'm given to understand that it has no effect on the imprints themselves,
+ who would accordingly be vulnerable.
+ Did you notice some effect?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No,
+\emph default
+ I wrote.
+ 
+\emph on
+I don't think anything happened to me.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Then it's unlikely that anything happened to the other imprints either.
+ Chelsea should be able to work on them as well as anyone else.
+ Perhaps she has to see who she's affecting, or something like that.
+ I wish I could ask Eleazar.
+
+\emph default
+ The pen paused in its path, tapped twice on the pad, and then wrote, 
+\emph on
+You are almost certainly right about Cody being likely to have his mind
+ read, and that means my survival is going to be known to the Volturi.
+ As long as that's the case, perhaps I may as well tell the family.
+ In any case, we should get out of New York.
+ They'll know to look for us here if we're at all interesting to them.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Why would they want Cody?
+\emph default
+ I wrote.
+ 
+\emph on
+They probably didn't just suddenly decide to let his brother and sister
+ talk to him to be nice.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Probably not
+\emph default
+, Mama agreed.
+ 
+\emph on
+My best guess is they didn't want the pack to be able to turn Pera.
+ Her power could expand considerably if she turned.
+ Even if it was the same, she wouldn't need sleep -- or die of old age or
+ minor injury or illness.
+ It could make them permanently, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{actually}
+\end_layout
+
+\end_inset
+
+ safe, instead of just temporarily inconvenient.
+ Also, if she died she'd be forever unavailable to the Volturi.
+ Based on how long they waited before killing Alice and your father, they
+ can be patient, but Alice and your father were vampires.
+ Cody was the only venomous person in the group.
+
+\emph default
+ It was strange, reading Mama's writing about Daddy without the sadness
+ I associated with it.
+ Her penmanship didn't falter, but I could imagine her face.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Should I show this conversation to Jacob?
+\emph default
+ I frowned to myself, resentful of him and inclined to petulantly deny him
+ my presence.
+ But if he could be convinced to let Pera unhide me, then that was more
+ important than punishing him for having refused in the first place.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yes.
+ You might also mention to him that I was a singer, and survived.
+ Control is possible.
+ If Pera had not had a papercut, or if I'd been expecting her to be a singer,
+ I wouldn't have attacked.
+ There is 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{absolutely no}
+\end_layout
+
+\end_inset
+
+ danger to you if you unhide, even if you smell as much like her as is physicall
+y possible.
+ I will 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{never}
+\end_layout
+
+\end_inset
+
+ hurt you, Elspeth.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I know that,
+\emph default
+ I wrote, a mulish expression on my face.
+ 
+\emph on
+Jacob's just being dumb.
+ I'll go show him this.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I hopped lightly down from the tree and stalked towards the alpha wolf.
+ I thrust the pad under his nose, glaring at him.
+ 
+\end_layout
+
+\begin_layout Standard
+He didn't visibly react to my hostility except for a twitch at the corner
+ of his mouth.
+ He took what I offered, and skimmed the writing.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Heidi?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, when he got to her name.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't know about Heidi?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If nothing else I'd have thought Brady would have told you all about who
+ works for them...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't meet the whole guard,
+\begin_inset Quotes erd
+\end_inset
+
+ Brady said, an edge of a growl in his voice.
+ He was still cradling Pera, who was behaving more like a rag doll than
+ a powerful witch.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just a handful of them.
+ I'm sure there are plenty I didn't hear of.
+ I never met Del until she showed up with Pera, for instance.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+And even if one of them had heard of Heidi, they didn't have perfect memories.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Heidi usually works as the Volturi's hunter,
+\begin_inset Quotes erd
+\end_inset
+
+ I explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's pretty.
+ 
+\emph on
+Magically
+\emph default
+ pretty.
+ People will just follow her around, so they can keep looking at her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Brady drew in a sharp breath between his teeth and placed a hand over Pera's
+ eyes.
+ She didn't protest, just leaned against him more and shivered.
+ I was beginning to see why her power was based around hiding.
+ Jacob said, 
+\begin_inset Quotes eld
+\end_inset
+
+I'll reconsider letting you unhide when we've gotten out of New York.
+ In the meantime
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ The pad of paper was suddenly ripped out of his hands.
+ 
+\emph on
+RUN
+\emph default
+, Mama's writing appeared across it, and then the pad appeared to shred
+ itself.
+ Confetti fell on the grass.
+ My heart leapt into my throat.
+ 
+\emph on
+I am supposed to run -- but I'm supposed to run to 
+\emph default
+here
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hear something,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Pera.
+ 
+\end_layout
+
+\begin_layout Standard
+I turned around, eyes wide, but had no chance to see anything before Jacob
+ barked out, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Split!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+, and then there were several swift 
+\emph on
+floof
+\emph default
+ noises and Jacob actually picked me up by my shirt in his 
+\emph on
+teeth
+\emph default
+ and flung me onto his back, and we ran.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+They caught us anyway.
+ 
+\end_layout
+
+\begin_layout Standard
+Heidi wasn't involved.
+ It was nothing particularly fancy at all.
+ Mama was right about how easy it would have been all along.
+ 
+\end_layout
+
+\begin_layout Standard
+There were nets, first, shot out of the sort of net-shooting gun that I
+ thought only existed on TV.
+ The nets were made of knitted links of metal that couldn't hold the werewolves,
+ but 
+\emph on
+could
+\emph default
+ slow them down long enough for what must have been the smoke of a burnt
+ vampire to knock them all out.
+ There were more than enough nets, probably to compensate for our invisibility,
+ and I was knocked off Jacob's back with the force of the one that caught
+ me in the back.
+ I clawed at it and couldn't tear it.
+ But with concerted effort, I could bite through individual fibers of the
+ net, one at a time, slowly.
+ I nibbled at it as unobtrusively as I could, trying to ignore the unpleasant
+ tang of the metal.
+ 
+\end_layout
+
+\begin_layout Standard
+I couldn't tell how many Volturi were involved in the capture, but it had
+ to be a lot.
+ I saw Pera trying to hide the net one piece at a time to get through it
+ the way she'd get through a hotel door.
+ Surprisingly, no one interfered with this, but once she'd gotten a hole
+ in her net big enough to get out and she unhid, I had no way to see what
+ happened next -- except that it didn't involve saving us.
+ Del, I guessed, and not to be thwarted by a suddenly imprinted wolf this
+ time -- but Del wouldn't be able to unhide 
+\emph on
+me
+\emph default
+, because I'm a witch and her power is involuntary and works by touch and
+ so does Pera's
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+Someone noticed I was chewing a hole in my net, and must have guessed where
+ my head was located by where the hole was growing, and I felt a pain bloom
+ in the back of my neck and fell unconscious.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I think I was knocked out until the time at which I'd naturally sleep, and
+ then I slept, because otherwise I don't know how I got all the way to Italy
+ without waking up.
+ When I woke, I was in a strange sort of cell.
+ 
+\end_layout
+
+\begin_layout Standard
+There were a usual number of walls, made of a usual sort of stone.
+ But they were all sufficiently concave that I couldn't bite into them,
+ or at least not readily; the floor was the same, which made it kind of
+ uncomfortable to sit on because I kept sliding into the middle if I didn't
+ pay attention and brace myself in a corner.
+ There was a door, and it had a tiny square of a window that let in a beam
+ of light, but it had a little sign on it that said 
+\begin_inset Quotes eld
+\end_inset
+
+Warning: High Voltage
+\begin_inset Quotes erd
+\end_inset
+
+ in Italian, and I wasn't quite ready to call its bluff until I had a better
+ idea of my situation.
+ 
+\end_layout
+
+\begin_layout Standard
+Other than that the room was very boring.
+ I seemed unharmed, and nobody was actively threatening me, and Mama
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+Mama had either gotten away or she hadn't, and it had already happened,
+ and I wasn't supposed to worry about her because that would not help.
+ 
+\end_layout
+
+\begin_layout Standard
+I worried anyway, I couldn't 
+\emph on
+not
+\emph default
+.
+ So I paced as best I could on the sunken floor, and I nervously picked
+ at snarls in the inches of my hair past the braid's tie, and I tried to
+ figure out what actual physical action corresponded to 
+\begin_inset Quotes eld
+\end_inset
+
+twiddling one's thumbs
+\begin_inset Quotes erd
+\end_inset
+
+ because I wasn't sure, and then I ran out of ways to worry and I just sat
+ down and let myself slide into the bowl that was the floor of the cell.
+ 
+\end_layout
+
+\begin_layout Standard
+I was lonely.
+ The stranger in the cell with me didn't 
+\emph on
+count
+\emph default
+.
+ I grumbled to myself and eyed the door, but I couldn't tell without touching
+ it if it was really electrified, and I wasn't ready to risk it yet.
+ 
+\end_layout
+
+\begin_layout Standard
+I was hungry, but there was nothing to eat.
+ I was bored, but there was nothing to do.
+ I leaned back against the rock, put my hand against my face, and tried
+ to talk to myself.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't make any progress.
+ I could sign at myself, greetings and the alphabet and random words, in
+ the silent blank place, but it still made me dizzy not to know why 
+\emph on
+this
+\emph default
+ one was signing and 
+\emph on
+that
+\emph default
+ one was not.
+ What distinguished me from myself? What let me break into halves like that?
+ I gave up in favor of another round of pacing, and then I sat down again
+ to watch dust motes float through the shaft of light that pierced the room.
+ 
+\end_layout
+
+\begin_layout Standard
+I was really 
+\emph on
+uncomfortably
+\emph default
+ hungry.
+ My record for how long I'd gone without food before was thirty hours.
+ And 
+\emph on
+that
+\emph default
+ happened when one of my temporary friends had been even more of a morning
+ person than me and had decided to visit me at my hotel room at six in the
+ morning, so I couldn't gracefully leave to hunt and had to wait until he
+ was ready to get lunch at a restaurant with very slow service.
+ I didn't do it on purpose.
+ I don't like being hungry at all.
+ 
+\end_layout
+
+\begin_layout Standard
+I thought perhaps there was a guard outside the cell.
+ Except for the since-healed strike to my head, I hadn't been injured any
+ further.
+ Whatever they wanted might not preclude feeding me.
+ Giving the maybe-electric door a considerable berth, I called, 
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me! I'm hungry!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One sec,
+\begin_inset Quotes erd
+\end_inset
+
+ hollered a man's voice from the hallway.
+ It had the smooth glossy sound I associated with vampire voices.
+ I waited, and not quite a minute later, the little window was shaded by
+ the vampire's face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm gonna open the door,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you try to get out, I'll break your legs off and keep 'em.
+\begin_inset Quotes erd
+\end_inset
+
+ He didn't say it like it was a dire threat worth issuing with gravitas
+ in a deep voice.
+ It was simply what he planned to do if I tried to get out.
+ 
+\end_layout
+
+\begin_layout Standard
+He opened the door (he was wearing rubber gloves, I noticed, so either they
+ cared about the bluff or the door was really electrified) and shoved in
+ a white-faced, trembling teenage human.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I said, but the vampire closed the door.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Wait, I don't eat 
+\emph on
+people
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to bring you a damn gazelle,
+\begin_inset Quotes erd
+\end_inset
+
+ yelled the guard.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Eat him or don't, I don't care.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about human food...?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, rather lost.
+ I didn't think I'd snap from hunger and hurt the human, but it didn't seem
+ likely that they'd haul him out of the cell and turn him loose if I didn't,
+ either.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's a human, he's food, I'm not the pizza guy, shut up,
+\begin_inset Quotes erd
+\end_inset
+
+ snarled the vampire.
+ 
+\end_layout
+
+\begin_layout Standard
+I quieted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you speak English?
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured to the human.
+ He didn't answer me, so I guessed Italian next -- I didn't 
+\emph on
+know
+\emph default
+ I was in Italy, but it was a good guess, and he'd probably been caught
+ locally.
+ He nodded.
+ I went on in Italian.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to hurt you, but I don't know how to get either of us out
+ of here.
+ My name is Elspeth.
+ What's yours?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Carlo,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, eyeing me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The, the beautiful angel led me into the tunnels, but...
+\begin_inset Quotes erd
+\end_inset
+
+ He looked afraid, but there was a glazed look in his eyes like he was still
+ dwelling on the memory of what Heidi looked like when she turned her power
+ up.
+ I assumed the beautiful angel was Heidi, anyway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She is so lovely, how could she do this?
+\begin_inset Quotes erd
+\end_inset
+
+ he moaned.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's her job,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She gets people to follow her, by being pretty, but she's a hunter, not
+ an angel.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But she shone like a jewel, like a 
+\emph on
+seraph
+\emph default
+! Her hair silken strands of mahogany!
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Carlo dazedly.
+ I wasn't sure if his failure to get the point that Heidi's prettiness didn't
+ make her a good person was more to do with her power or his personality,
+ or some combination of both.
+ I was treated to an overwrought description of Heidi's every feature --
+ he claimed her eyes were 
+\begin_inset Quotes eld
+\end_inset
+
+amethyst
+\begin_inset Quotes erd
+\end_inset
+
+, which was an odd choice for a contact lens color; maybe half-melted blue
+ ones showing a little red through? -- and after a few minutes he started
+ screaming, which was a bit odd.
+ 
+\end_layout
+
+\begin_layout Standard
+I peered at him.
+ He looked like he was in pain, but I hadn't hurt him, he hadn't touched
+ the door, I would have heard if he'd hit himself against the stone of the
+ cell...
+ I supposed he could have had a heart attack, but that didn't seem likely
+ in someone his age.
+ The drops of his blood perfuming the air didn't have any scent of disease
+ on them.
+ It was peculiar, really.
+ The 
+\emph on
+only
+\emph default
+ thing that had happened to him since he'd started his description of Heidi
+ was that the stranger in the cell had sunk her teeth into his neck and
+ started sucking his blood.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's wrong?
+\begin_inset Quotes erd
+\end_inset
+
+ I finally thought to ask, but he seemed as confused as I and just gestured
+ jerkily at his throat.
+ A few seconds passed, and he stopped screaming.
+ I touched his wrist and checked his pulse.
+ He was definitely dead.
+ Maybe he'd had a heart attack after all.
+ It wasn't 
+\emph on
+impossible
+\emph default
+ for teenagers, and he was under a lot of stress.
+ That wouldn't have anything to do with his neck, though -- as far as I
+ know.
+ I'm not a doctor.
+ 
+\end_layout
+
+\begin_layout Standard
+I puzzled over this for a few seconds, and then abruptly, the stranger in
+ the cell stopped being unimportant.
+ I swiveled my head and looked at her.
+ 
+\end_layout
+
+\end_body
+\end_document
