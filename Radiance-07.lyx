@@ -171,7 +171,7 @@ Don't hurt her don't hurt her don't hurt her
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -299,15 +299,7 @@ I didn't know,
 I couldn't have, and she couldn't either -- but um -- vampires sometimes
  find that a specific person smells much better than others, and Pera was
  bleeding already...
- that's what a 
-\begin_inset Quotes eld
-\end_inset
-
-singer
-\begin_inset Quotes erd
-\end_inset
-
- is, a person like that.
+ that's what a `singer' is, a person like that.
  She didn't 
 \emph on
 mean
@@ -649,20 +641,8 @@ We're all safe
  
 \emph on
 The singer is the same witch who hides and un-hides people.
- Jacob will not 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{let}
-\end_layout
-
-\end_inset
-
- her unhide anyone while you're here because he doesn't think you're safe.
+ Jacob will not let her unhide anyone while you're here because he doesn't
+ think you're safe.
  Even me.
  He imprinted on me, Mama,
 \emph default
@@ -792,18 +772,9 @@ I don't know for sure,
  
 \emph on
 It's obvious that the Volturi haven't been trying to 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{kill}
-\end_layout
-
-\end_inset
-
+\bar under
+kill
+\bar default
  the pack members.
  That wouldn't be difficult.
  Things like setting the trees on fire are easy to escape, if it's only
@@ -812,7 +783,7 @@ underline{kill}
  and harder to escape.
  There has been nothing stopping them from attacking with poison gas or
  just getting hold of a bomb and setting that off.
- They've probably been trying to keep Pera alive, and have only harrassed
+ They've probably been trying to keep Pera alive, and have only harassed
  the pack to try to tempt them into giving up.
 
 \emph default
@@ -869,20 +840,7 @@ But Chelsea can't work on imprinting relationships any more than she can
 \begin_layout Standard
 
 \emph on
-She can't work on the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{wolves}
-\end_layout
-
-\end_inset
-
-.
+She can't work on the wolves.
  I'm given to understand that it has no effect on the imprints themselves,
  who would accordingly be vulnerable.
  Did you notice some effect?
@@ -953,18 +911,9 @@ My best guess is they didn't want the pack to be able to turn Pera.
  Even if it was the same, she wouldn't need sleep -- or die of old age or
  minor injury or illness.
  It could make them permanently, 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{actually}
-\end_layout
-
-\end_inset
-
+\bar under
+actually
+\bar default
  safe, instead of just temporarily inconvenient.
  Also, if she died she'd be forever unavailable to the Volturi.
  Based on how long they waited before killing Alice and your father, they
@@ -999,33 +948,15 @@ Yes.
  If Pera had not had a papercut, or if I'd been expecting her to be a singer,
  I wouldn't have attacked.
  There is 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{absolutely no}
-\end_layout
-
-\end_inset
-
+\bar under
+absolutely no
+\bar default
  danger to you if you unhide, even if you smell as much like her as is physicall
 y possible.
  I will 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{never}
-\end_layout
-
-\end_inset
-
+\bar under
+never
+\bar default
  hurt you, Elspeth.
 
 \emph default
@@ -1168,8 +1099,10 @@ I'll reconsider letting you unhide when we've gotten out of New York.
  The pad of paper was suddenly ripped out of his hands.
  
 \emph on
-RUN
+\noun on
+Run
 \emph default
+\noun default
 , Mama's writing appeared across it, and then the pad appeared to shred
  itself.
  Confetti fell on the grass.
@@ -1242,7 +1175,11 @@ Heidi wasn't involved.
 
 \begin_layout Standard
 There were nets, first, shot out of the sort of net-shooting gun that I
- thought only existed on TV.
+ thought only existed on 
+\noun on
+tv
+\noun default
+.
  The nets were made of knitted links of metal that couldn't hold the werewolves,
  but 
 \emph on
