@@ -1027,15 +1027,7 @@ I'd rather you didn't tell anybody else,
 \end_inset
 
 Hold it right there.
- By 
-\begin_inset Quotes eld
-\end_inset
-
-anybody else
-\begin_inset Quotes erd
-\end_inset
-
- do you mean 
+ By `anybody else' do you mean 
 \emph on
 anybody
 \emph default
@@ -1667,65 +1659,154 @@ I leaned forward eagerly, and she touched my face and sent.
 \begin_layout Standard
 
 \emph on
-- the last arpeggio, and they all applaud.
+--
+\begin_inset space ~
+\end_inset
+
+the last arpeggio, and they all applaud.
  It was some dozen counts of fraud to be permitted to perform here, but
- this sort of thing can't be arranged just by killing the right people -
- 
+ this sort of thing can't be arranged just by killing the right people
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- up and up and up! This
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+up and up and up!
+\emph default
+ This
 \emph on
  is the way to climb a mountain, unencumbered, really feeling the thin air
  without the troublesome tendency to die of cold or falter from lack of
  oxygen.
  I wonder for a few moments if I could live here all the time, if there
  are enough climbers to sustain me; it's not like they don't die often on
- the trek already - 
+ the trek already
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- he thinks I'm some sort of angel, maybe, glittering like an opal, but
- today I decide to let him live where any other day he'd simply have been
- out of luck; if he tells, who will believe? - 
-\end_layout
 
-\begin_layout Standard
-- the animals all run away from me, of course, so zoology is out, but I
- can still study plants, and in no time I've developed a reputation in the
- department for being willing to go on any field team under any conditions
- to collect specimens or just see
 \emph on
- sufficiently interesting trees - 
+--
+\begin_inset space ~
+\end_inset
+
+he thinks I'm some sort of angel, maybe, glittering like an opal, but today
+ I decide to let him live where any other day he'd simply have been out
+ of luck; if he tells, who will believe?
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- that's the last book in the library, I think the clerk who's been here
- the last several days in a row thinks I'm some kind of obsessive-compulsive
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+the animals all run away from me, of course, so zoology is out, but I can
+ still study plants, and in no time I've developed a reputation in the departmen
+t for being willing to go on any field team under any conditions to collect
+ specimens or just
+\emph default
+ see
+\emph on
+ sufficiently interesting trees
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+that's the last book in the library, I think the clerk who's been here the
+ last several days in a row thinks I'm some kind of obsessive-compulsive
  who needs to turn every page without reading anything, before I can calm
- down - 
+ down
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- the last time I went to Paris was, oh, at least fifty years ago, and then
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+the last time I went to Paris was, oh, at least fifty years ago, and then
  I wasted my time on culinary tourism, sampling food that I can't believe
- I ever found appetizing next to real
+ I ever found appetizing next to
+\emph default
+ real
 \emph on
  flavor.
- This time I want clothes -- do I smell silk? - 
+ This time I want clothes -- do I smell silk?
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- trying to decide on a pen name.
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+trying to decide on a pen name.
  Should I come up with an entire legal identity just for the author to go
  with the piece, or submit it anonymously? Maybe I could tell him that I
  wrote it, see if he'll believe that his rabbity editor could produce work
- like this - 
+ like this
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- graffiti is the highest form of art, I think, because its transgressions
- are real
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+graffiti is the highest form of art, I think, because its transgressions
+ are
+\emph default
+ real
 \emph on
 , not hypothetical.
  I've been at it for years, but this stuff -- 
@@ -1736,11 +1817,25 @@ spray paint
 \begin_inset Quotes erd
 \end_inset
 
- -- I think I like it - 
+ -- I think I like it
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- haven't gone near my son for a decade; I have control enough to be a little
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+haven't gone near my son for a decade; I have control enough to be a
+\emph default
+ little
 \emph on
  choosy about who I go near, who I kill.
  But I can't resist watching him graduate college, so I go, and 
@@ -1750,11 +1845,25 @@ look
  at him, he looks just like me -- just like I always will -- I wonder if
  I should ask her for a favor, to let me be a father to my son ten years
  too late? Would she do it? I haven't the strength to manage it alone, not
- without killing him - 
+ without killing him
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
-- checkmate! It'd be an exaggeration to say I've solved
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+checkmate! It'd be an exaggeration to say I've
+\emph default
+ solved
 \emph on
  chess, but no geriatric chump (a fraction of my age) who I meet in a park
  is going to beat me.
@@ -1763,9 +1872,15 @@ look
  they can defeat me with experience, but I've been the best chess player
  in the world since their great-great-grandparents were in diapers! I take
  his money -- just my stakes, not all of it -- and don't even kill him;
- he's a playmate, not a meal -
+ he's a playmate, not a meal
 \emph default
- 
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+--
 \end_layout
 
 \begin_layout Standard
