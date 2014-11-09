@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{4}
+\setcounter{chapter}{11}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -849,15 +849,7 @@ East is for Rachel's pack, and West is for us -- we're Becky's.
 \begin_inset Quotes eld
 \end_inset
 
-You keep saying 
-\begin_inset Quotes eld
-\end_inset
-
-puppies
-\begin_inset Quotes erd
-\end_inset
-
-...
+You keep saying `puppies'...
 \begin_inset Quotes erd
 \end_inset
 
@@ -936,15 +928,8 @@ We're a field team,
 \end_inset
 
 We're not going to spontaneously imprint, so it's safer to have us running
- all hither and yon -- 
-\begin_inset Quotes eld
-\end_inset
-
-hither and yon
-\begin_inset Quotes erd
-\end_inset
-
-, isn't that funny? Afton says it all the time.
+ all hither and yon -- `hither and yon', isn't that funny? Afton says it
+ all the time.
 \begin_inset Quotes erd
 \end_inset
 
@@ -999,14 +984,7 @@ that's
 \begin_inset Quotes eld
 \end_inset
 
-I don't think I'm any good at talking about the 
-\begin_inset Quotes eld
-\end_inset
-
-grand scheme of things
-\begin_inset Quotes erd
-\end_inset
-
+I don't think I'm any good at talking about the `grand scheme of things'
  and making it sound right.
  Corin does it better.
  Anyway, Chelsea's on our side.
@@ -1039,15 +1017,7 @@ forces of the universe
 \begin_inset Quotes eld
 \end_inset
 
-Corin does the 
-\begin_inset Quotes eld
-\end_inset
-
-forces of the universe
-\begin_inset Quotes erd
-\end_inset
-
- thing better too.
+Corin does the `forces of the universe' thing better too.
  He's got a really 
 \emph on
 grand
@@ -1567,15 +1537,7 @@ The ones who are usually there are Santiago, Corin, Afton, and Felix?
 \end_inset
 
 They're in charge -- they take field teams out and basically run the place
- -- but I don't know about 
-\begin_inset Quotes eld
-\end_inset
-
-usually there
-\begin_inset Quotes erd
-\end_inset
-
- so much.
+ -- but I don't know about `usually there' so much.
  They don't 
 \emph on
 live
@@ -1819,15 +1781,8 @@ I watched children playing hide-and-seek in a brightly furnished playroom
 \begin_inset Quotes eld
 \end_inset
 
-The nickname for it is Nursery if you're being nice and 
-\begin_inset Quotes eld
-\end_inset
-
-Norphanage
-\begin_inset Quotes erd
-\end_inset
-
- if you're not,
+The nickname for it is Nursery if you're being nice and `Norphanage' if
+ you're not,
 \begin_inset Quotes erd
 \end_inset
 
