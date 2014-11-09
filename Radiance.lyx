@@ -603,6 +603,13 @@ filename "Radiance-10.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-11.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

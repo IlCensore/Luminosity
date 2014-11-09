@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{4}
+\setcounter{chapter}{10}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -248,8 +248,8 @@ I had cause to be glad, later, that it wasn't home to me.
 
 \begin_layout Standard
 David was standing outside in front of the houses to receive us; I recognized
- him from a long way off despite the utter nondistinctiveness of his appearance,
- average in every dimension.
+ him from a long way off despite the utter non-distinctiveness of his appearance
+, average in every dimension.
  I flung myself out of Daddy's grip when I saw him and ran over for a hug.
  He looked slightly bemused, but he smiled.
  
@@ -506,34 +506,10 @@ I nodded emphatically and hugged David again.
 \begin_inset Quotes eld
 \end_inset
 
-Should've dubbed you 
-\begin_inset Quotes eld
-\end_inset
-
-hug-bug
-\begin_inset Quotes erd
-\end_inset
-
- instead of 
-\begin_inset Quotes eld
-\end_inset
-
-coppertop
-\begin_inset Quotes erd
-\end_inset
-
-.
+Should've dubbed you `hug-bug' instead of `coppertop'.
  Were you this snuggly when you were a titchy thing? I guess Rosalie carried
  you practically everywhere you went and you always had your arms 'round
- her neck when you weren't 
-\begin_inset Quotes eld
-\end_inset
-
-talking
-\begin_inset Quotes erd
-\end_inset
-
- to her.
+ her neck when you weren't `talking' to her.
  Hey, do you still do the thing where...?
 \begin_inset Quotes erd
 \end_inset
@@ -753,7 +729,11 @@ Elspeth
 \begin_inset Quotes eld
 \end_inset
 
-- traitors!
+--
+\begin_inset space ~
+\end_inset
+
+traitors!
 \begin_inset Quotes erd
 \end_inset
 
@@ -1108,7 +1088,11 @@ Where are we going?
 \begin_inset Quotes eld
 \end_inset
 
-Are we going to find Mama -?
+Are we going to find Mama
+\begin_inset space ~
+\end_inset
+
+--?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1789,7 +1773,11 @@ you
 \begin_inset Quotes eld
 \end_inset
 
-...So...
+...
+\begin_inset space ~
+\end_inset
+
+So...
  your plan is...
 \begin_inset Quotes erd
 \end_inset
