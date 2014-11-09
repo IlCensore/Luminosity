@@ -1,0 +1,1484 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{18}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Helper
+\end_layout
+
+\begin_layout Standard
+The darkness pervaded everything.
+ I couldn't feel my limbs, I couldn't tell if I was breathing, I didn't
+ know if my eyes were open.
+ No pain, no comfort, no warmth, no cold, no up or down, no plain taste
+ of nothing in my mouth, or even the buzz of my own heartbeat.
+ Nothing at all.
+ 
+\end_layout
+
+\begin_layout Standard
+I wondered how long it would take me to go insane.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Alec,
+\emph default
+ I guessed, but while it seemed likely that this was what it felt like (didn't
+ feel like, rather) to be under his blanket of sensory deprivation, I didn't
+ know why he'd be doing it to me.
+ 
+\end_layout
+
+\begin_layout Standard
+Unless somehow -- presumably without Addy's help -- the Volturi were aware
+ of my tinkering with Chelsea's work (I felt a moment of profound stupidity
+ for not trying to get Addy's help directly with that -- hadn't Chelsea
+ been looking at me suspiciously for long enough that I ought to have asked?
+ Wouldn't it be in Addy's interests, at least as she stated them, for Chelsea's
+ suspicions to never get to the point of action as long as I wasn't trying
+ to escape?) and had decided to kill me.
+ 
+\end_layout
+
+\begin_layout Standard
+If they were going to kill me they would kill Jake too - 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Jake
+\emph default
+.
+ He was out of range, of course he was completely out of range, I'd only
+ just acquired 
+\emph on
+any
+\emph default
+ range at all, but maybe I could learn 
+\emph on
+very fast
+\emph default
+.
+ Maybe if I regretted stalling enough, or felt stupid enough for asking
+ about 
+\emph on
+time off
+\emph default
+ when I might 
+\emph on
+need
+\emph default
+ more useful powers later, then I would be magically saved, allowed to time-trav
+el to the past and be more diligent and better and faster.
+ 
+\emph on
+Jake! Jake! JAKEINEEDHELP -
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+My power gave no feedback.
+ If it was working I couldn't tell.
+ We'd never worked on how to target people I couldn't see -- in fact, I
+ didn't even know how I decided to send to someone I wasn't touching; I
+ hadn't thought about it at all.
+ I could be accidentally calling for help to Sulpicia, or some random human
+ in Volterra, or someone else similarly unlikey to benefit me.
+ 
+\end_layout
+
+\begin_layout Standard
+I decided it would be safer to keep trying -- to assume that everything
+ I tried failed and then think of what the next thing to do would be.
+ If shouting for Jake 
+\emph on
+hadn't
+\emph default
+ worked, what would be the next plan? Images were easier, I'd been doing
+ 
+\emph on
+images
+\emph default
+ since I was a 
+\emph on
+baby
+\emph default
+.
+ Memories were easier than made-up pictures.
+ I screamed a visual of myself, the most distressed expression I'd ever
+ seen on my own face in a mirror, and then did it again, and again, ignoring
+ the building tiredness.
+ 
+\end_layout
+
+\begin_layout Standard
+Suppose that hadn't worked.
+ What would be the next thing to try? Talking to someone more nearby --
+ 
+\emph on
+Addy, are you still there?
+\emph default
+ Did she still have my power, or - 
+\end_layout
+
+\begin_layout Standard
+Memories crashed down into my mind.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+- she'll take care of the kids, right? Oh, god, the kids, what if -- seriously,
+ 
+\emph default
+vampires?
+\emph on
+ - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I didn't do it, there's been some mistake! - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+the ball is flying through the air, I'm not going to catch it, they'll win
+ and everyone will laugh at me - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+it hurts, why did they hurt me, why don't they understand? I'll show them,
+ I'll make them stop - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+hail Mary, full of grace - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+hm, I don't have that much -- Pietro! Pietro, I need more flour! - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+the oats are doing well this year, but the turnips - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+well, your
+\emph on
+ daughter has a face like a mule's! - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+Spices, exotic spices from the Orient! - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+he thinks I could become a master one day! That's it, that's the inspiration
+ I needed to work twice as hard - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+pain fire burning it hurts it hurts what do you mean three days
+\emph on
+ it hurts - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+Didyme, my Didyme, my Didyme, how I miss you - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+this dress itches, how am I going to keep from scratching in front of all
+ of Father's friends and on such an important day - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+everyone must love me - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+but Ma, I think I'm in love with her! I can't stop thinking about her -
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I am never
+\emph on
+ having another baby ever again as long as I live god 
+\emph default
+damn
+\emph on
+ this hurts 
+\emph default
+why
+\emph on
+ does anyone do it twice - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I take the flowers and smell them and it's so romantic, except now there's
+ a bee on my nose - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I'm tired, it has been such a long day, do you really need me to deal with
+ this right
+\emph on
+ now or can it wait till morning - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I don't know how to swim! Help! Someone help - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+lay a hand on my mate again and I will destroy you so utterly that the ashes
+ of the ashes of the ashes of your ashes will burn, so help me - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I love you.
+ I will love you for every moment of eternity.
+ Will you do me the honor of marrying me? - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+medical school, really? Mum, of course I'm happy for him - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+they say he is a great man, but I know him for a conqueror and a killer
+ - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I hate this uniform, I hate the way people look at me in this uniform, I
+ hate the way I feel in this uniform, I hate its very buttons
+\emph on
+, why - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+an accomplished lady must be, among other things, competent in the art of
+ conversation - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+claim this land in the name of - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+knit one, purl two - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+cereal again, I'm such a lazy ass, I should at least buy eggs and scramble
+ them once in a damn while - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+welcome to Italy, miss, and enjoy your stay - 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+I think you could eventually learn to hide other people as well as yourself,
+ if you tried - 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Fragments of memories competed for my attention, displacing each other in
+ random sequence.
+ I heard familiar voices and strangers, recalled places I recognized from
+ my travels and ones I'd never seen in my life, watched thoughts march past
+ in a hundred languages that had all acquired eerie familiarity, saw arbitrary
+ snatches of life histories play out in vampire clarity and human blur.
+ 
+\end_layout
+
+\begin_layout Standard
+It was almost a day before I was lucid enough, and had gotten sufficiently
+ accustomed to processing the memories, that I could shove them aside and
+ look at my surroundings in the present.
+ 
+\end_layout
+
+\begin_layout Standard
+Later, I asked Addy what happened, and she showed me: 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Vastly diminished efficacy,
+\emph default
+ I report.
+ 
+\emph on
+Only a few seconds of the thoughts were new, of course -- this will, I expect,
+ be a matter of delay between uses rather than a simple situation where
+ it's only effective against a given target once.
+
+\emph default
+ It hadn't been disorienting at all to touch Aro, even the first time, and
+ receive a much larger payload of memory; but that was a benefit of 
+\emph on
+his
+\emph default
+ power.
+ Very convenient, how he can store memories so neatly, even pruning redundancies
+ when he reads a person for the second time, without his being consciously
+ disturbed by any items he doesn't choose to examine.
+ It's a wonderful power -- and completely 
+\emph on
+still
+\emph default
+, doing only the exact same thing at all times; however he may flutter about
+ envying Edward's range, he didn't work on his talent when it counted.
+ 
+\end_layout
+
+\begin_layout Standard
+His power is a little like mine, actually.
+ Both of us automatically helping ourselves to something of those we touch.
+ Both living mostly vicariously.
+ And to be honest, my 
+\emph on
+native
+\emph default
+ power hasn't changed since I turned and acquired it in magical form in
+ the first place, but given what I can do, that's a technicality; there's
+ a witch born every minute and one turned every month or so.
+ 
+\end_layout
+
+\begin_layout Standard
+Before I have a chance to discourse further on the nature of witchcraft
+ with my pupil, though, the dead, dark blankness of Alec's power creeps
+ over me and I have other things occupying my attention.
+ 
+\end_layout
+
+\begin_layout Standard
+Aro 
+\emph on
+daren't
+\emph default
+ attack me.
+ He might have considered it before; in fact, I'm sure he has.
+ But I've given Elspeth 
+\emph on
+range!
+\emph default
+ I can advertise what he'd rather have kept between us to anyone nearby,
+ even through Alec! 
+\end_layout
+
+\begin_layout Standard
+Just in case Aro really 
+\emph on
+is
+\emph default
+ that stupid, contrary to all evidence, I'll - 
+\end_layout
+
+\begin_layout Standard
+The child is shouting for her wolf.
+ By the current taste of her power, she 
+\emph on
+can
+\emph default
+ aim for him without seeing him, although I doubt she has the strength to
+ make the signal carry that far.
+ But I probably fell on top of her when Alec hit us, and she's still more
+ oriented towards touch; I'm getting copies of everything.
+ It really is a delicious power, and not as harmless as it first appears.
+ 
+\end_layout
+
+\begin_layout Standard
+Hm - 
+\end_layout
+
+\begin_layout Standard
+One of my questions is answered: Aro 
+\emph on
+isn't
+\emph default
+ that stupid.
+ 
+\emph on
+Caius
+\emph default
+ is that 
+\emph on
+ignorant
+\emph default
+.
+ Dwi's voice chimes in my mind.
+ [Caius feels there is reason to mistrust you, and with the witches of your
+ collection all assimilated into our coven save one whom Aro can make use
+ of more directly, you have lost a considerable portion of your usefulness.
+ Do you have anything to say in your defense on either count?] 
+\end_layout
+
+\begin_layout Standard
+Damn it all.
+ 
+\end_layout
+
+\begin_layout Standard
+Caius knows nothing; if I tell him, it would certainly do Aro harm, but
+ take all my leverage away from me; the anarchy that would result might
+ not be any more kindly disposed to me than Caius apparently is.
+ Where 
+\emph on
+is
+\emph default
+ Aro? Perhaps Dwi will tell me -- [Caius? Did he make this decision alone?]
+ 
+\end_layout
+
+\begin_layout Standard
+[Marcus agreed to the plan.] 
+\end_layout
+
+\begin_layout Standard
+Marcus will say anything to make intrusive people go away and leave him
+ to his pining; that's meaningless.
+ Aro's out of town, then.
+ What would have triggered Caius to act at this most inopportune time, when
+ I can't blackmail my way out of it? [May I ask what prompted the choice?
+ The witches have been up and about for a week and a half.] 
+\end_layout
+
+\begin_layout Standard
+There is a pause.
+ The screaming girl is trying images now.
+ Dwi tells me, [Chelsea has been noticing odd disintegration of Elspeth's
+ attitudes towards the coven for some time now, but thought nothing of it
+ until she spoke to Jane, who had also noticed odd behavior in the girl
+ and believes you to be responsible for it.
+ They brought the matter to Caius in Aro's absence.
+ Do you have anything to say for yourself?] 
+\end_layout
+
+\begin_layout Standard
+[I would like the chance to speak to Aro, even if only through you, before
+ -] 
+\end_layout
+
+\begin_layout Standard
+[Caius anticipated that request and has refused it.
+ He suspects that you have some sort of unusual hold over Aro, and expects
+ that Aro would be glad to have you gone even if he'd argue for your being
+ spared given the chance.] 
+\end_layout
+
+\begin_layout Standard
+Well, I can't fault Caius's inductive powers.
+ That's more or less exactly the case.
+ [Why is Aro out of town?] 
+\end_layout
+
+\begin_layout Standard
+[A disruptive coven in Nicaragua may have an interesting witch in it, whom
+ he might pardon.
+ Chelsea is with him.] 
+\end_layout
+
+\begin_layout Standard
+The girl has another idea -- 
+\emph on
+Addy, are you still there?
+\emph default
+ - 
+\end_layout
+
+\begin_layout Standard
+[Dwi, I imagine you don't like me much anymore, but we were friends, once,]
+ I say, ignoring the child as a plan forms.
+ [I have nothing else to say, but I want to ask you to let me know who's
+ going to kill me, and when.
+ I won't feel anything and I can't bear the thought of suddenly winking
+ out of existence without knowing, Dwi...] 
+\end_layout
+
+\begin_layout Standard
+A moment's pause, and he said, [Saeed is going up with the saw.
+ He'll start...
+ now.] 
+\end_layout
+
+\begin_layout Standard
+And in that moment, I slam 
+\emph on
+everything
+\emph default
+ into 
+\emph on
+everyone
+\emph default
+ the hybrid girl's power will let me touch.
+ 
+\end_layout
+
+\begin_layout Standard
+Alec's cloud of insensibility evaporates and I'm free.
+ I'm on my feet in an instant; Saeed is listing limply to one side, and
+ the saw clatters out of his hand to the floor, having left only one stinging
+ nick under my chin.
+ I don't know how long this will last, but I do know I probably didn't get
+ everyone in the compound.
+ If I'm lucky, I got everyone who knew what was going on.
+ Time to make a break for it.
+ 
+\end_layout
+
+\begin_layout Standard
+There's a window I can go out by; I can only care so much about the sunshine
+ right now, but that's not what makes me hesitate.
+ Elspeth, caught when I deployed her own weapon with my greater force, is
+ even more insensate than Saeed.
+ I'm not 
+\emph on
+done
+\emph default
+ with her yet.
+ She'll slow me down, but - 
+\end_layout
+
+\begin_layout Standard
+Her wolf bursts through the door, wild-eyed, and takes in the state of the
+ room.
+ One of her screams must have reached him.
+ He rushes to her and picks her up, a growl in the back of his throat.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Peace.
+ I don't want her harmed,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, as quick as I think he'll be able to comprehend me.
+ Her power won't let him waste time doubting what I say.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They might.
+ You and she need sleep and I don't -- I'll help you get away.
+\begin_inset Quotes erd
+\end_inset
+
+ I could kill him, but it would take longer than I might have before the
+ incapacitated vampires come out of their fugues.
+ Or I could blast him with the memories too, but I'm 
+\emph on
+not
+\emph default
+ sure that they'd be able to take his attention from his imprint -- more
+ than likely, mated vampires I've caught in the push are only so caught
+ because their mates aren't in immediate danger.
+ 
+\end_layout
+
+\begin_layout Standard
+I spin and throw myself out the window, and hear him following.
+ I don't need to look behind me.
+ He has nowhere to go; he'll follow me as long as I reassure him periodically
+ that I'm not planning to hurt his girl.
+ 
+\end_layout
+
+\begin_layout Standard
+I break into and hotwire a parked car, managing to do it without any humans
+ noticing the shimmer on my hands or face; the wolf and the child go in
+ the backseat, with her curled vacantly his arms while she makes confused
+ noises.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Best defense is to stay in 
+\emph on
+crowded places
+\emph default
+, full of humans with cameras,
+\begin_inset Quotes erd
+\end_inset
+
+ I say.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think the Volturi are likely to be desperate enough to make a public
+ scene, not when they can negotiate with me at any time through Dwi once
+ they've recovered.
+ It was difficult enough to pass off this May's jailbreak as a mass hallucinatio
+n while only needing to kill fourteen people.
+ Do you still have your pack or have they been moved already?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uh, I'd have to phase to find out...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No room for that in this car.
+ Very well.
+ Let me think.
+\begin_inset Quotes erd
+\end_inset
+
+ I drive through Volterra, at a snail's pace, but there are plenty of people
+ milling about with cellphones, and I can put up enough of a fight -- and
+ so can the wolf -- that we cannot be apprehended 
+\emph on
+fast enough
+\emph default
+ to prevent all possible onlookers from snapping a picture and sending it
+ to a friend impossible to identify or track down.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What 
+\emph on
+happened
+\emph default
+ to 
+\emph on
+Elspeth
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ the wolf demands rudely, all out of patience.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why is she -- half-conscious?
+\begin_inset Quotes erd
+\end_inset
+
+ The girl is mumbling words occasionally, but most of them aren't in English,
+ so I can see why he wouldn't recognize them for what they are.
+ 
+\end_layout
+
+\begin_layout Standard
+I send him a summary the simple way, avoiding the need to verbally compose
+ a story.
+ That shuts him up while I maneuver around the city.
+ I need to decide where to go.
+ 
+\emph on
+My
+\emph default
+ old friends are all either the new members of the Volturi guard, dead,
+ or nomads nearly impossible to track down.
+ The wolf's friends are all in the village.
+ My pupil's friends are there too, and her 
+\emph on
+former
+\emph default
+ friends are, at least mostly, congregated in Alaska with the Volturi's
+ reluctant spies, where they will be picked off for their disloyalty as
+ it's convenient.
+ 
+\end_layout
+
+\begin_layout Standard
+I would like nothing more than to find some 
+\emph on
+isolated
+\emph default
+ place to take the child and her pet.
+ It might even work for a time.
+ Demetri isn't in Volterra, he's off pursuing the inconsequential hobby
+ or whatever it is that takes up so much of his time; he's gone as often
+ as not, and he usually doesn't carry a phone on those excursions.
+ For some reason he prefers not to be interrupted while he's away on his
+ trips.
+ But he'll return eventually and will be sent after us if they have any
+ interest in our retrieval.
+ I am excellent in a fight, but the feeble imitation of Jane that Elspeth
+ has acquired won't let me hold off a team of memory-blast-immunized Volturi
+ fighters on my own.
+ Even a handful of allied vampires -- witches or not -- would give me a
+ chance.
+ 
+\end_layout
+
+\begin_layout Standard
+Briefly, I regret not finding Dwi and taking his power before departing.
+ It would be handy right about now.
+ I could use it to look up minor witch friends from long ago, too inconsequentia
+l in their powers for the Volturi to want them, and find out where they
+ are and get them to join me.
+ 
+\end_layout
+
+\begin_layout Standard
+I think I've gotten five miles away from the compound.
+ Edward will no longer be able to divulge my thoughts to Aro if he should
+ investigate the captive's memories.
+ 
+\end_layout
+
+\begin_layout Standard
+Edward's power let me keep some tabs on what's going on in Denali.
+ The Cullens have been busy collecting friends and allies.
+ Last I heard, the Alaskan coven was playing host to not only their cousins,
+ but also Zafrina's ordinary sisters Kachiri and Senna, an English friend
+ of Carlisle's called Alistair with a minor power, and three powerless American
+ nomad singles called Garrett, Mary, and Randall.
+ A poor showing, but then, they probably could have gotten better attendance
+ if the Volturi and I hadn't gone around snapping up all the best witches
+ and their mates - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How long is Elspeth going to be like this?
+\begin_inset Quotes erd
+\end_inset
+
+ the dog demands.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have no idea,
+\begin_inset Quotes erd
+\end_inset
+
+ I tell him, polite in spite of his ill breeding.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Probably twice as long as the vampires in the compound I managed to get
+ in the blast radius.
+ She has a lot of memories to process, you understand.
+ Every person Aro's ever touched, their entire life story from birth to
+ the last moment he's come into contact with them -- plus Aro himself, of
+ course.
+ He 
+\emph on
+alone
+\emph default
+ is nearly 2,500 years old, the other two Volturi and the two living wives
+ and Chelsea similar, the entire rest of the guard at several centuries
+ apiece 
+\emph on
+at least
+\emph default
+, and the hundreds of thousands of humans Aro's eaten over the years to
+ boot are good for another few decades each.
+ And every random vampire who 
+\emph on
+used
+\emph default
+ to belong to the guard, or has ever passed through their hands, or who
+ Aro investigated before having them executed, plus most of the wolves and
+ imprints from your village, plus
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I get it! It's a lot!
+\begin_inset Quotes erd
+\end_inset
+
+ the wolf snaps.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How long will it take her to 
+\emph on
+deal
+\emph default
+ with it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I told you, I don't know.
+ Longer than a few minutes, obviously.
+ She sent me five and a half years once and I was inattentive for a couple
+ of seconds, and I'm a vampire and she's not; extrapolating, she 
+\emph on
+could
+\emph default
+ be like this for the next couple million years, but somehow I doubt the
+ results are 
+\emph on
+quite
+\emph default
+ that cumulative.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He makes an almost endearing whining noise when I say the word 
+\begin_inset Quotes eld
+\end_inset
+
+million
+\begin_inset Quotes erd
+\end_inset
+
+, but I don't think it will really be that long.
+ If I did, I would have abandoned her in the compound; she'll be rather
+ uninteresting to me comatose.
+ Even without Aro's convenient automatic storage and sorting, there is no
+ call for her to absorb the memories I gave her in real time.
+ I 
+\emph on
+will
+\emph default
+ leave her and the wolf behind if she isn't better in a week -- or if I
+ really need to -- but I suspect she'll recover quicker than that, at least
+ partially.
+ Sleeping may help her.
+ That will be interesting to investigate.
+ 
+\end_layout
+
+\begin_layout Standard
+I sift through her memories -- is there anyone who might help her, other
+ than the doomed rebels in Alaska? Someone with a known address? Hmm.
+ The Irish coven is a possibility.
+ They don't have a known address, and in fact they range over the whole
+ island, but the vegetarian faction -- Maggie and Gianna and Ilario -- might
+ have a permanent residence under their real names, if they take after the
+ Cullens in that regard.
+ I haven't heard of them migrating to Alaska as part of the rebellion, but
+ Gianna gave birth to Elspeth and might feel something for her.
+ 
+\end_layout
+
+\begin_layout Standard
+The three of them, possibly in addition to Siobhan and Liam, would give
+ enough numbers that I and Elspeth's dog could probably defeat or escape
+ the size team liable to be sent after us once Demetri returns.
+ Four or five people, maybe half a dozen -- sending large groups away makes
+ Chelsea nervous and leaves her with too much to do too quickly on their
+ return.
+ They're unlikely to send wolves.
+ It's too easy to use Elspeth as a shield, whom the wolves won't dare touch
+ (...although what if her wolf died first? Then would she have that protection?),
+ and anyway I highly doubt that any of the wolves have already been hit
+ with the deluge of memory, so they'll remain vulnerable to that.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where are we going?
+\begin_inset Quotes erd
+\end_inset
+
+ the dog wants to know.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ireland.
+ A coven likely to be friendly to Elspeth lives there, and may be findable.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+do
+\emph default
+ like the way this power makes me so believable.
+ 
+\end_layout
+
+\begin_layout Standard
+I drive to the airport, locate an airplane headed for Ireland, and get us
+ into the cargo hold, obtaining dinner on the way.
+ The wolf looks away and clutches at his girl, but I really don't care;
+ I'm not going to turn into a softhearted swill-drinker just because I'm
+ traveling with this creature.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you,
+\begin_inset Quotes erd
+\end_inset
+
+ I ask him, 
+\begin_inset Quotes eld
+\end_inset
+
+planning to try to feed her solid food? She can probably swallow.
+ I doubt she can chew.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He shudders.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll get her animals.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know, just out of curiosity as to what would happen, one of the guards
+ tried feeding a captive witch under Alec's power animal blood once.
+ She wouldn't swallow it.
+ Apparently you need a fair amount of willpower to manage the diet; it's
+ not the sort of thing that will happen by reflex.
+ Elspeth might be different in that respect from a vampire, I suppose.
+ Or she might be lucid enough to swallow deliberately.
+ Or not.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He doesn't like this, but I wouldn't like him delaying her recovery by putting
+ off feeding her what she needs until it's sufficiently painfully obvious.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We'll see,
+\begin_inset Quotes erd
+\end_inset
+
+ he says, looking worriedly at Elspeth.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wonder if she'd find 
+\emph on
+you
+\emph default
+ palatable.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Huh?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You, Jacob Black, werewolf, possessor of blood that smells rancid to 
+\emph on
+me
+\emph default
+ but doesn't to 
+\emph on
+her
+\emph default
+.
+ I wonder if she would drink it.
+ I'm not saying you must make the experiment; that's not the sort of curiosity
+ I am particularly insistent about indulging.
+ But I do wonder.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, she's not going to need food until tomorrow morning,
+\begin_inset Quotes erd
+\end_inset
+
+ he says stubbornly.
+ His company is very tiresome; I don't make any further attempt at conversation.
+ I start rummaging through the luggage in the cargo hold, looking for anything
+ that might be useful, and obtain a pair of sunglasses, a wide-brimmed hat,
+ and lacy gloves that will provide incomplete coverage for my arms.
+ It will be dark by the time we land, but this is easier than pulling off
+ a burglary from a store once we're there.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth is still murmuring.
+ A while later, she quiets, and her wolf holds her hand, watching her dream.
+ He looks troubled.
+ Eventually he starts yawning, and looks at me suspiciously.
+ 
+\end_layout
+
+\begin_layout Standard
+I roll my eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want her alive, and have no particular reason to want you dead, not when
+ you'll help keep her alive and make it inconvenient for your fellow wolves
+ to attack her.
+ Go ahead and sleep until we land.
+ I'll wake you when it's time to go.
+ With any luck there will be a safe place to go to ground once I've found
+ her friends, and you can get more sleep.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ he says suspiciously, and he finds a less-uncomfortable place in the hold
+ to stretch out with Elspeth under one arm and sleep.
+ 
+\end_layout
+
+\begin_layout Standard
+I sift through my memories, mostly copied ones, to see what I know about
+ Ireland and what strategies might work best for tracking down the coven.
+ Eventually I recall a fellow with access to enough of the records of the
+ Republic of Ireland that he will, if nothing else, be able to narrow my
+ search to the island's northern tip if he finds no data on the family I
+ seek.
+ He is almost certainly still alive; the latest memory I have involving
+ him is only eight years old and he was just in his forties at the time.
+ It's hard to say whether he'll be cooperative, but that part I can probably
+ arrange if necessary.
+ 
+\end_layout
+
+\begin_layout Standard
+The wolf gets a total of two hours of sleep, and then I wake him and get
+ us out of the airplane.
+ I manage to avoid killing anyone, this time -- which is good, because a
+ mysterious airport-located death would let the Volturi find us without
+ waiting for Demetri's availability -- and I help myself to another car
+ and take us to Cork.
+ The wolf nods off again.
+ 
+\end_layout
+
+\begin_layout Standard
+My contact is not pleased about being awakened, but he accepts without irksome
+ curiosity the statement that I am 
+\begin_inset Quotes eld
+\end_inset
+
+a friend of Tom's
+\begin_inset Quotes erd
+\end_inset
+
+.
+ (He has never heard me speak truth, and so the inaccuracy does not stand
+ out.) Being a friend of Tom's, apparently, is enough to convince him to
+ help me without any need for threats or pressure, beyond the mention of
+ Tom's name.
+ (Tom is dead, but this fellow doesn't know that or need to.) He has a work
+ computer at home and can access the relevant records immediately, and finds
+ an address in Wexford to match the names I give him.
+ I change cars to make following me harder -- the wolf has to be woken for
+ this purpose, but falls back asleep readily -- and head out.
+ 
+\end_layout
+
+\begin_layout Standard
+Elspeth wakes up when I stop the car a few blocks away from their address,
+ before the wolf does, and she seems to actually see what's in front of
+ her.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where are we?
+\begin_inset Quotes erd
+\end_inset
+
+ she asks blearily.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Trafeli household,
+\begin_inset Quotes erd
+\end_inset
+
+ I inform her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's so convenient that you're conscious.
+ Let's see if they're kindly disposed towards you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

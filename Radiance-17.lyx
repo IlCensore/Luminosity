@@ -1,0 +1,1448 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{16}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Weaver
+\end_layout
+
+\begin_layout Standard
+I started working with Addy up in the compound instead of in my room.
+ Every day, she came and walked me up the tunnel and into some unused room,
+ where we worked on some part of my power until she announced we were done
+ for the day and escorted me home.
+ She actually paid me for my time, as well as the seeding, so I could at
+ least tell the villagers that it was my job.
+ 
+\end_layout
+
+\begin_layout Standard
+I still didn't like it.
+ But I was as susceptible as ever to the freedom of having no secrets, and
+ -- for my safety and others' -- Addy was the only person for whom I had
+ no secrets.
+ (Technically my father could hear everything either of us was thinking
+ too, but he wasn't in a position to do anything, and I didn't have a way
+ to talk to him without being noticed, let alone a way for him to talk back.)
+ 
+\end_layout
+
+\begin_layout Standard
+Addy and I made a habit of conversing only by sending -- for privacy and,
+ she said, for practice -- while we worked.
+ We started by trying to add range.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You already have range, in a way,
+\emph default
+ she said conversationally, 
+\emph on
+insofar as your power will carry with your voice -- or hand signs or body
+ language.
+ What you need to do is learn to think about your witchcraft as something
+ that can persist beyond you, as it already can.
+ Let's start by releasing you from the dependence on your hands as the mechanism
+ for sending.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+She had me talk to her by standing barefoot on her toes, and when that worked
+ after forty minutes of trying, she had me try it by touching elbows.
+ I finally got a wisp of a 
+\emph on
+Testing...
+ testing...
+
+\emph default
+ through to her out of my elbow after half an hour, and then she called
+ it a day.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wish you could tell me what's wrong,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake said softly when Addy dropped me off at home.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wish I could too.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Addy was actually a good teacher, and since I couldn't get away with any
+ more stalling than she felt like permitting me, I made progress alarmingly
+ fast.
+ She wanted to let me get used to being able to use non-hand body parts
+ to send before trying to work on range beyond touch, and over the next
+ five days I worked mostly on sending faster and denser.
+ 
+\emph on
+There's no intrinsic reason why what you share should be in real time,
+\emph default
+ Addy said.
+ 
+\emph on
+Especially not when you send memories instead of things you invent on the
+ spot.
+ You already have the entire memory, start to finish.
+ Let's start small.
+ Pick a five-second block of memory -- something simple -- and see if you
+ can get it across to me in four seconds.
+ The entire thing, though, not a summary.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't really know how to go about trying that, but I sighed and touched
+ her hand and tried to pick something out.
+ I settled on five seconds I spent staring in fascination at an old grandfather
+ clock in the Oregon house when I was four months old: simple, innocuous,
+ and definitely the requested length.
+ I sent along the memory with a little extra 
+\emph on
+shove
+\emph default
+, from the same region of my mind where I felt my now-constant itch of magic.
+ 
+\end_layout
+
+\begin_layout Standard
+Four seconds later, it was over, and I winced.
+ I didn't like getting everything so fast when my interestingness to Addy
+ was dependent on there being more left to learn.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Very good,
+\emph default
+ Addy said, mental voice full of approval that was all the more unsettling
+ for being sincere.
+ 
+\end_layout
+
+\begin_layout Standard
+I shaved my time down to a half-second over the next few days.
+ Magic complained, when I meditated after five lessons on speed, that she
+ didn't like being 
+\begin_inset Quotes eld
+\end_inset
+
+pushed around
+\begin_inset Quotes erd
+\end_inset
+
+.
+ I told her that if she wanted to tell me how to send memories quickly some
+ other way, that would be fine with me, but reminded her that Addy was not
+ safe to annoy, and losing an ability I was working on just because Magic
+ didn't like it would probably annoy her.
+ Magic didn't have anything else to say on that topic and spent the rest
+ of the evening guilting me about lying to Jake.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why do I even do this anymore?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked rhetorically, dropping my hand from my cheek when Jake walked into
+ my room to tell me it was assembly time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Am I supposed to know?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, furrowing his brow.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I sighed, and clung to his arm while we walked to our regularly scheduled
+ brainwashing.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll let me know if there's anything I can do to help you,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake said, 
+\begin_inset Quotes eld
+\end_inset
+
+right? Even if you can't tell me what it's helping with or how?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I think of something, I'll tell you,
+\begin_inset Quotes erd
+\end_inset
+
+ I promised.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I might suspect you of misusing the opportunity if you say 
+\begin_inset Quotes eld
+\end_inset
+
+hey, Jake, it's very important that you wear a pineapple on your head and
+ waltz around the room for three hours straight,
+\begin_inset Quotes erd
+\end_inset
+
+ or something,
+\begin_inset Quotes erd
+\end_inset
+
+ he teased.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'd probably do it, though,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, smiling just a little bit.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably,
+\begin_inset Quotes erd
+\end_inset
+
+ he agreed, grinning at having successfully coaxed me into a smile.
+ 
+\end_layout
+
+\begin_layout Standard
+Chelsea was still making a habit of standing in our pack's section.
+ We were wearing a lot of brown, in keeping with the custom of matching
+ the uniforms and alpha fur colors, but I didn't think she was standing
+ with us because we matched her sandals.
+ 
+\end_layout
+
+\begin_layout Standard
+I avoided looking directly at her -- pretending that I thought, like everyone
+ else, that she was just Our Friend Chelsea attending the assembly as always
+ and unremarkable wherever she chose to stand.
+ I let the announcements of the day wash over me as Rachel and Becky announced
+ them -- Elena's first birthday and Joel's fifteenth, the awarding of a
+ single room to Marilyn for heroism in her last field engagement out in
+ the Philippines, a trip planned for people with topside privileges to go
+ to Venice for a few days.
+ 
+\end_layout
+
+\begin_layout Standard
+The warm, cozy feeling bubbled up inside me -- not Chelsea's direct handiwork,
+ but a consequence.
+ But it could only get so far without the freedom from secrecy I had when
+ I first arrived, and I tumbled gratefully into sleep shortly after Jake
+ and I went home.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The next day Addy wanted to turn me into a weapon.
+ 
+\emph on
+If you can work fast -- and you have consistently cut your time as we practice
+ -- you might be able to act and react quickly enough to disorient an attacker,
+ perhaps even a vampire attacker once you've practiced enough,
+\emph default
+ she suggested.
+ 
+\emph on
+Unfamiliar witchcraft sensations are the obvious choice.
+ Your itch, and whatever else you can pile into the same sending.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Will you send me more witch memories, then?
+\emph default
+ I asked.
+ 
+\emph on
+I only know what the powers feel like through your own memories of copying
+ them, and that's different since it all goes through your power.
+ The other witches must feel things directly; they can't all taste their
+ powers.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Fair enough,
+\emph default
+ said Addy.
+ 
+\emph on
+Any place in particular you'd care to start?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I hesitated.
+ 
+\emph on
+Chelsea,
+\emph default
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Interesting choice,
+\emph default
+ Addy remarked.
+ 
+\emph on
+I'll need to translate this one; it's from around 295 B.C.
+ and they didn't have any languages that you're familiar with then.
+
+\emph default
+ And she placed a finger on my forehead and pushed a memory at me.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I can never think of a good analogy for what relationships feel like.
+ Maybe it's because they're all different.
+ The ones emanating from Marcus are mostly like...
+ perhaps cotton thread.
+ Soft when loose, almost sharp when taut, full of little fibers fuzzing
+ out but contributing to a longer twist of connection.
+ Then there's the exception, glaringly obvious and impregnable no matter
+ how I might hack at it, like a million threads coiled together for strength
+ and then encased in diamond for good measure.
+ 
+\end_layout
+
+\begin_layout Standard
+Master Aro wants me to keep Marcus with us -- Marcus is essential; I can
+ only grope around in the dark for relationships, not see
+\emph on
+ them, not piece together all the details of how they work in motion.
+ I can flail around and cut, I can seize loose tendrils and moor them where
+ they belong and coax them into growth -- but I can't see what I'm doing,
+ and in the long term, that would render me ineffective at the scale Master
+ Aro has in mind for the future.
+ 
+\end_layout
+
+\begin_layout Standard
+That diamond-wrapped rope was pulling Marcus away from us, and all my work
+ -- on him and
+\emph on
+ on Didyme -- wasn't holding him, or rather them.
+ He didn't love us enough to stay if it would suit her to be elsewhere.
+ Master Aro and Caius weren't brothers enough to him; Athenodora and Sulpicia
+ not sisters enough; I not friend enough.
+ 
+\end_layout
+
+\begin_layout Standard
+Everyone must love me.
+ 
+\end_layout
+
+\begin_layout Standard
+(I'm terrified that one day I will meet someone who lashes me to him with
+ the same unassailable connection, and he will try to pull me away from
+ Master Aro, and I will have no choice but to follow and every dream of
+ glory will die so soon after our coven's creation! I'm indispensable.
+ I made sure of that when I killed my cousin.
+ Master Aro knows why I went back to that miserable hamlet and drank her,
+ of course, and he didn't like it, but now she's dead and I'm the only cutter
+ and weaver of threads in the world, and Master Aro can never be rid of
+ me if he wants to achieve his ambitions.
+ I'll be quite loyal to his plans as long as I'm guaranteed my place, and
+ he knows that.) 
+\end_layout
+
+\begin_layout Standard
+But now Didyme is a memory (along with the coven who killed her, the fools
+ -- someday every vampire on the earth will know that it's a death sentence
+ to trespass on our interests this way).
+ She cannot wonder aloud if perhaps a quieter life in the north would be
+ more to her taste, and she cannot lead him away by her diamond leash, even
+ though it will always be there connecting him to the dead woman he loved.
+ 
+\end_layout
+
+\begin_layout Standard
+Now, I can pull the drooping cotton tighter still, fasten Marcus to Master
+ Aro and to Caius and to Athenodora and to Sulpicia (I was afraid, too,
+ when she came along and caught Master Aro's eye so effectively, but she
+ liked the picture of the queenly leisure he promised her, and will not
+ entice him out of the group).
+ And to me, of course.
+ 
+\end_layout
+
+\begin_layout Standard
+Everyone must love me.
+ 
+\end_layout
+
+\begin_layout Standard
+So I turn my hand at the end of my wrist, feeling along the invisible threads,
+ and I let my fingers spread, and the string turns and grows and tightens.
+ 
+\end_layout
+
+\begin_layout Standard
+Marcus looks at me with dim black eyes.
+ He knows exactly what I'm doing, but I am not Didyme, and that sharply
+ limits how much he can care about it.
+ 
+\end_layout
+
+\begin_layout Standard
+Within that limit, though, he'll love me.
+ 
+\end_layout
+
+\begin_layout Standard
+Everyone must love me.
+ 
+\end_layout
+
+\begin_layout Standard
+I work for some hours, to be quite sure that Marcus won't slip off in a
+ moment of our inattention and provoke the nearest nomad into putting him
+ out of his misery.
+ We must be too close to him for him to let us down.
+ We must be too important to him for him to despair in loneliness.
+ Cotton writhes in my trembling hands.
+ 
+\end_layout
+
+\begin_layout Standard
+Finally, I think I've done enough for a short time; Marcus is at least tied
+ enough that he can hunt alone and be expected to return to us.
+ I tuck an errant strand of his hair behind his ear, and hold out my arms
+ for a hug, which he provides dutifully before turning to find his dinner.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea,
+\begin_inset Quotes erd
+\end_inset
+
+ Master Aro says, approaching from my left after Marcus has gone.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Master?
+\begin_inset Quotes erd
+\end_inset
+
+ It pleases him to be called that.
+ I am the first subordinate of the Volturi, the first who isn't one of the
+ brothers or their wives, and so I am the first to use the title for him.
+ I don't care, particularly.
+ Being in charge isn't as important as being essential.
+ We could more easily lose Caius than me; I remain unsure why Master Aro
+ made powerless Caius a part of the brotherhood to begin with, but there
+ he is.
+ 
+\end_layout
+
+\begin_layout Standard
+Most of the relationships stretching out from Master Aro feel like glass,
+ spun into some improbable thin spikes or rods.
+ The one that links him to Sulpicia is completely unlike glass -- it feels
+ warmer and has none of the brittleness; I could try to crush it and it
+ wouldn't even dent.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I feel that I do not have the luxury of grieving for my sister,
+\begin_inset Quotes erd
+\end_inset
+
+ Master Aro says evenly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There is too much to do, and now that revenge has been taken on Didyme's
+ killers, there is no value in continuing to lament her death.
+ I would like you to assist me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Master,
+\begin_inset Quotes erd
+\end_inset
+
+ I reply.
+ I find the thin tube of glass that used to point towards Didyme, crook
+ my finger, and shatter it.
+ 
+\end_layout
+
+\begin_layout Standard
+Master Aro relaxes considerably.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, Chelsea,
+\begin_inset Quotes erd
+\end_inset
+
+ he says.
+ 
+\end_layout
+
+\begin_layout Standard
+I bow.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No thanks are necessary, Master.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+He smiles slightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You have done me a significant service.
+ I am unlikely to forget it, however much a matter of course it may be.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course, Master.
+\begin_inset Quotes erd
+\end_inset
+
+ As long as he's standing there, I bend my thumb to catch the glassy tendril
+ of gratitude -- a bit more robust than I would have guessed, not that I
+ have any way to measure precisely -- and melt it into the spine of glass
+ that points in my direction, bolstering its strength.
+ Just because he is my Master doesn't mean that he shouldn't love me.
+ 
+\end_layout
+
+\begin_layout Standard
+Everyone must love me.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Addy ended the memory there, and I fought the urge to twitch my fingers
+ and see what the relationships floating around her felt like; I didn't
+ have that power independently.
+ She smiled at me.
+ 
+\emph on
+Will that do for Chelsea, or would you like another sample?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Another would be good,
+\emph default
+ I said.
+ This was more fun and less nerve-wracking than gradually running out of
+ ways to work on my power.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+This is from about 100 BC,
+\emph default
+ she informed me.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I hate human towns.
+ They're convenient places to find meals -- although even for that purpose
+ I'd prefer a longer, more pleasant rural hunt.
+ That's the only virtue of habitation centers.
+ The places are lousy with filth and vermin, and the air is hot with the
+ smell of their blood, and that would be quite enough to make the towns
+ unpleasant, but that's not what makes me hate them.
+ 
+\end_layout
+
+\begin_layout Standard
+Human towns are full of people, and none of them love me.
+ 
+\end_layout
+
+\begin_layout Standard
+It's not worth the effort to fix that, really.
+ The humans are food or annoyances or useful sources of clothing, not subjects
+ or friends or even stimulating conversationalists.
+ I used to take over every miserable fief I passed through, spending a few
+ hours to make the weak and easily sculpted humans worship me like a goddess
+ for several days before I became bored and started eating them.
+ I have more important tasks now -- I'm indispensable to Master Aro! --
+ and it's not a good use of my time.
+ 
+\end_layout
+
+\begin_layout Standard
+But it still aches, all those humans rushing from place to place and never
+ sparing me a second thought.
+ 
+\end_layout
+
+\begin_layout Standard
+I'm only here for the trinkets Sulpicia wanted.
+ She's amused by sending me on errands; I remain the only Volturi subordinate,
+ as Master Aro wants to be very selective about how he grows our coven and
+ no one except me has passed muster thus far without being the mate of one
+ of the brothers.
+ My core task is far more important than fetching toys for her, but it does
+ not take up all of my time, and besides, every task I perform for haughty
+ Sulpicia lets me entwine more of her dependence on my servitude into her
+ love for me.
+ 
+\end_layout
+
+\begin_layout Standard
+It's a few moments past dusk, but there are enough lamps and candles burning
+ that even humans can see a little, and some of them are still out and about.
+ There are two boys, fighting with pathetically well-telegraphed punches
+ and ineffectual kicks over something or other.
+ There is really no point to humans except as food; it's almost charmingly
+ futile, the way they build their disgusting towns and form their trivial
+ societies.
+ Humans are clumsy and weak and ugly.
+ 
+\end_layout
+
+\begin_layout Standard
+Well, one of those boys isn't ugly, really.
+ And there's something about how he fights.
+ His opponent is tough, and holding his own, but there's some -- 
+\emph on
+weight
+\emph default
+ to the handsome boy's blows that doesn't seem normal.
+ Some lightness to his body when he dodges.
+ 
+\end_layout
+
+\begin_layout Standard
+I stand in the shadows and watch the better-looking boy -- he's probably
+ nearing twenty, not quite a boy anymore, even though anyone who hasn't
+ gone gray seems that way to me at my two centuries of age -- skillfuly
+ pummel the ugly one until he yields.
+ There is definitely an uncanniness to the way the comely one moves.
+ 
+\end_layout
+
+\begin_layout Standard
+I follow him as he leaves.
+ 
+\end_layout
+
+\begin_layout Standard
+He's headed home, apparently.
+ He jogs -- again the unusual momentum, more than a human should be able
+ to put behind a stride! -- through the towns, and I follow at a brisk walk.
+ He's interesting.
+ Perhaps the oddness in his motions is an extra ability, manifesting early
+ as my gift did.
+ Perhaps that will mean Master Aro will let him join us.
+ 
+\end_layout
+
+\begin_layout Standard
+I want him.
+ 
+\end_layout
+
+\begin_layout Standard
+I want him to love me.
+ 
+\end_layout
+
+\begin_layout Standard
+Everyone must love me, but this young man in particular.
+ 
+\end_layout
+
+\begin_layout Standard
+He arrives at home.
+ It's a large family; the object of my interest has one living parent, to
+ judge by their chatter, and six siblings, all younger than him.
+ 
+\end_layout
+
+\begin_layout Standard
+He loves them and not me; I can tell, crouching outside his house in the
+ dark and clenching my fists to feel the relationships coiling out from
+ him like strips of leather.
+ Perhaps if I take them away he will leave his house again, and then I can
+ catch him and make him love me.
+ I need him to love me.
+ 
+\end_layout
+
+\begin_layout Standard
+Cut and cut and cut, and he's untethered.
+ I hear the cheer in his voice falter; the leathery lines try to spawn themselve
+s back, thin shadows of the originals but still not acceptable.
+ Cut, cut, cut.
+ Come out, come out, come out.
+ 
+\end_layout
+
+\begin_layout Standard
+Eventually he does.
+ I hear the excuse -- he has a charming, rough voice.
+ They let him go without protest, suspecting nothing.
+ He walks back towards the center of town, and I push my hood down and step
+ into his path.
+ I'm beautiful -- part of the package -- and there's enough moonlight for
+ him to see it.
+ He stops.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, leaning towards him.
+ My hands flex.
+ His admiration is just barely solid enough to grab hold of.
+ Pull, pull, pull.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ he faintly gasps.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell me your name,
+\begin_inset Quotes erd
+\end_inset
+
+ I purr.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Afton.
+\begin_inset Quotes erd
+\end_inset
+
+ He's staring.
+ That's good.
+ Pull and pull and pull -- and those other threads are still trying to grow
+ back! I destroy them all again.
+ He's mine, I want him.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's so lovely to meet you, Afton.
+ I'm Chelsea.
+\begin_inset Quotes erd
+\end_inset
+
+ I'm still purring.
+ It's not a sound I've had much use for in the past.
+ He warrants it.
+ Pull and cut and pull and cut...
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea.
+\begin_inset Quotes erd
+\end_inset
+
+ He's tasting my name, he knows that I'm very important and that my name
+ is therefore important as well.
+ 
+\end_layout
+
+\begin_layout Standard
+I want to keep him.
+ He's mine
+\emph on
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Afton, will you wait 
+\emph default
+right
+\emph on
+ here for me, for just a few minutes?
+\begin_inset Quotes erd
+\end_inset
+
+ I implore him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't go 
+\emph default
+anywhere
+\emph on
+.
+ I'll be back very soon.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of -- of course.
+\begin_inset Quotes erd
+\end_inset
+
+ I touch him, for the first time, my fingers threading through his messy
+ brown hair to touch his scalp.
+ He's very warm, and shivers at the touch but doesn't pull back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll wait for you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I force myself away.
+ I'm far, far too distant from my last hunt to be sure of his safety if
+ I try to preserve him now.
+ I need to feed first, to completely gorge myself.
+ 
+\end_layout
+
+\begin_layout Standard
+Those threads
+\emph on
+ are 
+\emph default
+back
+\emph on
+ a
+\emph default
+gain
+\emph on
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Cut, cut, cut, and I know exactly who will be my food.
+ 
+\end_layout
+
+\begin_layout Standard
+It's hard enough to force his last sister's blood down my throat that I'm
+ confident I'll be able to leave him alive.
+ I swallow as much as I possibly can, wipe a drop off my chin, and fly at
+ top speed back to the spot where I left my Afton.
+ A sweep of my little finger takes care of the last feelings for the dead
+ family up the road; I shouldn't like him to be distressed.
+ I reach out and pull him towards me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmurs, confused.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I want you,
+\begin_inset Quotes erd
+\end_inset
+
+ I whisper into his ear.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want you to be mine.
+ Do you want to be mine, Afton?
+\begin_inset Quotes erd
+\end_inset
+
+ He hesitates.
+ My knuckles dig gently into his back and I force all the power I can into
+ the one leathery rope that I've allowed him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Won't you be mine?
+\begin_inset Quotes erd
+\end_inset
+
+ I don't even care if Master Aro says later that I can't have him.
+ I want
+\emph on
+ him, and I'll have him even if I have to trade the chance to be part of
+ the Volturi's planned conquest for it.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ Afton says, and carefully, ever so carefully, I sink my teeth into his
+ throat.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The memory ended and I made some kind of strangled nonverbal noise.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Well,
+\emph default
+ sent Addy.
+ 
+\emph on
+Didn't you think it was interesting?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I guess it was that,
+\emph default
+ I said, shifting in my chair.
+ 
+\emph on
+Um, can you avoid showing me anybody eating humans, in the future? Just
+ skip those parts or pick memories that don't involve it?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I suppose,
+\emph default
+ she replied, tilting her head.
+ 
+\emph on
+If you really prefer.
+ You do realize that those people died more than two thousand years ago?
+ They don't benefit from your squeamishness at all.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I know.
+ Just -- you know, if you don't mind -- skip those parts.
+
+\emph default
+ I didn't like -- or maybe I liked too much -- the intense recollection
+ of a flavor I wouldn't allow myself that probably wouldn't even taste all
+ 
+\emph on
+that
+\emph default
+ good to my half-human tastebuds.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Very well.
+ Now, see if you can combine your magic's itchiness with my sensation of
+ witchcraft and Chelsea's into one sending...
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I didn't manage that trick that day.
+ Addy didn't seem particularly discouraged, and brought me home to Jake
+ after I'd been trying to wrap up all three magical sensations into one
+ package for an hour.
+ Jake hugged me and patted my hair; it had grown down my back since I'd
+ cut it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You don't look so great,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Actually, you usually seem worse right before and after you visit Addy...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I tried, frantically, to think of a way to misidrect his attention that
+ wasn't technically lying.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It just feels cozier here,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ It did; the four-room suite I shared with Jake was just about the only
+ completely comfortable place I had available to go to.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I can't just stay at home all the time.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I guess not, that wouldn't be good for you,
+\begin_inset Quotes erd
+\end_inset
+
+ he agreed reservedly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or at least, in general staying home all the time isn't good for people,
+ but...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think it would be worse if I didn't go with Addy when she asked,
+\begin_inset Quotes erd
+\end_inset
+
+ I said firmly, and that was quite true.
+ My magic itched, but its cooperation in making me believable was automatic.
+ Jake nodded and relaxed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let me know if there's anything you need from me,
+\begin_inset Quotes erd
+\end_inset
+
+ he reminded me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will, Jake.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We went to dinner, and then I meditated and chipped away at Chelsea's fabricated
+ 
+\begin_inset Quotes eld
+\end_inset
+
+threads
+\begin_inset Quotes erd
+\end_inset
+
+ that she would feel pointing away from me and towards the vampires in the
+ compound.
+ I didn't mind caring about the villagers.
+ That was fine.
+ But I did 
+\emph on
+not
+\emph default
+ want to be one of the people who Chelsea used to indulge her bottomless
+ need for love.
+ I did 
+\emph on
+not
+\emph default
+ want to look forward to working with my 
+\emph on
+friend Addy
+\emph default
+.
+ It was an unhappy, ineffective sort of rebellion, but the only one I had.
+ 
+\end_layout
+
+\begin_layout Standard
+We went to assembly.
+ 
+\end_layout
+
+\begin_layout Standard
+I could feel Chelsea's eyes boring holes into my back, and wondered what
+ kind of texture threads she was trying to pull out of me.
+\end_layout
+
+\end_body
+\end_document

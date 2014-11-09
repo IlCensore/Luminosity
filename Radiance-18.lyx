@@ -1,0 +1,1704 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{17}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Teacher
+\end_layout
+
+\begin_layout Standard
+I didn't have any luck with sending along all the witchy sensations the
+ next day, either.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Maybe,
+\emph default
+ I said after an hour of trying, 
+\emph on
+you should send me another memory of Chelsea's.
+ All the relationships felt different and maybe with more to draw on I could
+ figure out what the common features are, and maybe that would work better.
+
+\emph default
+ It was a transparent attempt at varying the exercises.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hmm,
+\emph default
+ said Addy, raising an eyebrow at me.
+ 
+\emph on
+No, I doubt that will help.
+ Perhaps it's something to try later, when we run out of low-hanging fruit.
+ Try it again -- compose the sensations into one of the hypotheticals, and
+ then try to subtract the 
+\begin_inset Quotes eld
+\end_inset
+
+hypothetical
+\begin_inset Quotes erd
+\end_inset
+
+ tag, it reduces the impact too much.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm sick of this, I've been doing it for the past hour,
+\emph default
+ I complained.
+ I didn't like making progress, at least not quickly, but I didn't like
+ being bored, much, either.
+ 
+\end_layout
+
+\begin_layout Standard
+Addy tilted her head.
+ 
+\emph on
+And you'd rather be doing something else?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yeah.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Well,
+\emph default
+ Addy replied, smiling thinly, 
+\emph on
+there is another idea for how you could develop your power into a weapon
+ which will probably be easier to arrange.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yes, this will break up the monotony for you nicely,
+\emph default
+ said Addy, and suddenly I didn't like the sound of her mental voice one
+ bit.
+ 
+\emph on
+Do you remember how I said your power was similar to Jane's?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I twitched away from her outstretched hand.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, nonono,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll try again with the
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you were so bored,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And don't say you won't complain again; I really can tell, whether you say
+ it or not.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But -- 
+\emph on
+please
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It will be easy,
+\begin_inset Quotes erd
+\end_inset
+
+ she said pleasantly.
+ She extended her hand again, tapped me on the nose.
+ 
+\emph on
+All you have to do is find Jane, mildly annoy her, spend perhaps a second
+ or two acquiring your ammunition, and poof.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Please, please, no,
+\emph default
+ I begged her.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Look on the bright side.
+ The only way I get to find out whether this works is if you successfully
+ try it on 
+\emph default
+me
+\emph on
+, you know,
+\emph default
+ she responded.
+ 
+\emph on
+Now, Elspeth, either you may go and find Jane yourself, and provoke her
+ only as much as you must in order to get a reaction from her that lasts
+ a few moments, or 
+\emph default
+I
+\emph on
+ can go find her, and pat her on the head and come back and make sure it
+ 
+\emph default
+really
+\emph on
+ sinks in.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Do I have to actually annoy her, or could I maybe just ask -
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+Addy laughed aloud.
+ 
+\emph on
+I suppose you could ask, and she'd probably oblige you.
+ Aro did that once, just out of curiosity.
+ Just the once.
+ But that would be a rather suspicious request to make of her, don't you
+ think? You haven't spoken to her before, so it isn't a matter of learning
+ more about your close personal friend Jane.
+ And the story of your childish reaction to your injury in Alaska -- oh,
+ don't look at me that way, Elspeth, you're five years old and permitted
+ occasional childishness -- has made the rounds throughout the guard, so
+ I doubt Jane will believe you're deliberately seeking out her unique experienti
+al offerings on their own merits.
+ No, I recommend that you simply walk into her room without knocking.
+ That should do the trick.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I shivered.
+ 
+\emph on
+What if she wants to know why I'm there?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Tell her I sent you to fetch her for me, if she bothers to ask.
+ If she comes to ask me what's going on, I can replace your power with hers
+ and then tell all sorts of lies, and then you can go home for the day and
+ recover.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I leaned away from her hand again, and paused to think.
+ Addy allowed me fifteen seconds in which I came up with nothing, and then
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+Go on, then.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured, and I got to my feet and went to Jane's room.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I knew the layout of the entire compound; there was a map on the wall of
+ the lounge in West.
+ I'd been there long enough to memorize it during Esta's baby shower.
+ So I had no excuse for taking forever to find Jane's room, and Addy knew
+ it.
+ I walked, slowly but steadily, down the flight of stairs and down the hall.
+ I took a right, and the first door on the right was hers.
+ 
+\end_layout
+
+\begin_layout Standard
+She had to have heard me coming -- at least if she was 
+\emph on
+in
+\emph default
+ her room, which she might not be.
+ If she wasn't, maybe Addy would let me put this off or skip it altogether.
+ I opened the door.
+ 
+\end_layout
+
+\begin_layout Standard
+I saw a pair of brilliant burgundy eyes and then all I could do was scream.
+ 
+\end_layout
+
+\begin_layout Standard
+It might really have been only a second or two.
+ I couldn't tell.
+ I was 
+\emph on
+burning
+\emph default
+, I was not meant to 
+\emph on
+hold
+\emph default
+ that much pain, and that was all there was, wherever I tried to fling myself
+ and escape there was only more fire, I knew I was screaming but couldn't
+ even hear it over the anguish pouring over me like liquid iron.
+ 
+\end_layout
+
+\begin_layout Standard
+Jane blinked, and it stopped.
+ 
+\end_layout
+
+\begin_layout Standard
+I was on the floor, limbs sprawled crazily as though I'd been seizing, looking
+ upside-down at Jane's angelic, calm expression, which made her seem as
+ though she not only bore no responsibility for the torture but was also
+ politely puzzled about why I had been making so much noise in the first
+ place.
+ Her dark blonde hair dangled above my face as she leaned over me.
+ She looked so young -- she looked younger than 
+\emph on
+me
+\emph default
+ -- and so innocent.
+ Like a porcelain doll.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Knock,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\end_layout
+
+\begin_layout Standard
+I successfully interpreted the word, agreed with the instruction enthusiasticall
+y, and nodded my head rapidly several times.
+ Jane reached out, seized the neck of my shirt, and picked me up and set
+ me on my feet with one hand.
+ I wobbled but didn't fall.
+ 
+\end_layout
+
+\begin_layout Standard
+Jane's room was decorated mostly in warm colors.
+ She had carpet that matched her eyes, a lot of knicknacks made of gold,
+ a cherry wood wardrobe, and pale orange upholstery on her sofa set.
+ This made her slight figure, dressed in the black cloak of the Volturi,
+ stand out like a blot of ink against the bright background.
+ She looked at me expectantly from under her hood.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Well?
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uh,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied.
+ I had a brain somewhere but seemed to have misplaced it.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+are you doing here? What do you want?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um-um-um-Addysentme,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, finding it exceptionally urgent that Jane get what she wanted without
+ delay.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And she didn't tell you to knock?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Jane, skeptical.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, she didn't.
+\begin_inset Quotes erd
+\end_inset
+
+ I reached for the wall to steady myself.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry.
+ I'm so sorry.
+ I will never ever ever walk in without knocking again.
+ I'm so sorry.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Jane nodded to herself.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Well, I suppose I shall go see what Addy wants.
+ You run along.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I bolted.
+ Behind me, I heard Jane chuckling softly.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I went straight home, unaccompanied.
+ Seth and Karen, guarding the tunnel, stopped me, and I told them that Addy
+ told me to go home.
+ This was only a slight stretching of the truth -- she 
+\emph on
+had
+\emph default
+ said I should go home and recover, it was just that she hadn't quite specified
+ whether I had to check in with her first.
+ I forced myself to interpret her instructions as permitting me to flee
+ home to Jake without her escort, and managed to convince the wolves to
+ the point where they let me lurch past Karen without trying to catch me.
+ 
+\end_layout
+
+\begin_layout Standard
+When I got to my door, I almost knocked.
+ It took me three seconds of focusing very hard on my breathing and the
+ fact that this room was 
+\emph on
+not
+\emph default
+ Jane's before I managed to turn the handle without foolishly rapping my
+ knuckles against the wood.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake wasn't home yet.
+ I slumped into the armchair and closed my eyes, hoping that my internal
+ clock would spontaneously rejigger itself to let me sleep instead of being
+ so miserably conscious.
+ Of course no such thing happened.
+ 
+\end_layout
+
+\begin_layout Standard
+Why did Jane 
+\emph on
+exist
+\emph default
+? Could she perhaps be made to stop existing? How much of a chance would
+ Jake have at killing her before she or someone else tore him apart, if
+ I asked him to? Would he go, or was Chelsea thorough enough that he'd find
+ a reason not to hurt one of Our Friends? 
+\end_layout
+
+\begin_layout Standard
+A couple of seconds later, the fact that I cared about Jake reasserted itself,
+ and I decided that I should probably not send him into a nest of evil vampires
+ who only slightly valued his life and tell him that one of them tortured
+ me.
+ 
+\end_layout
+
+\begin_layout Standard
+I went into our bathroom and looked in the mirror.
+ There was a wild look in my eyes and my hair was mussed, but I didn't otherwise
+ appear hurt.
+ I combed my hair, and braided pigtails into it for good measure, and then
+ went and flopped on my bed to try to relax.
+ 
+\end_layout
+
+\begin_layout Standard
+When Jake walked in, I had my face buried in my pillow and couldn't see
+ him, but I heard him open the door well enough.
+ I startled badly enough to accidentally fling myself off my covers and
+ onto the floor.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you okay?
+\begin_inset Quotes erd
+\end_inset
+
+ He walked up and helped me off the ground, hugging me in greeting as long
+ as he was there.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You don't usually roll off of the furniture in excitement when I walk into
+ a room.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eep,
+\begin_inset Quotes erd
+\end_inset
+
+ I squeaked.
+ I wasn't fine, he'd smell a lie a mile away if I told him I was fine, but
+ he had to 
+\emph on
+believe
+\emph default
+ I was fine, I would be so completely lost without Jake if they took him
+ away and that meant he had to think I was okay because if he thought otherwise
+ it would only make me 
+\emph on
+less
+\emph default
+ okay.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake put his hands on my shoulders and pushed me back a few inches to get
+ a good look at my face.
+ I tried to look normal, but my lip trembled and there was a little too
+ much moisture in my eyes.
+ An expression of severity and displeasure took over his face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elsie, what happened?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I flung myself forward to go back to the hugging part, which involved less
+ scrutiny and more warmth, but he just repeated the pushing gesture and
+ stared into my eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elsie,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm -- I'm going out of my mind just a tiny bit wondering what's gotten
+ you so jumpy and sad all the time.
+ You dream like you need to be on Prozac and you look like you're afraid
+ of your shadow and you won't tell me anything, and -- and geez, Elsie,
+ I'm here for 
+\emph on
+you
+\emph default
+, that is the 
+\emph on
+point
+\emph default
+ of there being a Jacob Black in the world is for 
+\emph on
+you
+\emph default
+, will you 
+\emph on
+please
+\emph default
+ let me help?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't,
+\begin_inset Quotes erd
+\end_inset
+
+ I sniffled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't.
+ I'm sorry, I'm sorry, I'm
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Shh.
+\begin_inset Quotes erd
+\end_inset
+
+ He let go of my shoulders and I pitched forward again to be held; Jake
+ started swaying back and forth.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Shh-shh-shh.
+ You don't have to be sorry.
+\begin_inset Quotes erd
+\end_inset
+
+ A heavy sigh blew past his clenched teeth.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can I have a 
+\emph on
+hint
+\emph default
+, or...
+ you don't have to, you don't have to do anything you don't want to, but
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sometimes...
+ the stuff Addy wants me to work on...
+ is hard,
+\begin_inset Quotes erd
+\end_inset
+
+ I choked.
+ He waited patiently for me to go on, and I collected myself for a couple
+ of minutes, but couldn't think of anything else true I could tell him.
+ Jake sighed again.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe you could take a day off, or two -- a week?
+\begin_inset Quotes erd
+\end_inset
+
+ he suggested.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're obviously not feeling well, everybody else gets sick days.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe.
+ I don't know.
+ I'm not actually 
+\emph on
+sick
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can it hurt to ask?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably not,
+\begin_inset Quotes erd
+\end_inset
+
+ I admitted.
+ 
+\emph on
+But only probably,
+\emph default
+ I thought.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Asking Addy for time off, when she came to collect me the following day,
+ did not literally hurt.
+ It didn't even figuratively hurt.
+ It didn't get me any time off, either.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nonsense,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said when I tentatively suggested that I could skip a day.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're in perfect health.
+ I'm already being rather gentle by scheduling only a couple of hours of
+ work each day.
+ Did you know that when I found Benjamin, way back when, we did nothing
+ 
+\emph on
+but
+\emph default
+ play with the elements for a solid week and a half? Come along, now.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I followed her, bizarrely inclined to resent Benjamin, and we settled into
+ our practice room and she extended her hand; when I didn't touch it right
+ away she seized my wrist and held it.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Go ahead and try the weapon Jane gave you,
+\emph default
+ invited Addy, a crafty little smile on her face, and I scowled and did
+ exactly that.
+ Send and 
+\emph on
+push
+\emph default
+ - 
+\end_layout
+
+\begin_layout Standard
+Addy yanked her hand away from my arm and clutched at it like I'd burned
+ her, but after a momentary hiss, she smiled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There you go,
+\begin_inset Quotes erd
+\end_inset
+
+ she said pleasantly, and she took hold of my hand again.
+ 
+\emph on
+Not as potent as Jane, but promising, certainly.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I could just zap you until you leave me alone.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+Addy laughed at me.
+ 
+\emph on
+Elspeth, I am considerably faster than you, I am considerably more accustomed
+ to pain than you, and now that you have this power, so have I.
+ If you wish to turn this into a fight, you will lose, and would even without
+ the threat of my sharing your secret with the others.
+ Shall we spend a few seconds seeing precisely how long it would take me
+ to subdue you? Do you think it would be amusing to invent an excuse for
+ your wolf when you come home looking that run down? Or shall we get on
+ with our day?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I attempted to glare at her, but had a suspicion that it came off as more
+ of a pout.
+ She smiled brightly and went on, 
+\emph on
+Let's go back to the range exercises.
+
+\emph default
+ Then she released my hand, and waited patiently.
+ 
+\end_layout
+
+\begin_layout Standard
+I shut my eyes and bit my lip and wished I could convincingly fake the attempt,
+ but I couldn't.
+ I pointed my hand at Addy, imagined it as an antenna of some kind, and
+ thought as hard as I could about that memory of the ticking grandfather
+ clock in Oregon.
+ 
+\end_layout
+
+\begin_layout Standard
+Forty-five mind-numbingly boring minutes later (which were nevertheless
+ mercifully empty of torture), Addy's face lit up with a bright grin.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I saw that,
+\begin_inset Quotes erd
+\end_inset
+
+ she exclaimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Marvelous.
+ Do it again.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I forced another few seconds of clock-ticks through the air at her, and
+ Addy smiled serenely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now add in the audio and other components.
+ Take your time,
+\begin_inset Quotes erd
+\end_inset
+
+ she added generously.
+ 
+\end_layout
+
+\begin_layout Standard
+Over the next hour I gradually grouped together the entirety of the minutes
+ I'd spent staring at that clock, folding in all the senses and feelings.
+ It was exhausting, albeit only mentally -- I didn't want to sleep, so much
+ as stare blankly into space.
+ When the memory was complete, Addy tapped me on the nose to update her
+ copy of my power.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mmm,
+\begin_inset Quotes erd
+\end_inset
+
+ she said happily.
+ She scooted her chair back a foot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Again.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+It was faster to get the extra twelve inches of range than it had been to
+ get the first one, but I was completely drained once I'd managed it after
+ thirty minutes of work.
+ Addy finally acknowledged that I needed a break; she touched my nose again,
+ and I sat, and looked at my shoes, and tried to relax.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can practice that on your own at home, I think,
+\begin_inset Quotes erd
+\end_inset
+
+ she said after a few minutes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think you should try to add at least a little bit of range every day without
+ fail; if you skip days it runs more risk of sticking and becoming fixed.
+ Oh, I wish I'd met more witches so young...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that why you won't let me have time off?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ Generally, the newer someone's power is, the more flexible it's seemed
+ to be, but I met one witch who worked every day on an arbitarily scalable
+ feature of his craft -- he was a telekinetic, but worked on a larger, less
+ tidy scale than Hao, and upped his weight tolerance.
+ By the time I met him, he was only increasing it by about a gram a day,
+ but it was still going up and he was three hundred years old.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that what you did before you joined the Volturi? Just went all over the
+ place looking for witches to borrow and...
+ help?
+\begin_inset Quotes erd
+\end_inset
+
+ I didn't like using that word for what she was doing with 
+\emph on
+me
+\emph default
+, but from the sound of things people like Pera and Benjamin had enjoyed
+ a pure benefit from Addy's acquaintance until she moved to Volterra and
+ started rounding up her old friends.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pretty much,
+\begin_inset Quotes erd
+\end_inset
+
+ she said cheerfully.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What made you decide to join the Volturi?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Let's practice while we have this conversation,
+\emph default
+ she sent without touching me, and I was suddenly glad that there was no
+ longer a reason I had to hold her cold hands in order to do the work she
+ wanted.
+ The cold didn't bother me, exactly.
+ For a long time everybody I touched was a vampire, all the same temperature.
+ But since moving into the village and starting to need comfort on a regular
+ basis, my source of comfort became Jake, who ran a couple of degrees warmer
+ than me and 
+\emph on
+much
+\emph default
+ warmer than a human, let alone a vampire.
+ 
+\end_layout
+
+\begin_layout Standard
+Then I thought of Jane and how her eyes 
+\emph on
+burned
+\emph default
+, and decided that temperature per se was irrelevant and I just didn't love
+ touching 
+\emph on
+Addy
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What made you decide to join the Volturi?
+\emph default
+ I asked again in the approved way.
+ Fatigue started to reassert itself, but ranged communication was getting
+ easier.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, I avoided it for a long time,
+\emph default
+ replied Addy, a sigh in her mental voice.
+ 
+\emph on
+Slipped under the radar.
+ They found me while I was traveling with Joham and his daughters.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Noemi and Iseul aren't witches, right? Is Joham?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No, he's not,
+\emph default
+ she said.
+ 
+\emph on
+Anyway, a delegation of the Volturi showed up, looking for some half-vampires
+ to learn more about them, and they had several witches along whose powers
+ I'd never tasted before.
+ I knew the Volturi had great witches among them and did want to learn about
+ their crafts, but I'd avoided actually seeking them out because I thought
+ it would be dangerous -- and then they were right there, irresistible.
+ I touched Jane -
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You could just show me this,
+\emph default
+ I pointed out.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm not going to do that.
+
+\emph default
+ She didn't explain why, just continued the story.
+ 
+\emph on
+At that point Jane noticed me, and you've seen how lightly she takes her
+ power, but I fought back instinctively; at that point they were a little
+ too curious about me for me to escape notice.
+ I decided to make the best of the situation -- at least as a member of
+ the Volturi guard I would get to sample some of the most carefully handpicked
+ witches in the world.
+ And it's been an interesting few years, and I've collected most of my old
+ friends and some highly interesting prizes that Aro's had his eye on, so
+ now I have a great deal of choices at my fingertips.
+ But it's so static, now; there's not a one in the guard whose power is
+ still changeable as far as I can tell.
+ You, though, Elspeth, you're growing all the time.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded slowly.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Let's go back to the speed tests, and see if you can send a compressed memory
+ from here,
+\emph default
+ instructed Addy, and I groaned out loud.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I lurched home an hour later, Addy at my shoulder, and flopped into Jake's
+ arms when he got up at my entrance.
+ Holding me up, he said, 
+\begin_inset Quotes eld
+\end_inset
+
+Addy, I'm worried about Elspeth
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But Jacob,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want her power to atrophy? It will, you know, if she doesn't practice
+ it.
+ She could be more limited than she has to be, forever, based on a decision
+ she made to avoid doing her homework at age 
+\emph on
+five
+\emph default
+.
+ Don't you want what's really best for her, not just what's easiest?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+It was the exact right thing to say to make Jake back off, and he frowned
+ solemnly and nodded once, still cradling me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But it's such a blessing that she has you,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy went on lightly, 
+\begin_inset Quotes eld
+\end_inset
+
+to look after her.
+\begin_inset Quotes erd
+\end_inset
+
+ Jake smiled tentatively, and Addy gave a little wave, spun on her heel,
+ and left.
+ 
+\emph on
+Watch yourself,
+\emph default
+ she warned in my mind through the door.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did she actually assign homework?
+\begin_inset Quotes erd
+\end_inset
+
+ Jake asked me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Range practice.
+ Can I do that when I'm done snuggling, though, please?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ he said soothingly, and petted my hair.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The next day, Addy and I sat in opposite corners of the room to practice
+ range and speed.
+ She believed that I could eventually be a true 
+\begin_inset Quotes eld
+\end_inset
+
+backwards Aro
+\begin_inset Quotes erd
+\end_inset
+
+, only ranged and selective -- he had no choice but to absorb the entire
+ memory of anyone he touched, whereas I could define beginnings and endpoints
+ to what I wanted to share and send only that, only to my desired targets.
+ 
+\emph on
+In fact, that may be your limiting factor here,
+\emph default
+ Addy said, after I'd just barely squeezed a half-hour hunt into two seconds.
+ 
+\emph on
+Aro's beginning and end points are perfectly, automatically defined: birth
+ and the moment at which he absorbs memory.
+ You need to define your points deliberately, and you're accustomed to sifting
+ along memories in real time, to decide as you go whether each second is
+ something you want to offer or not.
+ Let's break that habit once and for all.
+ Send me everything.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What?!
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I think you know exactly what I meant, Elspeth,
+\emph default
+ replied Addy.
+ 
+\emph on
+Try to send me all of your memories from your earliest up to this moment.
+ Here, if it will make it easier...
+
+\emph default
+ She got up and crossed the room to take my hand and place it on her face.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't want -
+\emph default
+ Something in Addy's expectant smile stopped me.
+ I might get out of doing this right away, but it would be replaced by something
+ I liked less and then suggested again later.
+ 
+\emph on
+Everything?
+\emph default
+ I asked, forlorn.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Everything.
+ Selectivity is holding you back.
+ Don't be so shy; do you realize how many 
+\emph default
+thousands
+\emph on
+ of people's memories I have in my head? You have done nothing so unique
+ and shocking in the past five years.
+ This is not about me invading your privacy; I could do that by borrowing
+ your father's power and asking embarrassing questions.
+ This is about helping you break through your limitations.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+I took a deep breath, bit my lip, and pushed.
+ 
+\end_layout
+
+\begin_layout Standard
+Addy staggered away from my hand, and her eyes unfocused and her jaw went
+ slack.
+ She didn't fall, but for two full seconds, she wavered on the spot.
+ Then, slowly, she straightened up and blinked, closing her mouth and looking
+ very impressed.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+That,
+\emph default
+ she said, 
+\emph on
+should you ever be particularly desperate, is a more effective weapon --
+ at least the first time -- than your variant on Jane's power.
+
+\emph default
+ She held her hand out to me.
+ 
+\emph on
+Try it again, let's see if it works twice.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+On the second try, Addy recovered much more quickly; I barely saw the dip
+ of her posture before she caught herself and smirked.
+ 
+\emph on
+Vastly diminished efficacy.
+ Only a few seconds of the thoughts were new, of course -- this will, I
+ expect, be a matter of delay between uses rather than a simple situation
+ where it's only effective against a given target once.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+And then the world went dark and silent and airless, as though I'd ceased
+ to have a body, and I was completely alone with my thoughts.
+\end_layout
+
+\end_body
+\end_document
