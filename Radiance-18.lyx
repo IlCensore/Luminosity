@@ -362,9 +362,11 @@ really
 \begin_layout Standard
 
 \emph on
-Do I have to actually annoy her, or could I maybe just ask -
-\emph default
- 
+Do I have to actually annoy her, or could I maybe just ask
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
@@ -859,7 +861,7 @@ I can't.
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Standard
@@ -1044,7 +1046,11 @@ Go ahead and try the weapon Jane gave you,
 \emph on
 push
 \emph default
- - 
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
@@ -1367,9 +1373,13 @@ Anyway, a delegation of the Volturi showed up, looking for some half-vampires
  I knew the Volturi had great witches among them and did want to learn about
  their crafts, but I'd avoided actually seeking them out because I thought
  it would be dangerous -- and then they were right there, irresistible.
- I touched Jane -
+ I touched Jane
 \emph default
- 
+
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
@@ -1615,7 +1625,7 @@ Try to send me all of your memories from your earliest up to this moment.
 \begin_layout Standard
 
 \emph on
-I don't want -
+I don't want --
 \emph default
  Something in Addy's expectant smile stopped me.
  I might get out of doing this right away, but it would be replaced by something
