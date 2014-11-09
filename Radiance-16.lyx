@@ -1,0 +1,1797 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{15}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Seeder
+\end_layout
+
+\begin_layout Standard
+I went to assembly, and tried to feel something while Chelsea hovered behind
+ the back row of villagers in our pack's section.
+ But there was nothing, no sensation, no 
+\emph on
+perceptible
+\emph default
+ change in my dispositions.
+ 
+\end_layout
+
+\begin_layout Standard
+I did notice that I always felt happier and cozier right after an assembly.
+ That was part of why I did my 
+\begin_inset Quotes eld
+\end_inset
+
+meditating
+\begin_inset Quotes erd
+\end_inset
+
+ right 
+\emph on
+before
+\emph default
+ each one -- it was just too hard to pick at that secure, warm feeling of
+ being surrounded by all my friends when it was fresh.
+ So I let myself go to bed with that just as snugly fastened as Chelsea
+ could make it, and only when it had nearly a day to wear off on its own
+ did I start poking at it.
+ 
+\end_layout
+
+\begin_layout Standard
+It 
+\emph on
+did
+\emph default
+ wear off on its own, a little -- as far as I could tell for something that
+ felt like nothing.
+ Magic told me that a major effect of Chelsea's witchcraft was to influence
+ who I made excuses for, so I took inventories of how I was inclined to
+ explain or condemn various people's behavior in various situations.
+ I felt more neutral at lunchtime than bedtime.
+ But on its own, without the people from my old life actually there to build
+ new relationships with me, neutrality was all I ever approached.
+ 
+\end_layout
+
+\begin_layout Standard
+It occurred to me to wonder whether I really wanted to be anything other
+ than neutral.
+ Being surrounded by friends was happy and cozy -- 
+\emph on
+and that was exactly my problem
+\emph default
+.
+ If it weren't happy and cozy, then Chelsea wouldn't be so good at keeping
+ the village penned up.
+ 
+\end_layout
+
+\begin_layout Standard
+My relatives, on the other hand, never brainwashed me, but raising someone
+ from early childhood could be almost as effective, and it would be awfully
+ lucky if I'd just happened to be born into a perfect family who I really
+ ought to consider faultless.
+ So it might be that I shouldn't be all happy and cozy with them either.
+ 
+\end_layout
+
+\begin_layout Standard
+Neutrality is very lonely, though.
+ And I hate being alone.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't explain to Jake what was going on, since I wasn't prepared for
+ the whole pack to know, but I did start spending more time with him.
+ Regarding me, at least, he was impervious to Chelsea.
+ Ultimately, my choices were to hang around him or abandon him, and even
+ if some of the affection on 
+\emph on
+my
+\emph default
+ end was fake, it still seemed like a mean thing to do when he was completely
+ innocent.
+ 
+\end_layout
+
+\begin_layout Standard
+I taught him to waltz, and when Daphne invented a ball game to be played
+ on wolfback we gave that a try, and he told me stories and I showed him
+ memories, and we always sat together at meals, and every evening he watched
+ my dreams for a few hours before he went to bed.
+ Jake was absurdly happy.
+ That made me happy, too -- and guilty, because it made it so much more
+ tempting to stay put, and whenever I thought of doing it my magic itched.
+ 
+\end_layout
+
+\begin_layout Standard
+I asked Magic one day, 
+\begin_inset Quotes eld
+\end_inset
+
+What if I just 
+\emph on
+like
+\emph default
+ it here and want to stay? Why do you have to badger me into trying to leave?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We can make up our mind to stay if you decide that you want to live here,
+ 
+\emph on
+without leaving anything out
+\emph default
+ when you tell yourself why,
+\begin_inset Quotes erd
+\end_inset
+
+ said Magic implacably.
+ 
+\end_layout
+
+\begin_layout Standard
+And that, I didn't know how to do.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Benjamin and Tia are still doing well,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy a couple of days later.
+ She'd started dropping by daily, but usually just showed me a handful of
+ her more innocuous memories for practice and then left.
+ I was starting to get used to the sensation of tasting magic that she experienc
+ed when she copied a power (which was always, because she could only get
+ rid of one by replacing it with a different one), and I could often even
+ keep my eyes open and look at things that were really present while she
+ sent along the experiences.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We've decided that Chelsea's work based on seeds you plant is no less stable
+ than the ordinary variety.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's been almost two weeks,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did it really take that long to verify?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, but it seemed wise to be cautious,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If we got cocky and asked you to seed all of the witches at once on the
+ grounds that Benjamin and Tia were acclimating, and we were wrong, I'm
+ sure you can imagine the chaos.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I looked down.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You want me to seed the rest of them?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And their mates, where applicable,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ She touched one finger to my chin and tipped my head up.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, I said I wouldn't interfere with your meditations until you tried
+ to leave, but I'm sure you can understand that it wouldn't take 
+\emph on
+me
+\emph default
+ reporting the behavior to get you in trouble, if you do something suspicious
+ like refuse the job.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought Aro didn't dare to annoy you too much?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, wondering for the first time why that would be exactly.
+ Addy wasn't immune to Renata; she couldn't attack Aro directly even if
+ she borrowed some useful combat power, and while some long-distance witchcraft
+ might help, Addy would still be outnumbered enough to have no chance at
+ escaping with her life.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And vice-versa, I'm afraid,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy lightly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said if Aro found out
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then you would remain free to experiment,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Because 
+\emph on
+that
+\emph default
+ is -- how interesting, the way your power interacts with honesty -- that
+ is what I want from you.
+ I have no way to improve on borrowed powers by myself, you see.
+ If I want the improved version of some ability, the witch who has the ability
+ natively must master the new aspect.
+ I believe you heard the story of how Pera was initially captured? We'd
+ been acquainted some years before, which is how I got close enough to grab
+ her, and I helped her develop her witchcraft for that reason; it's so much
+ more useful now.
+ Aro does not dare annoy me to the point of depriving me of your capacity
+ to expand your power, so I suppose it 
+\emph on
+is
+\emph default
+ fair to say that you aren't going to die.
+ But he knows exactly how little it would annoy me if, for example, you
+ were to prove dangerous and needed to do that experimentation under...
+ let's say, Jane's supervision.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I stared at her.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you understand, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ Addy asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes ma'am.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well then,
+\begin_inset Quotes erd
+\end_inset
+
+ she said with a broad smile, 
+\begin_inset Quotes eld
+\end_inset
+
+why don't we go introduce you to Zafrina?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't lie to her, not by magic,
+\begin_inset Quotes erd
+\end_inset
+
+ I told Addy while I followed her through the tunnel to the compound.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know.
+ You don't need to,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea just needs seeds, not full-blown adoration.
+ And the hard part with Zafrina is already mostly done; she has no mate,
+ only 
+\begin_inset Quotes eld
+\end_inset
+
+sisters
+\begin_inset Quotes erd
+\end_inset
+
+, who don't miss her anymore and who she doesn't miss.
+ She's very lonely right now, Elspeth, and you're going to fix that for
+ her without telling a single lie.
+ You only need convince her that things aren't as one-sided as they seem.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Chelsea met us at the mouth of the tunnel, and Addy asked me if I knew anything
+ about Zafrina already.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A little.
+ She's from the Amazon coven and does visual illusions,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And once she knows you're there, that means she'll be able to communicate
+ with you directly, by sending you an impression of writing.
+ I'll still coach you, of course.
+ However, I should warn you that she could be hostile at first, and might
+ try to scare you off with distressing illusions.
+ Closing your eyes won't help.
+ So I actually recommend that you keep your eyes closed.
+ That way you will know that anything you see is something she's showing
+ you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\end_layout
+
+\begin_layout Standard
+I went to the dungeon with them, and Addy pointed at a heap of rubble, and
+ I shut my eyes and reached out.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+That day, I seeded four witches including Zafrina, all unmated.
+ 
+\end_layout
+
+\begin_layout Standard
+After the illusionist, there was Charles, a truth detector.
+ I remembered my mother describing Maggie to me, who was the opposite --
+ and to hear Addy describe Charles's power, considerably less powerful.
+ Charles could tell the difference between 
+\emph on
+kinds
+\emph default
+ of truth, and wouldn't be thrown off by sarcasm or misdirection.
+ Essentially, he was only convinced that he was hearing something honest
+ if the person talking to him was forthright enough to keep Magic happy
+ -- which made me probably the only person who could talk him into letting
+ seeds sprout, even leaving aside the part where he was in pieces and difficult
+ to speak to.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy cheerfully, 
+\begin_inset Quotes eld
+\end_inset
+
+even if you aren't 
+\emph on
+absolutely
+\emph default
+ transparent, your power does help you sound honest as long as you aren't
+ truly lying! I think that will close the gap, should you happen to feel
+ that you would be 
+\emph on
+most
+\emph default
+ effective by telling him less than absolutely everything.
+ If it doesn't work, we'll come up with a new strategy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+It worked.
+ Chelsea laughed.
+ 
+\end_layout
+
+\begin_layout Standard
+Then there was Dwi, who -- like Zafrina -- could talk back without going
+ through Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's a bit like your father,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy explained when she pointed out his pile among the rows of them.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Except he has no range limit and goes in both directions -- and only picks
+ up and sends voluntary communications.
+ He's a useful telephone, more or less -- who works underwater, in silence,
+ regardless of whether there's bars in the area or not.
+\begin_inset Quotes erd
+\end_inset
+
+ She laughed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolves work nearly the same way, except that they can't speak in the
+ form that lets them have the ability, and only talk to others in their
+ packs, so Dwi's power is faster in emergencies.
+ We 
+\emph on
+could
+\emph default
+ talk to him ourselves, but he wouldn't believe us and is particularly unfond
+ of me -- you, he'll have a harder time dismissing like that.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Li-qing was last for the day (
+\begin_inset Quotes eld
+\end_inset
+
+I wouldn't want to worry your wolf, and I'm sure you don't either,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, 
+\begin_inset Quotes eld
+\end_inset
+
+so four will do until tomorrow,
+\begin_inset Quotes erd
+\end_inset
+
+) and she had what Addy described as 
+\begin_inset Quotes eld
+\end_inset
+
+minor gravity control
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That is to say, she can designate a new direction as 
+\begin_inset Quotes eld
+\end_inset
+
+down
+\begin_inset Quotes erd
+\end_inset
+
+ within a limited range,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's a fun one.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I felt sick to my stomach after we were done, and Chelsea humming happily
+ to herself while she made little finger-twitches to accompany her work
+ didn't help.
+ Addy escorted me back to the village.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake asked me what was wrong, when I walked in.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tricky day at work,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured, and he hugged me.
+ 
+\end_layout
+
+\begin_layout Standard
+Addy was back after breakfast the next morning, caught me in the hallway,
+ winked at Jake, and led me by the hand up into the compound again.
+ I listened in silence while she told me who I'd be seeding during the walk
+ through the tunnel.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice and Jasper -- you know them -- I'd start with Jasper if I were you,
+ he really rather approved of the Volturi before he thought we'd killed
+ Alice.
+ Go ahead and roundly blame all of that on my study of witchcraft; we can
+ fix up his attitudes towards 
+\emph on
+me
+\emph default
+ later once he's thrown in with the Volturi as a group.
+ I'd have grabbed him too and he'd never have needed to despair of her if
+ only it hadn't been so tempting to try his power to fake her death.
+ It was a marvelous piece of work -- and he never suspected! I think Alice
+ will follow easily once he's in hand.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded once, concentrating on breathing and walking and the fact that
+ soon there wouldn't be any more witches in the dungeon to seed and I could
+ get on with -- whatever I wanted to get on with.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Next,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, 
+\begin_inset Quotes eld
+\end_inset
+
+you can see about managing Hao and his mate Kazuo.
+ Kazuo's not a witch, but he shouldn't be hard to handle either, and Hao's
+ a telekinetic.
+ Limited, though.
+ I worked with him for a solid six months back in 1805, and he's still stuck
+ on small, inanimate objects in a limited range that he can see.
+ Very dexterous, though.
+ Ask him how much art he's going to get done as-is.
+ Plus there's the mate angle, of course, you remember working with Benjamin
+ and Tia.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I did remember that.
+ I hadn't seen them since.
+ I hoped they were comfortable.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And then Sukutai, the walking -- well, 
+\begin_inset Quotes eld
+\end_inset
+
+slightly quivering
+\begin_inset Quotes erd
+\end_inset
+
+ at the moment -- perfect camouflage witch.
+ Herself, anything she touches -- she can fix it up to have whatever color
+ she likes.
+ You'll be able to tell who she is all by yourself; she likes to stay brown
+ instead of being pale like the rest of us, although she can't do a thing
+ about the sparkles.
+ She's got a mate too, Okey.
+ He's not a witch, and his color from Sukutai has worn off, but I'll point
+ him out.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that all for the day?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked softly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, that will do,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy replied pleasantly.
+ 
+\end_layout
+
+\begin_layout Standard
+She watched and gave instructions, and Chelsea smiled and fluttered her
+ hands, and I seeded.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+There were two more days of seeding.
+ 
+\end_layout
+
+\begin_layout Standard
+I listened attentively when Addy told me about who I was helping to brainwash,
+ feeling like it was somehow better if I at least knew their names.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Emere's from New Zealand,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No mate.
+ You know the drill.
+ Her power is like Corin's, but she has an invisible knife, not a shield.
+ Quite sharp enough to hack up a vampire if that's what she chooses to do
+ with it, although she's fairly nonviolent considering.
+ Taamusi melts or freezes water -- I tried and tried and 
+\emph on
+tried
+\emph default
+ to get him working with vapor or at least steam, but it didn't work, most
+ witches are so constrained -- and he has a mate Valdis, whom you will also
+ need to seed.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded once.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And then you will finish up by working with Pyotr.
+ He doesn't have a mate.
+ His power is unwieldy even at the best of times -- he can't make it work
+ at all, four times out of five, and I can't discern any regularity to it,
+ which is frustrating -- but when it does work, he's dangerous indeed.
+ Compulsion.
+ If he's functioning properly and he tells you to do something, that's what
+ you shall do.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I looked at her hand on my wrist, pulling me along the tunnel, and permitted
+ myself to think that I knew a little about how that worked.
+ 
+\end_layout
+
+\begin_layout Standard
+The last day, I seeded Vasanti and her mate Mehul.
+ They were both witches, but Mehul's power was minor enough that he wouldn't
+ have been worth capturing on his own; he had slightly better hearing relative
+ to an average vampire.
+ Vasanti, on the other hand, was the only vampire in the world known to
+ be non-repulsive to animals.
+ They would willingly approach her -- liked her, in fact, and would tolerate
+ other vampires in order to be close to her as long as there weren't too
+ many of them.
+ And at her option she could possess one animal at a time, perceiving its
+ senses as additions to her own and controlling its body like an extension
+ of hers.
+ 
+\end_layout
+
+\begin_layout Standard
+After that pair were two last, unmated vampires: Abdelmajid, who could see
+ through solid objects, and Emel, a woman who could control metal the way
+ Benjamin could manipulate earth and stone.
+ Emel was last, because the teleporter Razi was still at large.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I caught Razi in the first place much the same way I did Pera,
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Addy wistfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I got him to hold still and talk to me while I had Alec's power, and he
+ needs his proprioception to jump from place to place so once I'd managed
+ to knock him down he was all set, but now I'd never be able to keep him
+ in sight long enough.
+ He may be a permanent loss.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where is Pera, anyway?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I would have thought she'd be in the village sometimes.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And why would you think she would do that?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Addy, smiling.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To visit Brady...
+\begin_inset Quotes erd
+\end_inset
+
+ I blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ haven't seen Brady since two weeks ago, while Pera was turning.
+ Is he living up here with her? Wouldn't that make Alice less useful?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Addy just smiled at me.
+ 
+\end_layout
+
+\begin_layout Standard
+I noticed that I did not 
+\emph on
+miss
+\emph default
+ Brady.
+ 
+\end_layout
+
+\begin_layout Standard
+I let Addy take me home, and curled up with Jake on our sofa and tried not
+ to cry.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Addy was back the next day while Jake was managing his pack on a field mission
+ I was trying not to think about.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think it's time to see what new things you can learn to do,
+\begin_inset Quotes erd
+\end_inset
+
+ she told me.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't answer her, just blinked.
+ 
+\end_layout
+
+\begin_layout Standard
+She tilted her head, smiling at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You do realize, I hope,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+that while I like to keep witches around to borrow after they've hit their
+ limit, this is entirely for utility purposes.
+ None of the witches you've seeded is 
+\emph on
+interesting
+\emph default
+ anymore, with the possible exceptions of Pyotr and Alice; they're only
+ 
+\emph on
+useful
+\emph default
+.
+ Are you useful, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I -- I -
+\begin_inset Quotes erd
+\end_inset
+
+ I stammered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I did the seeding
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, you did,
+\begin_inset Quotes erd
+\end_inset
+
+ agreed Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You did a very nice job.
+ And now the only witch we still have to keep in pieces is your father,
+ who is uncontrollable because his mate remains at large and even if we
+ 
+\emph on
+had
+\emph default
+ her, Chelsea wouldn't be able to work with her.
+ I'm sure we will acquire more witches in the future, but Dwi will be able
+ to 
+\emph on
+talk
+\emph default
+ to them, and while he won't be as convincing as you, it's very unlikely
+ that there will be another challenge like Charles.
+ Are you 
+\emph on
+useful
+\emph default
+, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Brady...
+\begin_inset Quotes erd
+\end_inset
+
+ purred Addy.
+ 
+\end_layout
+
+\begin_layout Standard
+I shuddered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jake's an alpha,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So are his sisters.
+ We made do with two packs for five and a half years, Elspeth.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I drooped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What do you want?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Since you are only slightly useful,
+\begin_inset Quotes erd
+\end_inset
+
+ she told me, 
+\begin_inset Quotes eld
+\end_inset
+
+I would like you to be interesting.
+ Learn new and exciting things.
+ Figure out the limits of what you can already do, and push them.
+ I'll help you if you should slow down, of course.
+ I do have a history of being good at helping witches improve.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+A chill ran up my spine.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes ma'am,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Where itchy magic hadn't done the trick to make me want to leave the village,
+ stark terror did.
+ It was no longer particularly difficult to peel away the snuggly comfort
+ of induced awe and respect and affection for the vampires who lived in
+ the compound, although I retained what I thought was a justifiable level
+ of sympathy for the other villagers.
+ But I had no way of knowing when Addy had my father's power and when she
+ didn't; and whenever she did, she could tell what I was up to -- what I
+ was 
+\emph on
+thinking
+\emph default
+.
+ She'd know if I decided to jump from my bed to the skylight and climb up
+ to break through the glass at the surface.
+ She'd know if I talked my way past the tunnel guards and intended to make
+ a break for it once past the pawn shop.
+ She'd know if I talked Jake into digging us out.
+ And if she thought she wouldn't be able to research my power otherwise,
+ she'd have every motive to turn me in.
+ 
+\end_layout
+
+\begin_layout Standard
+As unwelcoming as the village had become, I was pretty sure my life could
+ get worse.
+ 
+\end_layout
+
+\begin_layout Standard
+I had no reason to believe that the Volturi wouldn't kill Jake if he protested
+ at my treatment, so I had to make sure there was nothing (that he could
+ see) about my treatment to complain about.
+ I had to do what Addy wanted.
+ I had to make it clear to her, to anyone else curious enough to investigate,
+ that I was staying put and didn't need to be taken away from him.
+ 
+\end_layout
+
+\begin_layout Standard
+Chelsea could non-lethally separate me from any of my friends 
+\emph on
+except Jake
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+If I misbehaved, he would die.
+ 
+\end_layout
+
+\begin_layout Standard
+I catalogued how my power had progressed so far, hoping to collect ideas
+ for what to try next.
+ The first thing I ever did was transmit visual memory.
+ Later I'd attached feelings.
+ Dreams had started leaking out of my hands at some point -- it could have
+ been earlier than it was discovered, although not by much, if my parents
+ hadn't held my hands while I slept before that night.
+ I'd added senses to my shared memories, one at a time, and learned to construct
+ hypothetical situations (tagged as such when I sent them to prevent me
+ from lying with them).
+ I pared down the hypothetical situations to just words so I could talk
+ silently.
+ My power started leaking on its own into my normal speech, adding credibility
+ to my true statements depending on just how true and complete they were,
+ and prompting me to say things in ways that my audience would understand.
+ I taught myself to confirm guesses about other people in a horribly roundabout
+ fashion.
+ More recently I learned to summarize and translate memories, and in just
+ the last few weeks I'd been talking to my own magic.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you have any ideas for what to learn to do next?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked Magic one evening.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't like this!
+\begin_inset Quotes erd
+\end_inset
+
+ she fumed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're lying to Jake!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I tell him what's going on he'll make trouble and he might die!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're 
+\emph on
+lying
+\emph default
+ to 
+\emph on
+Jake
+\emph default
+!
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have half a one-track mind, apparently,
+\begin_inset Quotes erd
+\end_inset
+
+ I signed at her.
+ She didn't laugh; she never did.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Magic, I need to know what else you can do! I 
+\emph on
+need
+\emph default
+ it -- that's 
+\emph on
+true
+\emph default
+, isn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ she said obstinately, 
+\begin_inset Quotes eld
+\end_inset
+
+but
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I pulled my hand away from my face.
+ I didn't know what Addy would do if I told her my magic wouldn't help me
+ be interesting because it was unhappy.
+ I didn't really want to find out.
+ But I'd learned to do new things before my power became a personified truth-obs
+essed sub-agent of me, so maybe I didn't need Magic's willing cooperation.
+ I started brainstorming.
+ 
+\end_layout
+
+\begin_layout Standard
+Addy checked up on me (in person) a couple of days later, while Jake was
+ playing poker in East with some other wolves.
+ She'd sent me an e-mail at my village account telling me to arrange to
+ be alone.
+ It had been a difficult task to convince Jake that I was okay to leave
+ alone, since try as I might I wore my heart on my sleeve and 
+\emph on
+everyone
+\emph default
+, especially Jake, could tell I wasn't very happy, but eventually I persuaded
+ him to go.
+ I had a list written up for Addy, which I pushed across the table at her
+ when she walked in.
+ I avoided making eye contact.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's no need to be so upset, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy in what I could have chosen to interpret as a friendly voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not at all impatient yet.
+\begin_inset Quotes erd
+\end_inset
+
+ She scanned my list.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Compression and speed...
+ hm, you could be a little backwards Aro, wouldn't that be interesting?
+ Range...
+ that's good if you can manage it, especially since a lot of people who
+ acquire range after starting with none can keep training it up a fair distance.
+ You've crossed out 
+\begin_inset Quotes eld
+\end_inset
+
+weaponize the disorientation effect
+\begin_inset Quotes erd
+\end_inset
+
+, why's that? I'd find it very interesting...
+ you can save it for later, though, if you prefer.
+ Learning to talk to your magic via means other than sign language...
+ not very useful, but it's something, I suppose, and we've established that
+ you don't need to be 
+\emph on
+particularly
+\emph default
+ useful.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes ma'am,
+\begin_inset Quotes erd
+\end_inset
+
+ I muttered.
+ 
+\end_layout
+
+\begin_layout Standard
+She raised an eyebrow at me and smiled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And have you made progress on any of these things yet, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No ma'am.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't actually have to call me 
+\begin_inset Quotes eld
+\end_inset
+
+ma'am
+\begin_inset Quotes erd
+\end_inset
+
+, you know,
+\begin_inset Quotes erd
+\end_inset
+
+ she said gently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm perfectly happy to be called Addy, or Del if you prefer.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you want,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, looking away.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+She drummed her fingers on the table.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This is really more fun when my research partner is fascinated by learning
+ about his or her power, too.
+ I'd rather be working 
+\emph on
+with
+\emph default
+ you to achieve something interesting, but you went and balked at the seeding
+ work, and I had to break out the leverage.
+\begin_inset Quotes erd
+\end_inset
+
+ Addy sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why haven't you started working on these things?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm stalling,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, knowing perfectly well that she'd be able to detect it if I wasn't
+ upfront with her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+As long as there are still things I might be able to learn, and I don't
+ completely refuse to work with you, you'll keep me safe, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Addy laughed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can be patient, Elspeth, but while you don't need to spend all of your
+ time on this sort of thing -- that would be suspicious-looking, wouldn't
+ it? -- I would like you to get on with it.
+ Is that understood?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I looked at my knees and folded my hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\end_body
+\end_document
