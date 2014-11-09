@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{4}
+\setcounter{chapter}{9}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -1323,7 +1323,11 @@ Um, we want to find Mama, and Alice says she's on her way to Denali, and
 \begin_inset Quotes eld
 \end_inset
 
-Do Jasper, Peter and Charlotte have ID that will get them onto a plane?
+Do Jasper, Peter and Charlotte have 
+\noun on
+id
+\noun default
+ that will get them onto a plane?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2172,16 +2176,8 @@ I suppose they had to arrange to take time off, or something.
 \end_inset
 
 Esme is going to try to hug me.
- I realize she means well, but what part of 
-\begin_inset Quotes eld
-\end_inset
-
-Chelsea got me
-\begin_inset Quotes erd
-\end_inset
-
- is too complicated for her to understand? In what way does that not imply
- not hugging me?
+ I realize she means well, but what part of `Chelsea got me' is too complicated
+ for her to understand? In what way does that not imply not hugging me?
 \begin_inset Quotes erd
 \end_inset
 
