@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{4}
+\setcounter{chapter}{8}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -352,8 +352,10 @@ There was one thing Chelsea couldn't break, though
 \begin_layout Standard
 
 \emph on
-MAMA IS ALIVE
+\noun on
+Mama is alive
 \emph default
+\noun default
 , I screamed in my head as hard as I could.
  I could see Daddy's eyes widen, and Adelaide said, 
 \begin_inset Quotes eld
@@ -1399,7 +1401,7 @@ And once we found Jasper it would be time to look for Mama, and I didn't
 \end_layout
 
 \begin_layout Standard
-There were two obvious places we could look for Mama: 
+There were two obvious places we could look for Mama:
 \end_layout
 
 \begin_layout Standard
@@ -1745,15 +1747,8 @@ Addy,
 \end_inset
 
 Copies powers.
- You saw her when she was 
-\begin_inset Quotes eld
-\end_inset
-
-wearing
-\begin_inset Quotes erd
-\end_inset
-
- Jane's, but she can copy anyone -- except Bella
+ You saw her when she was `wearing' Jane's, but she can copy anyone -- except
+ Bella
 \begin_inset space ~
 \end_inset
 
