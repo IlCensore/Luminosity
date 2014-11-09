@@ -589,6 +589,13 @@ filename "Radiance-08.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-09.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
