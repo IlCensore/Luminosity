@@ -356,16 +356,9 @@ If I think of something, I'll tell you,
 \begin_inset Quotes eld
 \end_inset
 
-But I might suspect you of misusing the opportunity if you say 
-\begin_inset Quotes eld
-\end_inset
-
-hey, Jake, it's very important that you wear a pineapple on your head and
- waltz around the room for three hours straight,
-\begin_inset Quotes erd
-\end_inset
-
- or something,
+But I might suspect you of misusing the opportunity if you say `hey, Jake,
+ it's very important that you wear a pineapple on your head and waltz around
+ the room for three hours straight,' or something,
 \begin_inset Quotes erd
 \end_inset
 
@@ -497,7 +490,11 @@ Interesting choice,
  Addy remarked.
  
 \emph on
-I'll need to translate this one; it's from around 295 B.C.
+I'll need to translate this one; it's from around 295 
+\noun on
+b.c.
+
+\noun default
  and they didn't have any languages that you're familiar with then.
 
 \emph default
@@ -526,8 +523,12 @@ I can never think of a good analogy for what relationships feel like.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Master Aro wants me to keep Marcus with us -- Marcus is essential; I can
- only grope around in the dark for relationships, not see
+ only grope around in the dark for relationships, not 
+\emph default
+see
 \emph on
  them, not piece together all the details of how they work in motion.
  I can flail around and cut, I can seize loose tendrils and moor them where
@@ -538,8 +539,12 @@ Master Aro wants me to keep Marcus with us -- Marcus is essential; I can
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 That diamond-wrapped rope was pulling Marcus away from us, and all my work
- -- on him and
+ -- on him 
+\emph default
+and
 \emph on
  on Didyme -- wasn't holding him, or rather them.
  He didn't love us enough to stay if it would suit her to be elsewhere.
@@ -549,11 +554,15 @@ That diamond-wrapped rope was pulling Marcus away from us, and all my work
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Everyone must love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 (I'm terrified that one day I will meet someone who lashes me to him with
  the same unassailable connection, and he will try to pull me away from
  Master Aro, and I will have no choice but to follow and every dream of
@@ -568,6 +577,8 @@ Everyone must love me.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 But now Didyme is a memory (along with the coven who killed her, the fools
  -- someday every vampire on the earth will know that it's a death sentence
  to trespass on our interests this way).
@@ -578,6 +589,8 @@ But now Didyme is a memory (along with the coven who killed her, the fools
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Now, I can pull the drooping cotton tighter still, fasten Marcus to Master
  Aro and to Caius and to Athenodora and to Sulpicia (I was afraid, too,
  when she came along and caught Master Aro's eye so effectively, but she
@@ -588,17 +601,23 @@ Now, I can pull the drooping cotton tighter still, fasten Marcus to Master
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Everyone must love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 So I turn my hand at the end of my wrist, feeling along the invisible threads,
  and I let my fingers spread, and the string turns and grows and tightens.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Marcus looks at me with dim black eyes.
  He knows exactly what I'm doing, but I am not Didyme, and that sharply
  limits how much he can care about it.
@@ -606,16 +625,22 @@ Marcus looks at me with dim black eyes.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Within that limit, though, he'll love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Everyone must love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I work for some hours, to be quite sure that Marcus won't slip off in a
  moment of our inattention and provoke the nearest nomad into putting him
  out of his misery.
@@ -626,6 +651,8 @@ I work for some hours, to be quite sure that Marcus won't slip off in a
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Finally, I think I've done enough for a short time; Marcus is at least tied
  enough that he can hunt alone and be expected to return to us.
  I tuck an errant strand of his hair behind his ear, and hold out my arms
@@ -634,6 +661,8 @@ Finally, I think I've done enough for a short time; Marcus is at least tied
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -646,6 +675,8 @@ Chelsea,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -665,6 +696,8 @@ Yes, Master?
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Most of the relationships stretching out from Master Aro feel like glass,
  spun into some improbable thin spikes or rods.
  The one that links him to Sulpicia is completely unlike glass -- it feels
@@ -674,6 +707,8 @@ Most of the relationships stretching out from Master Aro feel like glass,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -696,6 +731,8 @@ There is too much to do, and now that revenge has been taken on Didyme's
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -710,6 +747,8 @@ Yes, Master,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Master Aro relaxes considerably.
  
 \begin_inset Quotes eld
@@ -724,6 +763,8 @@ Thank you, Chelsea,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I bow.
  
 \begin_inset Quotes eld
@@ -737,6 +778,8 @@ No thanks are necessary, Master.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 He smiles slightly.
  
 \begin_inset Quotes eld
@@ -751,6 +794,8 @@ You have done me a significant service.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -767,6 +812,8 @@ Of course, Master.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Everyone must love me.
  
 \end_layout
@@ -802,7 +849,11 @@ Another would be good,
 \begin_layout Standard
 
 \emph on
-This is from about 100 BC,
+This is from about 100 
+\noun on
+b.c
+\noun default
+.,
 \emph default
  she informed me.
  
@@ -827,11 +878,15 @@ I hate human towns.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Human towns are full of people, and none of them love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 It's not worth the effort to fix that, really.
  The humans are food or annoyances or useful sources of clothing, not subjects
  or friends or even stimulating conversationalists.
@@ -844,12 +899,16 @@ It's not worth the effort to fix that, really.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 But it still aches, all those humans rushing from place to place and never
  sparing me a second thought.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I'm only here for the trinkets Sulpicia wanted.
  She's amused by sending me on errands; I remain the only Volturi subordinate,
  as Master Aro wants to be very selective about how he grows our coven and
@@ -863,6 +922,8 @@ I'm only here for the trinkets Sulpicia wanted.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 It's a few moments past dusk, but there are enough lamps and candles burning
  that even humans can see a little, and some of them are still out and about.
  There are two boys, fighting with pathetically well-telegraphed punches
@@ -875,32 +936,40 @@ It's a few moments past dusk, but there are enough lamps and candles burning
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Well, one of those boys isn't ugly, really.
  And there's something about how he fights.
  His opponent is tough, and holding his own, but there's some -- 
-\emph on
-weight
 \emph default
+weight
+\emph on
  to the handsome boy's blows that doesn't seem normal.
  Some lightness to his body when he dodges.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I stand in the shadows and watch the better-looking boy -- he's probably
  nearing twenty, not quite a boy anymore, even though anyone who hasn't
- gone gray seems that way to me at my two centuries of age -- skillfuly
+ gone gray seems that way to me at my two centuries of age -- skillfully
  pummel the ugly one until he yields.
  There is definitely an uncanniness to the way the comely one moves.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I follow him as he leaves.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 He's headed home, apparently.
  He jogs -- again the unusual momentum, more than a human should be able
  to put behind a stride! -- through the towns, and I follow at a brisk walk.
@@ -912,21 +981,29 @@ He's headed home, apparently.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I want him.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I want him to love me.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Everyone must love me, but this young man in particular.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 He arrives at home.
  It's a large family; the object of my interest has one living parent, to
  judge by their chatter, and six siblings, all younger than him.
@@ -934,6 +1011,8 @@ He arrives at home.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 He loves them and not me; I can tell, crouching outside his house in the
  dark and clenching my fists to feel the relationships coiling out from
  him like strips of leather.
@@ -944,6 +1023,8 @@ He loves them and not me; I can tell, crouching outside his house in the
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Cut and cut and cut, and he's untethered.
  I hear the cheer in his voice falter; the leathery lines try to spawn themselve
 s back, thin shadows of the originals but still not acceptable.
@@ -953,6 +1034,8 @@ s back, thin shadows of the originals but still not acceptable.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Eventually he does.
  I hear the excuse -- he has a charming, rough voice.
  They let him go without protest, suspecting nothing.
@@ -965,6 +1048,8 @@ Eventually he does.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -980,6 +1065,8 @@ Hello,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -992,6 +1079,8 @@ Hello,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1004,6 +1093,8 @@ Tell me your name,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1020,6 +1111,8 @@ Afton.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1036,6 +1129,8 @@ It's so lovely to meet you, Afton.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1049,8 +1144,12 @@ Chelsea.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I want to keep him.
- He's mine
+ He's 
+\emph default
+mine
 \emph on
 .
  
@@ -1083,6 +1182,8 @@ anywhere
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1105,6 +1206,8 @@ I'll wait for you.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I force myself away.
  I'm far, far too distant from my last hunt to be sure of his safety if
  I try to preserve him now.
@@ -1113,26 +1216,26 @@ I force myself away.
 \end_layout
 
 \begin_layout Standard
-Those threads
+
 \emph on
- are 
+Those threads are 
 \emph default
 back
 \emph on
- a
-\emph default
-gain
-\emph on
-.
+ again.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Cut, cut, cut, and I know exactly who will be my food.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 It's hard enough to force his last sister's blood down my throat that I'm
  confident I'll be able to leave him alive.
  I swallow as much as I possibly can, wipe a drop off my chin, and fly at
@@ -1144,6 +1247,8 @@ It's hard enough to force his last sister's blood down my throat that I'm
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1156,6 +1261,8 @@ Chelsea,
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1185,7 +1292,9 @@ Won't you be mine?
 \end_inset
 
  I don't even care if Master Aro says later that I can't have him.
- I want
+ I 
+\emph default
+want
 \emph on
  him, and I'll have him even if I have to trade the chance to be part of
  the Volturi's planned conquest for it.
@@ -1193,6 +1302,8 @@ Won't you be mine?
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
