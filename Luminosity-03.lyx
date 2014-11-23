@@ -45,6 +45,7 @@
 \clubpenalty100
 \end_preamble
 \use_default_options true
+\master Luminosity.lyx
 \maintain_unincluded_children false
 \language english
 \language_package default
@@ -66,7 +67,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing other 1.35
+\spacing other 1.3500000000000001
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -414,24 +415,10 @@ I got some of both from the cabinet under the stairs and offered Alice a
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -807,24 +794,10 @@ Questions?
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1799,24 +1772,10 @@ Soonish
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1967,24 +1926,10 @@ Bye,
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1996,24 +1941,10 @@ I did not sleep well.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2313,24 +2244,10 @@ I closed my notebook and looked at the clock.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -3054,24 +2971,10 @@ Alice nodded.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

@@ -45,6 +45,7 @@
 \clubpenalty100
 \end_preamble
 \use_default_options true
+\master Luminosity.lyx
 \maintain_unincluded_children false
 \language english
 \language_package default
@@ -66,7 +67,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing other 1.35
+\spacing other 1.3500000000000001
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -321,24 +322,10 @@ Inside Bella Swan's skull, who's driving this thing?
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -758,7 +745,7 @@ I started at him incredulously, and he cut off mid-sentence.
 \end_inset
 
 What? Okay, Alice said that the three day initiation process or whatever
- it is is 'not fun'.
+ it is is ‘not fun’.
  I could buy that it is sufficiently not fun that you wish it hadn't happened
  to you, don't think it was worth it.
  It'd be a little hard to believe, but not impossible.
@@ -868,24 +855,10 @@ I don't want to have cryptic conversations.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -950,8 +923,11 @@ Charlie's timing was good: he arrived just as the beep indicating correct
  The ritual exchange of daily activity information complete, I started to
  sauté spinach; it went fast, and I wanted to time it to finish when the
  salmon did.
- Charlie turned on the TV to watch a few minutes of some sporting event
- until the oven timer rang.
+ Charlie turned on the 
+\noun on
+tv
+\noun default
+ to watch a few minutes of some sporting event until the oven timer rang.
 \end_layout
 
 \begin_layout Standard
@@ -1212,24 +1188,10 @@ Well, I might, I don't know,
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1396,24 +1358,10 @@ evolution?!
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1642,24 +1590,10 @@ He got into the passenger seat while I tried to conceal the alarm this notion
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1758,24 +1692,10 @@ hard
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2123,24 +2043,10 @@ At any rate, there was simply no call to rush anything.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

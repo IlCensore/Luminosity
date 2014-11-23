@@ -45,6 +45,7 @@
 \clubpenalty100
 \end_preamble
 \use_default_options true
+\master Luminosity.lyx
 \maintain_unincluded_children false
 \language english
 \language_package default
@@ -66,7 +67,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing other 1.35
+\spacing other 1.3500000000000001
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -251,24 +252,10 @@ forgotten
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -536,24 +523,10 @@ met
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -649,7 +622,11 @@ Haven't you ever seen snow before?
 \begin_inset Quotes eld
 \end_inset
 
-On TV,
+On 
+\noun on
+tv
+\noun default
+,
 \begin_inset Quotes erd
 \end_inset
 
@@ -1095,24 +1072,10 @@ My name is Alice Cullen.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1376,24 +1339,10 @@ Alice danced away, her grace untroubled by the ice.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2139,24 +2088,10 @@ I'll, um, talk to him about it.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2347,24 +2282,10 @@ The bell rang.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 
 \family typewriter
 ***
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
