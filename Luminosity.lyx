@@ -43,6 +43,18 @@
 
 \frenchspacing
 \widowpenalty1000
+
+
+
+%% to disable the Th ligature
+\XeTeXinterchartokenstate=1
+\newXeTeXintercharclass\FirstClass
+\XeTeXcharclass`T\FirstClass
+\newXeTeXintercharclass\SecondClass
+\XeTeXcharclass`h\SecondClass
+
+\XeTeXinterchartoks\FirstClass\SecondClass={\penalty\@M\hskip\z@}
+%
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -67,7 +79,7 @@
 \index_command default
 \float_placement bp
 \paperfontsize 10
-\spacing other 1.35
+\spacing other 1.3500000000000001
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -118,8 +130,6 @@
 \begin_body
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -164,8 +174,6 @@ Luminosity
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -173,8 +181,6 @@ Luminosity
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -182,8 +188,6 @@ Luminosity
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -283,8 +287,6 @@ mmxiiii
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -301,8 +303,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -310,8 +310,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -349,6 +347,8 @@ Luminosity
 \emph default
 © Alicorn.
  Published at 
+\size small
+
 \begin_inset ERT
 status open
 
@@ -365,7 +365,24 @@ url{http://luminous.elcenia.com/}
 \end_layout
 
 \begin_layout Standard
-Typesetted in LyX and 
+Typesetted by Cato Philosophus (
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{cato.philosophus@gmail.com}
+\end_layout
+
+\end_inset
+
+
+\size default
+) in LyX and 
 \begin_inset ERT
 status open
 
@@ -384,14 +401,14 @@ Twilight
 \family default
  and 
 \family typewriter
-Consolas
+\size small
+Source Code Pro
 \family default
+\size default
 .
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -399,8 +416,6 @@ Consolas
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -758,8 +773,6 @@ I'm a girl.
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -776,8 +789,6 @@ thispagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -808,8 +819,6 @@ Luminosity
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -817,8 +826,6 @@ Luminosity
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -835,8 +842,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -844,8 +849,6 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset ERT
 status open
 
@@ -862,8 +865,6 @@ pagestyle{myheadings}
 \end_layout
 
 \begin_layout Standard
-
-\lang italian
 \begin_inset CommandInset include
 LatexCommand include
 filename "Luminosity-01.lyx"
@@ -1142,6 +1143,116 @@ filename "Luminosity-29.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Here ends 
+\family sans
+Luminosity
+\family default
+.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+The story continues in book 
+\noun on
+ii
+\noun default
+, 
+\family sans
+Radiance
+\family default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size small
+Book typesetting by Cato Philosophus (
+\size footnotesize
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{cato.philosophus@gmail.com}
+\end_layout
+
+\end_inset
+
+
+\size small
+),
+\begin_inset Newline newline
+\end_inset
+
+completed on November 22
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+nd
+\end_layout
+
+\end_inset
+
+, 2014.
 \end_layout
 
 \end_body
