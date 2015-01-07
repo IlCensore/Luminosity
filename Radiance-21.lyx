@@ -1,0 +1,2384 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{20}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Meditator
+\end_layout
+
+\begin_layout Standard
+Right after Maggie said that, everyone's head jerked up at the sound of
+ a yawn and, soon after, the pitter-pattering of little feet.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna flew up the stairs, Maggie close at her heels.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Molly dear,
+\begin_inset Quotes erd
+\end_inset
+
+ cooed Gianna.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Want to have breakfast in bed today?
+\begin_inset Quotes erd
+\end_inset
+
+ I could imagine that they would be hesitant to bring her into the kitchen
+ where, among others, Addy sat -- although I did wonder how many vampires
+ would eat little two-year-olds even if they 
+\shape italic
+didn't
+\shape default
+ have vampire parents protecting them.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mamma no,
+\begin_inset Quotes erd
+\end_inset
+
+ said a high, indistinct child's voice.
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+
+\begin_inset Quotes eld
+\end_inset
+
+Mama?
+\begin_inset Quotes erd
+\end_inset
+
+ I say again, even though I'm sure.
+ It's the exact flowery-Mama-smell.
+ I remember it right for sure.
+ She's finally back! The puppy is unhappy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Silly puppy,
+\begin_inset Quotes erd
+\end_inset
+
+ I tell it, but it still doesn't know not to be scared of my mama, so I
+ put its leash on a tree so it will stay there while I go and see Mama.
+ Yes, there she is, through the trees! She has almost no hair now.
+ That's silly.
+ But she's still my mama, and she picks me up when I run over to her.
+ She's been gone a long time.
+ I better show her all the stuff she missed
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It'll be fun,
+\begin_inset Quotes erd
+\end_inset
+
+ urged Maggie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We could bring you a tray with eggs and sugar toast and orange juice and
+ app
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I ate all the applesauce,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured under my breath.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+--
+\begin_inset space ~
+\end_inset
+
+a banana,
+\begin_inset Quotes erd
+\end_inset
+
+ substituted Maggie swiftly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want to down, Mummy,
+\begin_inset Quotes erd
+\end_inset
+
+ said Molly.
+ 
+\end_layout
+
+\begin_layout Standard
+I heard Gianna's sharp whisper, quiet in my ears but not intended for me
+ -- 
+\begin_inset Quotes eld
+\end_inset
+
+Adelaide, if you even 
+\shape italic
+look at her the wrong way
+\shape default
+...
+\begin_inset Quotes erd
+\end_inset
+
+ The threat trailed off, and Gianna's voice resumed its pleasant coo.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Okay, darling.
+ We have some...
+ friends over.
+ They're down in the kitchen.
+\begin_inset Quotes erd
+\end_inset
+
+ The three came down the stairs, Molly in Gianna's arms.
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+home...
+ in Mama's arms, dashing from place to place
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+Molly was cute as a button, wearing a blue nightgown patterened with sheep
+ and little bunny slippers.
+ She took strongly after what I remembered human Gianna looking like --
+ similar green eyes, but the hair and the skin each were a shade lighter.
+ She leaned easily against Gianna's shoulder, looking at the visitors in
+ her house with innocent curiosity.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hi friendth,
+\begin_inset Quotes erd
+\end_inset
+
+ she lisped.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Molly,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm Elspeth.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ethbef,
+\begin_inset Quotes erd
+\end_inset
+
+ attempted Molly.
+ The look of motherly adoration on Gianna's face was
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+Mama is so glad to be back! She's a snuggly mama
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+was adorable.
+ Maggie looked
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+Mama's going to take me away with her.
+ She missed me lots
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+looked fiercely protective.
+ Addy was smiling peaceably, hands dangling at her sides nonthreateningly,
+ but neither mother relaxed much.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Unclario!
+\begin_inset Quotes erd
+\end_inset
+
+ squealed Molly when she spotted her uncle.
+ Jake laughed quietly at the portmanteau.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And that's Jacob, and this...
+ is Adelaide,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie stiffly, pointing them out for Molly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jacob and Adalady,
+\begin_inset Quotes erd
+\end_inset
+
+ repeated Molly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can call me Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ invited Addy, and Molly pronounced that much more readily; Gianna frowned,
+ but only a little.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sugar toast!
+\begin_inset Quotes erd
+\end_inset
+
+ said Molly, pointing at Ilario, when the introductions were finished.
+ He gently ruffled her hair and retrieved a slice of bread from the cupboard
+ to turn into toast.
+ Meanwhile, the conversation resumed at a speed and pitch inaccessible to
+ Molly; I held Jake's hand and translated in silence when I realized his
+ hearing was only a little better than a human's in two-legged form.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We don't keep in very regular contact with Siobhan and Liam,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie explained, peeling a banana for Molly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Especially since Molly came along.
+ They...
+ we really don't think they'd hurt her, but there's just no such thing as
+ 
+\shape italic
+sure enough
+\shape default
+, not with Molly on the line, and even I have to get out of the house if
+ she needs a band-aid put on because of my history.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you can't get hold of them?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Addy, frowning.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We have a general idea of where they are most of the time, and they have
+ our address, and they do 
+\shape italic
+own
+\shape default
+ telephones but usually don't have them turned on.
+ We see them about twice a year and tip them off if we think there are other
+ vampires on the island.
+ Since,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, with a pointed look at Addy timed for when Molly was turned away,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+it is their territory.
+ I mean, there is that one fellow who lives the Isle of Man who we think
+ sometimes sneaks over here to hunt but who they've never managed to catch.
+ But us three are the only other vampires besides Siobhan and Liam technically
+ allowed.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+
+\begin_inset Quotes eld
+\end_inset
+
+Are you really the only vampires in Ireland?
+\begin_inset Quotes erd
+\end_inset
+
+ I inquire.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's such a massive territory.
+ No coven? No competitors carving out their own sections?
+\begin_inset Quotes erd
+\end_inset
+
+ I've been around much of Europe, and everywhere I've found others of what
+ I must now call my own kind, I've found feuds and territory disputes and
+ the creation and breakage of alliances great and small.
+ The Volturi were refined and civilized, after a fashion, even in violence.
+ But Siobhan's life sounds...
+ genuinely peaceful, at least most of the time.
+ Her borders are clear, at least, not like the dividing river that had two
+ covens at each other's throats over boating prey.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+None now,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan says, 
+\begin_inset Quotes eld
+\end_inset
+
+unless I miss my guess badly.
+ There were several others before, though never so many as in your home
+ country.
+ I managed to divide them up and take them down or drive them out, depending
+ on how stubborn they were.
+ Occasionally there are...
+ visitors...
+ who come here to hunt, and I do not tend to chase them over the water if
+ they come in and go out expeditiously.
+ Not visitors like you,
+\begin_inset Quotes erd
+\end_inset
+
+ she clarified.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I've never met one like you before, restricting yourself to animals.
+ Of all things...
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+That wasn't mine, it was Carlisle's again; it was getting easier to tell
+ during a recollection whether I owned a memory or not, instead of the dreamlike
+ feeling that I 
+\shape italic
+was
+\shape default
+ whoever I remembered being, that I'd experienced right after the blast...
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's very impressive that Siobhan's been able to keep the place to such
+ a small vampire population,
+\begin_inset Quotes erd
+\end_inset
+
+ remarked Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There are, what, thirty or forty vampires between England and Scotland and
+ Wales? I imagine some of them swim abroad occasionally for more varied
+ hunting, but it's much more densely populated by the undead.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Something like thirty or forty, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie, 
+\begin_inset Quotes eld
+\end_inset
+
+though I think England's got more than its fair share compared to, I don't
+ know, Belgium.
+ Actually, I'm not sure if there are any vampires in Belgium.
+ There's probably at least one.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Honey,
+\begin_inset Quotes erd
+\end_inset
+
+ said Gianna.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie said, 
+\begin_inset Quotes eld
+\end_inset
+
+Ireland.
+ Just us and the other two.
+ Actually, that's one reason I think Siobhan 
+\shape italic
+may
+\shape default
+ be a witch, though she definitely doesn't believe it, so it'd have to be
+ a subtle power -- can't be making a buzzing noise in her head like mine
+ does, or anything like that.
+ And she definitely 
+\shape italic
+is
+\shape default
+ good at making plans that wouldn't necessarily need magic to work.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Molly crunched her sugar toast.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mummy th- sing?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked, correcting her lisp with some effort, and Maggie began crooning
+ beautifully in Gaelic -- which language, I realized after a moment of dizziness
+, I had all the resources necessary to understand fluently beyond the conversati
+onal level I'd previously had.
+ Apparently I didn't have to explicitly process the memories of language-learnin
+g in order to use them; they must have been stored differently somehow,
+ I decided.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So all you know is that they're in or near Omagh,
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered, trying to be inaudible to Molly like the vampires, 
+\begin_inset Quotes eld
+\end_inset
+
+and have no way to pin it down.
+ How can we find them?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We can try their phones,
+\begin_inset Quotes erd
+\end_inset
+
+ said Gianna, 
+\begin_inset Quotes eld
+\end_inset
+
+it's just not guaranteed to reach them.
+ We can try tracking by scent once in the neighborhood.
+ One of us will need to stay home to look after Molly.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You should probably do that,
+\begin_inset Quotes erd
+\end_inset
+
+ Ilario said to Gianna.
+ Maggie was still singing, but she nodded a little.
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna dipped her head to press her cheek into Molly's hair.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want to stay, but
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+--
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+
+\begin_inset Quotes eld
+\end_inset
+
+We're going to let Grandma Esme and Grandpa Carlisle and Aunt Rosalie and
+ Uncle Emmett take you to see some friends in Alaska,
+\begin_inset Quotes erd
+\end_inset
+
+ Mama says.
+ I don't know what a laska is.
+ Maybe they have nice food there? Do we have to go to the laska to get me
+ nicer food from our friends? 
+\begin_inset Quotes eld
+\end_inset
+
+But me and Daddy can't go, and we'll miss you.
+\begin_inset Quotes erd
+\end_inset
+
+ I don't know why Mama and Daddy wouldn't be allowed in the laska.
+ But they'll miss me so that's okay.
+ They're supposed to miss me if I'm not there because I'm important
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of the three of us you're worst in a fight, and most likely to be able to
+ talk your way out of a Volturi execution, if it comes to that,
+\begin_inset Quotes erd
+\end_inset
+
+ Ilario said gravely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We'll rearrange ourselves on Siobhan's say-so if she has a better idea,
+ but for the time being it makes the most sense.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Gianna nodded, and caught Molly's toast in midair when she dropped it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ilario, would you try calling Siobhan and Liam?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+
+\begin_inset Quotes eld
+\end_inset
+
+Carlisle, how did you meet Siobhan and Liam?
+\begin_inset Quotes erd
+\end_inset
+
+ I ask during the swim across the Atlantic.
+ Esme is ahead of us, futilely trying to play with a pod of dolphins that
+ won't have anything to do with vampires.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+After I left Volterra, and decided to venture to the New World,
+\begin_inset Quotes erd
+\end_inset
+
+ he says, 
+\begin_inset Quotes eld
+\end_inset
+
+I stopped briefly in my homeland, where I first encountered Alistair, and
+ -- most likely to get rid of me after I'd overstayed my welcome -- he informed
+ me of Siobhan's existence.
+ It didn't take me long to find her, and she believed me when I described
+ my intention to move on to America, so she didn't take much issue with
+ my being in her territory.
+ We kept in touch, even more frequently than I do with Alistair -- that
+ being due entirely to Alistair's preference for nearly unbroken solitude,
+ of course.
+ Liam I met in 1823
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+Ilario turned the egg he had scrambled out of the frying pan onto a plate,
+ deposited the food in front of Molly, and pulled out his phone.
+ Siobhan didn't answer, but he tried Liam, and got a response.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ilario?
+\begin_inset Quotes erd
+\end_inset
+
+ said Liam's low, rumbling voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Complicated,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ilario.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Very.
+ Maggie and I need to meet you, and bring some...
+ people.
+\begin_inset Quotes erd
+\end_inset
+
+ He settled on the catch-all term after a momentary pause, maybe to deal
+ with the fact that Jake, Addy and I were three different species.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's somewhat related to the Cullens' activities, although I don't know
+ how aware you are of those...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only vaguely.
+ We heard them out, but when Siobhan heard the precise nature of the Volturi's
+ behavior, we agreed not to go.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah...
+\begin_inset Quotes erd
+\end_inset
+
+ said Ilario.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We need to get together and talk.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're not in the middle of anything here,
+\begin_inset Quotes erd
+\end_inset
+
+ Liam said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We could go to Wexford
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, we'll come and meet you,
+\begin_inset Quotes erd
+\end_inset
+
+ interrupted Ilario.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Gianna will stay home with Molly.
+ Just tell us where to go.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We can meet you halfway in Dublin if you like,
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Liam, and Ilario agreed and they worked out an intersection and
+ hung up.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+Maggie, Gianna, and Ilario each had a car, but Gianna's was tiny and Ilario's
+ in the shop.
+ We piled into Maggie's station wagon, with Ilario in the passenger seat
+ and me wedged between Jake and Addy in the back, and set off -- after Maggie
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Unclario
+\begin_inset Quotes erd
+\end_inset
+
+ both had a lengthy farewell with Molly and Gianna.
+ Maggie attempting (with mixed results) to tear herself away from Gianna
+ was almost indecent to watch.
+ It was full daylight by the time we got on the road, but with all the windows
+ closed, that didn't make the vampires glitter.
+ 
+\end_layout
+
+\begin_layout Standard
+I thought about Molly and her family, and about me and mine.
+ 
+\end_layout
+
+\begin_layout Standard
+--
+\begin_inset space ~
+\end_inset
+
+
+\shape italic
+snip, snip
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+I had been terrified.
+ I'd wanted to 
+\shape italic
+beg
+\shape default
+ her to leave my affections intact.
+ I'd wanted very badly to care about...
+ It was even hard to remember who exactly I'd been so very desperate to
+ love.
+ Eventually I pieced together a list: my mother; my father; my grandparents,
+ at least the ones I'd met; my aunts and uncles -- but maybe not Jasper;
+ the Denali cousins -- although on reflection I didn't think even my pre-Chelsea
+ self would still like Kate, Tanya, Eleazar, and Carmen after what they'd
+ done; maybe my human friends; maybe, on some distant basis, friends of
+ the family like the Irish vampires or the Amazons.
+ 
+\end_layout
+
+\begin_layout Standard
+I could remember loving...
+ 
+\shape italic
+some
+\shape default
+ of the listed people.
+ I had clear memories of it for my mother, Carlisle and Esme, Rosalie and
+ Emmett, all five Denalis.
+ 
+\end_layout
+
+\begin_layout Standard
+I could remember 
+\shape italic
+assuming
+\shape default
+ that I 
+\shape italic
+must
+\shape default
+ love the others, that it would be only natural and appropriate, that it
+ would be 
+\shape italic
+strange
+\shape default
+ if I didn't.
+ But thinking of it after Chelsea, when it would in fact 
+\shape italic
+not
+\shape default
+ be strange if I didn't love the father I barely knew, the aunt I'd scarcely
+ met, the distant friends-of-friends I'd never encountered...
+ 
+\end_layout
+
+\begin_layout Standard
+I wasn't sure I'd ever much cared for those people in the first place.
+ 
+\end_layout
+
+\begin_layout Standard
+But what had never existed, Chelsea couldn't destroy.
+ 
+\end_layout
+
+\begin_layout Standard
+I 
+\shape italic
+might
+\shape default
+ one day to be able to meet my mother's parents, and explain to them who
+ I am, and have this all go precisely the way it would if Chelsea never
+ touched my relationships.
+ I never met that set of grandparents.
+ Maybe Chelsea found nothing to cut, between me and them.
+ I didn't know because the last time Addy had touched Aro was before Jake's
+ pack was originally captured, and so before Chelsea had ever worked on
+ me; I didn't have any memories later than May 26 that weren't Addy's own.
+ 
+\end_layout
+
+\begin_layout Standard
+That didn't help with the people I knew I did once love, though.
+ With them there had definitely been some kind of loss.
+ I didn't know what to do about it.
+ 
+\end_layout
+
+\begin_layout Standard
+I leaned on Jake's arm, and put my hand on my face, and tried to 
+\begin_inset Quotes eld
+\end_inset
+
+meditate
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+The good news was, Magic finally made a 
+\begin_inset Quotes eld
+\end_inset
+
+sound
+\begin_inset Quotes erd
+\end_inset
+
+ instead of signing, and it wasn't even difficult to make it happen.
+ 
+\end_layout
+
+\begin_layout Standard
+The bad news was, she was screaming.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\shape italic
+don't know what I know!
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ she yelled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We know all this 
+\shape italic
+stuff!
+\shape default
+ But we don't have a way to 
+\shape italic
+find
+\shape default
+ it when it's important instead of other stuff that doesn't matter! How
+ can we really tell the truth?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I was somewhat nonplussed by her strong reaction, since I hadn't noticed
+ any oddity in how my power functioned -- I'd been using it as normal since
+ 
+\begin_inset Quotes eld
+\end_inset
+
+coming to
+\begin_inset Quotes erd
+\end_inset
+
+ earlier that morning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So why aren't you acting glitchy?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have to give us my best guess, but I want a 
+\shape italic
+better guess
+\shape default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ she whined.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We know 
+\shape italic
+so much stuff
+\shape default
+ and we could be using it to tell better truths with but we can't handle
+ it all, there's 
+\shape italic
+too
+\shape default
+ much...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I do seem to be pulling up memories that are at least sort of relevant
+ to whatever I'm talking about,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So maybe it's not that bad.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think that's how it's working,
+\begin_inset Quotes erd
+\end_inset
+
+ Magic said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's at least a million years of stuff! Uncountable amounts of stuff!
+ Why would we be getting mostly memories from people we 
+\shape italic
+know
+\shape default
+? It's not just about relevance.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We've been mostly talking about people we know,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And most of the memories are from a really long time ago.
+ Humans Aro ate in the year 3 aren't going to have known much that's important
+ unless we're trying to talk about them in particular, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But until we sort through it all I 
+\shape italic
+don't know if we're missing anything,
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ she wailed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm only supposing that I'll think of the right things.
+ I don't know when to itch.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You were already itching all the time,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you're confused enough to stop, that's kind of good, I think.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Magic cried.
+ 
+\end_layout
+
+\begin_layout Standard
+I put my hand down.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You usually meditate longer than that,
+\begin_inset Quotes erd
+\end_inset
+
+ observed Jake.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My magic is upset,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's worried that I can't tell the whole truth if I don't have all the
+ memories processed -- like I'll miss something that Clarus said back in
+ 89 B.C.
+ and this will constitute lying by omission because I technically know all
+ the things Clarus remembered about his life when Aro killed him.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Was that an actual person Aro ate or did you make him up as an example?
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie asked.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He was an actual person,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He had a wife and four children and one granddaughter and he was a potter
+ and -- I 
+\shape italic
+really
+\shape default
+ can't think off the top of my head that there's anything about him that's
+ going to be important for me to remember if I'm talking about anything
+ other than Clarus himself.
+ Or maybe ancient Roman pottery.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe that shouldn't be your magic's job, figuring out what the whole truth
+ is?
+\begin_inset Quotes erd
+\end_inset
+
+ Jake suggested.
+ Then he made a puzzled face, like he wasn't sure if what he'd just said
+ had made any sense, but it gave me an idea.
+ I had two of me: maybe I needed three.
+ 
+\end_layout
+
+\begin_layout Standard
+That left the question of how to make there be that many of me, but a moment's
+ thought had me putting 
+\shape italic
+both
+\shape default
+ of my hands on my face at the same time.
+ 
+\end_layout
+
+\begin_layout Standard
+And then there were three.
+ 
+\end_layout
+
+\begin_layout Standard
+I experienced a momentary confusion while I tried to work out which of me
+ was which, but it was much shorter-lived than the puzzlement before I figured
+ out Magic's role.
+ The third self was there for a reason: she was supposed to handle my massive
+ store of memories.
+ I named her -- not very creatively -- 
+\begin_inset Quotes eld
+\end_inset
+
+Memory
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hi,
+\begin_inset Quotes erd
+\end_inset
+
+ I said to her.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ Memory said, but she didn't just 
+\shape italic
+say
+\shape default
+ it, she pulled up one of the millions of recollections of someone I remembered
+ saying the word.
+ There was no shortage; she'd probably be able to talk that way for the
+ next few years before repeating herself unless she wanted to use very specific
+ jargon or something.
+ The one she'd picked was my father's memory of one of the times my mother
+ had said hello to him, before she turned.
+ Her voice had been very different before.
+ 
+\end_layout
+
+\begin_layout Standard
+I couldn't think of anything else to say 
+\shape italic
+to
+\shape default
+ Memory.
+ If I came up with clever ideas for how to use or manage the store of extra
+ knowledge in my head, she'd be the person to talk to, but none came to
+ mind.
+ Instead I looked over at Magic.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is that better?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked hopefully.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ she said reluctantly, 
+\begin_inset Quotes eld
+\end_inset
+
+but it's not 
+\shape italic
+completely
+\shape default
+ better.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I have any more clever ideas for how to deal with the memories that will
+ be better, now I have Memory to handle it,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do I have any ideas besides making her exist in the first place?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ admitted Magic.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I put my hands down in my lap.
+ Jake was looking at me quizzically.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Talking to yourself in stereo?
+\begin_inset Quotes erd
+\end_inset
+
+ he quipped.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Talking to myself and my other self,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's three of me now.
+ I made a new one to help with the memories.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Jake laughed.
+ Addy looked intrigued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I wonder if you could have arbitrary numbers of sub-selves,
+\begin_inset Quotes erd
+\end_inset
+
+ she mused, tapping her fingertip on my ear to catch up with the new development
+ in my power.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know.
+ I only have so many hands,
+\begin_inset Quotes erd
+\end_inset
+
+ I began, but Addy interrupted me.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I keep telling you,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+you shouldn't think of your power as being intrinsically based in touch.
+ You have range for everything else now; why not this?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because I'm always in the same place as myself?
+\begin_inset Quotes erd
+\end_inset
+
+ I suggested.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't see how range even 
+\shape italic
+applies
+\shape default
+ to 
+\shape italic
+talking to myself
+\shape default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Addy nodded thoughtfully 
+\begin_inset Quotes eld
+\end_inset
+
+Try taking off your shoes, then, and
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--''}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\shape italic
+Or what?
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I demanded.
+ I 
+\shape italic
+had
+\shape default
+ wished that I'd worked faster to improve my power, when I'd fallen under
+ Alec's, but making new sub-agents didn't seem to have gotten 
+\shape italic
+harder
+\shape default
+ as I added more, so if I found myself in a situation where I needed to
+ put my feet together and thereby make Elspeth #4 appear, I could probably
+ do it in a hurry.
+ And Addy's power -- or 
+\begin_inset Quotes eld
+\end_inset
+
+leverage
+\begin_inset Quotes erd
+\end_inset
+
+ -- over me was gone.
+ She 
+\shape italic
+could
+\shape default
+ attack me directly, I supposed, but Jake, Maggie, and Ilario were all there
+ to back me up if she turned it into a fight, and I knew she didn't want
+ me dead or even too alienated to work with her.
+ From the look on her face when I snapped at her, she was thinking of the
+ same things and had come to the same conclusion.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ said Jake quietly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is there something I should know?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You should know that it would be a bad idea to phase in this car,
+\begin_inset Quotes erd
+\end_inset
+
+ I said tightly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ he said again, folding my thin hand in his broad one.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What was that about?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't phase,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and picked a starting point and an ending point (well out of the
+ way of Addy's blast), and showed him.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake's head lolled for a couple of seconds, but then he blinked rapidly
+ and sat up straight again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think I got that, whatever 
+\begin_inset Quotes eld
+\end_inset
+
+that
+\begin_inset Quotes erd
+\end_inset
+
+ is, but I don't have an extra me to help process it.
+ Can I get the short version? What exactly would be making me phase here?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Remember when I said some of the stuff Addy wanted me to do was hard?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked in a monotone.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ warned Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is this the time?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think so,
+\begin_inset Quotes erd
+\end_inset
+
+ cut in Jake, frowning at her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll work it out myself if I have to, but it sure sounds like something
+ I'd want to know, even if I wouldn't 
+\shape italic
+like
+\shape default
+ knowing it much.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Remember,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, since that was the closest verb in English for calling up an implanted
+ memory, 
+\begin_inset Quotes eld
+\end_inset
+
+when I met...
+ Jane?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Jake's eyes closed, then flew open and he snarled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\shape italic
+Don't phase in the car,
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I reminded him firmly.
+ 
+\end_layout
+
+\begin_layout Standard
+He maintained his hold on his shape, but only barely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The 
+\shape italic
+hell
+\shape default
+, Addy! You sent Elspeth to go 
+\shape italic
+get herself tortured
+\shape default
+ because she 
+\shape italic
+said she was bored
+\shape default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I really don't think this is the time,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said coolly, eyeing the door on her side.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\shape italic
+what?
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd send it to you but I don't want you to lose control of the car,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ilario can take the wheel for a couple seconds,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie said, and he leaned over to guide the car along the highway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now: 
+\shape italic
+what
+\shape default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I sent along the information; Maggie made a squeaky noise and waited for
+ a moment before taking over the task of driving again, and then I gave
+ Ilario the memories for good measure.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jesus!
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Maggie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Wow, I've killed a lot of people, but I never coerced a five-year-old into
+ provoking somebody into torturing her so I could get my jollies playing
+ with her power.
+ Most Evil Person In The Car Award goes to Addy.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I notice nobody is considering it a remotely extenuating circumstance that
+ I volunteered to be the test subject for the 
+\shape italic
+result
+\shape default
+ Elspeth extracted from the exercise,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy testily.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not five,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ilario.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...Why are you even in this group, exactly?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you think Elspeth and her wolf could have gotten this far without me?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you think you can afford to shed numbers, considering the project you
+ have in mind, just because I am unusually committed to my research? I'm
+ still borrowing Elspeth's power, and even if I weren't, Maggie, you could
+ tell if I lied to you -- ask me whatever you like about my 
+\shape italic
+current
+\shape default
+ loyalties or 
+\shape italic
+future
+\shape default
+ intentions and you'll have answers that I think will be satisfactory.
+ Maggie, as you say, you've killed a lot of people.
+ You happen to have stopped.
+ Should we kick 
+\shape italic
+you
+\shape default
+ out of the group on those grounds anyway? It isn't as though I have a vast
+ collection of five-year-olds in my back pocket who I plan to send marching
+ to Jane.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Jake growled under his breath and put a protective arm over my shoulders.
+ Addy rolled her eyes.
+\end_layout
+
+\begin_layout Standard
+No one said anything for the next twenty minutes, when Maggie murmured,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Almost there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

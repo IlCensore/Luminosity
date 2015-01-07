@@ -1,0 +1,2232 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{23}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Torturer
+\end_layout
+
+\begin_layout Standard
+Siobhan didn't seem too concerned about my reply, and shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can I assume for my purposes that you're on board with your wolf's preferences?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, what he said sounds good.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What he said includes you being happy,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you don't know what you want how's he going to manage that?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, there are the obvious things.
+ I wouldn't be very happy if I died or anything.
+ Or if Jake did.
+ But I still haven't sorted out how I feel about all the people I knew before
+ I met Chelsea, and...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan waved a hand.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ I mostly just need to know what projects you will and won't help with in
+ exchange for what incentives, not all the details of your psychology.
+ Let me know if that changes substantially from the obvious, okay?
+\begin_inset Quotes erd
+\end_inset
+
+ She sped up her pacing.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are Jane and Alec loyal to Aro personally, or do they stand a substantial
+ chance of defecting after Marcus learns about Didyme?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Give me a minute,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and closed my eyes again.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+--
+\begin_inset space ~
+\end_inset
+
+my throat is burning.
+ Just my throat, though, so that's...
+ better...
+ but I'm so 
+\shape default
+thirsty
+\shape italic
+ -- 
+\begin_inset Quotes eld
+\end_inset
+
+Water,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, expecting a dry choking noise, but I sound like a bell.
+ I think of standing, and I stand, without any time passing between the
+ one and the other.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+It's not water you need, dear one,
+\begin_inset Quotes erd
+\end_inset
+
+ says the man.
+ I recognize him.
+ I've seen him before.
+ He used to stand in dark places, and watch me and my brother.
+ It was strange.
+ What is he doing here? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+It's not...? What happened?
+\begin_inset Quotes erd
+\end_inset
+
+ Still the bell, still the thirst, what does he 
+\shape default
+mean
+\shape italic
+ water won't help? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Don't worry, lovely,
+\begin_inset Quotes erd
+\end_inset
+
+ he says.
+ He's so pale.
+ I'd think he was dying if he didn't hold himself so tall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What you need is just there.
+ Help yourself.
+\begin_inset Quotes erd
+\end_inset
+
+ He motions behind me.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+It's some...
+ people, tied up and gagged.
+ Recognizing them is like trying to find something small I dropped in a
+ murky lake.
+ There's something off about how I remember things, but I know...
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I don't like those people.
+ They're from my town.
+ They didn't like me, or my brother, and they
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I breathe in, and taste the moisture in the air, and fall on them like some
+ kind of demonic creature, just like they said.
+ They said me and Alec were 
+\shape default
+witches
+\shape italic
+, they said we made deals with the Devil, they said that's why I can make
+ them hurt and he can make them sleep, but I never did anything with the
+ Devil and neither did he...
+ I think.
+ It's so hard to remember.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+It tastes so good.
+ The burning fades away, mostly.
+ It tastes so 
+\shape default
+good
+\shape italic
+ and it makes the hurt stop.
+ Water wouldn't do that.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+It's over in a few seconds.
+ Just a few seconds.
+ I don't know how I could tell how long it took, but I could.
+ And it was fast.
+ 
+\shape default
+I'm
+\shape italic
+ fast.
+ I never was before, I never could run away when they wanted to hurt me...
+ I could now.
+ I could run away from anyone.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I look down at my hands.
+ They have blood on them.
+ And they're very, very white, where they aren't red.
+ Just like the man.
+ What happened to me? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I turn around and look at him again.
+ I'm fast as blinking, fast as a heartbeat.
+ I don't...
+ have a heartbeat anymore.
+ 
+\shape default
+What happened to me?
+\shape italic
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Dear one,
+\begin_inset Quotes erd
+\end_inset
+
+ says the man.
+ He has such a nice smile.
+ He likes me, I can tell, not like...
+ them.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How do you feel?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Better.
+\begin_inset Quotes erd
+\end_inset
+
+ I lick blood off my lips.
+ It's so 
+\shape default
+good
+\shape italic
+.
+ I tasted blood before, when they hurt me, and it didn't taste like this.
+ What happened...? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I hear somebody screaming, and turn my head that way.
+ It sounds familiar, but it's hard to remember.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+That's your brother,
+\begin_inset Quotes erd
+\end_inset
+
+ says the man.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't worry, dear one, he'll be quite all right.
+ He got a bit of a later start than you.
+ His injuries were not so great as yours, and I thought perhaps he could
+ be allowed to grow a bit older first.
+ But he took a turn for the worse and it was necessary to intervene.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ don't understand.
+\begin_inset Quotes erd
+\end_inset
+
+ I touch my neck, right under my chin, where the burn is already building
+ up again.
+ Thirsty.
+ How can I still be thirsty? My skin feels so smooth.
+ I move my head and there's no hair brushing my neck.
+ I have clothes on, but they're not mine, and they're too big.
+ What happened to me? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+What's the last thing you remember?
+\begin_inset Quotes erd
+\end_inset
+
+ the man asks.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+They were saying we were...
+ witches...
+\begin_inset Quotes erd
+\end_inset
+
+ I whispered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They blindfolded me and I couldn't stop them, and Alec was too slow...
+ and there was fire...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Witches,
+\begin_inset Quotes erd
+\end_inset
+
+ repeats the man.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Interesting.
+ Dear one
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I like that he calls me that, nobody ever called me a nice nickname before,
+ except when Alec calls me Sister -- 
+\begin_inset Quotes eld
+\end_inset
+
+I am so terribly sorry that I was not able to rescue you before any of that
+ happened.
+ I had intended to wait until you and your twin were eighteen or so, at
+ least, before I changed you.
+ Unfortunately, it was only the most fortuitous coincidence that I was here
+ in time to save your lives at all, and it was necessary to make you immortal
+ at once to avoid losing you entirely.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+You saved me?
+\begin_inset Quotes erd
+\end_inset
+
+ I ask.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+He nods.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're very special, you see.
+ And your brother too.
+ You have a unique power.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+I can make people hurt the way I do,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, but he must know that, and he nods.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It didn't help.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+He smiles.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You did mention that they blindfolded you.
+ You need to see who it is you mean to harm, don't you?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+ Sometimes I almost thought I saw the 
+\shape default
+harm
+\shape italic
+, even.
+ Like a lightning bolt.
+ It used to be the best way to make people stop hurting me.
+ I could make them feel it too.
+ I was the one who spat out teeth and nursed cuts and limped and couldn't
+ see out of swollen eyes -- but the 
+\shape default
+hurt
+\shape italic
+ I could make them feel just the same.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I don't hurt now except the thirst.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+But I can remember it, the burning.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Dear one,
+\begin_inset Quotes erd
+\end_inset
+
+ says the man, 
+\begin_inset Quotes eld
+\end_inset
+
+some people with special powers find that after they've changed, they're
+ more powerful than before.
+ I wonder, is there anyone you'd particularly like to try that out on? Someone
+ who hurt you?
+\begin_inset Quotes erd
+\end_inset
+
+ He's smiling still.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+I don't remember who...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+He leans towards me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have a power too,
+\begin_inset Quotes erd
+\end_inset
+
+ he says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+With one touch, I can learn all about a person.
+ When I saved you from the fire, I learned all about you, dear one.
+ And I remember who it was who took you from your home to burn you.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+You do?
+\begin_inset Quotes erd
+\end_inset
+
+ I don't think I want to remember all the things that happened before.
+ I don't think I liked them very much.
+ But if he remembers them, that's all right.
+ He can tell me who I wanted to hurt.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+ He smiles.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dear one, I have had my eye on you and your brother for some years.
+ I was very, very angry when I found that someone had tried to do away with
+ you.
+ In fact, I nearly killed him.
+ But then I thought, perhaps you would like him saved for you? Perhaps you
+ should be the one to exact revenge? Would you like that, dear one?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Where is he?
+\begin_inset Quotes erd
+\end_inset
+
+ I look up at the man, and he smiles and pats me on the head -- I have no
+ hair at all; did the fire burn it away? Will it come back? -- and he leads
+ me through the village.
+ My brother screams again but we aren't going to him, we're going to hurt
+ the person who hurt us.
+ Nobody should hurt me, ever, and if they do, 
+\shape default
+they
+\shape italic
+ should hurt.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+He's tied up and gagged, like those people I drank.
+ He looks at me and he's very afraid; I see him shaking and his eyes are
+ rolling in his head.
+ I could kill him.
+ But I don't think that would last very long.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I look him in the eye, and I share my pain
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jane is definitely, solidly loyal to Aro personally,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alec...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+--
+\begin_inset space ~
+\end_inset
+
+The first thing I see when I open my eyes is Jane.
+ I know her immediately.
+ She looks different -- her hair's been almost completely singed away, her
+ eyes are bright red, her summertime tan is gone and she looks like she's
+ made of porcelain, but it's her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sister.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Brother,
+\begin_inset Quotes erd
+\end_inset
+
+ she says happily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You must be thirsty.
+ Look there, Master has saved you some
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I don't wait for her to finish her sentence; I've already taken a breath
+ and spun round to see what she was pointing at and 
+\shape default
+devoured
+\shape italic
+ it.
+ Oh...
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+She's smiling girlishly, when I'm through and I turn around to look at her
+ again.
+ She looks happier than I've seen her in years.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sister, what's
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Oh, it's the most wonderful thing,
+\begin_inset Quotes erd
+\end_inset
+
+ she says, and whatever has happened, whoever she's calling 
+\begin_inset Quotes eld
+\end_inset
+
+Master,
+\begin_inset Quotes erd
+\end_inset
+
+ whyever she's smiling -- it must be all right, if Jane is happy
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Also loyal to Aro, but only because of Jane; if she could be pried loose
+ somehow he'd follow,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Both of them were his from the start -- hasn't changed since.
+ Chelsea's not under orders to make it otherwise.
+ She gets her instructions from Aro and he doesn't see a reason to make
+ anyone 
+\shape italic
+generally
+\shape default
+ loyal if they're already 
+\shape italic
+specifically
+\shape default
+ loyal.
+ The twins 
+\shape italic
+like
+\shape default
+ everybody else in the coven, but they only answer to him.
+ The closest thing to breaking away either one has ever done was when Jane
+ realized that Aro's the one who turned her with all that implies, and then
+ he made it up to her pretty fast by choosing that time to ask her if she'd
+ knock him over just once out of 
+\begin_inset Quotes eld
+\end_inset
+
+curiosity
+\begin_inset Quotes erd
+\end_inset
+
+.
+ That was satisfactory to her...
+ sense of justice.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's one way to put it,
+\begin_inset Quotes erd
+\end_inset
+
+ muttered Jake.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, 
+\begin_inset Quotes eld
+\end_inset
+
+her sense that anyone who treats her like less than an untouchable princess
+ needs to burn
+\begin_inset Quotes erd
+\end_inset
+
+ takes longer to say,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it just me,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie, 
+\begin_inset Quotes eld
+\end_inset
+
+or would it be really, 
+\shape italic
+really
+\shape default
+ useful to have Bella around nowish? I have literally no other clue how
+ anybody's going to deal with the twins and Renata.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not just you,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+but we don't know how to find her.
+ Elspeth, did you have no way to get in touch with your mother at all in
+ case of separation?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ She doesn't have a phone or a regular e-mail because she never wanted anyone
+ to be able to keep track of her at all.
+ Her work made her accept an e-mail address, but it only takes internal
+ mail, it'll reject anything from a different server
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan was staring at me like I was a complete idiot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan smacked herself in the forehead; it made a loud clunky noise.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tell me who she worked for,
+\begin_inset Quotes erd
+\end_inset
+
+ she growled, 
+\begin_inset Quotes eld
+\end_inset
+
+and I will 
+\shape italic
+arrange
+\shape default
+ to send mail from the 
+\shape italic
+right domain
+\shape default
+, Elspeth, if that's all that's standing in the way of our 
+\shape italic
+writing her a damn letter
+\shape default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie said, 
+\begin_inset Quotes eld
+\end_inset
+
+Okay, point that we can write to her and this really should have come up
+ in conversation forever ago, but is she likely to be checking her work
+ e-mail?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, but it's a hell of a lot better than flying to San Francisco on a wild
+ guess and 
+\shape italic
+wandering around in case she's there
+\shape default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, right,
+\begin_inset Quotes erd
+\end_inset
+
+ I muttered, and I rattled off the name of the company and my mother's e-mail
+ address with them.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess on the bright side, you didn't, say, tell your dad how to get ahold
+ of her because you'd have just been thinking 
+\begin_inset Quotes eld
+\end_inset
+
+oh I can't e-mail her
+\begin_inset Quotes erd
+\end_inset
+
+ the entire time you were around him,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake said encouragingly, 
+\begin_inset Quotes eld
+\end_inset
+
+so that means the Volturi can't communicate with her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They have Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+they don't need Bella's e-mail address.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They've had Alice since two weeks ago,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And unless they hid it from Addy for some reason, they don't have my mother
+ -- one sec
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+--
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+I told you, Aro,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice says, 
+\begin_inset Quotes eld
+\end_inset
+
+I can't see her.
+ It's always been spotty with her.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+But my dear, I thought that was only due to her association with the wolves,
+ not an intrinsic property of hers,
+\begin_inset Quotes erd
+\end_inset
+
+ Aro says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy, are you finding the same difficulty?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+The headache that always builds when I use Alice's precognition on anything
+ difficult is forming behind my eyes; I try to ignore it and focus harder
+ on the one who got away.
+ In two senses of the word.
+ I cannot 
+\shape default
+stand
+\shape italic
+ that Bella is still alive, that we didn't manage to kill her when it looked
+ like we did.
+ I've never been more frustrated in my life than when I could almost, 
+\shape default
+almost
+\shape italic
+ taste the power in that girl, 
+\shape default
+almost
+\shape italic
+ reach out and make it mine -- and find my mirror blocked completely by
+ a heap of 
+\shape default
+rubble
+\shape italic
+.
+ Practically no one can use their powers without the sense of location and
+ lack of pain that is so neatly taken away by thorough breakage.
+ Otherwise we could never have held onto a man who can 
+\shape default
+teleport
+\shape italic
+.
+ Some can use their powers whatever number of pieces they find themselves
+ in.
+ Apparently Bella can.
+ Can use it against 
+\shape default
+me
+\shape italic
+ -- that was like biting down, hard, on something that inexplicably wouldn't
+ yield to my teeth.
+ I almost expected my jaw to hurt, after I touched her.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I wish she'd died when we tried to kill her.
+ I wish.
+ I wish I could find her now, or that Alice could, so she could be hunted
+ down and made to die properly this time and not go on existing as a mockery
+ of my life's purpose.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+But I'm not getting anything but a headache.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't see anything either,
+\begin_inset Quotes erd
+\end_inset
+
+ I reply.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Her...
+ shield might have improved recently, or it could just be a coincidence
+ in the first place that she was associating with wolves regularly at the
+ time it developed this aspect.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+She could have found a half-vampire, besides Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolves are all in the village, right?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ I believe we would have other means of detecting her presence if she were
+ there,
+\begin_inset Quotes erd
+\end_inset
+
+ Aro says dryly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Very well, I will have Joham contacted and inquire about the whereabouts
+ of his daughters.
+ There is no obvious way to rule out the possibility that she has located
+ some other hybrid unknown to us, though.
+\begin_inset Quotes erd
+\end_inset
+
+ He frowns.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Keep checking for your erstwhile sister every hour or so, please, Alice
+ my dear.
+ She may not keep continual company with whoever is blocking you, if indeed
+ that's the case.
+ It seems unlikely that she is deliberately flouting you, as she has no
+ way of knowing that you are alive.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+She did 
+\shape default
+somehow
+\shape italic
+ change her mind about going to Denali,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice points out.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ Aro acknowledges, 
+\begin_inset Quotes eld
+\end_inset
+
+but that could have been any number of things.
+ If your head bothers you too badly, do let Alec know that he's to serve
+ as your analgesic while you do your prophesying.
+\begin_inset Quotes erd
+\end_inset
+
+ He pats Alice's cheek, looking avuncular, and she perks up a little at
+ the opportunity to avoid the discomfort.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I have a less complicated way to avoid my headache: I take his statement
+ as a dismissal, and go to the dungeon.
+ It looks very empty with only Edward in it.
+ I poke the heap of fragments with my foot; the headache and the flickers
+ of foresight disappear and my head is filled with second sound.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Right on cue, he 
+\begin_inset Quotes eld
+\end_inset
+
+speaks
+\begin_inset Quotes erd
+\end_inset
+
+ to me, aware of the moment at which his power pushes Alice's away: 
+\shape default
+Please, please, don't hurt Bella, please, whatever you have to do -- you
+ could credibly threaten to hurt or kill Elspeth even if Bella wouldn't
+ believe you'd really kill me, she might do what you want if you try that,
+ I know Aro wanted her added to the guard once, he only changed his mind
+ when you couldn't -- please, please, not my Bella -
+\shape italic
+ 
+\end_layout
+
+\begin_layout Standard
+I don't have any fondness for your Bella,
+\shape italic
+ I remind him.
+ 
+\end_layout
+
+\begin_layout Standard
+She found a way to let down her shield for Jasper when she needed to!
+\shape italic
+ he tries desperately.
+ 
+\shape default
+Use Elspeth, make her do that for you too, you can get all the damn taste
+ of her shield you want.
+ God, she'll be furious with me for suggesting threatening her daughter,
+ but Bella has to live, I spent five and a half years believing I lived
+ in a world where she didn't, I can't do that again, my Bella has to live.
+ Addy, you could never live with yourself if you let Bella die without trying
+ as hard as you could to get the chance to copy her...
+ the one power you failed to borrow when you tried...
+
+\shape italic
+ He's trying to be tantalizing, but he'd say anything if it gave his shield
+ wife a better chance of survival.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Still...
+ what would it taste like...?
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+I snapped myself out of the memory, unwilling to spend more time listening
+ to my father trying to get me hurt so the Volturi could control my mother.
+ It was strange...
+ on the one hand, I didn't love him, wasn't sure I ever had, and could only
+ feel so betrayed by it.
+ And it should have been predictable.
+ He was a vampire with a mate in danger.
+ Even without Chelsea, he might have wanted to trade me in for her, although
+ I wasn't sure.
+ But on the other hand I'd never mentally lumped him in with 
+\begin_inset Quotes eld
+\end_inset
+
+the bad guys
+\begin_inset Quotes erd
+\end_inset
+
+, either.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Jake, looking concerned for me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Something wrong?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I shook my head -- to clear it, not to answer him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice can't see my mom,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+At least not since the last time Addy heard anything.
+ It's either something new about the shield, or my mother is spending all
+ her time with a half-vampire or a wolf the Volturi don't know about.
+ They got ahold of Joham and his daughters were with him and didn't know
+ anything about it, and Nahuel was at home when they called and didn't know
+ anything either.
+ All the wolves and Cody are in the village.
+ And I know it's not me.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is something wrong, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ Jake prodded gently in a low voice.
+ 
+\end_layout
+
+\begin_layout Standard
+I didn't feel like constructing sentences; I pushed the memory at him.
+ While he processed that, Maggie said, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, can you think of any other place she'd get a half-vampire or a werewolf?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I thought.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I guess there might be somebody like Embry whose mother 
+\shape italic
+didn't
+\shape default
+ move to the Quileute reservation,
+\begin_inset Quotes erd
+\end_inset
+
+ I speculated.
+ The vampires looked at me blankly, so I explained: 
+\begin_inset Quotes eld
+\end_inset
+
+Embry turned out to be a wolf, but his mother was a Makah, and everybody
+ had assumed his dad was one too who she left behind.
+ If she hadn't moved, Embry would be an inactive wolf on the Makah reservation
+ right now and his mom would be there too, and still alive.
+ There might be somebody like her, who really did stay put with her wolf
+ kid; my mom would be able to tell by going to their reservation and sniffing
+ around.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Interesting,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That still leaves the question of why she would have changed course since
+ Alice saw her heading for Denali, though...
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So write her an e-mail already,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's still light out,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Give it an hour, then we'll get hold of a computer and I'll see what I can
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That 
+\shape italic
+bastard!
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ shouted Jake suddenly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Edward!
+\begin_inset Quotes erd
+\end_inset
+
+ he fumed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He was
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If somebody wanted to kill me and you thought you could save me by suggesting
+ that they threaten -- one of your sisters, or somebody
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you making excuses for him?
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Jake.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're his 
+\shape italic
+daughter!
+\shape default
+ That makes it his job to look out for you, not your job to be the sacrificial
+ lamb so he doesn't have to wallow in 
+\shape italic
+even more self-loathing than usual
+\shape default
+ -- did you pay attention to that 
+\shape italic
+whine
+\shape default
+ in his 
+\begin_inset Quotes eld
+\end_inset
+
+voice
+\begin_inset Quotes erd
+\end_inset
+
+? Is that guy for real? Is
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+I wanted him to stop, and without thinking, I flung another memory.
+ 
+\end_layout
+
+\begin_layout Standard
+One of my father's, from when he thought my mother was dead.
+ 
+\end_layout
+
+\begin_layout Standard
+It was just a second long, so Jake reacted immediately.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Augh!
+\begin_inset Quotes erd
+\end_inset
+
+ he said, flinching; tears popped up in the corners of his eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, what'd you do that for? That was the most depressing thing I've
+ ever thought of in my life.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's why,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't like what he did.
+ I don't like it 
+\shape italic
+at all
+\shape default
+ and I'm not just making excuses.
+ But I can't just say 
+\begin_inset Quotes eld
+\end_inset
+
+oh, my father must be a horrible person then
+\begin_inset Quotes erd
+\end_inset
+
+ and let you rant about him, because I have 
+\shape italic
+all
+\shape default
+ his memories up until...
+ ummm, May twenty-second -- and he's a person, just a person, and he loves
+ my mother so, 
+\shape italic
+so
+\shape default
+ much, and -- and -- I at least 
+\shape italic
+used
+\shape default
+ to love her, too.
+ She had to make a 
+\shape italic
+rule
+\shape default
+ for me to follow that I was 
+\shape italic
+required
+\shape default
+ to cooperate with the Volturi and let them hurt her if that would keep
+ me safe.
+ I must have loved her enough to 
+\shape italic
+need
+\shape default
+ a rule like that, I must have loved her enough that I would have given
+ myself up for her once, I must have loved her enough that my dad's idea
+ would sound pretty swell to me
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's a terrible idea,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jake.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't like it, I 
+\shape italic
+said
+\shape default
+ I don't like it, but I gave you just one second of what it felt like to
+ be my dad when he thought my mom was dead -- I have years of that in my
+ head -- maybe he's being weak or a bad father or something, but he just
+ doesn't want to feel 
+\shape italic
+that
+\shape default
+ ever again, can you blame him? Do you want to repeat it? I've got lots
+ more.
+ Lots,
+\begin_inset Quotes erd
+\end_inset
+
+ I said in a rush.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's like after Jane burned me I wanted to do anything she said, just to
+ make sure she didn't do it again -- he just doesn't want to think my mom
+ is dead again.
+ I can't tell you exactly what he was thinking when he said that, beneath
+ the surface stuff his power could pick up when Addy had it, because the
+ last time Addy touched Aro was before that day -- but it's pretty obvious
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Somewhere in the middle of this torrent of words, Jake's expression of anger
+ at my father melted away and was replaced with unadulterated 
+\begin_inset Quotes eld
+\end_inset
+
+imprint face
+\begin_inset Quotes erd
+\end_inset
+
+.
+ He reached out and pulled me in for a hug, and I leaned in.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Stuff is complicated,
+\begin_inset Quotes erd
+\end_inset
+
+ I mumbled into his shirt.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stuff is like that,
+\begin_inset Quotes erd
+\end_inset
+
+ he said quietly.
+ 
+\end_layout
+
+\begin_layout Standard
+There was a silence, and then Jake sneezed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mold,
+\begin_inset Quotes erd
+\end_inset
+
+ he muttered.
+ Maggie laughed awkwardly.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, after another second of silence elapsed, 
+\begin_inset Quotes eld
+\end_inset
+
+what else? Elspeth, any more convenient communication methods you neglected
+ to mention?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She doesn't have a phone, doesn't have an address, doesn't have instant
+ messaging or anything like that...
+ I'm sorry I didn't mention her work e-mail before but I really, really
+ don't think there's anything else,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan nodded and glanced out the window.
+ It wasn't sunset yet, but clouds were starting to roll in in some numbers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Liam,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+go get a computer and find a way to e-mail Bella.
+ Come back once you've managed it, with something that can receive a reply
+ from her.
+ And then we wait.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
