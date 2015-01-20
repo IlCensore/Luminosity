@@ -1,0 +1,966 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Tender
+\end_layout
+
+\begin_layout Standard
+Heavy smoke rolled down the hill, but not near enough for Jake to breathe
+ much of it.
+ I sat near his head and attempted to fan away what little of it wafted
+ towards us.
+ Esme offered me her cardigan, which made a more efficient fan, and Carlisle
+ approached soon after.
+ 
+\end_layout
+
+\begin_layout Standard
+“No stitches,” I muttered to my grandfather, waving the sweater through
+ the air with my good arm.
+ “It didn't help when Santiago tried it with Eve, the venom melted them
+ and then there were just more holes in her to heal and she died anyway.
+ He shouldn't phase back if he can avoid it.
+ Because of the body mass to venom ratio.
+ Embry phased once after getting bit and nearly died on the spot and didn't
+ have the energy to phase back again and...” I paused for breath.
+ “But if there's a way to get the fur out of the wound, if you have scissors
+ or something, that's good.
+ If you have painkillers that's good.
+ They've had some luck with blood transfusions but there's no one else here
+ with blood except me and I don't know what half-vampire blood would do,
+ they never had a chance to try it with Cody and probably wouldn't have
+ dared anyway because he's venomous, but it's a last resort, I suppose,
+ if he takes a turn for the worse.
+ He'll sleep a lot if he's lucky.
+ He won't want to eat but he's got to.
+ Meat.
+ He's an obligate carnivore in this form.
+ Don't bite the animals, they can't have venom in them.
+ And water, he needs lots to drink.
+ At least he isn't going to get infected or run a fever beyond his normal
+ body temperature...” 
+\end_layout
+
+\begin_layout Standard
+During this babble, my grandparents were joined by my mother, who refrained
+ from trying to hug me while I was fanning the smoke away.
+ “Carlisle, maybe you'd better go fetch your med kit,” she said, and he
+ nodded, and went.
+ “Esme, something for Jacob to eat and drink, maybe? Elspeth, I can do that,”
+ she offered as Esme left too, indicating the cardigan.
+ “You shouldn't move around too much with your shoulder.” Her voice was brisk,
+ but anxious.
+ She wasn't ready to relax.
+ 
+\end_layout
+
+\begin_layout Standard
+I handed the sweater over and let myself drop to the ground again while
+ she carried on blowing the smoke away.
+ I remembered Pera, turning, and I put my hand on Jake's face under his
+ scarcely-open eye and sent him nothing.
+ 
+\shape italic
+Until Carlisle is back with something for the pain,
+\shape default
+ I explained.
+ A little of the motionless tension drained out of Jake.
+ His breathing evened out some.
+ 
+\end_layout
+
+\begin_layout Standard
+“Elspeth,” said my mother, still fanning the air with Esme's cardigan, “is
+ his pack going to
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Jake,” I murmured, “open your eyes once if you've still got packmates,
+ twice if you don't.” His eyelid rose once, fell, and rose again.
+ “His sisters can talk to him but only voluntarily,” I murmured.
+ “They can't even tell he's phased if he doesn't talk to them.
+ We're okay.
+ But -- but how did Demetri catch up with you and Allirea?” 
+\end_layout
+
+\begin_layout Standard
+My mother's jaw clenched.
+ “I don't know,” she said.
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea drifted down the mountain towards us, a serene expression on her
+ face.
+ “Your parents-in-law are gone, Isabella, and Elspeth has already seen me
+ fade, and it does not look as though her wolf will notice me either way;
+ do you object if I relax now? I am as good as my word -- you enabled me
+ to kill him, so I will continue to help you as best I can.
+ Although I would like the chance to visit Montevideo at least and see as
+ soon as possible if I can catch up with my more restless child.” 
+\end_layout
+
+\begin_layout Standard
+“Let's figure out how to answer my daughter's question first while she can
+ still remember you exist,” my mother replied, “since your existence 
+\shape italic
+just might possibly
+\shape default
+ be relevant thereto.
+ Then I want to talk to Siobhan before we start planning flights to Uruguay
+ or anywhere else.” 
+\end_layout
+
+\begin_layout Standard
+Allirea shrugged.
+ “You did not shield me constantly.
+ He may have noticed that we were going to airports near houses belonging
+ to your family and anticipated that we would be near here soon, and then
+ when you dropped the shield, he was able to follow us more precisely.” 
+\end_layout
+
+\begin_layout Standard
+“Or he could have gotten in touch with somebody from Volterra and picked
+ up a clue from how they talked about Eleazar's behavior that Allirea was
+ here,” I offered.
+ “He doesn't -- didn't -- usually get help, but he might have been stumped
+ when he couldn't track you the usual way consistently.” 
+\end_layout
+
+\begin_layout Standard
+My mother frowned.
+ “The second possibility is somewhat worrying...” 
+\end_layout
+
+\begin_layout Standard
+“As long as Allirea was faded during a conversation like that, anybody Demetri
+ talked to would have written it off as him being obsessive about his weird
+ hobby if he mentioned anything about her,” I said.
+ “She probably shouldn't actually unfade too much, Mama, it'll give them
+ the chance to remember her...” 
+\end_layout
+
+\begin_layout Standard
+“Fine, Allirea,” sighed my mother, “go ahead.” 
+\end_layout
+
+\begin_layout Standard
+“Who are you talking to?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Doesn't matter,” muttered my mother.
+ The fire up the mountain died down to a low smolder, and the smoke started
+ thinning out; she kept fanning it away regardless, untiring.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oh,” I said.
+ “Mama...
+ are we going to find Grandpa Charlie and Grandma Renée, and tell them we're
+ alive, after all this is over?” 
+\end_layout
+
+\begin_layout Standard
+“Assuming that we can in fact tell them that,” she sighed, “yes, I think
+ so.
+ Is Jacob likely to be all right?” 
+\end_layout
+
+\begin_layout Standard
+“Probably,” I said, closing my eyes and continuing to offer him the soothing
+ nothingness.
+ “Probably.
+ If he can stay put and keep food down.
+ But he can't fight and shouldn't move or phase for the next few days.” I
+ wasn't sure, but I thought he might have fallen asleep.
+ I kept the sending ongoing anyway -- I didn't want him to wake up from
+ suddenly unmuted pain if I could help it -- but made a mental note to check
+ in with him later, make sure that it didn't keep him from sleeping well
+ by shoving aside normal dreams or anything strange like that.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well, we'll talk to Siobhan and see what she has to say about that,” my
+ mother replied softly.
+ She paused.
+ “You've gotten very attached to him.” 
+\end_layout
+
+\begin_layout Standard
+“He's mine,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Clearly.” She didn't sound judgmental, exactly, although that was the nearest
+ adjective I could come up with.
+ She sounded like she wanted to be judgmental but knew perfectly well there
+ was nothing to judge me (us) about.
+ “He probably saved your life.” 
+\end_layout
+
+\begin_layout Standard
+I nodded, and my shoulder twinged.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm glad you have him,” she decided.
+ “There was a split second, when Demetri kicked me away -- I thought you
+ were going to die, Elspeth.
+ It was as if...” She paused, thinking, and asked, “Do you have Harry and Sue
+ Clearwater's memories, by any chance?” 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I replied, although I'd never had cause to think of them before.
+ “Up until a couple of minutes before they were killed.” 
+\end_layout
+
+\begin_layout Standard
+“I'm curious if...
+ Well, I thought you were going to die, and for that split second I think
+ I might have traded Edward for you if that had for some insane reason been
+ an option on the table.” She hesitated again to measure her words, then
+ proceeded.
+ “I would have regretted it for the rest of my life.
+ Either way I would have regretted it for the rest of my life, actually,
+ so that may be irrelevant.
+ But I might have done it.
+ Some interaction between the fact that I was already a vampire when you
+ were born and didn't lose half your childhood in a fog, and the fact that
+ you're Edward's daughter too, and for all I know the fact that I'm immune
+ to Chelsea is in the mix -- my point is that I love you, and you don't
+ have a way to remember directly how much, and I imagine at this point looking
+ at Edward's memories of the five days we had you would be a little soured
+ for you.
+ He could have behaved better when he met you, Chelsea or no, though I can't
+ say I'm not just bewildered that anyone lets her -- look at me, saying
+ “lets her” like anyone 
+\shape italic
+lets
+\shape default
+ her, but that's what it looks like to 
+\shape italic
+me
+\shape default
+, so I'm not a good judge of whether he could have really behaved better
+ or not.” She sighed.
+ “The next obvious thing to look at, to understand, would be Harry and Sue,
+ 
+\shape italic
+if
+\shape default
+ it's the same, which I'm not sure of.
+ But it might be.
+ They stayed to fight -- they each 
+\shape italic
+let
+\shape default
+ the other stay to fight against hopeless odds -- but not before they sent
+ Cody away to relative safety.” 
+\end_layout
+
+\begin_layout Standard
+“I know you love me, Mama,” I said, looking away from her and fixing my
+ eyes on the stark landscape.
+ 
+\end_layout
+
+\begin_layout Standard
+“I know you know 
+\shape italic
+that
+\shape default
+ I love you,” she said.
+ “I'm not sure if you know how 
+\shape italic
+much
+\shape default
+.
+ I don't know if you meant to include it in the summary or not, Elspeth,
+ but I did notice a distinct undercurrent of wondering how I'd balance you
+ and your father.
+ I am 
+\shape italic
+not
+\shape default
+ incapable of putting other things ahead of him if -- if I have to.
+ In a perfect world I wouldn't have to.
+ But I don't live in a perfect world, I never have, and in all likelihood
+ I never will.
+ So if I have to prioritize, I 
+\shape italic
+can
+\shape default
+.
+ I may have mentioned once or twice that I consider this an important skill.
+ And just because now I know he's alive, he does not 
+\shape italic
+automatically win
+\shape default
+ in 
+\shape italic
+every
+\shape default
+ contest.
+ I'm a mother, too, not just a wife.
+ If you need anything from me, you can ask.” She looked at Jake, and said,
+ “If you'd rather depend on him, now, I...
+ will understand.” 
+\end_layout
+
+\begin_layout Standard
+Detachedly, I supposed that “will understand” was, coming from my mother,
+ a confident version of “try to understand” rather than a rephrasing of
+ “do understand“.
+ She was pretty sure that if she tried she'd succeed, so she didn't bother
+ with the weaker word “try“, but she hadn't tried 
+\shape italic
+yet
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+A few seconds went by without either of us talking.
+ The only sounds of import were the whoosh of Esme's sweater, and breathing,
+ and occasional popping and crackling from the diminshed fire up the hill.
+ “Should I look at Harry or Sue first?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Either,” she said.
+ “I'm not sure...
+ I didn't keep in touch with them much after Cody was born.
+ Harry might have some complications around his feelings because Cody could
+ have killed Sue, and they wouldn't have been really in a position to get
+ to know their son until he was three days old.
+ Some combination of the two, and the most charitable interpretation you
+ can muster of your own first days from your father's perspective, I suppose.”
+ 
+\end_layout
+
+\begin_layout Standard
+I shrugged my good shoulder.
+ “I don't know if I can look at them in full and do this at the same time,”
+ I said, pointing my chin at where my hand rested on Jake's face.
+ “I know what happened when I think about it, though.
+ Harry and Sue...
+ hm.
+ I don't think they loved Cody more than Leah and Seth, which probably had
+ something to do with what they did.
+ They might've run if it hadn't been for their wolf kids.” 
+\end_layout
+
+\begin_layout Standard
+“The odds were still impossible,” my mother replied.
+ “They were newborns, which can be an advantage, but not enough of one with
+ Jane there, or Afton.” 
+\end_layout
+
+\begin_layout Standard
+“Afton got Sue,” I said distantly.
+ “Jane and Demetri got Harry.
+ They waited to burn them until Aro got there and decided there was nothing
+ he wanted from them and no one who he'd provoke by killing them.
+ More than they were already provoked, anyway.” I blinked away some mist
+ in my eyes.
+ The fire, uphill, finally came to a complete stop, and my mother stopped
+ fanning and tied the sweater around her waist.
+ “Chelsea cut off Leah and Seth from them first.
+ Leah...
+ I think Leah 
+\shape italic
+genuinely
+\shape default
+ would like Chelsea all by herself, just because Chelsea helped her about
+ Sam.” 
+\end_layout
+
+\begin_layout Standard
+“I could see that,” my mother murmured.
+ “Do you happen to have Sam's...” 
+\end_layout
+
+\begin_layout Standard
+“No, he got out of La Push with Jake's pack, and if Aro's ever read him
+ it was since Addy's last update,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Don't interrupt me, Elspeth,” she said, without heat.
+ 
+\end_layout
+
+\begin_layout Standard
+“I knew what you were going to ask.” 
+\end_layout
+
+\begin_layout Standard
+“And you knew that I wouldn't like it even so.” 
+\end_layout
+
+\begin_layout Standard
+“Sorry,” I sighed.
+ “Why did you want to know if I had his memories, anyway?” 
+\end_layout
+
+\begin_layout Standard
+“I remember he was trying to see Emily as a sister, for Leah's sake,” she
+ said, looking between me and Jake thoughtfully, “and had no luck.” 
+\end_layout
+
+\begin_layout Standard
+“I have most of 
+\shape italic
+Leah's
+\shape default
+ memories, and Rachel's, and some of the rest of the wolves,” I said.
+ “They heard some of what Sam was thinking around the time he tried that.
+ But it's sort of fuzzy.
+ Wolf memories are much more like human memories than like mine or a vampire's.
+ I just have impressions and some unreliable verbatim stuff.
+ But they thought Sam was definitely trying.
+ Except nobody was clear on what it would mean to try, exactly, to see an
+ already-romantic imprint as a sister.” I tilted my head.
+ “I told you there was nothing creepy between me and Jake.
+ It's true.
+ I asked him about it and he said it was hard to even think about.” Carefully,
+ wary of stemming the flow of blankness from me to Jake, I offered her the
+ memory of the conversation.
+ 
+\end_layout
+
+\begin_layout Standard
+She watched it, closing her eyes.
+ “All right,” she said eventually.
+ “I suppose at this point the only thing to do is wait and see...
+ at least he's not liable to turn out like Demetri.
+ That, at least, was never a complaint I heard about any imprinting wolves.”
+ 
+\end_layout
+
+\begin_layout Standard
+“...Killing people?” I asked, this being the only obvious misdeed of Demetri's
+ besides simply working for the Volturi, which Jake had already spent time
+ technically guilty of.
+ “Yeah, I don't think Jake would kill anyone unless it was to defend me
+ or
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Never mind.
+ There's Esme,” my mother said.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+When I looked, I could just see my grandmother approach with a couple of
+ Dall ewes slung over her shoulders.
+ “Allirea,” my mother called, and I noticed the other half-vampire sitting
+ by Demetri's ashes, looking calmer than I'd ever seen her before.
+ “Elspeth, can you see her now?” 
+\end_layout
+
+\begin_layout Standard
+“Allirea? Yes,” I said.
+ I debated whether to wake Jake up to offer him the food or not.
+ The sheep wouldn't get any fresher.
+ But he'd only just gotten to sleep.
+ 
+\end_layout
+
+\begin_layout Standard
+Eventually I just backed off on my projection of nothingness to see if that
+ woke him, and he woke of his own accord, a low whine in the back of his
+ throat.
+ “Jake, you need to eat something,” I murmured.
+ “Esme brought you some sheep.” Esme came to a graceful stop near us, and
+ set the animals down nearby.
+ I pulled my good hand off Jake's face and reached for the nearer sheep.
+ Esme leaned in to help, but I shook my head.
+ “Don't, I can do it.
+ This way the food part won't smell like a vampire.” She'd brought down both
+ sheep bloodlessly, quite intact except for snapped necks, and her scent
+ adhered only faintly to the wool.
+ I pulled the carcass nearer, bit it in the throat, and drew the blood out
+ of it so it could be butchered with less mess, and then, working a little
+ slowly with only one arm free, worked away some skin and pulled off a chunk
+ of meat.
+ “Jake,” I said, offering it to him, “you do need to eat.” 
+\end_layout
+
+\begin_layout Standard
+He made a whuffling noise, not pleased with this prospect at all.
+ 
+\end_layout
+
+\begin_layout Standard
+“Please, Jake,” I said.
+ “For me?” It was manipulative and sappy and it got him to open his mouth.
+ I repeated this process, painstakingly coaxing him to swallow most of the
+ first sheep, before Carlisle finally returned with his medkit and a few
+ gallons of water.
+ 
+\end_layout
+
+\begin_layout Standard
+“Siobhan insisted that I tell her what had happened before I left,” he said
+ to explain his delay, and he shooed me away and gave Jake morphine and
+ trimmed away the fur near the wound with a small scissor.
+ When Carlisle was done fussing with that, Jake let me pour one of the gallon
+ jugs into his mouth a little at a time, grudgingly finished the first sheep,
+ and then went back to sleep, looking more comfortable.
+ 
+\end_layout
+
+\begin_layout Standard
+“Why do the Denalis have jugs of water lying around?” asked my mother.
+ 
+\end_layout
+
+\begin_layout Standard
+“Carmen took up drinking distilled water in place of tap water, and the
+ others followed suit.
+ They find the flavor, or rather lack of it, pleasanter, so now they buy
+ it by the gallon and keep it on hand.
+ Bella...” My mother turned to look at him.
+ “Siobhan is nothing short of ecstatic that you have managed to find us,
+ but she's confused about why you and Allirea would not have simply shielded
+ each other, walked into the Volturi compound, and slaughtered anyone you
+ found inconvenient.
+ If you rescued David and Edward, the four of you could have likely opposed
+ Demetri successfully if he caught up to you later.” 
+\end_layout
+
+\begin_layout Standard
+“Because I can't keep up my shield over her consistently,” my mother replied,
+ rueful.
+ “
+\shape italic
+Sometimes
+\shape default
+ I can keep it up for an hour or two, but more often it lasts a minute and
+ then I drop it.
+ I can't do it distracted, which I most certainly would be in Volterra,
+ especially with Edward on the line.
+ The mental fatigue stacks up awfully over time and the longer I keep it
+ up, the harder it is to start again after I finally let go.
+ Allirea's tricks to let her stay unfaded over long periods of time when
+ she has to were mostly unhelpful, so I'm flying blind.” 
+\end_layout
+
+\begin_layout Standard
+“Why didn't Siobhan follow you here?” I asked Carlisle.
+ 
+\end_layout
+
+\begin_layout Standard
+“Dares not risk seeing a faded Allirea before she has to,” Carlisle said.
+ “Bella, she recommended that Elspeth blast you as soon as is feasible.
+ Your ability to notice Allirea under all circumstances could prove essential
+ at some point -- it may eventually be necessary for Siobhan to operate
+ in the same area as Allirea while the latter fades -- and given that, you
+ should have all the information you can get.” 
+\end_layout
+
+\begin_layout Standard
+“Mm,” said my mother.
+ “Is there any reason not to do that now?” she asked.
+ 
+\end_layout
+
+\begin_layout Standard
+No one thought of anything, and I said, “So shall I, then?” 
+\end_layout
+
+\begin_layout Standard
+My mother cast a look up the hill at Allirea.
+ “Are you going to stay put while I'm out of it, or should we ask Eleazar
+ out here to babysit you?” she asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“I would 
+\shape italic
+like
+\shape default
+ to go to Montevideo, but I will not run away,” said Allirea, not sounding
+ particularly offended by the suggestion that she might.
+ “You helped me.
+ I told you that I would help you if you helped me.” 
+\end_layout
+
+\begin_layout Standard
+“Why Montevideo?” Carlisle asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“My daughter,” murmured Allirea.
+ “I borrowed a phone, during my trip with Bella, and called her house, and
+ the person on the answering machine was not familiar, so she has probably
+ already moved.
+ If I went there in person I could look in more detail for her trail.” 
+\end_layout
+
+\begin_layout Standard
+I wondered why Allirea couldn't call her other children and get the middle
+ daughter's contact information, but my copies of her memories provided
+ the answer as soon as I wondered -- none of the three got along with the
+ other two, and typically they pretended to be only children rather than
+ acknowledge their half-siblings.
+ This estrangement was helped by the fact that their parent in common was
+ usually impossible to remember.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well,” my mother said, “all right then.
+ Elspeth, have at it,” she sighed.
+ 
+\end_layout
+
+\begin_layout Standard
+I took a deep breath, and hit her with everything I had.
+ 
+\end_layout
+
+\begin_layout Standard
+She looked at me expectantly.
+ 
+\end_layout
+
+\begin_layout Standard
+Nothing happened.
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“Elspeth?” my mother said.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't understand, I tried it,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+She looked at me sternly.
+ “Elspeth, I 
+\shape italic
+can
+\shape default
+ still tell the difference between what it sounds like when you tell the
+ truth and when you don't.
+ But I'm very puzzled about why you'd choose right now to lie.” 
+\end_layout
+
+\begin_layout Standard
+“She sounded truthful to me,” said Esme.
+ 
+\end_layout
+
+\begin_layout Standard
+“And me,” said Allirea, and Carlisle nodded.
+ 
+\end_layout
+
+\begin_layout Standard
+My mother stared around at the other witnesses, stricken.
+ “Then...
+ Elspeth, send me something, anything.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Testing
+\shape default
+, I offered.
+ 
+\end_layout
+
+\begin_layout Standard
+“Say when,” she added, after a moment.
+ 
+\end_layout
+
+\begin_layout Standard
+“I did it already,” I told her.
+ I reached my good arm towards her, and she bent to touch her cheek to my
+ fingertips.
+ 
+\shape italic
+Testing,
+\shape default
+ I sent again.
+ “Did -- did that work?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” my mother said, and then she straightened, spun, and kicked the side
+ of the mountain with a growl of frustration, gouging a hole in the rock
+ with her bare foot.
+ “Now my shield thinks you're a threat.
+ Probably because the blast would have been incapacitating.” 
+\end_layout
+
+\begin_layout Standard
+“Can you open up deliberately, as you did with Jasper...?” asked Carlisle.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't know.
+ Maybe,” my mother said, grinding her teeth.
+ “That's the only time I've ever managed the trick of 
+\shape italic
+letting
+\shape default
+ someone through -- Elspeth's always been an exception, I didn't have to
+ 
+\shape italic
+allow
+\shape default
+ her to communicate with me before -- and I was somewhat desperate the last
+ time I saw Jasper.
+ When I shielded Allirea, it was like I was splitting my shield into two
+ layers and getting her under the outer one -- the inner one still protected
+ me 
+\shape italic
+from
+\shape default
+ her.
+ I'm not sure if I was doing that, or something else, when I was flailing
+ around trying to let Jasper read my emotions.
+ I'll try it...” She bit her lip and closed her eyes in concentration.
+ “I've got you,” she murmured, sounding strained.
+ “Quick, before I lose it.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Testing
+\shape default
+, I sent again.
+ “Did
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+My mother let out a breath, scowled, and shook her head.
+ “Nothing.” She clutched at her forehead with one hand, emanating frustration.
+ “I recognize Siobhan's expertise in the matter, but I'm not 
+\shape italic
+quite
+\shape default
+ getting the impression that my life depends on letting Elspeth blast me,
+ so I don't see how I can muster the desperation I used to give Jasper a
+ way through.” 
+\end_layout
+
+\begin_layout Standard
+“It's powered by desperation?” I asked.
+ “That's weird.” 
+\end_layout
+
+\begin_layout Standard
+“That seems to be the common thread between the situations when it does
+ something unusual,” my mother replied.
+ “Well, that or the way it was when I added immunity to Jasper in the first
+ place, which I did while sitting calmly in the Norway house puzzling over
+ the inexplicable fact that such an immunity did not come factory-installed.
+ When I was immune to 
+\shape italic
+Kate
+\shape default
+ of all people, it just defies common sense...
+ But yes, I was desperate when it reassembled me from flaming scraps, and
+ I was desperate when I let Jasper through, and I was desperate when I ran
+ into Eleazar and Allirea and she gave me the idea to try to share my protection.
+” 
+\end_layout
+
+\begin_layout Standard
+“I mean that's 
+\shape italic
+weird
+\shape default
+, as in, most witch powers are not even sort of like that,” I said.
+ “If they're dependent on the witch's mental state at all, they're usually
+ relying on something purely emotional rather than anything like 
+\shape italic
+desperation
+\shape default
+, which is more about circumstances.
+ I would expect it to be more about something like fear, or anger...
+ My point is that as long as you don't have a really good understanding
+ of how you manipulate your shield, isn't it safer to assume that it's more
+ like other powers that have triggers instead of perfect responsiveness
+ to the will?” I was talking very technically, pulling a lot of the phrases
+ directly from how Addy talked to herself in her more scholarly moments.
+ 
+\end_layout
+
+\begin_layout Standard
+My mother looked at me blankly.
+ Carlisle said, “Where are you getting this notion, Elspeth?” 
+\end_layout
+
+\begin_layout Standard
+“From Addy,” I replied.
+ I paused a moment, and said, “Mama, I think I have to be your Addy.”
+\end_layout
+
+\end_body
+\end_document

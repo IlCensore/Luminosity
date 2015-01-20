@@ -1,0 +1,1101 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Collaborator
+\end_layout
+
+\begin_layout Standard
+Liam obeyed his mate silently, leaving the hotel by the window.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan started pacing again as soon as his footsteps could no longer be
+ heard.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, I want you to poke around in your memories and see what, if anything,
+ could be a deciding factor in turning the Denalis away from the Volturi.
+ Ilario, get your sister on the phone and keep her posted.
+ Maggie, get a hold of Cath, and ask her and any vampires she 
+\shape italic
+trusts
+\shape default
+ to meet us tomorrow night in...
+ let's make it near Belfast, in that one park, but tell her to have everyone
+ to come well-fed, please, I don't want them hunting in my territory.
+ Jacob, you and Elspeth need to sleep tonight, I presume.
+ You could look around in the hotel and see if any rooms are still adequate
+ for the purpose; I wouldn't know, not having slept in several centuries.
+ I don't know how much or how often you like to eat, but I expect you could
+ get Maggie to spot you some money for food, if you want to pop out for
+ a bite.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You don't carry money?”
+\end_layout
+
+\begin_layout Standard
+“Not usually,” Siobhan said.
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie dug around in her pockets and found a green bill, which she handed
+ over to Jake.
+ “That,” she said, “is a loan, not a present.” 
+\end_layout
+
+\begin_layout Standard
+“All of my money is in a drawer in our suite in the wolf village in Volterra,”
+ said Jake.
+ “I really don't know when I'm going to be able to get it.” 
+\end_layout
+
+\begin_layout Standard
+“No big 
+\shape italic
+hurry
+\shape default
+, I'm not gonna break your kneecaps if you don't have it back with interest
+ by Tuesday, but it's still not a present,” Maggie said.
+ “I've got a kid to look after.
+ She goes through shoes like nobody's business; I'd think she was putting
+ them through the woodchipper if I didn't know better.” 
+\end_layout
+
+\begin_layout Standard
+“I think my grandparents will probably cover it later if everybody lives
+ through this and it's a problem,”I said, “don't worry.” Jake nodded, squeezed
+ my shoulder with one hand, and went off to see if there were any acceptable
+ accommodations in the building.
+ Maggie and Ilario got out their phones and called Cath and Gianna, respectively
+, but they kept their voices down and I was able to tune them out to think.
+ 
+\end_layout
+
+\begin_layout Standard
+I closed my eyes, and wondered what could affect the Denalis' loyalties.
+ I had memories from Eleazar and Carmen, but they weren't recent -- Aro
+ had last read them shortly before Eleazar left the Volturi to follow his
+ mate.
+ I had Irina's, too, and those were much more up-to-date -- they went up
+ until just a couple of days before she died.
+ (I knew the circumstances of her death from other perspectives.
+ She'd turned the wolves in to the Volturi on the expectation that they'd
+ wipe them out, and when she went to La Push and found that things had gone
+ differently, she'd launched what amounted to a kamikaze attack and been
+ summarily executed.) Kate and Tanya had last been read when their mother
+ Sasha was killed, to prove their innocence of Sasha's crime of creating
+ an immortal child Vasilii...
+\end_layout
+
+\begin_layout Standard
+And Sasha had been read, too...
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “I don't believe this.
+ Corin finally agrees to sign on with you, and so you've become his personal
+ army? He can't kill me himself even with his ludicrous invisible shield
+ blocking a few of my slower shots, so he finds a bigger attack dog to finish
+ his vendetta with me? Doesn't he realize that I could have involved my
+ daughters at any time since I turned them, and he'd have been finished?
+ His entire coven put together couldn't stand up to my little Katie!” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Aro, smiling for some reason, lets me rant; his bodyguard, at his shoulder,
+ gives no impression of being interested in the proceedings at all, but
+ her power is watchful enough; I can't just wrench the man's head off his
+ shoulders.
+ “Yes, your little Katie...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Don't tell me Corin's joining the guard is contingent on killing my daughters,
+ too,” I said.
+ I'm trying to snap at him, trying to hang onto some pride, but I can't
+ keep all the horror out of my voice.
+ My girls, my Katrina and Irina and Tanya.
+ “Has he ever even 
+\shape default
+met
+\shape italic
+ them? I've kept them away from the territory border.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“He hasn't,” said Aro.
+ “Which presents me with a...
+ conundrum.
+ Particularly given Katrina's gift.
+ It's not quite of Jane's caliber, but still...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You can't have her,” I spit.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Dear lady, I doubt this is the right time for you to be making pronouncements
+ like that,” says Aro.
+ “If I wanted Katrina very badly I would have her already.
+ No, as I said, she's not of Jane's caliber; I don't need any of your children,
+ even the one with the lightning touch.
+ And in fact Corin did not request their deaths, only yours.
+ The conundrum is that I wouldn't like to lose the chance to 
+\shape default
+ever
+\shape italic
+ welcome Katie into my coven, should I need her later.
+ And this means you cannot disappear without explanation, and I cannot 
+\shape default
+announce
+\shape italic
+ precisely why I'm having you killed.
+ If I did either of those things, your daughters might...
+ complain...
+ and that would be the end of them, I fear.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+My daughters and I together could have destroyed Corin and his coven --
+ or former coven, now -- but the three of them against the Volturi -- I
+ shudder to think.
+ And they would try.
+ I have such loyal children, but -- “The last news 
+\shape default
+I
+\shape italic
+ received said you still had Chelsea.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Well, yes, she could solve the 
+\shape default
+immediate
+\shape italic
+ problem of allowing your talented Katrina to outlive you by more than a
+ few days,” says Aro.
+ “But under the circumstances we are now discussing, my darling Chelsea
+ would have a challenge on her hands to create the inroads necessary to
+ leave open the option of adding Kate to the family later.
+ I don't have any other reason to leave them alive, you understand, beyond
+ that hope.
+ I have some interest in leaving intact your witch daughter's impression
+ of the Volturi as dispensers of justice.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“And God forbid Chelsea should be challenged,” I snarl.
+ “It would be so inconvenient.
+ Perhaps you should give up the entire project as a fool's errand.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“My dear,” says Aro, “it is already quite decided that you are going to
+ die.
+ The only question is whether you will do so in a way that necessitates
+ also killing your children or not.
+ Specifically, you could die mysteriously and hope that they are poor detectives...
+ you could die openly for the reasons I have described to you, and hope
+ that they are not as vengeful as you think they are...
+ or...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Or what?” I hiss.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Or some pretext could be devised, to explain your demise to your daughters
+ without leaving them any grounds to object.” He smiles at me and I wonder
+ if I could get through his bodyguard's power by launching myself at him
+ from sufficiently far away...
+ no, probably not.
+ If nothing else, she could knock me out of the way before I reached him.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Such as?” I ask warily.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I'm sure you're aware of the practice of creating immortal children, which
+ we're in the process of stamping out...”
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“I thought of something,” I murmured, and Siobhan's gaze sharpened with
+ interest.
+ “Oh boy, did I ever think of something.
+ One minute...” 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- The child really is cunning.
+ I really might have created one for myself, if I'd known how precious and
+ lovely a human toddler could become when turned; I've heard of immortal
+ children before but never seen one with my own eyes.
+ He has dimples when he smiles at me.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Here you are,” says Aro, picking up the boy with desultory briskness and
+ pushing him into my arms.
+ I'm not sure if I could stop myself from cradling the child if I had some
+ reason to shove him away.
+ Some instinct is demanding my affection, like the motherhood I thought
+ I'd found with my girls.
+ This little creature is distilled innocence, exudes an undeniable need
+ for protection; in a moment he's more a child to me than my daughters.
+ I can't look away from his round eyes, almost glowing, like rubies.
+ No wonder entire covens would die to protect their angels, if they're all
+ like this...
+ “I've kept a few, for research purposes, in the hopes that we can learn
+ a way to make them safe; my coven has enough numbers to control a small
+ number of the immortal children.
+ We can spare one to act as a prop for your funeral.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You're going to kill him,” I said flatly.
+ The little one puts his arms around my neck and mumbles nonsense words
+ against my shoulder, untroubled; I smooth his hair.
+ “This 
+\shape default
+baby
+\shape italic
+, you're
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I see you find him captivating,” says Aro.
+ “That should help you play your part convincingly.
+ Yes, of course we're going to kill him.
+ I would offer to let you trade him back in exchange for one of the others
+ I've kept on hand, but I think you'd find they have the same effect.
+ I will not ask you to choose between them.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I hold the boy tighter.
+ “What is his name? What language does he speak?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Latin will do, if you want to talk to him,” Aro says.
+ “He's picked up some of it since we brought him here, although not beyond
+ a two-year-old's command of the language, of course.
+ He answers to Vasilii.
+ I'm not sure if that was his original name or if his creator assigned it.”
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Vasilii,” I repeat.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Vasilii leans back to look at my face and puts his hand over my eye, then
+ touches my hair, then giggles.
+ “I would suggest,” Aro says, “that you convince him to call you “Mommy”
+ or something similar before your daughters arrive to watch the trial.
+ For the sake of appearances, you see.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Yes,” I murmur
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“The sisters' mother, Sasha, was 
+\shape italic
+framed
+\shape default
+,” I said.
+ “I don't know how much that will bother Eleazar and Carmen -- it'll at
+ least throw Eleazar for a loop, though, he didn't know, he joined the Volturi
+ later and never got filled in -- but it will 
+\shape italic
+definitely
+\shape default
+ get Tanya and Kate's attention.” 
+\end_layout
+
+\begin_layout Standard
+“Get their attention, or actually turn them around?” asked Siobhan, gazing
+ at me intently.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't know.” 
+\end_layout
+
+\begin_layout Standard
+“You probably know all of these people better than anyone on the planet
+ except Aro, Adelaide, and possibly the people in question themselves,”
+ Siobhan objected.
+ 
+\end_layout
+
+\begin_layout Standard
+“I have memories, but I'm not a precog like Alice, I can just guess from
+ patterns of behavior I remember,” I said.
+ “And there hasn't been anything like this that happened to them before,
+ at least not that Aro read before late May.
+ If you want my 
+\shape italic
+guess
+\shape default
+, they might be willing to stand against the Volturi if we tell them --
+ er, maybe if 
+\shape italic
+I
+\shape default
+ tell them -- that Sasha was framed, but I'm not 
+\shape italic
+sure
+\shape default
+.
+ I wouldn't bet my life on it unless all the other bets on offer were worse.”
+ 
+\end_layout
+
+\begin_layout Standard
+“Of course you pick the best bet you can get, that's so obvious as to be
+ not worth stating,” said Siobhan.
+ “But you don't get to refuse to bet.
+ That's just letting other people, who might or might not like you, pick
+ the game on your behalf.
+ The question is: 
+\shape italic
+How good
+\shape default
+ is this chance? Would you rather bet your life on your ability to convince
+ the Denalis that the Volturi are bad news, or...
+ say, a coin flip?” 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “Why would I ever bet my life on a coin flip?” 
+\end_layout
+
+\begin_layout Standard
+Siobhan sighed heavily.
+ “If the next best alternative was betting it on a lottery ticket.
+ Let's try this another way.
+ Kiddo, if you were airdropped in Denali and got out the words “Aro framed
+ Sasha” before anybody had the chance to wrap you up, apply postage, and
+ ship you back to Volterra...
+ 
+\shape italic
+and for some reason
+\shape default
+, one or more of the Denalis 
+\shape italic
+didn't
+\shape default
+ promptly say to themselves “oh, we don't like the Volturi anymore, let's
+ come clean about our subterfuge to our cousins and friends and collaborate
+ on a plan to deal with the cataract-eyed emperors in Italy“...
+ who would be the one or more still on the Volturi's side? Why would they
+ be the holdouts? What more would it take to convince them?” 
+\end_layout
+
+\begin_layout Standard
+This sounded familiar somehow.
+ After a moment, I matched it up to what I'd been doing while under Alec's
+ sensory deprivation.
+ With no way to tell whether anything I was trying to get help had worked
+ or not, I'd started assuming everything I did had failed and moved on to
+ another plan.
+ “Is this anything like that?” I asked, pushing to Siobhan a summary of
+ the concept.
+ 
+\end_layout
+
+\begin_layout Standard
+She considered.
+ “A little,” she said finally.
+ “Except in this case, you're not going to 
+\shape italic
+try
+\shape default
+ just waltzing into Denali to make your announcement before you figure out
+ how it's likely to go wrong.
+ You're going to figure out how it's likely to go wrong, we'll patch that
+ problem, and then we start over again.” 
+\end_layout
+
+\begin_layout Standard
+“And we do this how many times?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Until the only problems we find have patches worse than the holes themselves,”
+ said Siobhan.
+ “However, I can't be sure how much of my ability to make this work is due
+ to...
+ magic, which I apparently have...
+ so take my strategies with a grain of salt.
+ They work for 
+\shape italic
+me
+\shape default
+, but I don't know what to expect if you go off and try to plan things yourself.”
+ 
+\end_layout
+
+\begin_layout Standard
+Maggie flipped her phone closed and plucked Ilario's out of his hand so
+ she could talk to Gianna.
+ Ilario said, “Speaking of how you apparently have magic, Siobhan -- what
+ about Addy?” 
+\end_layout
+
+\begin_layout Standard
+Siobhan started ticking off fingers.
+ “Could be going nearly anywhere, her motives aren't 
+\shape italic
+directly
+\shape default
+ opposed to ours, and while she could be a combat threat if she joins up
+ with the Volturi again, they're already so overwhelming in magical force
+ that we should really, 
+\shape italic
+really
+\shape default
+ avoid confronting them in direct combat terms 
+\shape italic
+anyway
+\shape default
+.
+ Overall, I don't think she's the best place to focus our energies right
+ now, at least not when we could all waste a couple of weeks just 
+\shape italic
+locating
+\shape default
+ her.” 
+\end_layout
+
+\begin_layout Standard
+“Addy has e-mail and I know the address,” I piped up, not wanting to be
+ scolded later for not mentioning this.
+ 
+\end_layout
+
+\begin_layout Standard
+“And if she wanted us to know where she was going,” Siobhan said, “she probably
+ wouldn't have run away laughing her head off and 
+\shape italic
+jumped off the quay
+\shape default
+.
+ She has the address of the house in Wexford; Maggie, if she looks, can
+ she get your landline's number with that?” Maggie, still mid-conversation
+ with Gianna, nodded.
+ “If she wants to be in contact with us she can be,” Siobhan said.
+ “Forcing it would be, maybe not a waste of time, but at least something
+ to put off until we've exhausted other productive things to do.” 
+\end_layout
+
+\begin_layout Standard
+“More to the point,” said Ilario, “she has the address of the house in Wexford,
+ which means that if she wants, she can physically turn up at the house
+ in Wexford.
+ Gianna's completely dismal in a fight -- is Molly in any -- any danger?”
+ 
+\end_layout
+
+\begin_layout Standard
+He, Maggie, and Siobhan all looked at me.
+ I pursed my lips and thought.
+ “I don't 
+\shape italic
+think
+\shape default
+ so,” I said carefully, tempted to claim not to know but suspecting Siobhan
+ would scold me if I did.
+ “She was telling the truth about not preferring to go after guarded prey...
+ she doesn't eat kids normally, most vampires don't...
+ I 
+\shape italic
+think
+\shape default
+ she's probably going to avoid touching anyone she's not absolutely sure
+ isn't a witch until she's done with your power, Siobhan, which could take
+ a while, and she's not a hundred percent accurate trying to tell that sort
+ of thing at range, so she might not want to risk it with Molly...
+ and if she took her hostage that would only get her three really reluctant
+ allies, she can probably get more help and more 
+\shape italic
+enthusiastic
+\shape default
+ help somewhere else...
+ so I don't 
+\shape italic
+think
+\shape default
+ she'll want to hurt Molly.” 
+\end_layout
+
+\begin_layout Standard
+“Maybe I should go home, just to be safe...” murmured Maggie, still holding
+ Ilario's phone; Gianna had gone to attend to some need of Molly's.
+ “Me and Gianna could hold off
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“I don't think even you 
+\shape italic
+and
+\shape default
+ Gianna 
+\shape italic
+and
+\shape default
+ Ilario could beat Addy in a fight, Maggie,” I said.
+ “Especially if she went in with a power that's helpful at all -- even though
+ it'd only last until Maggie managed to touch her.
+ It's not that she's interested in it particularly, but she's copied witches
+ with fighting powers and wanted to try them out, and she's almost a thousand
+ years old.
+ Siobhan could probably beat her one on one, but...” 
+\end_layout
+
+\begin_layout Standard
+“Do you not think me and Gianna and Ilario could beat up Siobhan if we ganged
+ up?” asked Maggie, sounding surprised.
+ 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “Um, I remember Siobhan actually fighting all-out, and I'm not even 
+\shape italic
+slightly
+\shape default
+ tempted to say anything besides 
+\shape italic
+hell no, not even without Liam helping, not even if Siobhan started out
+ missing an arm
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“You have memories of that?” Siobhan asked.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “The guy you let get away from Liam's old coven got in trouble later and
+ Aro read him.
+ He thought you had to be some kind of witch for sure -- I guess he was
+ right, but I wonder if your power applies in a fight?” 
+\end_layout
+
+\begin_layout Standard
+“I really wouldn't know,” Siobhan said dryly.
+ “I'm also older than Maggie and Gianna and Ilario put together a few times
+ over, and probably a fair percentage of their combined weight to boot,
+ and Maggie has noted that she's weaker since switching to an animal diet.”
+ 
+\end_layout
+
+\begin_layout Standard
+“The point is you are 
+\shape italic
+really really scary
+\shape default
+ when you want somebody to die,” I said, “doesn't matter why that is.” Siobhan
+ shrugged, conceding the point.
+ “Um, Denali...
+ if I just went in and announced it...
+ I 
+\shape italic
+think
+\shape default
+...
+ Kate would be the most likely to hold out.” 
+\end_layout
+
+\begin_layout Standard
+“Kate, really?” asked Ilario, as Maggie's attention returned to her phone
+ call with her mate.
+ They were getting worse and worse at holding off on the mush.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Eleazar knows firsthand what my power does; he'd be even less able to
+ doubt something true I said than anybody else.
+ And as far as I can remember he's attached to thinking of the Volturi as
+ good guys.
+ That's got to be already wearing thin.
+ If it went away completely and he couldn't believe it anymore, he'd be
+ against them really solidly.
+ Carmen only ever passively influences him, she doesn't try to argue with
+ him if he's made up his mind about something -- and she doesn't like the
+ Volturi all that much in the first place.
+ She'd be tempted to keep cooperating with them for David's sake but she'd
+ obey Eleazar if he disagreed...
+ and Eleazar's a nice person, but he 
+\shape italic
+was
+\shape default
+ a Volturi for a long time, and he's...
+ 
+\shape italic
+used
+\shape default
+ to making sacrifices, even though he hates it.
+ I think he 
+\shape italic
+might
+\shape default
+ give up David if he were convinced the Volturi are bad and that there was
+ no way to save him.
+ Tanya was closest to Sasha and is closest to Carlisle now -- I think she'd
+ be especially angry about the frame job and especially willing to throw
+ herself on her cousins' mercy for the betrayal.” 
+\end_layout
+
+\begin_layout Standard
+“But Kate,” said Siobhan.
+ 
+\end_layout
+
+\begin_layout Standard
+“But Kate...
+ would 
+\shape italic
+hate
+\shape default
+ the idea that Sasha was manipulated like that for 
+\shape italic
+her
+\shape default
+ sake.
+ Kate likes being a witch.
+ She likes being powerful.
+ She throws it around sometimes, she can be smug.
+ I think she would really, 
+\shape italic
+really
+\shape default
+ hate it if she found out that her being a witch had hurt someone she loved.
+ Even if her witchcraft isn't the reason Sasha 
+\shape italic
+died
+\shape default
+, it's why she was backed into the corner instead of just being killed on
+ the spot when Aro caught up with her, and Sasha was really proud.
+ If Kate weren't a witch then Aro wouldn't have bothered to make a deal.”
+ 
+\end_layout
+
+\begin_layout Standard
+“So she wouldn't be happy about it,” said Maggie, “but according to you
+ neither would Eleazar, right? What's the difference?” 
+\end_layout
+
+\begin_layout Standard
+“Kate is better at ignoring stuff she doesn't like,” I said.
+ “...I'm basing this all on a read on Kate that's almost a thousand years old,
+ and what Irina saw, and the way these people acted around me when I was
+ a 
+\shape italic
+baby
+\shape default
+.
+ They could have changed
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Not much,” said Siobhan.
+ “These are vampires we're talking about.
+ We can learn things, we can adapt to technology and changing borders and
+ alliances, we can find mates...
+ but the kinds of things you're talking about rarely change, once we turn.
+ The basic personalities are stable.
+ If Kate was the sort of person who was good at ignoring stuff she didn't
+ like a thousand years ago, I'll bet you any sum you care to name that she
+ still is.” 
+\end_layout
+
+\begin_layout Standard
+“You don't carry money,” I said, confused.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well, obviously, in the 
+\shape italic
+staggeringly
+\shape default
+ unlikely event that I lost this bet which you'd be an idiot to take, I'd
+ need to take the wallets off my next several meals,” said Siobhan.
+ “Anyway, go on.” 
+\end_layout
+
+\begin_layout Standard
+I said, “I think Kate would figure I was telling the truth as I saw it.
+ I don't think she's 
+\shape italic
+so
+\shape default
+ good at ignoring things that she could 
+\shape italic
+outright
+\shape default
+ ignore or disbelieve me if I was trying to convince her of something I
+ know with this much certainty.
+ But she could find some way to spin it so it had nothing to do with 
+\shape italic
+her
+\shape default
+, and I don't know how she'd do that, but it 
+\shape italic
+could
+\shape default
+ wind up with her still on the Volturi's side.
+ I could talk until I was hoarse about every perspective I have of the whole
+ fiasco, tell her what Aro was thinking and Renata and Caius and anybody
+ else who was involved, show her Vasilii's memories of meeting Sasha for
+ the first time...
+ and 
+\shape italic
+then
+\shape default
+ she might have no choice but to come around...
+ but she wouldn't let me go on that long.” 
+\end_layout
+
+\begin_layout Standard
+“Blast her,” said Maggie shortly, having bidden Gianna a reluctant goodbye
+ so that their daughter could have her mamma's undivided attention during
+ the bedtime routine.
+ “That's fast, isn't it?” 
+\end_layout
+
+\begin_layout Standard
+“It's fast because there's no picking and choosing about what to send,”
+ I said.
+ “And giving Kate too much could be as bad as giving her too little since
+ she could distract herself with stuff that was easier to deal with.” 
+\end_layout
+
+\begin_layout Standard
+Siobhan nodded, looking mildly approving -- I decided this was probably
+ about my usefulness rather than Kate's habits.
+ “Okay.
+ So Kate's a problem.
+ How do we patch the problem that is Kate?” 
+\end_layout
+
+\begin_layout Standard
+I felt the temptation to pace, to imitate Siobhan.
+ I kept still and closed my eyes again instead.
+ “I 
+\shape italic
+could
+\shape default
+...
+ just blast her, I guess.
+ That'd at least put her in a position where she couldn't tip off the Volturi
+ for a while, and then she'd be the 
+\shape italic
+lone
+\shape default
+ holdout against everyone else in the house.
+ She'd hate being the reason her family got into trouble, too, and might
+ go along with it just so she wouldn't have to tell on them.
+ She...” I yawned hugely.
+ 
+\end_layout
+
+\begin_layout Standard
+“How much does being tired affect your thinking, Elspeth?” asked Siobhan,
+ glancing at the dimness outside.
+ 
+\end_layout
+
+\begin_layout Standard
+“Some,” I said.
+ “I don't know.
+ How do you tell?” 
+\end_layout
+
+\begin_layout Standard
+“By testing it in less weighty circumstances than these,” Siobhan said.
+ “Jacob, are you back yet?” she called loudly.
+ 
+\end_layout
+
+\begin_layout Standard
+“Don't have to yell,” I heard his distant voice grumble.
+ “On my way, just these stairs
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“If you can't jump it, the banister will hold your weight,” Siobhan said,
+ a bit more quietly, “and you can climb up the destroyed part that way.
+ Or you could go around and come in the same way we did the first time.”
+ 
+\end_layout
+
+\begin_layout Standard
+“I've got it, I've got it...” A moment later Jake was back with us, carrying
+ a bag of what was probably food.
+ “Hey, Elsie.
+ Tired?” I yawned again, and he picked me up in his free arm and carried
+ me away.
+ “I found a couple rooms that didn't have anything more obviously awful
+ in them than dust.
+ Had to force the doors, but that should be okay.
+ Just us and the friendly vampire mascots of the emerald isle in this building.
+ And vengeful squatter ghosts, but I'll keep 'em off you, okay?” 
+\end_layout
+
+\begin_layout Standard
+“I don't think you'll let vengeful squatter ghosts get me,” I agreed.
+ Jake climbed another flight of stairs with me in tow, put me on a bed,
+ and tucked me in.
+ It took almost no time for me to fall asleep.
+\end_layout
+
+\end_body
+\end_document

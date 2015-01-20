@@ -1,0 +1,1469 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Sister
+\end_layout
+
+\begin_layout Standard
+I woke up the next morning quite alone.
+ The bag of food Jake had brought in the previous night was on the floor
+ next to my bed; I ate most of it but left a respectable breakfast for him
+ in case he hadn't set aside any of it when I wasn't looking.
+ Jake had presumably found some other place to sleep.
+ I supposed he wouldn't be up yet, but I found the vampires in the same
+ room we'd been in to begin with when I looked.
+ Liam was back from his excursion.
+ 
+\end_layout
+
+\begin_layout Standard
+“Morning, Elspeth,” said Maggie.
+ “Sleep well?” 
+\end_layout
+
+\begin_layout Standard
+“I slept fine.
+ Did anything interesting happen overnight?” I asked, looking particularly
+ at Liam.
+ 
+\end_layout
+
+\begin_layout Standard
+“No response from your mother, at least not yet,” Siobhan said, “but Liam
+ told her how to get in touch with us, so that could change at any time.
+ Once your wolf is up I want to leave for Belfast, in case any of Cath's
+ friends show up early or try to grab dinner on their way in -- in fact,
+ if you could get him now, before sunup, it'd be easier to get from here
+ to the car without risking someone driving by and noticing us.
+ He doesn't have to drive; he can sleep in the car if he needs it.” 
+\end_layout
+
+\begin_layout Standard
+I nodded and went looking for Jake; he was snoring just a few doors down
+ from where he'd put me.
+ “Jake,” I said, tapping him on the shoulder.
+ 
+\end_layout
+
+\begin_layout Standard
+“Bwuh,” he said groggily.
+ 
+\end_layout
+
+\begin_layout Standard
+“Wake up,” I said, “we're going to Belfast.
+ You can sleep more in the car.” 
+\end_layout
+
+\begin_layout Standard
+“Bwuh,” he repeated, sounding like this was intended as a not-very-verbal
+ acquiescence, but he didn't actually move.
+ 
+\end_layout
+
+\begin_layout Standard
+“I 
+\shape italic
+can
+\shape default
+ pick you up if I have to,” I said.
+ “Think of how silly that would look.
+ I bet Maggie would laugh at you.” 
+\end_layout
+
+\begin_layout Standard
+Jake hauled himself up to a sitting position and out of bed, and looked
+ at me blearily.
+ “I know you're stronger than you look, but I still can't 
+\shape italic
+really
+\shape default
+ get that you could carry me around,” he said.
+ “I'm like four times your size.
+ You're 
+\shape italic
+little
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“And you're a giant, but I have superpowers,” I said.
+ “Well, I might accidentally clonk you against a doorway, but you can heal,
+ right?” I asked cheekily.
+ “C'mon.” 
+\end_layout
+
+\begin_layout Standard
+“You're in a good mood,” he remarked, ambling after me back down the hall
+ to where the vampires were hanging out.
+ 
+\end_layout
+
+\begin_layout Standard
+“I feel pretty optimistic, with Siobhan helping,” I said.
+ “And probably at least some of the English vampires and probably everyone
+ in Denali if Siobhan helps figure out how to get the coven not interested
+ in being the Volturi's spies anymore.” 
+\end_layout
+
+\begin_layout Standard
+“I guess.
+ I'm going to be all nerves around the big vampire shindig, though,” he
+ muttered.
+ “Not that I could actually, you know, 
+\shape italic
+win
+\shape default
+ against any number of them without a pack backing me up, but I'd feel better
+ for no good reason whatsoever, if you stood behind me once we're there.
+ Personal friends of the lady who gave birth to you are one thing; distant
+ acquaintances of said lady's sire-in-law are another.” 
+\end_layout
+
+\begin_layout Standard
+“Why would any of them want to hurt me?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't know,” he said.
+ “I mean, you don't smell like food to them any more than I do, I guess,
+ but maybe one of them wants to see if half-vampire could be an acquired
+ taste? I really don't want to think about that.
+ Are you okay standing behind me just on the grounds that I'd be less irrational
+ly terrified, or would I have to be rationally terrified first?” 
+\end_layout
+
+\begin_layout Standard
+“Well, I want to see what's going on,” I said.
+ “I could sit on your shoulders, would that do it? And then if somebody
+ looks at me hungrily you can phase and I'll already be sitting on you and
+ you can carry me away.” 
+\end_layout
+
+\begin_layout Standard
+“Fair enough,” he said.
+ We rounded the corner to rejoin the rest of the group, and Siobhan impatiently
+ crooked a finger.
+ We piled into the car with some difficulty, and Jake promptly fell asleep.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan occupied me during the drive talking about the Denalis.
+ “You said last night that Kate was the weak point, since she's likely to
+ want to ignore you and find a way to interpret things that doesn't make
+ Sasha's death her fault,” she prompted.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yeah,” I said.
+ “I said that.
+ I was tired but I still think that's probably the most likely way it would
+ go wrong.” 
+\end_layout
+
+\begin_layout Standard
+“So,” Siobhan said, “how do we fix that?” 
+\end_layout
+
+\begin_layout Standard
+“Shouldn't you be the one coming up with plans, since your plans are magic?”
+ I pointed out.
+ 
+\end_layout
+
+\begin_layout Standard
+“I would, if I had your memories, and I 
+\shape italic
+will
+\shape default
+, after you blast me, which I'm increasingly confident you should -- but
+ I need to be alert for the meeting, and can't be sure I'd recover from
+ a blast in time.
+ I probably should have asked you to do it last night before you went to
+ bed.
+ But in the meantime, we should have at least a 
+\shape italic
+rudimentary
+\shape default
+ plan, however much it suffers from being non-magical or of reduced magicalness,
+ which draws on the best available source of information about the Denali
+ vampires, namely you.” Siobhan sounded vaguely contemptuous when she talked
+ about magic, but continued.
+ “We need this rudimentary plan in case something happens to you, or me,
+ such that you 
+\shape italic
+can't
+\shape default
+ blast me later; we need this rudimentary plan so we have something more
+ coherent than Carlisle's “lets all sit in one place and pat each other
+ on the back for being so 
+\shape italic
+rebellious
+\shape default
+” inclination when we decide what new information is worth gathering and
+ what resources are worth acquiring in the short term; we need this rudimentary
+ plan so we don't sound like idiots to Cath and her friends tonight.
+ So.
+ How do we fix the problem with Kate? If you need your train of thought
+ refreshed, you were in the middle of saying
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“That I could blast her.
+ I remember.
+ Is there something wrong with that idea, that we need another one?” 
+\end_layout
+
+\begin_layout Standard
+“A few things,” said Siobhan.
+ “It's kind of an aggressive behavior.
+ Her family and friends might not like it and could take exception.
+ Also, in case it hasn't occurred to you, she's currently sitting in the
+ middle of a large gathering of friendly vampires, many of whom haven't
+ met one another before.
+ I'd be kind of surprised if Carlisle's gathering hadn't yielded at least
+ 
+\shape italic
+one
+\shape default
+ new mated pair.
+ She could be half of it; we wouldn't know.
+ That's a wrench in the works of any plans we make that assume Kate is single.
+ It's also probably overkill.
+ Also probably not the most 
+\shape italic
+precisely targeted
+\shape default
+ solution you can come up with.” 
+\end_layout
+
+\begin_layout Standard
+“Is precise targeting that important?” I asked.
+ “I mean, I might not have thought of the way Kate would 
+\shape italic
+actually
+\shape default
+ behave, so
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“So you want to nuke her brain with everything you have in case something
+ sticks? If you didn't think of the way Kate will actually behave, the solution
+ is to think of the way Kate will actually behave, or at least a menu she's
+ likely to choose from.
+ If you can come up with a plan that will work 
+\shape italic
+no matter what
+\shape default
+ -- that 
+\shape italic
+doesn't
+\shape default
+ rely, one way or another, on us having an accurate prediction -- please,
+ enlighten me.” I didn't say anything, and Siobhan continued, “Now, maybe
+ you were thinking of the fact that it's a good idea to minimize how bad
+ the worst-case scenario is, and that's a factor.
+ But blasting her is probably not the best way to do 
+\shape italic
+that
+\shape default
+, either, because it could make a lot of people very angry, and 
+\shape italic
+if
+\shape default
+ it backfired, we'd have a very knowledgeable electric witch who didn't
+ much care for us on our hands.” 
+\end_layout
+
+\begin_layout Standard
+“Right,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“So how do we
+\begin_inset space ~
+\end_inset
+
+--” Siobhan began again.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm thinking, I'm thinking.” Kate...
+ I had comparatively few memories 
+\shape italic
+from
+\shape default
+ her.
+ She'd been a vampire for shy of fifty years, when Sasha's trial occurred
+ and Aro read her.
+ Her life had consisted of a lot of material that I would not have been
+ allowed to see in theaters even if I could convince the ticket taker that
+ I was sixteen, mostly, with occasional dollops of less deadly play and
+ conversation between her and her sisters and her mother.
+ She hadn't had to confront many inconvenient truths during that time, and
+ I couldn't remember being a subsequent Kate.
+ 
+\end_layout
+
+\begin_layout Standard
+So I watched her through Irina's eyes, instead
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “Hey,” Kate says, dropping lightly next to us in our current meeting
+ place.
+ “Huh, all three of us here at once? There's something new.
+ We've been here a week and this is the first time none of us got caught
+ someplace else by the sun.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I just got back myself,” I say.
+ “Tanya, on the other hand, has been lazing about all day.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“It's not 
+\shape default
+lazing
+\shape italic
+,” says Tanya.
+ “I've been 
+\shape default
+thinking
+\shape italic
+.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“What've you been thinking about that's worth skipping a hunt?” Kate asks.
+ “Mm, I had myself the most delightful blacksmith not an hour ago.
+ There was this entire subtext-laden conversation during which he accused
+ me of being fairy folk and I picked up some iron to prove I wasn't, and
+ he said “lovely one, if you are not fey, you are surely an angel“...
+ I think he knew I wasn't one of 
+\shape default
+those
+\shape italic
+ earlier than some catch on.
+ Didn't affect the flavor, though...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I was thinking about...
+ men, I guess.
+ Do you ever think about going back to the same one twice?” Tanya asks.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I blink.
+ “Tanya? Tanya, honey, we can't really do that.
+ They die.
+ I mean, if you're into that now...
+ well, it'd surprise me, but...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Well, that's my point,” Tanya says.
+ “They die.
+ Why do they die? Because we decide to kill them.
+ I guess I don't know about you two, since we haven't tried sharing one
+ since the fiasco in Berlin, but 
+\shape default
+I
+\shape italic
+ haven't accidentally shattered a pelvis or even cracked a collarbone in
+ a few decades.
+ They 
+\shape default
+could
+\shape italic
+ walk away, after, if we wanted.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Then...
+ who would we eat?” asks Kate, tilting her head.
+ “Doesn't it seem inefficient to partition the hunting like that?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Oh, I think I see what you're getting at,” I say to Tanya.
+ “Until we kill them they're 
+\shape default
+reusable
+\shape italic
+.
+ Like your blacksmith with the pretty compliments, Katie, you could have
+ left him alive and visited him as many times as you wanted.
+ Maybe he'd have thought of something else charming to say.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I think he knew what I am, though,” Kate reminded me.
+ “We don't want to get in trouble! We all agreed we would stick together
+ and 
+\shape default
+not get in trouble
+\shape italic
+ after Mother...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I bow my head, and so does Tanya.
+ But Tanya looks up again and says, “Well, we could leave the ones who 
+\shape default
+don't
+\shape italic
+ figure it out alive.
+ It's usually pretty obvious when they notice, right? I mean, mine tend
+ to start saying things like “succubus!” and whatnot, when they notice,
+ as though this could be new information to me; those I could go on eating...
+ There are probably even ways to make it harder to figure out.
+ I bet a good soak in a hot bath could warm us up long enough to
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Long enough to selectively kill the 
+\shape default
+best ones
+\shape italic
+,” Kate giggles.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Well, the men 
+\shape default
+themselves
+\shape italic
+ are also rather warming,” I say.
+ “Niiiiice and warm.
+ Oh, or we could make them take us to comfortable places with good fireplaces,
+ keep the room very hot...
+ And if we didn't kill them, if we got really 
+\shape default
+good
+\shape italic
+ at not needing to kill them, we could pick out practically anybody! It
+ wouldn't have to be 
+\shape default
+just
+\shape italic
+ people we can seduce 
+\shape default
+quickly
+\shape italic
+ so no one sees us, or 
+\shape default
+just
+\shape italic
+ people no one will notice missing too soon.” I pause.
+ “Tanya, are you bringing this idea up so we can go back to Russia and give
+ you another chance at having that prince you fancied but couldn't get because
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“No, he'd be old now,” Tanya scoffs, but then she looks thoughtful.
+ “He might have aged gracefully, though, he'd look distinguished with a
+ little silver in his hair...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Ooh,” says Kate, “and if he lived, it wouldn't 
+\shape default
+matter
+\shape italic
+ who saw you go into his room...
+ well, except his wife, I guess she could be annoying...
+ because there wouldn't be any body that people would be looking to explain!”
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“There would 
+\shape default
+be
+\shape italic
+ a body, just a live one,” Tanya purrs, “and such a 
+\shape default
+fine
+\shape italic
+
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Your interest in Russian royalty aside,” I say, “this is kind of interesting.
+ All kinds of novelty would open up.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Novelty and repetition at the same time,” says Kate.
+ “Neat.”
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “Okay, look,” Kate says, “I went along with it when you said that maybe
+ we shouldn't kill all the men we go home with, and sure, that's worked
+ out or I think one of us would have given up on it in the last forty years,
+ but 
+\shape default
+this
+\shape italic
+? You've gone around the bend, sister.
+ And I can't get used to your 
+\shape default
+eyes
+\shape italic
+ like that.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“No, listen,” Tanya says.
+ “Please take me seriously, you owe me that, don't you? Katie
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Don't “Katie” me,” Kate says.
+ “You had lots of good practical reasons indicating that we shouldn't necessaril
+y eat in bed, and I went along, didn't I? This isn't practical at all.
+ This is...
+ I don't know what this is.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“We were human once too,” Tanya says.
+ “Katie.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Irina, back me up,” Kate insists.
+ “Have you ever gotten near enough an animal to smell it? That's not food,
+ that's poison
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I don't have time to speak.
+ “It's not poison!” says Tanya.
+ “I waited until I was sure before I told you, I've been drinking it for
+ 
+\shape default
+weeks
+\shape italic
+, did you 
+\shape default
+really
+\shape italic
+ think I wanted to go to Uzbekistan for two months on my own just to see
+ if I could convince anyone there to 
+\shape default
+marry
+\shape italic
+ me? And I'm fine.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You're weak as a kitten,” says Kate.
+ “I 
+\shape default
+was
+\shape italic
+ watching when you sparred with Irina, you're usually matched up evenly,
+ but today she pins you like you're some two-year-old with no training?
+ The animal blood's not good for you.
+ Maybe it didn't kill you in small quantities, but what if you waste away?
+ Irina, back me
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I would have noticed if I were wasting away!” Tanya shouts.
+ “Okay.
+ I'm not as strong.
+ That's true.
+ But I'm just as fast -- and I think my head is clearer, I think I'm 
+\shape default
+thinking
+\shape italic
+ better
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Right, 
+\shape default
+this
+\shape italic
+ is a sign of clear thinking,” scoffs Kate.
+ “Spontaneously deciding to experiment on yourself so you don't “have to”
+ drink human blood, like it's some awful burden, that's high-quality, clear
+ thinking there.
+ I should knock you over and have Irina bring me a human and see if some
+ 
+\shape default
+decent
+\shape italic
+ food 
+\shape default
+clears your head
+\shape italic
+...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Tanya doesn't respond normally to the threat.
+ She'd usually crouch, or at least hiss.
+ I know her, I know Kate, this is 
+\shape default
+their thing
+\shape italic
+ -- Kate takes offense at something Tanya says, suggests using her witchcraft,
+ Tanya pretends to be up for a fight, then they laugh...
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+No crouch, no hiss.
+ Tanya just looks sadly at our sister.
+ “Think about it,” she pleads.
+ “I'm...
+ I'm going to go not kill a guy.” And she runs off.
+ Just as fast as normal, like she said.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Irina,” says Kate, “you didn't say anything.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I couldn't get a word in edgewise,” I say.
+ “You kept interrupting each other.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Kate shrugs.
+ “True.
+ Do you think she'll be okay?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I...
+ I think she might 
+\shape default
+be
+\shape italic
+ okay,” I say.
+ “Already.
+ Did you notice she didn't hiss at
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Of course I noticed,” Kate says.
+ “Weird.
+ This not-eating-people thing has really changed her.
+ Definitely not safe.
+ I just hope she comes back to her senses soon.
+ I like both my sisters the way we've always been,” she says, grinning at
+ me.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I don't say anything.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You're not taking her seriously, are you?” Kate asks me.
+ “I mean...
+ animals? Really? When we can go on eating all the yummy, nutritious human
+ blood we
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You remember the man in Sarkand that I
+\begin_inset space ~
+\end_inset
+
+--” I interrupted.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Yeah,” Kate interrupted back.
+ “You were seeing him for almost a month, he would have been hard to miss.”
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“He had a very close family,” I murmured.
+ “He would have been sad if they died.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Kate looked at me quizzically.
+ “You didn't eat any of them, did you? I don't think I did.
+ Did Tanya
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I shook my head.
+ “I don't think anybody ate any of his relatives.
+ But I wouldn't have wanted him to be sad.
+ I liked him.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“...Well, then, I don't understand your point.
+ Isn't it good that no one ate his family?” Kate said.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Yes,” I said.
+ “My point is that I cared if 
+\shape default
+he
+\shape italic
+ was sad, and 
+\shape default
+he
+\shape italic
+ cared if things happened to 
+\shape default
+them
+\shape italic
+, and...
+ it's not 
+\shape default
+crazy
+\shape italic
+ to care about humans.
+ Tanya's not 
+\shape default
+crazy
+\shape italic
+, Kate, she's just extending it a little farth-” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Shut up,” said Kate.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Katie
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“
+\shape default
+Don't “Katie” me,”
+\shape italic
+ she hissed.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“But
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“No, not “but“! Irina, listen to yourself! While you were seeing the fellow
+ in Sarkand I know for a 
+\shape default
+fact
+\shape italic
+ that you ate 
+\shape default
+three
+\shape italic
+ people that month.
+ And that's just that month.
+ If you agree with Tanya, that's like saying that was 
+\shape default
+wrong
+\shape italic
+, like you did something bad.
+ It wasn't wrong.
+ We haven't done anything wrong.
+ We're all nice people.
+ Our 
+\shape default
+mother
+\shape italic
+ didn't 
+\shape default
+raise
+\shape italic
+ bad people.
+ It's okay.
+ We're all okay.
+ You didn't do anything wrong, Irina, Tanya's just being silly.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Ka-” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Shut up.” I open my mouth one more time, and she smacks me hard across the
+ cheek, and the lightning arcs through me and I'm on the ground with a gasp.
+ Kate's already gone.
+ I don't know where to.
+ I don't try to follow her.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I ate 
+\shape default
+two
+\shape italic
+ people that month.
+ 
+\shape default
+Kate
+\shape italic
+ ate three
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “Dear God,” says Kate.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I don't think he's listening, Katie,” I say.
+ “Evil soulless damned creatures and all
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Ugh, don't say it, I can't bear it,” she says.
+ “Don't say “evil“.
+ We weren't, were we? Really, were we? I mean, yes, p-people died, but...”
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“We didn't understand,” I say, trying to be soothing.
+ I don't know what made it hit her, I don't know why it happened today instead
+ of yesterday or a year ago when Tanya first rejoined us after Uzbekistan...
+ but it's today.
+ I haven't seen Kate since last week.
+ Tanya's been on iffy terms with her.
+ I've had to be the mediator -- I'm sort of wending towards Tanya's diet,
+ but sometimes I treat myself, sometimes I slip up, I don't have her willpower,
+ or not yet.
+ They'll both talk to me.
+ “It's still hard, for me, you know
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I can't bear it,” says Kate again.
+ “How do you? How do you say “yes, Tanya is right, we must not kill humans,
+ they are nearly as valuable as us, if we kill someone's sister it is almost
+ like if someone killed one of us, if we kill someone's mother it is almost
+ like -- like
+\begin_inset space ~
+\end_inset
+
+--” How do you stand it?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“...I'm not sure what you're having trouble with here,” I admit.
+ “If you're asking how I resist the blood you should talk to Tanya, I'm
+ still not very
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I'm asking about the 
+\shape default
+guilt
+\shape italic
+, how do you live with the 
+\shape default
+guilt
+\shape italic
+? How do you walk around believing that you've killed people 
+\shape default
+and that was wrong
+\shape italic
+, that you probably won't be able to stop yourself from doing it again 
+\shape default
+and that will be wrong
+\shape italic
+?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I shrug.
+ “I don't worry about it that much.
+ I think you might be overthinking things.
+ I'm still doing better than most vampires, right? Even if I mess up a little?
+ It's, you know, a lifestyle choice.
+ We did the one thing, we're doing this other thing now, Tanya's good at
+ it, I'm okay at it, you can see how you are at it or not.
+ I still love you either way.
+ I think Tanya does, too.
+ I think she'll eventually talk to you again even if you decide to go on
+ eating people.
+ I mean, it's hard to see how she could blame you all 
+\shape default
+that
+\shape italic
+ much...
+ humans are 
+\shape default
+really
+\shape italic
+ tasty, animals are 
+\shape default
+really
+\shape italic
+ not.
+ She's being petulant but it's obvious she misses you; she'd talk to you
+ again eventually no matter what.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Kate shakes her head slowly.
+ “You think she'd get over it?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Yeah,” I say.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+She stares into space.
+ Then she shakes her head again and adjusts her hair.
+ “I want to move,” she says abruptly.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Like where? Ooh, we could go to Greece
+\begin_inset space ~
+\end_inset
+
+--” I begin.
+ We've been doing this awkward dance where Kate or Tanya says they want
+ to go somewhere, and I propose it like it was my own idea to the other,
+ so we can still stick together like Mother wanted.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Nowhere we've been before.
+ I want to get out of Europe and Asia entirely.
+ I want to go to...
+ Let's swim to the New World,” she says.
+ “Let's start over, there.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“By start over, you mean...” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I'll eat the damn animals, Irina,” says Kate, and then her face scrunches
+ up as though she would cry, and she flings her arms out and hugs me.
+ No electric charge.
+ I hug my sister back
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“I think,” I said, “I have an idea, but I don't know if we can pull it off.”
+ 
+\end_layout
+
+\begin_layout Standard
+“Do tell,” said Siobhan.
+ 
+\end_layout
+
+\begin_layout Standard
+“Kate was the last of the sisters to become a vegetarian,” I said slowly,
+ keeping my eyes closed, waiting for Memory to push something at me that
+ invalidated my idea.
+ “She couldn't handle the guilt that would come with admitting to herself
+ that she'd, well, murdered a lot of people
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Wimp,” said Maggie smugly.
+ 
+\end_layout
+
+\begin_layout Standard
+“-- and so she ignored it,” I said, ignoring Maggie.
+ “And went on eating people for a year.
+ But when she finally changed her mind, it was when Irina assured her that
+ she still loved her, and thought Tanya would eventually talk to her again
+ even if Kate didn't change her diet.
+ So I 
+\shape italic
+think
+\shape default
+ that maybe, if we had some way to be sure that everyone would promise to
+ forgive Kate for working with the Volturi, she'd follow Tanya and confess
+ to Carlisle.” 
+\end_layout
+
+\begin_layout Standard
+“Well, Carlisle's a convenient person to have in charge of the matter, then,”
+ said Siobhan.
+ “He'd forgive her for anything.
+ I would only be 
+\shape italic
+somewhat
+\shape default
+ flabbergasted if he'd forgive her for killing Esme.
+ The man is some kind of alien.
+ And Esme will follow him, and the two of their children who are in Denali
+ have the depth of a petri dish apiece and can't hold grudges with any substance
+, and the others there aren't her 
+\shape italic
+personal
+\shape default
+ friends, they aren't 
+\shape italic
+family
+\shape default
+...
+ That leaves you, Elspeth.
+ I imagine you still count in her mind, wouldn't you?” 
+\end_layout
+
+\begin_layout Standard
+“Probably.
+ My parents might, too, and Alice and Jasper...” 
+\end_layout
+
+\begin_layout Standard
+“Alice and Jasper aren't likely to throw off something like this.
+ They're working for the Volturi far too explicitly to have a leg to stand
+ on if they complain about Kate, Chelsea or no Chelsea.
+ What about your parents, Elspeth?” 
+\end_layout
+
+\begin_layout Standard
+“My father...
+ is a little like Carlisle.
+ Well, not in how he 
+\shape italic
+thinks
+\shape default
+ about forgiveness.
+ Carlisle is more about always hoping that people will grow and improve
+ and stuff, and my father is...
+ actually kind of depressed, in nearly every memory I have of him where
+ he wasn't with my mom, and some where he was.
+ He doesn't like himself very much.
+ He doesn't think he's in a position to judge anybody for a moral failing
+ and forgives by default so he can be more like Carlisle.
+ I don't know if my mother would 
+\shape italic
+actually
+\shape default
+ forgive Kate, but she'd probably be willing to pretend to, or would consider
+ it completely irrelevant.
+ Technically Gianna used to work for the Volturi, too, and so did I, for
+ that matter.
+ I don't think she'd give Kate that hard a time about it.” 
+\end_layout
+
+\begin_layout Standard
+“Excellent,” said Siobhan.
+ “And you really believe all that? I can't tell when you decorate your sentences
+ with all those hedges.” 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “Yeah.” 
+\end_layout
+
+\begin_layout Standard
+“Excellent,” Siobhan said.
+ “Now, if you were dropped in Denali right now and you managed to get out
+ the words “Aro framed Sasha, but we'll all forgive you if you stop working
+ for the Volturi right now, guys,” what would be the most likely way for
+ this to fail...?” 
+\end_layout
+
+\begin_layout Standard
+I groaned.
+\end_layout
+
+\end_body
+\end_document

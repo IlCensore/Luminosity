@@ -1,0 +1,1378 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Stalker
+\end_layout
+
+\begin_layout Standard
+I was slower than the vampires, but I went around to the other side of the
+ mountain anyway when they bolted to see what was going on.
+ Jake jogged after me, having a little more difficulty with the terrain
+ but gamely trying to keep up with me.
+ I didn't slow down for him.
+ 
+\end_layout
+
+\begin_layout Standard
+Demetri 
+\shape italic
+hadn't
+\shape default
+ been in Volterra when Addy had issued her blast.
+ That meant, in theory, that I could knock him out for more than long enough
+ to let the others destroy him.
+ But Addy's suspicion about mated vampires kept me from trying that immediately.
+ She'd thought that vampires would likely snap out of their trances if their
+ mates had been in danger.
+ Similar was her brief consideration about blasting Jacob so she could kidnap
+ me.
+ I was inclined to trust Addy's judgment about what a power she was borrowing
+ could do.
+ And it would be entirely characteristic of Demetri to interpret three vampires
+ attacking him on Allirea's behalf as a threat to Allirea.
+ 
+\end_layout
+
+\begin_layout Standard
+So I stayed my hand on the big gun, to break it out in a case where conventional
+ methods didn't work -- if it didn't knock him out, it would give him an
+ 
+\shape italic
+advantage
+\shape default
+.
+ I hung back, clinging from an outcropping of rock.
+ But I could see.
+ 
+\end_layout
+
+\begin_layout Standard
+Allirea had screamed as soon as she saw Demetri, and when I got a look at
+ the scene, she was hiding behind Esme, who kept between him and his mate
+ with a fiercer look on her face than seemed to belong there.
+ Demetri kept his eyes on Allirea, but peripheral vision is good in vampires,
+ and he wasn't having any trouble paying attention to my mother and grandfather
+ as they circled him.
+ “I'm not here about you,” Demetri said, holding up his hands in a gesture
+ that looked peaceable but could turn into a brutal throw if someone ran
+ at him.
+ “Even though you're really supposed to be dead,” he added to my mother,
+ “that's not my errand and I didn't come here to take care of that.
+ I just want my mate and then we'll be on our way.” 
+\end_layout
+
+\begin_layout Standard
+“Not going to happen,” my mother hissed.
+ 
+\end_layout
+
+\begin_layout Standard
+Demetri didn't waver.
+ He stood poised and sharp-jointed, like a drawn sword, and kept his narrow
+ eyes fixed on Allirea.
+ “Is this some kind of payback you've arranged about 
+\shape italic
+your
+\shape default
+ mate?” he asked my mother in a low, careful voice.
+ “Please.
+ You can't keep my Alli the way they're keeping him, it'd kill her, please
+ don't hurt her.
+ I 
+\shape italic
+would
+\shape default
+ trade you.
+ If I had him on hand to offer for her I'd
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“It's not about that,” Carlisle said, while my mother made an incoherent
+ snarling noise.
+ Behind me, Jake caught up, and stood warily at the ready.
+ “If you will listen to us
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“No outcome of this encounter that involves me 
+\shape italic
+not
+\shape default
+ leaving with my Alli -- both of us intact -- is acceptable,” said Demetri
+ flatly.
+ “If you don't want to try to wedge me into a deal about Edward I don't
+ know what you're about.
+ You're thickheaded, Carlisle, but you can't expect me to abandon my mate
+ to our enemies, can you? Be reasonable.” 
+\end_layout
+
+\begin_layout Standard
+“On the contrary,” said Carlisle, “Allirea's own wishes are important to
+ us, Demetri, and you have an impairment in understanding them
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“She plays little games,” Demetri said, a fond smile tipping up one corner
+ of his mouth.
+ “Alli, I wish you'd found someone else to involve...
+ I think this lot thinks you were serious, someone might get hurt if you
+ don't explain to them...
+ Precious Alli, the 
+\shape italic
+puzzles
+\shape default
+ you set me.
+ I wonder what the catch is this time.” 
+\end_layout
+
+\begin_layout Standard
+A ferocious hiss erupted from my mother's throat suddenly as something caught
+ her eye.
+ “
+\shape italic
+That
+\shape default
+,” she roared, “is 
+\shape italic
+Edward's wedding ring
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+Demetri glanced briefly at his hand.
+ “Is that my hint? If I give you this, you'll let Alli go? I'm sure I would
+ have figured that out eventually.
+ Peace,” he said, and no one sprang at him when he worked the gold band
+ off his finger.
+ “I can get another.
+ We can get a matching set, Alli my love, we can stop at a jewelry store
+ on our way home, you can pick out anything you like.
+ Try as I might I'm still not sure what you mean when you explain what you're
+ looking for in rings...” 
+\end_layout
+
+\begin_layout Standard
+“Give it 
+\shape italic
+here
+\shape default
+,” demanded my mother in a dangerous voice, and Demetri tossed her the ring.
+ “Elspeth,” she said, “catch.” She tossed me not only my father's ring, but
+ also the other jewelry she kept on the chain around her neck.
+ I plucked it all out of the air, strung the recovered piece onto the necklace
+ with the rest, and slipped it over my head so it wouldn't be lost.
+ 
+\end_layout
+
+\begin_layout Standard
+There was a beat, and then Demetri said, “Well? What am I missing now? Alli
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+Almost too softly for me to hear, Allirea spoke for the first time since
+ her shriek.
+ “How many times,” she murmured, “must I tell you not to call me that?”
+ 
+\end_layout
+
+\begin_layout Standard
+Demetri looked like he hadn't heard her at all.
+ Her words just slipped past his understanding and landed somewhere else.
+ Peering into his warped memories, even 
+\shape italic
+I
+\shape default
+ could almost believe that Allirea was only playing, only teasing, only
+ having a bit of fun
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- Tracking is so much easier when I look for someone I've met.
+ Then I can just follow the pull, let it lead me across the surface of the
+ earth towards my target.
+ If the target's not moving fast I can even do some careful triangulation
+ and pinpoint them.
+ But that doesn't mean I'm not a fair tracker without my advantage.
+ I'd probably never have developed the advantage without the skill, anyway.
+ So when Aro says “we've heard tell of a fellow called Joham who, we are
+ informed, has been siring half-vampires, and we would like to find him
+ and his girls“, I don't say “is that so?”, I say “yes, Master” and hop
+ to.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+A little asking around -- I know rather a lot of people -- and I'm on my
+ way to where he was last seen by anyone I'm on speaking terms with, following
+ his description west.
+ I catch up with him in Mongolia, going the last forty miles mostly by scent.
+ Not
+\shape default
+ Joham's 
+\shape italic
+scent, I've not met the man and wouldn't want to follow some arbitrary vampire
+ halfway across China and lose my real quarry, but the odd fragrance of
+ half-vampires that I learned in visiting his son.
+ Sort of spicy, sort of fruity, but quite unique.
+ I like the smell.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Predictably, given how I'm doing my work, I find one of the girls first.
+ She's a slip of an Asian thing, quite young in demeanor -- this'll be the
+ youngest, Iseul.
+ She's surprised when I call her by name and acts confused when I ask to
+ meet her father and sisters.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Sisters?” she asks, enunciating strangely.
+ Maybe she's not familiar with this language? Should I switch? No, she'd
+ ask if she needed to speak in some other tongue.
+ English is usually a safe bet, and she repeated the word and she isn't
+ staring at me bewildered and jabbering in Cantonese or whatever her native
+ speech is.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Yes, and your father,” I reply.
+ I loom over her a bit.
+ Titchy creature.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I can take you to our current home...” she says, backing up a step to look
+ me in the eye.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Please do,” I say, and she takes me at a dawdling publicly-acceptable pace
+ to an apartment.
+ The spicy-fruit aroma is all over the place, and drawing in thoughtful
+ breaths I can separate three flavors of it -- the little one's, and her
+ sisters.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Iseul goes in ahead of me, and promptly hugs in greeting a girl who must
+ be the middle sister, the one with the Swiss mother -- the blond hair and
+ the blue eyes give that away.
+ Noemi, she was called.
+ Sitting on the couch by the window, a book in her hand, is the eldest.
+ “Allirea” was her name, I remember.
+ It's a pretty name for a pretty girl.
+ She's got her feet tucked under her and looks up at Iseul and me when we
+ come in, but Iseul ignores her completely.
+ Some kind of sibling rivalry there? There aren't any hints from Noemi's
+ body language.
+ “Father will be home soon,” Iseul says to me, and begins explaining my
+ presence to the white sister.
+ She's still ignoring pretty Allirea.
+ So is Noemi.
+ Why is that? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I 
+\shape default
+was
+\shape italic
+ told that Allirea was the witch, one who could divert notice from herself,
+ but if she were doing that, surely I wouldn't be able to see her either?
+ There she is, plain as day, perfectly simple to focus on.
+ Actually, easier to focus on than anything else in the room.
+ Her prattling sisters fade into the background.
+ I'll notice if they try to run off -- I need to speak to the family entire
+ -- but I don't have to pay 
+\shape default
+attention
+\shape italic
+ to them.
+ I'm curious about the dark one with her book.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Allirea looks up at me, makes eye contact, and flinches.
+ How strange.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I'm not here to hurt any of you,” I say.
+ “Or your father.
+ I just needed to find you because the Volturi are interested in having
+ a half-vampire join our organization, and your brother wasn't interested.”
+ I look at Allirea.
+ If she's not getting along with her sisters, maybe she'll be the one.
+ I think I'd like that.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I think you mean “either of you“, not “any“, Mr.
+ Demetri,” Noemi says in a helpful voice.
+ “I made that mistake often when I learned English
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“No, I mean “any“, there's three of you.” I point at Iseul, Noemi, and Allirea,
+ and Allirea shrinks in towards herself.
+ She looks panicky.
+ Maybe her power is misbehaving, and she's not trying to hide, she's only
+ accidentally blinding her sisters to her presence...? 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Suddenly the both of them turn their heads towards her.
+ “Allirea!” says Noemi, as though surprised.
+ “What is it? Is something wrong?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I am quite confused now.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“
+\shape default
+He
+\shape italic
+ can 
+\shape default
+see
+\shape italic
+ me,” says Allirea, a quaver in her voice.
+ She must be nervous about her power malfunctioning, although if she's putting
+ it 
+\shape default
+that
+\shape italic
+ way it must be a matter of failing to cover me, rather than mistakenly
+ covering her sisters.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Or maybe it just doesn't work on me for some reason.
+ I wonder why that would be.
+ I haven't been trying to track her with magic, so my advantage shouldn't
+ be counteracting hers.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Her sisters twitter to each other excitably, a thousand times more irrelevant
+ than she could ever be.
+ Am I really the only person who can notice her at all times? Does everyone
+ else really ignore her? But she's so arrestingly exquisite.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Wouldn't it be something, if she were my
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Ah! Now it makes sense.
+ I open my mouth to say something about it, but Allirea says, “Stop 
+\shape default
+looking
+\shape italic
+ at me!” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I'm confused again, but I close my eyes, and her sisters trail off midsentence
+ as though they've forgotten what they're talking about.
+ Perhaps she's hidden herself again.
+ Why would that be? I hear the window opening, and then closing, and soft
+ footfalls.
+ She's off to do something, I suppose.
+ And not used to having to let her family know when she comes and goes.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I open my eyes again, and sure enough, she's gone, but I know how to find
+ her.
+ I open my phone, call Jane and give her the family's address while I follow
+ the pull of my power out of the building.
+ I don't 
+\shape default
+really
+\shape italic
+ need to stay in this apartment 
+\shape default
+personally
+\shape italic
+ now that I've found who I was meant to find.
+ In both senses of the phrase.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I flip my phone closed.
+ A dim human memory floats fuzzily into my consciousness.
+ Most of its details have been lost.
+ But it's a memory of my older brother, telling me some advice that I think
+ I found very useful between hearing it and undergoing my change
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Girls like to be chased,” my brother drawled.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I smile.
+ It makes perfect sense, doesn't it, that 
+\shape default
+I'd
+\shape italic
+ find a mate who likes to be chased?
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+I blinked and pulled myself out of the memory.
+ The 
+\shape italic
+expectation of being loved back
+\shape default
+ was woven into the mate bond.
+ 
+\end_layout
+
+\begin_layout Standard
+It wasn't 
+\shape italic
+as
+\shape default
+ deep as the rest of it.
+ My father never really 
+\shape italic
+expected
+\shape default
+ my mother to love him back while she was a human, he only hoped, for instance.
+ But that was against plenty of background knowledge about how humans work
+ as opposed to how vampires work.
+ Demetri didn't have any background knowledge like that about half-vampires.
+ He didn't know, on any level whatsoever, that she wouldn't automatically
+ react like his mate, and so he just acted as though she 
+\shape italic
+would
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Most vampires confronted with a human mate just turned, or got someone else
+ to turn, the mate in question, like Chelsea had, or like Rosalie had, but
+ that wasn't an option with Allirea.
+ 
+\end_layout
+
+\begin_layout Standard
+Presented as he had been with a mate who didn't love him automatically and
+ couldn't be made to, and no prior expectation of that misfortune...
+ he could despair or fall into delusion, the latter infinitely more comfortable.
+ 
+\end_layout
+
+\begin_layout Standard
+So Demetri 
+\shape italic
+did
+\shape default
+ sort of have an 
+\shape italic
+explanation
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+I snapped back into the present.
+ Allirea was still cowering behind Esme, saying nothing.
+ Of course she wasn't saying anything -- he never listened.
+ No amount of begging, running away, trying to bite his head off, or kicking
+ and screaming made a dent in his fantasy world where she was 
+\shape italic
+only playing
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+The vampires were still circling each other.
+ No one was eager to make it a physical fight.
+ The odds were too well-balanced, and as far as Demetri knew, Esme might
+ hurt 
+\shape italic
+his precious Alli
+\shape default
+ before he could stop her, if he attacked.
+ 
+\end_layout
+
+\begin_layout Standard
+“It is difficult, but it 
+\shape italic
+is
+\shape default
+ possible,” Carlisle said, “to live without your mate.
+ I have done it
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Your mate is right there, Carlisle,” said Demetri.
+ “Standing between me and mine.
+ You clearly didn't do it very 
+\shape italic
+long
+\shape default
+.
+ But I suppose if I could believe it of anyone it'd be you.
+ Did you regret it? Leaving her?” he challenged.
+ 
+\end_layout
+
+\begin_layout Standard
+I knew the true answer to that, and I knew Carlisle wouldn't lie, not about
+ that, even if it would be the better thing for Demetri to believe -- “I
+ did,” Carlisle said gravely.
+ “But the circumstances were different.
+ Esme did not 
+\shape italic
+ask
+\shape default
+ me to leave.
+ It was a judgment I made on my own.” 
+\end_layout
+
+\begin_layout Standard
+“Alli's only 
+\shape italic
+joking
+\shape default
+,” said Demetri, smiling and rolling his eyes a little, like he was trying
+ to explain that Santa wasn't real to someone in their twenties who really
+ ought to know better.
+ “She does this all the time, we have our little globetrotting game.” 
+\end_layout
+
+\begin_layout Standard
+“Half-vampires do not have mates,” growled my mother, “or if they do, they
+ have them in a way that isn't symmetrical to the way vampires have them.”
+ Her eyes were flickering over Demetri's stance, looking for a gap that
+ wasn't there.
+ He exhibited excellent form.
+ 
+\end_layout
+
+\begin_layout Standard
+“Nonsense,” said Demetri easily.
+ 
+\end_layout
+
+\begin_layout Standard
+I sent to my mother: 
+\shape italic
+Is it actually tactically valuable to convince him that Allirea hates him?
+ I might be able to do it -- I'm not sure -- but if I can I have no idea
+ what he'd do at all.
+ Blink once if I should try it, twice if I shouldn't.
+
+\shape default
+ I could have had my grandparents cast votes, too, but if I was honest (and
+ I generally am), Esme had no tactical prowess at all and Carlisle's idealism
+ was only suited to more obvious problems than this.
+ Carlisle would have to be facing down someone who was not plausibly “just
+ misguided” before he'd really apply himself to the task of making them
+ dead.
+ 
+\end_layout
+
+\begin_layout Standard
+There was a long pause during which my mother didn't blink at all, and then,
+ distinctly, my mother's eyes shut and opened.
+ Once.
+ 
+\end_layout
+
+\begin_layout Standard
+I touched my cheekbone, checked in briefly with Magic, and pulled up all
+ my tendency to attract attention and all my forceful truth and all my certainty
+ that the memories I had from Allirea were true.
+ 
+\end_layout
+
+\begin_layout Standard
+I sucked in a deep breath, and spoke clearly: 
+\end_layout
+
+\begin_layout Standard
+“Allirea hates you,” I said.
+ “She wants you dead.
+ She's been terrified of you since the first time she saw you.
+ 
+\shape italic
+She's not playing.
+ She never has been.”
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+Demetri's eye twitched.
+ “No,” he said, but it sounded like a question.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I insisted.
+ “She runs away because she doesn't want to be with you.
+ She begs you to leave her alone because she can't stand being around you.
+ She tries to kill you because she wants you to die.
+ She pushes you off of her because she hates it when you touch her.
+ She's not playing.
+ She never has been.” 
+\end_layout
+
+\begin_layout Standard
+“No,” said Demetri again.
+ He looked shaky on his feet, but he didn't quite drop out of his stance,
+ and neither my mother nor Carlisle found an opening to attack.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Yes
+\shape default
+,” I said again, loudly.
+ “She hates the nickname and wants to gouge out her ears every time you
+ say it! She doesn't want a ring because the idea of marrying you makes
+ her 
+\shape italic
+sick
+\shape default
+! She lives in fear that you'll take it into your head to hurt the people
+ she loves! She's spent long hours considering suicide because it's looked
+ like that would be what it would take to get away from 
+\shape italic
+you
+\shape default
+! You've gotten her pregnant twice and she ran to her father to get him
+ to help her abort both times even though normal surgery was impossible
+ and her metabolism is too fast for painkillers to work and he had to do
+ it by punching her in the stomach, because she couldn't stand the idea
+ of having 
+\shape italic
+your
+\shape default
+ children! And it's a miracle it was only twice considering the number of
+ times you
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+An incoherent roar exploded out of Demetri, and he wasn't a drawn sword
+ anymore, he was a fired arrow -- aimed right at me.
+ 
+\end_layout
+
+\begin_layout Standard
+My mother was on him as he flew past, but he kicked her off and she went
+ flying through the air.
+ Jake vaulted over me to get in the way and phased with a heedless snarl,
+ rusty fur exploding out from his body and standing on end with rage.
+ Carlisle couldn't catch up to Demetri before Demetri reached Jacob.
+ 
+\end_layout
+
+\begin_layout Standard
+I decided it would be a bad idea to just stand there, and clambered up the
+ mountain while Jake (and, after a moment, Carlisle) fended off attacks
+ from Demetri.
+ Demetri fought like he was possessed, but he wasn't trying to hurt Jake
+ or my grandfather so much as get away from them and go after me.
+ 
+\end_layout
+
+\begin_layout Standard
+I flung myself off the peak of the mountain and landed beside Allirea.
+ “Please
+\begin_inset space ~
+\end_inset
+
+--” I began, but she got the idea and folded her arms around me, making
+ it almost impossible for Demetri to attack me without hurting her.
+ Esme stood her ground in front of us.
+ 
+\end_layout
+
+\begin_layout Standard
+The motions of the fight were too fast for me to follow in detail.
+ I saw the broad strokes: Jacob struggling to maintain his purchase on the
+ rocky slope while he tried to crush some convenient part of Demetri in
+ his jaws.
+ Carlisle attacking conservatively, attempting to restrict Demetri's movement
+ more than actually injure him.
+ Demetri whirling with desperate but precise ferocity.
+ My mother landed downhill and quickly righted herself, sprinting back up
+ into the fray.
+ 
+\end_layout
+
+\begin_layout Standard
+I was terrified that Demetri would bite Jake.
+ I 
+\shape italic
+needed
+\shape default
+ Jake.
+ “Look!” I hollered at the top of my lungs.
+ “She's protecting me! She could hide from everyone here except my mother
+ and you, she's not in any danger from me or Esme, we aren't threatening
+ her one bit, and she's trying to shelter me anyway! She wants you to lose!
+ Allirea hates you! It's not a game! She was telling the truth every time!
+ She was 
+\shape italic
+really
+\shape default
+ afraid when she screamed, she was 
+\shape italic
+really
+\shape default
+ trying to hurt you when she bit you, she was 
+\shape italic
+really
+\shape default
+ trying to escape you when she ran
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“NO!” bellowed Demetri, and the shout reverberated off the scenery.
+ I wondered if we were close enough to the Denalis' houses that he'd be
+ heard.
+ “
+\shape italic
+NO!”
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I insisted.
+ “It's true.
+ You know it's true.” 
+\end_layout
+
+\begin_layout Standard
+Demetri launched himself towards me again, but Jake caught his leg in his
+ teeth and wrenched it off with an earsplitting screech.
+ The leg went tumbling down the hillside when Jake spat it out, but the
+ change in momentum gave Demetri the chance he'd so far lacked to pull close
+ to Jake and sink his teeth into the fur on my wolf's neck.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake let out an unwolflike scream of pain and staggered and collapsed, and
+ rolled like a ragdoll down the mountain.
+ 
+\shape italic
+My wolf, my wolf, my
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “Daphne will be out of commission for days from that bite.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“But she's alive.”
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “She'll probably be sick for a week.
+ Bites are 
+\shape default
+not fun
+\shape italic
+...
+ clip a notch out of my ear to keep it from spreading...”
+\begin_inset space ~
+\end_inset
+
+-- 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- applying some kind of suction device to a wound on another's shoulder
+ -- maybe removing poisonous venom
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+I broke Allirea's grip, surprised Esme enough to dodge her abortive grab
+ for my shoulder, and chased my wolf downhill.
+ 
+\end_layout
+
+\begin_layout Standard
+“ELSPETH!” my mother shouted, but didn't she have the scar to prove that
+ she could survive being bitten, the baldness to prove that she could survive
+ being powdered and ignited? She didn't need me.
+ Jake did.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “I wonder if she'd find you palatable.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Huh?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“You, Jacob Black, werewolf, possessor of blood that smells rancid to 
+\shape default
+me
+\shape italic
+ but doesn't to 
+\shape default
+her
+\shape italic
+.
+ I wonder if she would drink it
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+I felt a hand come down on my shoulder with crushing force, stopping me
+ in my tracks.
+ Demetri.
+ I didn't even need to look around.
+ I let out a screech, and blasted him.
+ 
+\end_layout
+
+\begin_layout Standard
+Not with everything.
+ 
+\end_layout
+
+\begin_layout Standard
+Just with the last five and a half years of Allirea's life.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Pay attention when I tell you things,”
+\shape default
+ I hissed at him, and his hand fell away from my shoulder, which was probably
+ broken, and I left him to the vampires and ran.
+ My wolf, 
+\shape italic
+my
+\shape default
+ wolf, my 
+\shape italic
+wolf
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake's fall was broken by an irregular jut of rock.
+ He landed bitten side up and lay there, eyes open, heart still beating,
+ still breathing, but not moving.
+ I leapt on him and fell to.
+ No biting -- no 
+\shape italic
+more
+\shape default
+ biting -- just pulling tainted blood out of his veins.
+ I ignored the taste.
+ It didn't matter.
+ I spat it out instead of wasting time swallowing.
+ Pull out a mouthful of blood.
+ Spit.
+ Pull.
+ Spit.
+ 
+\shape italic
+Until the evil smell goes away, until the blood splatters pure red on the
+ rocks instead of with droplets of clear, until my wolf is okay.
+
+\shape default
+ My mouth was full of loose fur.
+ Jake panted and whined.
+ His heart kept ticking, but it shuddered and sometimes beat double.
+ 
+\end_layout
+
+\begin_layout Standard
+Distantly I heard a screeching noise again, and people arguing.
+ Nearer, footsteps.
+ Carlisle.
+ 
+\end_layout
+
+\begin_layout Standard
+“I think that's enough,” he said, and I stopped.
+ The smell of venom wasn't completely out of Jake, but what I hadn't gotten
+ had enough time to spread that I could never get it out of the wound.
+ It didn't heal as fast as it should have.
+ A mouth-sized gash should have been scabbed over, should have looked weeks
+ old already.
+ Wolves with their super healing...
+ “Your shoulder,” Carlisle said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Set it.
+ It'll heal,” I murmured.
+ I was gently poked and prodded, and then shoved abruptly into alignment
+ and held that way for a moment and released.
+ It hurt, but didn't I remember worse? Didn't I have high-fidelity memories
+ of a hundred turnings in my head? Hadn't Jane burned me, hadn't Santiago
+ broken my legs? Wasn't my wolf possibly dying in front of me? I ignored
+ the screaming of my shoulder.
+ 
+\end_layout
+
+\begin_layout Standard
+“Don't use the arm,” he instructed, softly, “until it feels completely better.”
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded, once.
+ “Jake,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“I don't think there's anything else to do,” Carlisle said.
+ “You thought very quickly.” 
+\end_layout
+
+\begin_layout Standard
+I blinked at the wound in Jake's throat.
+ It wasn't leaking more blood, but it was still raw, open, new.
+ The venom that was left wasn't leaving him any spare resources to close
+ it as quickly as it should have been closed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Demetri,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“You threw him off long enough that Bella took off his other three limbs,”
+ Carlisle murmured.
+ “Allirea wants to kill him, but
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“So let her,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Elspeth
+\begin_inset space ~
+\end_inset
+
+--” began Carlisle.
+ 
+\end_layout
+
+\begin_layout Standard
+“Let her,” I repeated.
+ “How many more people would he have to hurt and kill before you'd be willing
+ to let him die? Let her.” 
+\end_layout
+
+\begin_layout Standard
+“Elspeth,” he said again.
+ 
+\end_layout
+
+\begin_layout Standard
+I got up, carefully leaving the arm attached to the hurt shoulder limp and
+ uninvolved in the process.
+ I squeezed Jake's forepaw gently, and walked up the slope again.
+ “Demetri,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“It's not true,”
+\shape default
+ he was wailing, propped up against a stone with only a head and torso in
+ his possession.
+ “Illusionist.
+ You're an 
+\shape italic
+illusionist
+\shape default
+, it's an illusion
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“That's just a word,” I said, looking at the dense clouds overhead.
+ “Eleazar made it up to classify witches, he didn't find it written in the
+ stars.
+ It's all true.
+ I 
+\shape italic
+can't
+\shape default
+ lie with my power.
+ It doesn't like it.” 
+\end_layout
+
+\begin_layout Standard
+“Lies,” choked Demetri.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” I said.
+ “If it was a lie, though, Allirea wouldn't kill you, would she?” 
+\end_layout
+
+\begin_layout Standard
+“Precious Alli,” he breathed.
+ “My precious Alli, please, tell me it's not true...” 
+\end_layout
+
+\begin_layout Standard
+Allirea rose from her crouch behind Esme and went around her, walking with
+ measured steps towards Demetri.
+ Her face was perfectly calm.
+ He looked up at her with a manic, confused hope in his eyes, and then Allirea
+ said in a controlled, level hiss, “All of it is 
+\shape italic
+true
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+He looked at her blankly, trying to ignore her the way he had a thousand
+ times before, and then Allirea turned to Carlisle and Esme.
+ “You will have to kill me to stop me from killing him,” she stated.
+ 
+\end_layout
+
+\begin_layout Standard
+Esme turned away.
+ Carlisle put an arm around his wife, and looked sadly at Allirea, and said
+ nothing.
+ My mother was collecting the severed limbs from where they'd landed downhill.
+ 
+\end_layout
+
+\begin_layout Standard
+I walked back to Jake, and knelt beside him, and combed my fingers through
+ his fur, and ignored the screeching noises, and ignored the crackling sound
+ of the fire.
+\end_layout
+
+\end_body
+\end_document

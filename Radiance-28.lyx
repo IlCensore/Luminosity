@@ -1,0 +1,973 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Traveler
+\end_layout
+
+\begin_layout Standard
+I'd never 
+\shape italic
+met
+\shape default
+ them, but I recognized them from the Volturi's memories -- and their own,
+ though they were thousands of years distant: Stefan and Vladimir, the previous
+ rulers of the vampire world, deposed by the Volturi.
+ They were a pair of small men, no taller than me, Vladimir with ashy pale
+ hair and Stefan with dark brown.
+ Other than that they were very much alike, looking out on the world through
+ narrow burgundy eyes, and each with a less pronounced version of the powdery
+ complexions shared by Aro, Caius, Marcus, Athenodora, and Sulpicia.
+ Since the most recent recollection I had of them, though, they'd shed the
+ flimsy cataracts over their eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+I had no idea what they were doing in Belfast, but they were standing around
+ with the British and Irish vampires peaceably enough, so I opened the car
+ door, closed it gently to let Jake sleep, and gingerly approached.
+ They were both wearing black, conservative clothing that wouldn't look
+ too out of place in the modern day, but resembled more ancient styling.
+ “Good morning,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Ah,” said Stefan.
+ “She wakes.” His voice sounded dusty and light.
+ 
+\end_layout
+
+\begin_layout Standard
+“Every morning,” I replied.
+ “Why are you here? How did you know about the meeting?” I glanced around
+ at the other vampires who were still in attendance; it seemed that overnight,
+ our visitors from Cardiff, Oxford, Liverpool, and Manchester had all gone
+ home.
+ We still had the covens from the Isle of Wight, London, Bristol, and Manchester
+, the Scottish representative, and the Manx vampire, plus the Romanian newcomers.
+ And Cath, who was hanging on Ilario with her arms looped over his shoulders
+ and looking at him in a way I could only describe as 
+\shape italic
+gooey
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+“One hears whispers,” said Vladimir, negligently waving a hand.
+ He spoke as lightly as his covenmate.
+ 
+\end_layout
+
+\begin_layout Standard
+“We are here to witness the downfall of the Volturi,” Stefan put in.
+ 
+\end_layout
+
+\begin_layout Standard
+“And help, if we can,” Vladimir said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oh, how nice,” I said.
+ “But who told you where to find us?” 
+\end_layout
+
+\begin_layout Standard
+“Give up, Elspeth,” said Maggie, sounding implausibly tired.
+ “They're not telling.
+ I did confirm that they're only here because they loathe the Volturi and
+ want to assist or at least watch the proceedings, and that they don't particula
+rly want to hurt any of us, and that they're not interested in ruling the
+ world again with the state it's gotten into.
+ It was probably only the gossip from
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Newcastle,” I finished, nodding.
+ “Did you not hear about the gathering in Denali?” I asked the Romanians.
+ 
+\end_layout
+
+\begin_layout Standard
+“We heard,” said Stefan.
+ “We were not interested.” 
+\end_layout
+
+\begin_layout Standard
+“Carlisle -- do you refer to him as your grandfather?” Vladimir said, and
+ I nodded and he went on.
+ “Your grandfather cannot have any honest hope of winning in a direct confrontat
+ion against the Volturi, operating as he is.” 
+\end_layout
+
+\begin_layout Standard
+“It would not be likely to go well with him even if his coven had not taken
+ so many losses to the Italians' corresponding gains, although then we might
+ have attended in case we were mistaken...” Stefan continued languidly, pursing
+ his lips.
+ 
+\end_layout
+
+\begin_layout Standard
+“But as it is, he can only be hoping to die publicly and tragically and
+ arouse sympathy or paranoia in those who did not stand with him,” said
+ Vladimir.
+ 
+\end_layout
+
+\begin_layout Standard
+“If he managed that,” Stefan said, “we would help whoever massed a more
+ plausible effort...
+ but it seems we do not need to wait for the Volturi to get around to crushing
+ him.” 
+\end_layout
+
+\begin_layout Standard
+“It was particularly vindicating to learn of his cousins' betrayal,” remarked
+ Vladimir.
+ “I do not know how often the Volturi remember us...” 
+\end_layout
+
+\begin_layout Standard
+“Caius usually remembers you exist once a year on the anniversary of the
+ day you were defeated,” I said helpfully.
+ 
+\end_layout
+
+\begin_layout Standard
+Vladimir blinked at me, unimpressed.
+ “Fascinating.” 
+\end_layout
+
+\begin_layout Standard
+Stefan cut in.
+ “At any rate, we have no desire to remind them without a significant chance
+ that they will be defeated.
+ We think this gathering, or what it leads to, might provide that.” 
+\end_layout
+
+\begin_layout Standard
+“Most particularly due to the involvement of Siobhan, whose possession of
+ a gift we are told has been confirmed recently,” Vladimir said.
+ “It was mere speculation before.” 
+\end_layout
+
+\begin_layout Standard
+“Well, that's smart,” I said.
+ “Not getting attention, I mean, since Aro only left you alive because he
+ thought it would be harmless and funny
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+Stefan growled softly, and Maggie said, “Elspeth, maybe quit with the color
+ commentary.” 
+\end_layout
+
+\begin_layout Standard
+Vladimir nodded graciously once in Maggie's direction, then looked back
+ at me.
+ “We've heard something of your exploits,” he said, “Elspeth.
+ You've broken out of the Volturi compound 
+\shape italic
+twice
+\shape default
+ now, haven't you?” 
+\end_layout
+
+\begin_layout Standard
+“I had help both times -- the second time I wasn't even lucid
+\begin_inset space ~
+\end_inset
+
+--” I demurred.
+ 
+\end_layout
+
+\begin_layout Standard
+“Still,” said Stefan loftily, “an impressive achievement.
+ And you can reverse some of the web-witch's damage...” 
+\end_layout
+
+\begin_layout Standard
+“Chelsea? Only in myself and my -- my wolf -- so far,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Nevertheless, a tool,” murmured Vladimir.
+ “We did not have a resource like Chelsea in our day...
+ we were obliged to manage things...
+ differently.” 
+\end_layout
+
+\begin_layout Standard
+“I know,” I said.
+ The Romanians had ruled by elaborate political finesse and intimidation,
+ mostly.
+ They'd controlled several manageably-sized, geographically far-flung covens
+ of soldiers, who got along well enough to work together temporarily in
+ a crisis but otherwise had little to do with each other.
+ These covens weren't all satisfied with the situation, but they had a coordinat
+ion problem on their hands if they ever wanted to overthrow the kings, and
+ never managed it.
+ That had taken the Volturi -- armed with Alec and Jane.
+ 
+\end_layout
+
+\begin_layout Standard
+Stefan and Vladimir themselves had migrated around a network of castles.
+ It was actually something of an exaggeration to claim that they ruled the
+ entire vampire world; they rarely went as far as the Americas, and only
+ occasionally checked on Africa.
+ (Australia was known to vampires then, who undertook nothing particularly
+ hazardous in attempting to swim wherever they wished and visited a lot
+ of islands before industrialized human civilization did; however, no vampires
+ had settled on the island that early on.
+ In fact, from what Memory pieced together for me, Joham would probably
+ have been among the first vampires to spend any appreciable time down under.
+ It was where he first started trying to father half-vampire children, although
+ he moved on later.) 
+\end_layout
+
+\begin_layout Standard
+However, the Romanians never bothered with enforcing most of the rules the
+ Volturi had invented -- in fact, they publicized their natures to the local
+ humans instead of relying on secrecy -- and so they rarely had much ruling
+ to do, apart from quelling territory wars that got out of hand and threatened
+ to destroy the surrounding human infrastructure.
+ (Said infrastructure being necessary to keep the food supply relatively
+ stable, of course.) 
+\end_layout
+
+\begin_layout Standard
+When it was called for, though, they were also formidable combatants.
+ Witches had been harder to come by back then.
+ Addy had noticed an uptick in the witch population over her own lifetime;
+ she attributed it entirely to population growth and extended lifespans
+ giving witches more chance to crop up and more chance to live to discover
+ their gifts.
+ But during the Romanians' reign, they'd been almost unheard of and were
+ rarely worth tactical consideration.
+ Brute force and the vampire equivalents of martial arts were the typical
+ tools.
+ 
+\end_layout
+
+\begin_layout Standard
+At a guess, unless they'd deteriorated somehow since their defeat, either
+ of the two could beat Siobhan in a fair fight -- despite neither having
+ witchcraft, neither being more than half her size, 
+\shape italic
+and
+\shape default
+ the disadvantage their brittler skin conferred.
+ 
+\end_layout
+
+\begin_layout Standard
+The skin condition was...
+ strange.
+ The top layer of skin had “died“, I remembered from their memories and
+ the Volturi's when they'd investigated the phenomenon, and while it wasn't
+ any easier to make it come off than it was to remove chips of normal vampire
+ skin, once it 
+\shape italic
+was
+\shape default
+ broken it wouldn't heal back properly.
+ That also meant that if they lost extremities and reattached them, the
+ outer skin wouldn't knit, leaving a sort of scar and introducing a weakness
+ at the fracture point.
+ Vladimir had discovered this when he'd been temporarily deprived of a toe.
+ They didn't know why it happened, but all my memories showed it only on
+ the Romanians and the Volturi, no one else.
+ The cataracts (cosmetic only, causing no deterioration in vision, but they
+ hadn't attempted to discover if it made eye healing more difficult) were
+ similar -- but to look at Stefan and Vladimir now, apparently reversible.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+While Memory sorted out all this background information, the Romanians lost
+ interest in me and stalked off to listen in on a conversation going on
+ between several of the Brits.
+ I turned to Maggie.
+ “Did I miss anything else interesting overnight?” 
+\end_layout
+
+\begin_layout Standard
+“I saw you looking about and taking roll, so I won't repeat the list of
+ who's gone and who's stayed,” Maggie said.
+ “I made the ones who went away all tell me they weren't going to head for
+ the Volturi about it.
+ They could change their minds but not soon -- if they were 
+\shape italic
+that
+\shape default
+ changeable they couldn't have said it without at least wobbling a bit to
+ my hearing.
+ Actually Cardiff Bint told me she was going to head straight for Italy
+ and she was lying like a rug, but it comes to the same thing, I suppose.
+ Everybody still here is agreed on ousting the Volturi if we can pull it
+ off, and our Scottish friend has called his coven and they're calling the
+ other covens and should be here all nine in less than an hour from now.
+ No e-mail from your mum, at least not yet.
+ Siobhan has decided we can't risk trying to get David or Edward out of
+ Volterra, so the next step'll be to get you safely in touch with the Denalis
+ and seeing if you can bring them around without having David there.” 
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said.
+ “How are we going to do that?” 
+\end_layout
+
+\begin_layout Standard
+“Talk to Siobhan about it and we can all find out,” Maggie said.
+ “She's waiting for some info from you.” 
+\end_layout
+
+\begin_layout Standard
+I made a grumbling noise.
+ “When do I get to blast her?” 
+\end_layout
+
+\begin_layout Standard
+“She was saying something about how it would be most convenient to do her
+ recovering on the way to Denali, presumably on an airplane since you and
+ your wolf can't swim it and probably neither can a comatose Siobhan,” Maggie
+ replied.
+ “We're probably going to all go there rather than hauling the folks there
+ over here, not least because the Denalis will probably be most useful if
+ they keep up appearances with the Volturi for as long as possible and suddenly
+ flying to Ireland woud not accomplish that.
+ Plan may or may not involve Ilario calling Carlisle and pretending that
+ he changed his mind and wants to join up.
+ It'd be him over Siobhan and Liam, who we don't want the Volturi considering
+ involved until it can't go any other way, and over me and Gianna who --
+ you know and Carlisle knows why we turned him down the first time.” 
+\end_layout
+
+\begin_layout Standard
+I asked, 
+\shape italic
+Did Ilario tell Cath about Molly?
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” Maggie muttered under her breath, “but he's come damn precariously
+ close a couple times.
+ God, I wish I'd rescheduled the last time I'd visited her so he could have
+ come along then.
+ Look at them.
+ Bloody disgusting.” 
+\end_layout
+
+\begin_layout Standard
+I glanced back over at the happy pair.
+ 
+\shape italic
+I
+\shape default
+ thought they were sort of cute, albeit maybe to excess -- Ilario kept adjusting
+ Cath's hair, which made her giggle every time he did it, and they didn't
+ seem to be able to go for five consecutive seconds without kissing, which
+ made their attempts at conversation very sporadic.
+ Cath looked up at Ilario like she was vividly contemplating hauling him
+ off somewhere private, again, and the rumpled state of their clothes and
+ the fact that Cath had a couple of twigs in her ponytail made me suspect
+ that she had failed to resist this impulse a few times overnight.
+ 
+\end_layout
+
+\begin_layout Standard
+I looked back at Maggie.
+ “You realize that you were pretty far gone when you met Gianna, too.” 
+\end_layout
+
+\begin_layout Standard
+“Yes, I know, but I didn't 
+\shape italic
+hang
+\shape default
+ on her like that,” groused Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+I diplomatically refrained from pointing out that she'd suffered from practical
+ limitations due to Gianna's human fragility.
+ “I'm not even sure why you're so annoyed by this,” I said.
+ “You like Cath.
+ You like Ilario.
+ Why wouldn't you like them together?” 
+\end_layout
+
+\begin_layout Standard
+“I 
+\shape italic
+like
+\shape default
+ Cath,” muttered Maggie, “but.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Is it about Molly?
+\shape default
+ I guessed.
+ 
+\shape italic
+I realize Molly's very vulnerable, but there's not actually a 
+\shape default
+reason
+\shape italic
+ for any vampires to hurt her unless it's to get at you or Gianna, or Ilario.
+ Hardly any of them eat children, just for reasons of blood volume.
+
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+“That doesn't stop me from worrying,” Maggie answered.
+ “And Gianna...
+ I called last night and she said she was happy for them, and I hauled Ilario
+ away from Cath long enough to make him talk to her too, but for a long
+ time all Gianna had in her life was Ilario.
+ And now she can't remember most of it.
+ She wrote a few things down, but that's just stuff like what year she lived
+ in which apartment, not the little day-to-day stuff that life's mostly
+ made of.
+ I don't want her to lose her brother.” 
+\end_layout
+
+\begin_layout Standard
+“Did he lose his sister when you came along?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” Maggie said.
+ “But maybe he did when she turned, after she was mated to me like I was
+ to her and she started forgetting...
+ I'm not sure.” 
+\end_layout
+
+\begin_layout Standard
+Something occurred to me.
+ “Aro read Gianna, while she worked for the Volturi,” I said.
+ “I don't have 
+\shape italic
+everything
+\shape default
+ from when she was human, since she left, but most of her memories, before
+ it had a chance to get overwritten with vampire ones, he read.
+ And that means I can give them back to her.” 
+\end_layout
+
+\begin_layout Standard
+Maggie blinked at me.
+ “You're a 
+\shape italic
+genius
+\shape default
+,” she crowed, lunging forward to hug me.
+ “I don't know if Siobhan would give us the few hours it'd take to haul
+ you to Wexford and back and do that now -- but they'll keep, right?” I
+ nodded, and Maggie hugged me tighter and then let me go, a grin on her
+ face.
+ 
+\end_layout
+
+\begin_layout Standard
+“What's that like, anyway,” I asked Maggie, “barely remembering being human?”
+ 
+\end_layout
+
+\begin_layout Standard
+“Bit odd,” Maggie conceded.
+ “I know the major things.
+ I know my mum died when she had my little brother, and I assume I was sad
+ but I can't remember what it felt like.
+ Maybe that's because I was four, though.
+ And I know I didn't at all like my brother's wife when he got married later,
+ but I can't really 
+\shape italic
+remember
+\shape default
+ what her name was -- I learned it like I'd never heard it before, when
+ I found my family in that one book doing my genealogy research.
+ I know I was eldest of three and fought with my sister all the time but
+ I can't remember her face.
+ I know I loved my da until he died, though I can't recall what killed him
+ or what particularly I loved about him.
+ I know I went to England to get away from the famine but not how I felt
+ about that.
+ I think I worked in a laundry or something tiresome like that once I got
+ there.
+ Cath told me about how she found me.
+ Some bloke was chatting me up while I was at market one day, and he told
+ me he wasn't married and that was a foul lie and I called him out on it.
+ Cath was watching the street from up in a flat she kept while she worked
+ on one of her vast overcomplicated embroidery projects.
+ Doesn't like trying to sew homeless; gets her supplies all messy.
+ Anyway, she thought I was maybe a witch, tracked me down later, bit me
+ right on the neck without much ceremony and stuffed my mouth with a skein
+ of yarn while I changed to keep me from bothering her neighbors overmuch.
+ I woke up and she had lunch ready for me.
+ Same bloke who'd been chatting me up, actually, she thought I'd find that
+ charming -- but she had to tell me who he was after I ate him; I had no
+ idea.” 
+\end_layout
+
+\begin_layout Standard
+“But some things stick,” I said.
+ “You've got the Irish accent still.” 
+\end_layout
+
+\begin_layout Standard
+Maggie coughed and said, in flawless Received Pronunciation, “I can put
+ on any accent I like.” Then, sounding like she was from the middle of Kansas,
+ she added, “But it's true, I woke up from the turning and talked as I always
+ had.
+ That's how I sound when I'm not paying any attention, and how I usually
+ choose to sound.
+ I didn't unconsciously pick up a Swindon-appropriate accent just because
+ I was “brought up” there.” 
+\end_layout
+
+\begin_layout Standard
+“Your usual accent suits you,” I said, and Maggie smiled merrily at me.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+“Elspeth!” Siobhan called from across the clearing in the park.
+ She was standing close to the vampire from the Isle of Man.
+ I trotted over.
+ 
+\end_layout
+
+\begin_layout Standard
+“Do you know who Nathan here is?” Siobhan asked, indicating the man with
+ her.
+ He was blonde, and also the only vampire I'd ever (personally) seen maintaining
+ facial hair -- he had a tidy little mustache.
+ (Memory was able to inform me of a handful of other vampires with beards
+ or mustaches or both, and one who kept sideburns, but they were surprisingly
+ few -- Memory suggested that the pattern was that they did not wish to
+ deal with the inconvenience of getting blood in their whiskers, which were
+ more difficult to clean than a shaved face.) “Via any of your absorptions,
+ I mean, I know you heard the greeting when he showed up here.” 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “No, I don't seem to.
+ I just know from last night that he's the Manx.” 
+\end_layout
+
+\begin_layout Standard
+“You can tell,” Nathan said, “because I have no tail.” I giggled and he smiled
+ roguishly.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan frowned.
+ “Well, nonetheless,” she said, “he's just admitted to hunting in Ireland
+ on occasion, and he isn't taking my threat to kill him very seriously.
+ You're a little hard to dismiss, Elspeth; do me a favor and tell him your
+ honest assessment of how likely I am to be able to do that.” 
+\end_layout
+
+\begin_layout Standard
+I looked at the smiling mustache-wearing vampire.
+ “Are you any kind of witch?” I asked Nathan.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oh, no,” he said, “not at all.” 
+\end_layout
+
+\begin_layout Standard
+“Liar!” yelled Maggie in our direction.
+ 
+\end_layout
+
+\begin_layout Standard
+“What kind of witch are you?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Wouldn't you like to know?” Nathan said, grinning.
+ “I'll tell you this -- I've been hunting in Ireland at least once a year
+ for the last hundred, and Siobhan's never caught me, and I still dared
+ turn up at her gathering.” 
+\end_layout
+
+\begin_layout Standard
+“It could be important,” I said.
+ “Don't you want to help? Maggie said everyone here agreed to help.” 
+\end_layout
+
+\begin_layout Standard
+He shrugged.
+ “I want to help, but I don't think telling you this would do that.” 
+\end_layout
+
+\begin_layout Standard
+“Siobhan makes magic plans,” I said.
+ “How can she plan around you being a witch if she doesn't know what you
+ do?” 
+\end_layout
+
+\begin_layout Standard
+“I wouldn't like her to plan around it,” Nathan chuckled.
+ “It'd interfere.” He winked.
+ 
+\end_layout
+
+\begin_layout Standard
+I glanced between him and the frowning Siobhan.
+ “Well,” I said, “I don't know how you've avoided getting caught this long.
+ But if you're going to help, and Siobhan not killing you relies on her
+ not knowing what your witchcraft is, you're probably in trouble, because
+ Eleazar from Denali can sense witch powers.
+ And we might also run into Addy again, and she can taste them.” 
+\end_layout
+
+\begin_layout Standard
+“Well, when the time comes, then I guess I'll be in trouble,” he said mildly.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan rolled her eyes and made a shooing gesture at him.
+ “Get gone,” she muttered.
+ He ambled away and started whistling, although he didn't go far and she
+ didn't seem to mean for him to.
+ “I 
+\shape italic
+knew
+\shape default
+ he'd been to Ireland uninvited, I just could never quite manage to be where
+ he hunted when he was...
+ Anyway.
+ My current plan is that Ilario be peeled away from Cath long enough to
+ phone Carlisle and announce a desire to join the Denali resistance.
+ He asks to be met at the airport by the people there we actually trust,
+ namely your grandparents or aunt and uncle.
+ He brings you with him, and me.
+ You'll blast me once we're on the airplane so I spend the downtime usefully
+ coming out of my coma.
+ And possibly others will be on the same flight, probably Cath who won't
+ like to leave Ilario and your wolf who won't like to leave you and Liam
+ who can look after me while I'm living thoroughly in the past.
+ We should go in the cargo hold, since getting ID on short notice would
+ be intractable.” 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Everybody else swims and runs over?” I guessed.
+ 
+\end_layout
+
+\begin_layout Standard
+“Let me finish.
+ Ilario asks to be met at the airport.
+ Carlisle or Esme or Emmett or Rosalie or some combination show up to meet
+ him, and, surprise, you're there too.
+ You tell them the whole story.
+ Spend the flight composing a good summary to throw at them in an instant,
+ maybe.
+ They give us more up-to-date information about what's going on with their
+ cousins, and help think of a way get the four of them all in one place
+ at one time without the opportunity to drop a note about it to the Volturi.”
+ 
+\end_layout
+
+\begin_layout Standard
+“One problem,” I said.
+ “If the Volturi hear from the Denalis that Ilario's joining up...” 
+\shape italic
+That might put Molly in harm's way,
+\shape default
+ I finished silently, mindful of all the vampires milling about.
+ 
+\end_layout
+
+\begin_layout Standard
+“Mm,” said Siobhan.
+ “Very well, then, we get Cath to call; she doesn't share that property.
+ She says she heard from Maggie, 
+\shape italic
+she
+\shape default
+ wants to help, etcetera etcetera, and wants one of your relations to meet
+ her at the airport because Maggie has such nice things to say about them
+ but she has never met the others and would prefer to see as familiar a
+ face as possible.
+ Any problems there?” 
+\end_layout
+
+\begin_layout Standard
+I couldn't think of any, and shook my head.
+ 
+\end_layout
+
+\begin_layout Standard
+“You work your magic -- literally and figuratively -- on your cousins,”
+ Siobhan continued.
+ “And from there we'll need input from your family to figure out how to
+ proceed, but I'll be there -- blasted, moreover, so you won't need to be
+ consulted so often, I'm sure you'll be pleased to know.
+ Meanwhile, all the Brits and the Manx interloper, and our Romanian additions,
+ and Maggie, are waiting here -- it wouldn't work so well to have them all
+ in the middle of the Atlantic Ocean when we decide we, say, want to launch
+ a full frontal assault on Volterra, unlikely though that is.
+ They wait here, and can sneak onto airplanes or jump into the sea or whatever
+ else needs doing when the time is right.” 
+\end_layout
+
+\begin_layout Standard
+“You're going to let them all wait on your island?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“By “here” I mean the 
+\shape italic
+general
+\shape default
+ vicinity.
+ I think they should probably be located closer to London.
+ It's got more air traffic to hitch rides on, with the added benefit of
+ not being -- as you say -- on my island,” Siobhan said.
+ 
+\end_layout
+
+\begin_layout Standard
+I nodded slowly, examining the plan.
+ “I think that works...
+ as far as it goes.
+ It's a big blank spot after we get the Denalis on board, assuming we even
+ succeed there...” 
+\end_layout
+
+\begin_layout Standard
+“That's because there are fourteen people in Denali, and some of them you
+ weren't able to tell me much about,” said Siobhan.
+ “I'll consult them and figure out how to plan for them once we're there.
+ I'm not likely to suddenly come up empty.” I nodded.
+ “One more thing,” Siobhan said.
+ “If I'm not out of my coma by the time we land in Alaska, I want you to
+ try to bring me out of it.
+ Transmit some of what you did with your “subagent” -- I realize that's
+ probably at least partly dependent on your magic, but you were able to
+ de-Chelsea your wolf pretty effectively without having tried it before.
+ You can clearly use your power intuitively for novel purposes at least
+ some of the time.
+ It's worth a shot if I'm taking too long.
+ Understood?” 
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ 
+\end_layout
+
+\begin_layout Standard
+Over the next half hour, the Scottish representative's coven and their allies
+ arrived; Jake woke up; Siobhan explained the plan to everyone present;
+ Cath was successfully induced to (briefly) disentangle herself from Ilario
+ and make a phone call while everyone was very quiet; the phone call went
+ as smoothly as predicted; everyone except for her and Ilario and me and
+ Jake and Siobhan and Liam made for the water to swim back to Britain and
+ make their way to London; and the six of us got into Maggie's car to go
+ to the airport, Liam in the driver's seat so Siobhan could close her eyes
+ meditatively beside him.
+ (I sat on Jake's lap again, which meant that technically Cath did not 
+\shape italic
+need
+\shape default
+ to sit on Ilario, but she didn't appear to find the middle of the backseat
+ as appealing.) We stopped for a few minutes to pick up enough food to tide
+ me and Jake over for the day, then wound up parked a couple of blocks away
+ from the airport.
+ 
+\end_layout
+
+\begin_layout Standard
+It was cloudy, so the vampires just carried instead of wearing the emergency
+ hoodies and gloves stashed in the car's trunk.
+ We snuck into the belly of an airplane with surprisingly little fanfare
+ and no death at all.
+ Ilario checked which flights were which on his phone so we knew which aircraft
+ to get in, and then we just made a run for it.
+ Without phasing, a surefire attention-getter, Jake was much slower than
+ any of us.
+ Siobhan convinced him to let Liam carry him, citing danger for me if his
+ pace got us noticed.
+ 
+\end_layout
+
+\begin_layout Standard
+Once the hatch to the cargo hold was closed, Siobhan looked at me and said,
+ “Go ahead, then.” 
+\end_layout
+
+\begin_layout Standard
+I scrunched my eyes shut, let everything in my mind blur together into one
+ solid packet to fling all in a single go, and blasted her.
+\end_layout
+
+\end_body
+\end_document

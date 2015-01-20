@@ -1,0 +1,1115 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Granddaughter
+\end_layout
+
+\begin_layout Standard
+Siobhan's eyelids fluttered and she toppled off her feet, but Liam caught
+ her and settled her gently on the floor.
+ “It took you a day?” Liam asked me.
+ 
+\end_layout
+
+\begin_layout Standard
+“Almost, including a night's sleep,” I said, “but I'm not sure if sleeping
+ made it faster or slowed me down.
+ I did come to right after I woke up, though.” 
+\end_layout
+
+\begin_layout Standard
+Liam frowned and brushed some of Siobhan's hair out of her face.
+ Siobhan started mumbling words in various languages, sometimes imitating
+ their sources closely enough that I could figure out exactly what memories
+ she was thinking of.
+ Jake, whose sleep schedule was more flexible than mine, was able to nap.
+ I spent most of the plane ride listening to Siobhan babble, mostly because
+ it made it easier to ignore Cath and Ilario, who were off behind a stack
+ of suitcases making ill-fated attempts to be discreet.
+ 
+\end_layout
+
+\begin_layout Standard
+Ilario had managed to find a plane that would carry on to Alaska after an
+ overnight in Chicago.
+ I was asleep during the plane's downtime, but since some of the luggage
+ was continuing to Fairbanks, there was enough to hide behind; nothing disastrou
+s happened.
+ Partway through the second leg of the trip, Siobhan sat partway up and
+ looked around.
+ 
+\end_layout
+
+\begin_layout Standard
+“Still on the plane,” she muttered.
+ “What time is it?” 
+\end_layout
+
+\begin_layout Standard
+Liam told her, and she nodded slowly.
+ Her eyes rolled around in her head a bit; when I frowned, Liam said, “You
+ did that too, when you didn't close your eyes outright and were looking
+ at a memory.” 
+\end_layout
+
+\begin_layout Standard
+“Allirea,” murmured Siobhan.
+ “Elspeth, 
+\shape italic
+why
+\shape default
+ didn't you tell me about...
+ oh.
+ You probably couldn't...” 
+\end_layout
+
+\begin_layout Standard
+“Huh?” I said.
+ “I sent you everything.
+ And even before that I told you everything important.” 
+\end_layout
+
+\begin_layout Standard
+“My point exactly,” said Siobhan.
+ 
+\end_layout
+
+\begin_layout Standard
+“What are you talking about?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan pursed her lips and closed her eyes.
+ “Elspeth, how many children does Joham have?” she asked, slowly and carefully.
+ 
+\end_layout
+
+\begin_layout Standard
+“Three,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“And their names are, from oldest to youngest...?” 
+\end_layout
+
+\begin_layout Standard
+“Noemi, Nahuel, and Iseul.
+ Don't you already 
+\shape italic
+know
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Is Noemi the eldest child in the family?” Siobhan asked.
+ 
+\end_layout
+
+\begin_layout Standard
+This question threw me for a loop.
+ When the answer didn't come to me immediately, I mentally tried out possible
+ responses -- “no” and “yes” both felt wrong.
+ “Kind of” felt closer, but still not correct.
+ “I...” 
+\end_layout
+
+\begin_layout Standard
+“Don't hurt yourself,” Siobhan said mildly.
+ “Is Jacob awake?” I shook my head, since Jacob was sleeping (with unusually
+ few snores) on top of a garment bag in the other end of the hold, and Siobhan
+ said, “Cath, Ilario, your attention please
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“One sec!” cried Cath shrilly.
+ A couple seconds later they appeared at the edge of their luggage barrier.
+ “What?” 
+\end_layout
+
+\begin_layout Standard
+“Elspeth's about to behave very strangely, but ignore her,” Siobhan said.
+ “There is a half-vampire called Allirea, who...” I started zoning out, picking
+ at a loose thread in my sleeve, while Siobhan said a lot of things that
+ didn't matter.
+ I worked on my summary composition a bit, although it was mostly done.
+ Ilario kept looking at me strangely.
+ 
+\end_layout
+
+\begin_layout Standard
+“Is the wolf affected?” Cath asked when Siobhan seemed to be finished.
+ 
+\end_layout
+
+\begin_layout Standard
+“There's no way to tell without asking him, since the memories I have wouldn't
+ necessarily contain the information if she'd been near enough to him before
+ -- the only people I have memories for between today and May 26 are Adelaide
+ and Elspeth.
+ But he should be awake soon enough,” said Siobhan.
+ “All the Denalis have certainly met her.
+ The Cullens and their other allies may or may not have done so, depending
+ on whether she is still in Denali.
+ What Elspeth saw when Santiago and the wolf pack captured her indicates
+ that Eleazar resists the effect, at least partially, so he should be able
+ to tell us if we ask him directly, but he might not have enough of a resistance
+ to remember her independently if she's left.
+ She has no reason to stay -- has reason to go, in fact.
+ Her habit when running away from Demetri is to board airplanes at random.
+ If nothing else, we'll be able to ask the people at Denali if 
+\shape italic
+Demetri
+\shape default
+ has been by.” 
+\end_layout
+
+\begin_layout Standard
+“Who?” I asked, bewildered.
+ 
+\end_layout
+
+\begin_layout Standard
+“Allirea,” said Siobhan, raising an eyebrow.
+ 
+\end_layout
+
+\begin_layout Standard
+“Not important,” I said, confused.
+ “Don't...
+ don't you know that?” There was so much to do, so much Siobhan should be
+ making magical plans about, and she was wasting time...
+ 
+\end_layout
+
+\begin_layout Standard
+“Liam,” said Siobhan, turning towards her mate and ignoring my question,
+ “I want paper.
+ See if you can find any to take out of the luggage.
+ Allirea is clearly not on this airplane or I'd either notice her or be
+ unable to have this conversation.
+ However, we 
+\shape italic
+could
+\shape default
+ encounter her at any time after landing, in which case I'm going to want
+ a written note to make sure I follow through with what I have in mind.”
+ 
+\end_layout
+
+\begin_layout Standard
+“What's going on? Are you okay, Siobhan?” I asked.
+ “I didn't really stick around to see how the Volturi recovered from Addy's
+ blast, I don't know if vampires react differently or something
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“She's fine, Elspeth,” said Liam dryly, starting to rummage through bags.
+ Cath patted me on the head twice and chuckled, then seized Ilario by the
+ wrist and disappeared with him again.
+ I blinked, but decided whatever was the matter with Siobhan couldn't be
+ that bad if Liam wasn't worried.
+ When his search uncovered a toiletry kit, I borrowed a passenger's hairbrush,
+ putting it back when I was done teasing the tangles out of my hair.
+ I really needed it.
+ Siobhan kept muttering to herself and to Liam, but nothing she said was
+ important.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+Cath called Carlisle when we'd landed.
+ He hadn't expected her to buy a ticket -- she was between legal identities
+ at the moment, which turned out to be another advantage to having her call
+ instead of Ilario -- and told her that she could find him and Esme waiting
+ in the parking lot.
+ It was dark in Fairbanks, and that plus a mad dash had us quite safely
+ away from the airplane and headed for my grandparents.
+ Siobhan talked to Jacob briefly about something that they seemed to think
+ was important, but I was focused on other things.
+ 
+\end_layout
+
+\begin_layout Standard
+I was apprehensive about meeting Carlisle and Esme.
+ I figured I could let them hug me if they seemed inclined to, but beyond
+ that I didn't know at all how to behave.
+ Should I call them “Grandma” and “Grandpa” still? Their adopted children
+ usually called them by name.
+ They might not take it badly if I did the same, except that I hadn't before,
+ either when I was little or when I'd been on the phone with Carlisle from
+ Nashville.
+ 
+\end_layout
+
+\begin_layout Standard
+I had Carlisle's memories, up to the day he'd gone with Esme and my father
+ to pick up my mother from Volterra.
+ I poked at them, trying to use them to reconstruct what Chelsea had taken,
+ but it didn't help much.
+ 
+\end_layout
+
+\begin_layout Standard
+It gave me plenty of material to 
+\shape italic
+admire
+\shape default
+ and 
+\shape italic
+trust
+\shape default
+ Carlisle.
+ He was a strong, dedicated person, surpassing anyone else I could so much
+ as remember hearing of in self-abnegation, having not only independently
+ committed without misstep to vegetarianism as a newborn, but also having
+ left his mate while she was human out of the belief that it would be best
+ for her.
+ Carlisle wasn't the only vegetarian in the world, but he 
+\shape italic
+was
+\shape default
+ the only vampire who'd been able to do the second thing.
+ It hadn't worked out so well in practice...
+ Esme had gone on to marry a man who'd turned out to be abusive.
+ She'd run away from her husband once she discovered she was pregnant, not
+ wanting to raise a child in that household, only for the baby to die of
+ a lung infection soon after he was born, and then in despair she'd jumped
+ off a cliff.
+ I noted with some bemusement that my father had made it sound to my mother
+ like Esme had simply 
+\shape italic
+fallen
+\shape default
+, accidentally, without mentioning either the fact that it was a suicide
+ attempt or the reasons behind it.
+ He hadn't wanted to taint my mother's opinion of Esme, and suspected that
+ a nearly-successful suicide attempt would offend the sensibilities of anyone
+ so enthusiastic about eternal life.
+ I wondered what my mother would think of that.
+ But regardless of the fact that Esme would have been better off if Carlisle
+ had swept her away when she was sixteen, his intentions and self-control
+ in refraining were still unparalleled.
+ 
+\end_layout
+
+\begin_layout Standard
+And knowing all this wasn't the right 
+\shape italic
+kind
+\shape default
+ of thing to restore the way I used to feel about my grandfather.
+ He was supposed to be special to me, his only grandchild, in a way that
+ had nothing to do with his status as an upstanding moral person or anything
+ else the memories I had could tell me.
+ He was supposed to be special to me because he was my father's father,
+ because he'd played a part in bringing me into the world, because he'd
+ helped bring me up when I was little.
+ 
+\end_layout
+
+\begin_layout Standard
+Because I'd known all of that when Chelsea had gone 
+\shape italic
+snip, snip
+\shape default
+, though, feelings wouldn't 
+\shape italic
+attach
+\shape default
+ to those facts any more.
+ I didn't know if they ever would, but sifting through Chelsea's memories
+ (and, gingerly, Marcus's) didn't leave me optimistic.
+ Regeneration was possible when she'd snipped something once, twice, half
+ a dozen times...
+ but threads stopped coming back, for the most part, when they'd been destroyed
+ over and over again on a daily basis for as long as I'd been in the village.
+ 
+\end_layout
+
+\begin_layout Standard
+Anything new I came to feel about Carlisle would probably be exactly that
+ -- new.
+ 
+\end_layout
+
+\begin_layout Standard
+The six of us -- Cath and Ilario in the lead -- approached the parking lot,
+ and I saw my grandparents.
+ They turned to meet us, and I saw their eyes widen.
+ “You...
+ must be Cath...” said Carlisle slowly, “but...
+ Ilario? Siobhan and Liam? And...” He was staring at me in disbelief.
+ 
+\end_layout
+
+\begin_layout Standard
+“It's me,” I confirmed softly, knowing he'd recognize my voice from the
+ phone call once he heard it.
+ 
+\end_layout
+
+\begin_layout Standard
+Carlisle blinked twice.
+ Behind him, Esme made a quiet noise of confusion.
+ I noted that they were both black-eyed, hungry.
+ “I see there is much to discuss,” my grandfather finally managed, sparing
+ a silent Jacob one quick glance before looking at me expectantly.
+ Siobhan gave me a nod.
+ 
+\end_layout
+
+\begin_layout Standard
+I pushed out the finished summary to bring my grandparents up to speed on
+ why we were there, the reasons behind Cath's subterfuge, the Denalis' betrayal
+ and what I hoped would reverse it, and everything else they were likely
+ to need to know.
+ 
+\end_layout
+
+\begin_layout Standard
+“With Elspeth so convenient,” Siobhan said, “there is 
+\shape italic
+less
+\shape default
+ to discuss, but still 
+\shape italic
+some
+\shape default
+.
+ Specifically, we need to get your cousins to listen to us without having
+ the chance to contact Volterra.
+ Oh, and I have a question for you Elspeth wouldn't have been able to include
+ in her summary.
+ Are you aware of the existence of a half-vampire named Allirea?” 
+\end_layout
+
+\begin_layout Standard
+“I've heard the name mentioned...” Carlisle began.
+ 
+\end_layout
+
+\begin_layout Standard
+“Good, then she's not there anymore,” said Siobhan.
+ and then I yawned while she prattled about something irrelevant.
+ I was beginning to worry a little about the quality of plans she generated
+ while so weirdly obsessed with trivialities.
+ I started paying attention to her again after a few more sentences: “--
+ could have left the quarter-vampires some failsafe method to contact her
+ for help.
+ Since we need all the help we can get, I'm going to try contacting them
+ once we've spoken to your cousins, especially Eleazar.
+ Based on the timing involved, it's also 
+\shape italic
+possible
+\shape default
+ we can find Bella that way, but no promises.” 
+\end_layout
+
+\begin_layout Standard
+“They lied to us,” Esme said faintly.
+ “They told us our children and granddaughter never arrived, they told us
+ -- they 
+\shape italic
+lied
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Can you,” Siobhan asked sharply, “forgive them, assuming they are sincerely
+ sorry? If necessary I can get Maggie on the phone to confirm anything they
+ say, if that will help
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Of course we can,” said Esme at once.
+ “Of 
+\shape italic
+course
+\shape default
+.
+ They're family.” Carlisle nodded in agreement, jaw set firmly, though he
+ looked troubled.
+ 
+\end_layout
+
+\begin_layout Standard
+“Good,” Siobhan said, “because that's probably important, at least for Kate.
+ I know almost nothing about how you've been arranging the guests in Denali.
+ What's the best way to get the sisters and Carmen and Eleazar all in one
+ place without giving away that more people than Cath have arrived ahead
+ of time?” 
+\end_layout
+
+\begin_layout Standard
+“We've been hunting together,” Carlisle said.
+ “Often not all of us at the same time, but it wouldn't be unheard of.
+ We can bring Cath to Denali, and the rest of you can wait somewhere for
+ us.
+ Oh -- Kate has found a mate...” -- Siobhan looked slightly smug when he said
+ that, probably about having anticipated the possibility -- “and he's been
+ attempting to change his eating habits, so he's liable to join us.” 
+\end_layout
+
+\begin_layout Standard
+“Who is he?” asked Siobhan.” 
+\end_layout
+
+\begin_layout Standard
+“Garrett,” replied Carlisle.
+ “Do you know who
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Yes,” Siobhan said; I remembered too, from what Addy had heard about the
+ attendance in Denali.
+ Garrett was one of the American nomads acquainted in some way with the
+ Cullens who'd agreed to come join the enclave when asked.
+ “All right.
+ Cath, you go with Mr.
+ and Mrs.
+ Cullen and act as though you're the only one who showed up
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Don't I smell a bit too much like him?” Cath asked, pointing her thumb
+ at Jake.
+ “From being in the same cargo hold for ages?” 
+\end_layout
+
+\begin_layout Standard
+Esme sniffed.
+ “We'll stop somewhere where you can take a shower, and get you a new outfit,”
+ she said.
+ 
+\end_layout
+
+\begin_layout Standard
+Cath looked down at her clothes -- heavily embroidered, drapey linen --
+ and sighed.
+ “Oh, all right, but I'm not getting rid of these, I'll stash them somewhere,
+ I spent a long time on the hardanger in this blouse.” With a glance at my
+ grandparents' eyes, she said, “This won't take long all told, will it?”
+ Her hand darted out to clutch at Ilario's as she said this.
+ “Getting the whole hunting party put together and on your way, I mean?”
+ 
+\end_layout
+
+\begin_layout Standard
+Carlisle glanced at their joined hands, and said, “Tomorrow afternoon, at
+ the latest, we'll hunt.
+ I hope that will be satisfactory.” 
+\end_layout
+
+\begin_layout Standard
+“I'll live,” sighed Cath, looking dreamily into Ilario's eyes.
+ “I guess.” He leaned down and kissed her.
+ Siobhan coughed and asked Carlisle for directions to a suitable waiting
+ place, which she received; then, we all stood around awkwardly for half
+ a minute, waiting for Cath to be ready to leave with Carlisle and Esme.
+ During this time I took a few steps forward and exchanged hugs with each
+ grandparent, mostly because I didn't think I'd enjoy looking at Esme's
+ face if I let them go without.
+ Esme petted my hair.
+ I remembered she used to tie ribbons into it, when I was little.
+ 
+\end_layout
+
+\begin_layout Standard
+Cath hauled herself away from Ilario with visible effort, muttering something
+ about not wanting to have taken too long if someone looked up the flight
+ we'd taken and noticed it was on time, and followed Carlisle and Esme to
+ their car.
+ Ilario swayed on the spot, watching them as they drove away.
+ 
+\end_layout
+
+\begin_layout Standard
+“Tomorrow afternoon at the latest,” repeated Siobhan, looking appraisingly
+ at Ilario.
+ “Come, now, we need to be ready for them when they go hunting, and it could
+ be sooner than that.” 
+\end_layout
+
+\begin_layout Standard
+We just walked, until we got far enough away from the airport that we could
+ break into a jog (for me and the vampires) and a flat run (for Jake).
+ Speed wasn't so essential that anyone had to carry my wolf.
+ He still didn't dare phase without an emergency calling for it, lest he
+ have a pack remaining that would give away his location, or he could have
+ kept up with the vampires even carrying me.
+ “Next time we go somewhere don't tell me where,” he muttered.
+ 
+\end_layout
+
+\begin_layout Standard
+“Won't help; you'll still have information we don't want them to have,”
+ commented Liam.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake frowed.
+ “I...
+ don't actually 
+\shape italic
+know
+\shape default
+ how long I'd have to go without phasing to quit my wolf.” 
+\end_layout
+
+\begin_layout Standard
+“It varies,” I chirped.
+ “At 
+\shape italic
+least
+\shape default
+ a few weeks, though.
+ You're okay for now.” 
+\end_layout
+
+\begin_layout Standard
+Jake nodded, but still looked worried.
+ “How do you know?” he asked after a moment.
+ 
+\end_layout
+
+\begin_layout Standard
+“My father and Carlisle and Rosalie -- I have memories from all of them
+ that cover the time when they first lived near Quileute land.
+ They met your great-grandfather Ephraim Black, he was the alpha then, and
+ the other wolves who were around at the time, and learned most of how wolves
+ tick,” I said.
+ “What they knew at the time, anyway -- there was some misinformation.
+ Like, they didn't think girls could be wolves, but that's probably just
+ because girls with wolf genes didn't happen to meet vampires much.” 
+\end_layout
+
+\begin_layout Standard
+“Huh,” said Jake.
+ “It always did seem sort of strange to me that the legends wouldn't mention
+ 
+\shape italic
+any
+\shape default
+ wolf girls.
+ There are tons now.” 
+\end_layout
+
+\begin_layout Standard
+I thought.
+ “The ones now were all activated by touch,” I said.
+ “It seems a lot faster and more consistent that way.
+ Just being around a vampire doesn't seem to always do the trick...
+ my father always thought it seemed like even in wolf-gene families, it
+ looked like the ones who were more emotionally volatile activated.
+ That might have kept girls from activating too, if they were less likely
+ to get mad enough 
+\shape italic
+and
+\shape default
+ less likely to be around vampires?” 
+\end_layout
+
+\begin_layout Standard
+“Makes evolutionary sense,” Ilario put in, “from what I've heard, if it's
+ harder for women to activate.” 
+\end_layout
+
+\begin_layout Standard
+“That too,” I said.
+ “Since girls can't have kids while they're activated.
+ But it seems like if a vampire actually touches an inactive wolf the activation
+'s pretty automatic, so...” 
+\end_layout
+
+\begin_layout Standard
+We ran in silence for a minute, and then Jake said, “Why did the old pack
+ quit their wolves?” 
+\end_layout
+
+\begin_layout Standard
+“I don't know about the generation of wolves before yours,” I said.
+ “My family left the area first.
+ The ones they heard about from before that would tend to quit so they could
+ age along with their imprints, when they had imprints, or they'd die in
+ fights with vampires, or they'd just mellow with age and not want to be
+ wolves anymore.
+ Why?” 
+\end_layout
+
+\begin_layout Standard
+“I'm just thinking about whether I would ever decide to quit,” Jake said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Would you?” I asked.
+ “If you quit you age and die like a human, you know.” 
+\end_layout
+
+\begin_layout Standard
+“I know,” he said.
+ “I guess I probably won't.” He paused.
+ “Unless something happened to you, maybe.
+ But we'll make sure that doesn't happen.” 
+\end_layout
+
+\begin_layout Standard
+“Unless something...” I didn't like the idea of Jake deciding to slowly kill
+ himself on account of me.
+ I didn't like the idea of anything dreadful happening to me, 
+\shape italic
+either
+\shape default
+, but it seemed like him dying too could only make it worse.
+ “You shouldn't even if something 
+\shape italic
+does
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“I don't know,” Jake said.
+ “Do you have any memories about what happens to imprinted wolves without
+ their imprints?” 
+\end_layout
+
+\begin_layout Standard
+“No.” 
+\end_layout
+
+\begin_layout Standard
+“Mm,” Jake said.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan said, “I'll just mention now that it would be the height of foolishness
+ to deliberately involve Elspeth in any physical fighting that includes
+ full vampires and phased wolves, and anyone who finds her to be an actual
+ threat worth lethally addressing outside of that context will be someone
+ she hasn't memory-blasted yet and can therefore incapacitate more than
+ long enough to make a run for it.
+ She may actually be the single person most likely to survive this entire
+ mess.” 
+\end_layout
+
+\begin_layout Standard
+“Good,” said Jake softly.
+ 
+\end_layout
+
+\begin_layout Standard
+There was more silence, and then Ilario piped up, “Do you think it will
+ really take them until 
+\shape italic
+tomorrow afternoon
+\shape default
+ to get to us...?”
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+My grandparents, aunt and uncle, and four cousins and new cousin-in-law
+ arrived at the mountain peak Carlisle had described at noon.
+ Cath wasn't with them, which visibly deflated Ilario, but I'd told him
+ and Siobhan had told him that he couldn't expect her -- it wouldn't make
+ sense for her to join the vegetarian hunting trip, even if she 
+\shape italic
+did
+\shape default
+ plan on changing her diet for him (which he hadn't 
+\shape italic
+asked
+\shape default
+ her about in the handful of actual sentences they had exchanged, anyway).
+ She wasn't thirsty, and her eyes proved it; and anyway, years of knowing
+ a vegetarian Maggie hadn't converted her, so a sudden change before she
+ announced to the Denalis that Ilario was her mate would be strange-looking
+ and might have prompted a memo to the Volturi.
+ 
+\end_layout
+
+\begin_layout Standard
+They spotted us as soon as we spotted them, of course, and it would be an
+ understatement to say that the Denalis were startled.
+ Emmett and Rosalie were obviously flabbergasted, too, but took in the situation
+ with less alarm and more bemusement.
+ I couldn't hear what was being said from so far away, though I assumed
+ the vampires could -- but I saw the effects, namely that the Denalis were
+ coaxed to approach.
+ Carlisle had a comforting hand on Tanya's back, and Carmen and Eleazar
+ were clinging to each other, and Kate was lagging behind skittishly despite
+ encouragement from Esme.
+ 
+\end_layout
+
+\begin_layout Standard
+“...okay, it's okay,” I finally heard Esme saying as they drew nearer.
+ “We understand, Kate, but it can't continue
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Katie,” said a man I'd never seen before who I assumed was Garrett, “I
+ 
+\shape italic
+don't
+\shape default
+ understand.” He had sandy hair in a ponytail and his eyes shone dark gold
+ as he looked at his mate with concern.
+ Tanya, near them, seemed to shrink into herself and let the scrutiny fall
+ on Kate rather than attract attention to herself.
+ 
+\end_layout
+
+\begin_layout Standard
+“I didn't dare tell you,” the witch whispered to Garrett.
+ “I didn't dare.
+ You're always talking about revolution, revolution is in your 
+\shape italic
+bones
+\shape default
+, you still have the uniform you wore 
+\shape italic
+during the revolution
+\shape default
+, how could I expect you to accept what had happened? I was already in it
+ before you came here, I didn't 
+\shape italic
+dare
+\shape default
+, and then...
+ David is a brother to me, Garrett
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Can I just state now,” said Emmett, “that I have less than zero idea what
+ is going on?” 
+\end_layout
+
+\begin_layout Standard
+“Elspeth!” called Carlisle.
+ “If you wouldn't mind
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+I tried, but Emmett and Rosalie didn't react like they'd received my summary.
+ “I don't think I have that much range for summaries yet,” I called back.
+ 
+\end_layout
+
+\begin_layout Standard
+“Elspeth, is that really you?” exclaimed Rosalie, jogging ahead of her hunting
+ party.
+ “Oh, my word, you've gotten so big
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+Everybody I was standing with had at least a foot on me, so I didn't feel
+ very tall, but I 
+\shape italic
+had
+\shape default
+ grown significantly since Rosalie had last seen me, so maybe it wasn't
+ silly of her to say it.
+ “It's me,” I acknowledged.
+ Rosalie broke into an outright run, threw her arms around me, picked me
+ up, and spun me around before setting me down again, beaming all the while.
+ 
+\end_layout
+
+\begin_layout Standard
+“How
+\begin_inset space ~
+\end_inset
+
+--” she began, and I sent her the condensed version of events, including
+ Emmett as a target when he crossed within a plausible distance.
+ Rosalie blinked; Emmett said something that didn't sound like a word.
+ 
+\end_layout
+
+\begin_layout Standard
+Emmett reached me, pulled me into a familiar bear hug, and then turned to
+ look back at cringing Tanya, dawdling Kate (trailed by her confused mate),
+ and sheepish Eleazar and Carmen.
+ 
+\end_layout
+
+\begin_layout Standard
+The vampires started all talking over each other, too many conversational
+ threads for me to keep track of.
+ From what I did catch, everyone was spending a surprising amount of time
+ talking about topics that didn't matter at all.
+ Rosalie spent most of the conversation with one hand on the back of my
+ head, and Tanya tentatively touched my cheek at one juncture.
+ Occasionally Siobhan asked me to announce something so it would be more
+ compelling, and I obediently recited various facts and opinions.
+ Jacob kept back the entire time, wrinkling his nose and keeping a suspicious
+ eye on Garrett and Kate in particular.
+ 
+\end_layout
+
+\begin_layout Standard
+It took about half an hour for everyone to simmer down, for all the explanations
+ and reassurances and incredulity and anger and expressions of forgiveness
+ and hugs and Ilario's repeated interruptions inquiring about Cath's well-being
+ to all be over and done with.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well,” said Emmett finally, “dunno about the rest of you, but I could use
+ lunch.” 
+\end_layout
+
+\begin_layout Standard
+“Not thirsty,” said Ilario.
+ “We'll go to the houses and
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Elspeth,” said Siobhan suddenly, “you and Jacob need to stay here.” 
+\end_layout
+
+\begin_layout Standard
+I was confused for a moment, and then understood.
+ “Alice,” I murmured.
+ “She might look; the place can't be blacked out until it's all right for
+ the Volturi to know.” 
+\end_layout
+
+\begin_layout Standard
+“Right,” Siobhan said.
+ “Me and Liam and Ilario and Cath all make sense to have there.
+ And a casual look won't have her reading lips closely, so as long as there's
+ nothing suspicious to see, we can talk freely -- but you and Jacob need
+ to camp out.” 
+\end_layout
+
+\begin_layout Standard
+I looked at Jacob, who seemed mostly relieved about not having to crash
+ in one of three crowded houses full of vampires, and then back to Siobhan.
+ “Okay,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“We can bring you sleeping bags and so on,” said Esme, patting my shoulder.
+ “You'll be all right by yourselves, won't you? It's not too cold or
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“We don't get cold,” I reminded her.
+ “We'll be okay.
+ Jake would probably like some food, though I'm happier hunting.” 
+\end_layout
+
+\begin_layout Standard
+“We'll bring you plenty to eat,” Esme promised.
+ She hugged me again, and then so did Carlisle and Rosalie and Emmett and
+ Tanya and Eleazar and Carmen and even (gingerly) Kate, and with that, Jake
+ and I were left by ourselves on the mountain for a time.
+ 
+\end_layout
+
+\begin_layout Standard
+Esme came back just before nightfall, with sleeping bags and food and similar
+ camping amenities.
+ She helped us get set up, thanked Jacob graciously for looking after me,
+ gave me another hug, and then departed reluctantly.
+ I went to sleep soon after, muttering something about how sooner or later
+ all the time zone jumping would probably catch up with me.
+ 
+\end_layout
+
+\begin_layout Standard
+Shortly after I woke up, I noticed that we had company.
+\end_layout
+
+\end_body
+\end_document

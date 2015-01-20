@@ -1,0 +1,1158 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{24}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Lover
+\end_layout
+
+\begin_layout Standard
+Siobhan didn't let up for the entire ride up to Belfast.
+ During the two hours in the car, we established the following: 
+\end_layout
+
+\begin_layout Standard
+According to Addy's best and most recent information, the Denalis were communica
+ting with the Volturi by text and e-mail, easier to keep unobtrusive in
+ a group of vampires than voice calls.
+ This meant that if I managed to make an entrance when Kate, Tanya, Eleazar,
+ and Carmen were all in the same room with me, they wouldn't have a chance
+ to contact the Volturi without being spotted trying to do so.
+ 
+\end_layout
+
+\begin_layout Standard
+David was being kept in much the same way as my father: in bits most of
+ the time, fed occasionally under Alec's supervision.
+ (It occurred to me to wonder if David would find his susceptibility to
+ human blood affected by what they were feeding him, since he'd never eaten
+ it before, but wouldn't be able to taste it while Alec was keeping him
+ senseless.) Chelsea hadn't bothered to cut his ties to his family, mostly
+ since the promise of his safe and relatively unharmed return was helping
+ to keep them in line, but she'd been doing some minor work to “improve
+ his attitude” about the Volturi themselves so he wouldn't be a likely liability
+ in the future.
+ 
+\end_layout
+
+\begin_layout Standard
+The Denalis had originally agreed to help the Volturi when David was home,
+ safe, and intact, so his return wouldn't 
+\shape italic
+necessarily
+\shape default
+ change their minds, although it would help if we found a way to pull it
+ off.
+ The fact that we were more kindly disposed towards him than the Volturi
+ was also a point in our favor...
+ but the fact that the Volturi had proven willing to release non-threats
+ like Peter and Charlotte was a point against.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan thought to ask if I thought David would forgive Kate; I had almost
+ no way to figure that out, since Irina had known him only briefly before
+ her death and all my other reads were from before he'd even turned, but
+ based on my own childhood I hazarded the guess that he probably would.
+ 
+\end_layout
+
+\begin_layout Standard
+At any rate, David was always under some guard; even if we could get into
+ the compound undetected, we currently didn't have a way to prevent the
+ guard from shouting to alert everyone, and then we'd be toast.
+ It would probably have been possible to extract him, and my father, immediately
+ after the memory blast permeated the compound, but I'd been semi-conscious,
+ Jake hadn't thought of it, and Addy hadn't had any reason to bother.
+ 
+\end_layout
+
+\begin_layout Standard
+Even if it turned out that I couldn't un-Chelsea people other than Jake
+ -- which Siobhan labeled “unlikely, but worth coming up with contingencies
+ for” -- I thought Alice would be a possible weakness in the Volturi's group
+ cohesion.
+ In the past she'd identified people as friends based on how she foresaw
+ herself interacting with them -- she'd turned up with Jasper at the Cullens'
+ house in 1950 and had acted very familiar with everyone immediately.
+ 
+\end_layout
+
+\begin_layout Standard
+This didn't quite match how she'd acted on the way to Denali, but I thought
+ I had it figured out when I looked at the playful nature of her memories
+ from sixty years ago: she'd found it fun to waltz in and toy with her future
+ family when they didn't know who she was or what she could do.
+ When they expected her, and there was a mismatch in their feelings about
+ the upcoming meeting, that had just unnerved her (I guessed, anyway, since
+ I didn't have her memories from that recently).
+ Still, Alice's historically demonstrated ability to act like friendships
+ that didn't exist yet were real was a potential resource, if we could make
+ any such friendships certain enough that they'd pop up on her radar.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+Even with Memory filtering through what I'd been blasted with to push forward
+ relevant stuff and help me skim over repetitive parts, it was time-consuming
+ to assemble all this information.
+ By the time Maggie announced “Welcome to the site of the Meeting of the
+ Vampires of These Isles!”, that was all I'd come up with.
+ Jake woke up with a start at her announcement.
+ 
+\end_layout
+
+\begin_layout Standard
+“These isles?” he said.
+ “Vague much?” 
+\end_layout
+
+\begin_layout Standard
+“Atlantic archipelago,” said Liam, “UK and ROI, Anglo-Celtic Isles, Pretanic
+ Isles
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Aren't they called the Bri-” Jake began.
+ 
+\end_layout
+
+\begin_layout Standard
+“Ah-ah-ah,” said Maggie, “it would be an inauspicious way to start your
+ day if you provoked Siobhan into perforating your face.
+ Trust me, I had that argument with her in 1993, and do not recommend that
+ you repeat it.” 
+\end_layout
+
+\begin_layout Standard
+Jake blinked, but fell silent.
+ I said, “How many people are we expecting?” 
+\end_layout
+
+\begin_layout Standard
+“Cath said she'd invite the Isle of Wight coven -- that's a mated pair and
+ their creator -- and also the Cardiff bint, and the London coven -- one
+ pair, two singles -- and the two in Bristol, and the fellow from Oxford,
+ and I don't think the Leeds pair will 
+\shape italic
+come
+\shape default
+ but she said she'd ask, and she also said she thinks that the Cardiff bint
+ will want to bring a friend from Liverpool and for some reason Cath 
+\shape italic
+trusts
+\shape default
+ Cardiff Bint enough to let her bring a friend.
+ Cath also said something about asking the covens from Glasgow and Edinburgh
+ -- that's four groups technically, ten vampires total, but they're all
+ right friendly with each other and share the space -- but I don't know
+ if we expect them or not exactly.
+ She'll ask but doesn't thinks she can bring the Newcastle bloke.
+ And if she can manage all this without the Manchester brothers hearing
+ and insisting on tagging along I'll eat a 
+\shape italic
+sandwich
+\shape default
+.” 
+\end_layout
+
+\begin_layout Standard
+“So...” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“So it 
+\shape italic
+could
+\shape default
+ just be Cath, but assuming the likeliest folks show, probably at least
+ ten, maybe as many as thirty apart from her.
+ There's a bunch of vampires around over there, it's a bit close-knit, word
+ will get 'round.
+ Oh, especially if our dear Newcastle thinks it's news.
+ Can't stand to share his space with a 
+\shape italic
+coven
+\shape default
+, but he gets lonely, he's the gossip.” 
+\end_layout
+
+\begin_layout Standard
+“There are only fourteen in Denali,” I whistled.
+ “Total.
+ Counting the...
+ you know...
+ spies.
+ What's Carlisle doing wrong?” 
+\end_layout
+
+\begin_layout Standard
+“Well, for one thing, Carlisle's made everybody travel a lot farther,” Maggie
+ said.
+ “For another, he told them what his meeting was 
+\shape italic
+about
+\shape default
+ first.
+ I just asked Cath to call a meeting, I didn't mention the mutiny thing.
+ Guarantee you at least half of them will hie home when that bomb gets dropped.
+ Maybe we can get rid of Cardiff Bint that way.” 
+\end_layout
+
+\begin_layout Standard
+“What,” I asked, “did the vampire from Cardiff ever 
+\shape italic
+do
+\shape default
+ to you?” 
+\end_layout
+
+\begin_layout Standard
+“She's a pathological liar.
+ I can't stand to listen to her talk, and it's not just the accent which
+ I know for a 
+\shape italic
+fact
+\shape default
+ she plays up on purpose, it's the little alarm bell in my head ringing
+ and ringing and ringing and 
+\shape italic
+ringing
+\shape default
+,” said Maggie, shuddering.
+ “Every time she says anything! Don't believe a word out of the Cardiff
+ Bint.” 
+\end_layout
+
+\begin_layout Standard
+“Okay,” I said.
+ Maggie found a good place for us to park and stopped the car.
+ 
+\end_layout
+
+\begin_layout Standard
+“All,” said Maggie, addressing the car, “this goes against some of my principles
+, but...
+ 
+\shape italic
+don't
+\shape default
+ tell any of our visitors about Molly.
+ Not even Cath.
+ Cath knows I'm a vegetarian living with my mate and brother-in-law in a
+ permanent residence.
+ She doesn't know about my daughter.
+ And I love Cath and she's my friend and I wouldn't trust her anywhere near
+ Molly and that goes double for everyone she brings with her today...
+ so don't go advertising it, right?” 
+\end_layout
+
+\begin_layout Standard
+“Uh,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“They're getting here at night, Elspeth.
+ If you're still awake for 
+\shape italic
+any
+\shape default
+ of it, and if your wolf lets you talk to any of them, I think you can manage
+ to keep the topic away from my child for half an hour or so, can't you?”
+ She was trying to sound withering, it sounded like, but she mostly succeeded
+ at seeming insecure.
+ 
+\end_layout
+
+\begin_layout Standard
+“It'll itch,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“They don't know you, they won't think you're acting unusual,” Maggie said.
+ “Just avoid them if you can't deal with it.
+ Also, us sparkly people oughtn't risk getting out of the car this close
+ to humans while it's sunny, but I don't really want to smell wolf all day
+ long in an enclosed space.
+ Maybe he could go...
+ do...
+ something.
+ Elsewhere.
+ And come back later.” 
+\end_layout
+
+\begin_layout Standard
+“I'm not going to leave Elspeth here,” said Jake.
+ 
+\end_layout
+
+\begin_layout Standard
+“Take her,” said Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+“Just a minute, I'm not done
+\begin_inset space ~
+\end_inset
+
+--” Siobhan began.
+ 
+\end_layout
+
+\begin_layout Standard
+“Give the girl a break!” said Maggie.
+ “Honestly, I've 
+\shape italic
+met
+\shape default
+ you, Siobhan, it's not like without Elspeth you are going to have an empty
+ brain for the next eight hours.
+ You're going to be thinking and strategizing and concocting and all that
+ whether she's here or not, and then later as soon as you say the word,
+ just to top it all off, she's going to share with you 
+\shape italic
+literally
+\shape default
+ everything she knows.
+ Do 
+\shape italic
+you
+\shape default
+ want to inhale this smell until dark? Wolf, take Elspeth, go wander around
+ sunny Belfast, I'll loan you another hundred euros if you want.” 
+\end_layout
+
+\begin_layout Standard
+“I have some left from yesterday, thanks,” Jake said, opening the door and
+ scooping me up from off his lap.
+ “Back around sunset.” 
+\end_layout
+
+\begin_layout Standard
+“Later,” said Maggie.
+ 
+\end_layout
+
+\begin_layout Standard
+“No,” said Siobhan, “
+\shape italic
+wait
+\shape default
+.
+ Take somebody with you, at least -- Ilario, you go with them, just cover
+ up.
+ Some of the other vampires might come in early, dressed to daywalk, and
+ I'd rather you not risk trouble with them just on account of being unfamiliar
+ species.
+ They might not stop long enough to let Elspeth explain.” 
+\end_layout
+
+\begin_layout Standard
+Ilario reached into the glove compartment, obtained and put on a pair of
+ gloves and a sun-shielding hat to prevent him from giving himself away
+ outside, and slid out of the car, shrugging.
+ “Bye,” Jake said, and slammed the door after Ilario had emerged.
+ 
+\end_layout
+
+\begin_layout Standard
+“Do you know your way around here?” Jake asked Ilario, setting me down on
+ the ground.
+ We started walking away from the park, towards the nearest buildings.
+ 
+\end_layout
+
+\begin_layout Standard
+“Not really,” Ilario said.
+ “I spent a grand total of thirty-eight days wandering around Ireland as
+ a nomad before Carlisle gave us the money to buy fake documents and a house.
+ Didn't get to Belfast in that time.
+ I've looked at a 
+\shape italic
+map
+\shape default
+ before, but that will only tell me what streets we can expect to find,
+ not what's on them.” 
+\end_layout
+
+\begin_layout Standard
+“Did you ask him for the money?” I asked Ilario.
+ 
+\end_layout
+
+\begin_layout Standard
+“No, actually,” Ilario said.
+ “He offered.
+ And a good thing, too.
+ It didn't seem to work very well having all five of us in a coven.
+ Probably something to do with Carlisle's theory that vegetarians form large
+ groups more easily.” 
+\end_layout
+
+\begin_layout Standard
+“Irina thought that was why Laurent wanted to spend so much time away from
+ Denali,” I murmured.
+ “Because it was already a five-person coven without him.” 
+\end_layout
+
+\begin_layout Standard
+“Could be,” Ilario said.
+ “Anyway, Carlisle offered us the money, and we said sure, and we bought
+ a place.
+ The Wexford house you saw is our second, actually; we moved right after
+ Molly was born.” 
+\end_layout
+
+\begin_layout Standard
+“Why'd he give you money?” Jake asked, peering into the pocket of his jeans
+ where the leftover cash from Maggie rustled.
+ 
+\end_layout
+
+\begin_layout Standard
+“I'm not sure,” Ilario said.
+ “It seems like odd timing.
+ Alice was their primary generator of income and she'd left them quite recently
+ -- in fact, we all thought she was dead by that point.
+ But they had a lot left, I suppose, and they're generous people.” 
+\end_layout
+
+\begin_layout Standard
+“And they thought my parents were dead,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes, they did,” Ilario said.
+ “You think that had something to do with it?” 
+\end_layout
+
+\begin_layout Standard
+“Well, maybe,” I said, shuffling through Carlisle's memories about Esme
+ happily restoring an old manor house and intending to give it to Rosalie
+ and Emmett after their wedding, and a few more recent examples of my grandparen
+ts talking about how they'd set up my parents in the event that they wanted
+ to live on their own for a while.
+ “You and Gianna and Maggie were almost their family for a while...
+ and they were expecting to buy my parents a house at some point, so they
+ could have a place of their own.
+ That didn't wind up happening.
+ I mean, there was the cottage near the Norway house but that wasn't as
+ private as they had in mind for the long term, and then I came along, and
+ then...
+ Well, I think maybe they gave you money to buy a house with because of
+ that.
+ But I'm not sure.” 
+\end_layout
+
+\begin_layout Standard
+“It's plausible,” said Ilario.
+ “I didn't ask.
+ Gift horses and all that.” 
+\end_layout
+
+\begin_layout Standard
+“Hey, Elspeth,” Jacob said, “does that look like lunch to you?” He pointed
+ at a restaurant.
+ 
+\end_layout
+
+\begin_layout Standard
+“That looks like a building to me,” I replied, “but it probably contains
+ something that looks like lunch.” 
+\end_layout
+
+\begin_layout Standard
+“I'll wait for you out here,” Ilario said, parking himself on a bench.
+ “I don't think any of our visitors are going to find you inside a restaurant.”
+ 
+\end_layout
+
+\begin_layout Standard
+“See you,” said Jake, leading me by the hand into what turned out to be
+ a buffet.
+ He portioned out some of the money from his pocket to pay our way, and
+ we filled up plates and bowls.
+ 
+\end_layout
+
+\begin_layout Standard
+“Jake,” I said, “does it bother you that people keep calling you...” I glanced
+ around, and judged that I wasn't going to be inaudible to the nearest humans
+ if I made sure Jake would be able to hear me.
+ 
+\shape italic
+My wolf?
+\shape default
+ I finished, expecting to sound like I'd trailed off.
+ 
+\end_layout
+
+\begin_layout Standard
+“Not really,” he replied.
+ “I mean, I guess they could use my name, but failing that it makes sense.
+ There's worse things they could call me.
+ There's no word for the opposite of “imprint“, right?” 
+\end_layout
+
+\begin_layout Standard
+“Well, no, I don't think so.
+ I guess “imprinter” or something like that...” 
+\end_layout
+
+\begin_layout Standard
+He shrugged.
+ “Not a very good word.” 
+\end_layout
+
+\begin_layout Standard
+There was a silence.
+ I nibbled on my salad.
+ Then I said, “Can I show you something?” 
+\end_layout
+
+\begin_layout Standard
+“Always,” he said, setting his fork down.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+-- “I've grown up around imprinted wolves, I know pretty well how they tick.
+ You don't need to be scared of him, Elspeth.
+ He'll look out for you, first of everything.
+ He can't not.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“That's what my mama does, is look out for me first of everything,” I say.
+ “I don't think Jacob wants to be my 
+\shape default
+parent
+\shape italic
+.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Well...
+ no,” says Cody.
+ “That would...
+ not be likely.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“I'm five,” I say again.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“
+\shape default
+You
+\shape italic
+ kissed 
+\shape default
+me
+\shape italic
+, too,” Cody points out.
+ “Do you want to be five or do you want to be sixteen?” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Even normal sixteen-year-olds aren't deciding things for all eternity,”
+ I say.
+ “I'm not my mama.
+ I don't think I 
+\shape default
+want
+\shape italic
+ to let an older man sweep me off my feet and then never look twice at anybody
+ else until the stars burn out.
+ Just the other day I was asking Mama for permission to let a boy take me
+ out for ice cream when I expected to leave town in less than a month and
+ never think about him again.
+ I don't want to be 
+\shape default
+done
+\shape italic
+ yet.” 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Oh,” says Cody softly.
+ “And now, whatever you do, even if you go out for ice cream five thousand
+ times with five thousand people...
+ it'll all constitute “keeping Jacob waiting“.
+ Because he'll wait, forever...”
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+Jacob looked nonplussed; after a moment his eyes focused again.
+ “Did I do something that made you feel
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“No,” I said at once, and he relaxed.
+ “Nothing at all.
+ But I'm sort of confused about what you 
+\shape italic
+are
+\shape default
+ doing, and thinking, so I thought I'd ask.” 
+\shape italic
+I'm chronologically younger than Claire, but I 
+\shape default
+look
+\shape italic
+ sixteen.
+ Does the imprint magic 
+\shape default
+know
+\shape italic
+ that I'm five? Does it 
+\shape default
+care
+\shape italic
+? We both know it's magic, why would magic care how old I am?
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+“Also,” he said, “Cody kissed you? Were you okay with that?” 
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ “I had mixed feelings about it at the time but eventually decided it was
+ okay.
+ About how old I am and...” 
+\end_layout
+
+\begin_layout Standard
+“Well...
+ believe it or not,” said Jacob, keeping his voice down so the people at
+ the next table wouldn't hear, “I never even thought about it being romantic
+ at all, even though all the others except Quil do.
+ It's weird...
+ it's 
+\shape italic
+hard to think about
+\shape default
+, my brain keeps wanting to do something else.
+ So I don't know if that's like the imprint “caring” about how old you are,
+ or something else.” 
+\end_layout
+
+\begin_layout Standard
+“You never thought about it at all?” I asked.
+ 
+\end_layout
+
+\begin_layout Standard
+“Nope,” he said.
+ “Quil's kind of the same, come to think of it.
+ Claire got the idea pretty early that she was going to grow up and marry
+ him, and she'd say stuff like “when I grow up and marry Quil” and he'd
+ look at her like she said “when I grow up and move to Mars“, like, it's
+ not an actual physical impossibility, but he wasn't going to start packing
+ for Martian weather anytime soon.
+ That's about what his thoughts sounded like, when she'd say things like
+ that while he was a wolf, too.” 
+\end_layout
+
+\begin_layout Standard
+“That's weird,” I said.
+ 
+\end_layout
+
+\begin_layout Standard
+“I guess.
+ Did you get any of this pasta thing? It's really good,” he said, picking
+ up his fork again and indicating a dollop on his plate.
+ 
+\end_layout
+
+\begin_layout Standard
+I stared at him.
+ 
+\end_layout
+
+\begin_layout Standard
+“What?” he said.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Why would that happen with me?
+\shape default
+ I asked.
+ 
+\shape italic
+It's not about whether the imprint wants to be the wolf's girlfriend beforehand,
+ or Sam couldn't have fallen in love with his fiancée's cousin when she
+ wasn't in favor of that.
+ Actually, I think that would have ruled out 
+\shape default
+all
+\shape italic
+ the imprints except Jared and Kim.
+ And it's not about physical age, because Thea was fifteen when Darren imprinted
+ on her, right? Younger-looking than I am now.
+ And
+\begin_inset space ~
+\end_inset
+
+--
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+“This is really, really hard to think about,” said Jake, scrunching his
+ eyebrows together.
+ “I'm sorry, but can we have the conversation in smaller chunks or something?
+ Is it urgent? I thought we were comfortable.” 
+\end_layout
+
+\begin_layout Standard
+“We are,” I said, and that was true.
+ “I'm just trying to figure out 
+\shape italic
+what
+\shape default
+ we are.” 
+\end_layout
+
+\begin_layout Standard
+“You're my imprint,” he said, “and I'm your wolf.
+ It doesn't 
+\shape italic
+have
+\shape default
+ to be patterned after anything else, does it?” 
+\end_layout
+
+\begin_layout Standard
+I decided that made sense, and stole some of his pasta.
+ Jake laughed and took my fruit salad.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+After we were done abusing the buffet, we went and rejoined Ilario, who
+ had waited quite patiently.
+ He conducted us on an impromptu tour of the city according to his map-derived
+ knowledge of the layout, which included most of the major landmarks.
+ When it was close to evening, we started heading back towards the park.
+ 
+\end_layout
+
+\begin_layout Standard
+I rode on Jake's shoulders for the last few blocks.
+ Only one new vampire had arrived by the time we got there, equipped with
+ a parasol and a sweater with extra-long sleeves which would have let her
+ get to the park unidentified as a vampire.
+ “This is Cath,” Maggie announced brightly, gesturing.
+ I'd never heard Maggie refer to Cath as her mother, just her creator, but
+ actual family relation would be visually plausible.
+ Cath was a few inches taller, a little willowier, and her ponytail of auburn
+ ringlets a few shades darker than Maggie's bright orange, but they were
+ somewhat similar in their faces -- smiling, at least, they had the same
+ round cheeks and happy eyes.
+ Same eyes apart from the color, anyway.
+ 
+\end_layout
+
+\begin_layout Standard
+Cath waved politely, wrinkling her nose only the slightest bit when a breeze
+ carried Jake's scent in her direction.
+ She seemed curious about me, but didn't try to engage me in conversation,
+ and then she looked at Ilario.
+ 
+\end_layout
+
+\begin_layout Standard
+“Hel
+\shape italic
+lo
+\shape default
+,” she said, sounding surprised by him for some reason.
+ Maggie blinked, and glanced over at Ilario; I did too.
+ 
+\end_layout
+
+\begin_layout Standard
+Ilario appeared quite transfixed.
+ “Hello,” he replied, shifting his weight and taking a step forward.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Fuck
+\shape default
+,” said Maggie loudly.
+ 
+\end_layout
+
+\begin_layout Standard
+Cath looked at her, perplexed.
+ “What're you on about?” 
+\end_layout
+
+\begin_layout Standard
+“Brilliant timing, Cath, just brilliant,” growled Maggie.
+ “Couldn't have gotten this out of the way early on, could you...” 
+\end_layout
+
+\begin_layout Standard
+“Gotten what out of the way?” asked Ilario, still looking at Cath like he
+ was hypnotized.
+ 
+\end_layout
+
+\begin_layout Standard
+“Aah, was I this bad?” Maggie asked rhetorically.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” I remembered aloud.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+What?”
+\shape default
+ demanded Cath.
+ 
+\end_layout
+
+\begin_layout Standard
+“Oh, just drag my brother-in-law off somewhere where you can be by yourselves
+ until the others show up,” Maggie grumbled, “and have a shag and talk about
+ your futures and see if you can't solve the bloody Rubik's cube that is
+ the 
+\shape italic
+mystery
+\shape default
+ here, just come back with all your clothes on when you hear us welcoming
+ the rest of the gang.” 
+\end_layout
+
+\begin_layout Standard
+“Do you know,” Cath asked Ilario, “what she's on about?” 
+\end_layout
+
+\begin_layout Standard
+“No,” Ilario said.
+ 
+\end_layout
+
+\begin_layout Standard
+There was a pause, and then Cath said, “Do you 
+\shape italic
+want
+\shape default
+ to go
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Yes
+\shape default
+,” blurted Ilario, and a couple of seconds later they were not within visual
+ range anymore.
+ 
+\end_layout
+
+\begin_layout Standard
+Jake blinked.
+ “That was weird,” he said.
+ “Is it customary for vampires to be caught so off guard? I knew what had
+ happened when I imprinted.
+ And it was obvious about them just by looking; can't they 
+\shape italic
+tell
+\shape default
+?” 
+\end_layout
+
+\begin_layout Standard
+“I knew what was going on when I met Liam,” said Siobhan, ambling up to
+ our cluster from the car.
+ “Well, I say “met“.
+ It was more like “noticed in the middle of setting his covenmate on fire“.
+ But in any event I recognized the phenomenon.” 
+\end_layout
+
+\begin_layout Standard
+“I was roughly that confused,” Liam said.
+ “But 
+\shape italic
+Siobhan
+\shape default
+ had 
+\shape italic
+planned
+\shape default
+ for it, you see...” He nudged her affectionately with his elbow.
+ 
+\end_layout
+
+\begin_layout Standard
+Siobhan laughed.
+ “Maybe that was it.
+ Anyway, Maggie, you have no basis to complain about the timing.
+ You could have introduced Cath to your new family any time.” 
+\end_layout
+
+\begin_layout Standard
+“I did bring Gianna over to meet her!” Maggie whined.
+ “But Ilario took work shifts that weekend so he didn't come along! That's
+ his own fault he didn't meet her then.” 
+\end_layout
+
+\begin_layout Standard
+“Is it likely there'll be other pairs today?” I asked, folding my arms on
+ top of Jake's head.
+ “Or have the others who are visiting all met each other already?” 
+\end_layout
+
+\begin_layout Standard
+“Second thing,” said Maggie.
+ “Everybody there has run into everybody else at least once.
+ Specifically to check for mating, actually -- whenever somebody turns a
+ newborn on the island who's not their 
+\shape italic
+own
+\shape default
+ mate, it's the unofficial custom to introduce them to everyone within the
+ next decade or so, to avoid 
+\shape italic
+badly timed mishaps
+\shape default
+ -- like, no offense Siobhan, what happened with Liam.” 
+\end_layout
+
+\begin_layout Standard
+“No offense taken,” said Siobhan.
+ “Ah, look, there are the three from the Isle of Wight...” 
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Ilario Trafeli,”
+\shape default
+ Maggie hollered, “
+\shape italic
+get your pants on and be hospitable on behalf of Ireland
+\shape default
+
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Shush!” called Cath from far away, but in a few seconds she and Ilario
+ were presentable and back in the main part of the park to welcome the three
+ newcomers.
+ 
+\end_layout
+
+\begin_layout Standard
+I was just barely awake through the entire trickle of British vampires into
+ the park.
+ After Cath and the three-person Isle of Wight coven, we received a single
+ representative from the four allied Glasgow/Edinburgh covens; the “brothers”
+ Maggie had mentioned from Manchester; the “Cardiff Bint” and her Liverpudlian
+ friend; a pair and two singles from London; sisters from Bristol; a lone
+ vampire from Oxford; and a fellow from the Isle of Man who had not been
+ invited, only heard about the proceedings from the Newcastle gossip (who
+ declined to attend).
+ It was when consensus was reached that this would be the sum total of attendees
+ that I slumped over Jake's head in an undignified flop and slept.
+ 
+\end_layout
+
+\begin_layout Standard
+When I woke up (curled up on the backseat of the car, with my head in a
+ sleeping Jake's lap), most of the same British vampires were still hanging
+ around in the park, but there were two other vampire visitors who had not
+ been expected at all.
+\end_layout
+
+\end_body
+\end_document
