@@ -1,0 +1,998 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Tutor
+\end_layout
+
+\begin_layout Standard
+“Perhaps Eleazar should...
+ tutor me,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother, sounding uncomfortable.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have a lot of 
+\emph on
+his
+\emph default
+ memories, too, up till he left the Volturi, and after that, I don't think
+ he would have spent much time coaching witches besides Kate.
+ And Irina remembered most of him teaching Kate, from eavesdropping on them,”
+ I pointed out.
+\end_layout
+
+\begin_layout Standard
+“...
+\begin_inset space ~
+\end_inset
+
+Siobhan?” she suggested.
+\end_layout
+
+\begin_layout Standard
+“Does not wish to be personally introduced to Allirea before it is absolutely
+ necessary,” said Carlisle, “and neither she nor you should visit the houses
+ while there is value in letting...
+ Alice believe that everything is as it was.” He said his erstwhile daughter's
+ name like a sad sigh.
+\end_layout
+
+\begin_layout Standard
+“Allirea could go somewhere else and Siobhan could come out here...” said my
+ mother, looking up at Allirea.
+\end_layout
+
+\begin_layout Standard
+“Siobhan needs to be gathering information and planning stuff with it,”
+ I said.
+\end_layout
+
+\begin_layout Standard
+“Planning stuff,” muttered mother.
+ “Right.”
+\end_layout
+
+\begin_layout Standard
+“We should probably go home,” said Esme.
+ “Actually, what we should do is go into town and buy you some cell phones,
+ if you don't already have them.
+ That will let us keep in touch without conspicuously leaving the house
+ so often.”
+\end_layout
+
+\begin_layout Standard
+“I have mine,” said Allirea, reaching into her pocket and dangling a phone
+ from her fingers.
+ She hesitated, then said, “I am going to call my son, as long as I must
+ be unfaded...
+ my little girl will be asleep at this hour...”
+\end_layout
+
+\begin_layout Standard
+“I don't have a phone, and neither does Jake,” I said.
+ “Mama?” She shook her head.
+\end_layout
+
+\begin_layout Standard
+“Three phones, then,” said Esme.
+ “We'll take care of that for you.” She reached out and patted my hair gently,
+ making me feel like I was four months old again, and then hugged my mother
+ again.
+\end_layout
+
+\begin_layout Standard
+“Thank you for getting the sheep and water for Jake,” I said to my grandparents,
+ and Carlisle smiled weakly, and the pair of them turned to go.
+ Allirea, uphill, listened to her son's answering machine inform her that
+ he was not home.
+\end_layout
+
+\begin_layout Standard
+“Go ahead,” said my mother, facing in the direction of the mountain's peak
+ and apparently not talking to me or Jake, and then she turned back to me.
+ “So...?”
+\end_layout
+
+\begin_layout Standard
+“Addy usually starts by tasting the power she's coaching,” I mused, “but
+ even if she were here she can't copy you...
+ That's actually why they tried to kill you, back then,” I said.
+ “If she could have copied you, they would have figured out some way to
+ put you in the dungeon with Dad...
+ the immunity to Alec would have been a complication but you could have
+ been physically held down and force-fed or something.
+ But she couldn't, you blocked her.
+ Actually it 
+\emph on
+really
+\emph default
+ pissed her off and she might try to kill you if she sees you again.
+ Unless you learn to drop your shield for her and then actually do it, I
+ mean.
+ Anyway, so even if she were here she'd have to skip that step.
+ What does your power feel like to 
+\emph on
+you
+\emph default
+?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I cannot describe to you how unnerving it is to hear you say things like
+ that so calmly,” she said.
+\end_layout
+
+\begin_layout Standard
+“I've seen lots and remember more,” I said.
+ “What does it feel like?”
+\end_layout
+
+\begin_layout Standard
+“Like...
+ a blanket, or a skintight suit, or something, everywhere,” she said, looking
+ away.
+ “All the time.
+ I couldn't feel it before it pulled me together in La Push, but since then
+ it hasn't gone away.
+ It doesn't interact with other tactile sensations, though, I can't feel
+ the shield that's over my arm on my fingers if I do this.” She clasped her
+ forearm in her hand.
+\end_layout
+
+\begin_layout Standard
+“Does it vary at all?” I asked.
+\end_layout
+
+\begin_layout Standard
+“When I let Jasper through it was like it was thinning, or getting cooler,”
+ she said.
+ “And when I shield a second person it's like the outer half of it peels
+ off to cover them.
+ I can feel it at a distance, but it's under tension when I push it away
+ like that.
+ It reminds me of what I think I remember it feeling like to try to pull
+ myself off the ground by one hand as a human -- I can do it for a little
+ while, but eventually my hands give out.
+ Except it's not my 
+\emph on
+hands
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“So it has a shape, it moves through space to cover whoever you cover?”
+ I asked.
+ “Do you feel the edges that aren't touching anyone -- like if you shielded
+ me, would you feel anything from over here?” I reached out to a point on
+ the imaginary line between my good shoulder and my mother's opposite elbow.
+\end_layout
+
+\begin_layout Standard
+“It has a shape, it moves through space,” she said, “but the more area it
+ covers the harder it is -- I didn't have a lot of cause to practice that
+ while Allirea was fading me, because she outright requires physical proximity,
+ but sometimes -- and that's just going to confuse you right now, isn't
+ it.”
+\end_layout
+
+\begin_layout Standard
+“Hm?” I said.
+\end_layout
+
+\begin_layout Standard
+“...
+\begin_inset space ~
+\end_inset
+
+It has a shape and moves through space and it's more difficult to cover
+ more volume,” she said, sighing, “so if I shielded you again I wouldn't
+ have the surface pass through 
+\emph on
+there
+\emph default
+; I'd pinch off the area between us to have less dead space.
+ The thinnest point would be something like this.” With one finger she described
+ a circle about eight inches in diameter halfway between us.
+ “I'm 
+\emph on
+aware
+\emph default
+ of the edges, I suppose you could say I feel them, but with much less definitio
+n than the edges that cling to whoever I protect.”
+\end_layout
+
+\begin_layout Standard
+“Can you do two people at once?” I asked.
+\end_layout
+
+\begin_layout Standard
+“I haven't tried before,” she murmured, and she closed her eyes and frowned,
+ breathing oddly as she concentrated.
+ “
+\emph on
+Gah
+\emph default
+ -- yes -- but it's hard and I lost it almost at once -- and -- there was
+ something -- Elspeth, I think Jacob was mistaken, he has at least one packmate,
+ get him awake and phased 
+\emph on
+now
+\emph default
+ before he thinks or dreams something compromising! If he hasn't already
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I dropped to my knees beside Jake and jostled him as urgently as I dared,
+ given his wound.
+ 
+\emph on
+Phase, phase, phase, Jake, phase
+\emph default
+, I sent.
+ 
+\emph on
+Phase phase phase
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Jake peeled one dark eye wearily open and contracted in size, his fur vacuuming
+ itself into nothingness and leaving plain skin behind.
+ It was more obvious this way that he was in bad shape -- a lot of the color
+ was out of his normally bright, coppery complexion, and his sedated, miserable
+ expression was easier to read on a human face.
+ The wound occupied a good quarter of his neck, but without fur in the way,
+ I could tell that it had at least started to pull closed at the corners
+ in a couple of places.
+\end_layout
+
+\begin_layout Standard
+My mother offered him Esme's sweater to replace the clothes he'd destroyed
+ when he went wolf, but between the venom -- suddenly a significantly greater
+ proportion of his blood volume -- and the morphine -- the same -- he was
+ in no shape to take it himself.
+ I pulled it out of her hand and draped it over him to placate her preference
+ for his modesty, although I didn't care, he didn't have the higher brain
+ functions necessary to care, and I didn't think my mother was offering
+ it for her 
+\emph on
+own
+\emph default
+ sense of propriety so much as a continued desire to parent me.
+ It wasn't worth arguing about.
+ I pressed my hand to Jake's cheek and sent him nothing, and his eyes fluttered
+ closed again.
+\end_layout
+
+\begin_layout Standard
+“What was that about?” I asked my mother in a low voice.
+\end_layout
+
+\begin_layout Standard
+“I didn't notice when I had only one other person under the shield,” she
+ panted, “but I can feel the people I cover, little points of warmth --
+ and there were more than yours and his, when I added him.
+ When I only shielded Al- when I only shielded you, it felt warm, but I
+ figured it was just how it felt to stretch the shield.
+ But when I included Jacob it was different, the warmth had a 
+\emph on
+division
+\emph default
+ -- three divided points, to be exact, but one of them wasn't the same as
+ the other two and I don't know how.
+ The only thing that would be, I think, would be if my shield covers his
+ packmates the same way Jane and Alec's powers were able to propagate through
+ the pack.
+ There was an extra point of heat.
+ Maybe the other person wasn't wolf-shaped when you asked him before, or
+ Jacob didn't notice him or her for some reason, I don't know, but there
+ was 
+\emph on
+someone else there
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+A chill ran up my spine.
+ “What if it wasn't that? What if -- if Pera's here, standing near Jake,
+ or something? But `near' in not quite the same way?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother winced at the name, probably remembering the smell of her blood
+ or something.
+ “Does that seem likely to you?” she asked.
+\end_layout
+
+\begin_layout Standard
+“...
+\begin_inset space ~
+\end_inset
+
+No,” I admitted, after some thought.
+ “Whether she followed me or you or Demetri, there wouldn't be any reason
+ for her to be still hanging around by herself at this point.
+ If she were only here for recon there'd be no reason for her to still be
+ standing there; she would have left once it was clear we were staying put.
+ And there'd be even less reason for her to be hanging out if she were here
+ to hurt us.
+ She would have attacked or sent a larger force after us by now.
+ She's still a newborn and since she can hide and unhide herself and anybody
+ else she likes at will, she could pretty much kill an arbitrary number
+ of people who weren't 
+\emph on
+absolutely spectacular
+\emph default
+ fighters all by herself, and...
+ 
+\emph on
+that's
+\emph default
+ us.
+ And that's assuming she wouldn't come with other fighters hidden too.
+ Especially not now that we've gone and discussed the possibility out loud.
+ That was stupid.
+ I should have sent the idea instead.”
+\end_layout
+
+\begin_layout Standard
+“Right,” murmured my mother.
+ “So probably not Pera, probably a packmate of Jacob's.”
+\end_layout
+
+\begin_layout Standard
+“Probably,” I said.
+ “Practically no other powers go through to Pera's hiding place anyway.”
+ I smoothed Jake's hair as he fell back asleep.
+ “Okay, so you can shield an entire pack of wolves if you shield just one.
+ That could be useful to know.”
+\end_layout
+
+\begin_layout Standard
+“Very,” she said.
+ “Especially if you turn out to be able to deprogram the other wolves as
+ you did yours, and they're willing to fight against the Volturi.” She closed
+ her eyes, probably remembering the massacre at La Push.
+ If she'd been able to shield the packs from Jane and Alec then, they might
+ have had a chance.
+\end_layout
+
+\begin_layout Standard
+“Are you limited by distance?” I asked.
+ “Try shielding just me, and then back away a step at a time.”
+\end_layout
+
+\begin_layout Standard
+She screwed up her face in concentration, balled up her fists at her sides,
+ and started backing away from me step by deliberate step.
+ I noticed Allirea, watching us from her perch several yards up the mountain.
+ When my mother had gotten about twenty feet distant, she lost it with a
+ great gasp for air.
+ I wasn't sure why she would gasp for air to use a power that had no obvious
+ connection with breathing, but she did it; maybe a habit leftover from
+ humanity.
+ “Hang on, I'm going to try to establish it from here,” she muttered.
+ “There...
+ got you...” Allirea waved at me.
+ My mother dragged one foot behind her and leaned onto it, and then cursed.
+\end_layout
+
+\begin_layout Standard
+“Is the distance itself making it harder, or do you just need a break?”
+ I asked.
+\end_layout
+
+\begin_layout Standard
+“Need a break,” she said, walking up to me and Jake again.
+ Perhaps symbolically, she sat down on a rock.
+ “This is exhausting.”
+\end_layout
+
+\begin_layout Standard
+I nodded.
+ “Like I said before, it's 
+\emph on
+very
+\emph default
+ unusual for a power to be fueled by desperation or anything like it.
+ Powers that require a mental state are uncommon in the first place.
+ More often you see them responding to exertion of will -- like Jane --
+ or a condition like touch -- like Aro -- or they're just a continuous effect
+ -- like Marcus, or like most of yours.
+ But Addy's seen a few.”
+\end_layout
+
+\begin_layout Standard
+“What were those like?” asked my mother tiredly.
+\end_layout
+
+\begin_layout Standard
+“There's Heidi, there's Abdelmajid, there's Razi
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Details, not just names, please.”
+\end_layout
+
+\begin_layout Standard
+“Heidi's a weird one,” I said, picking over my memories from her with bemusement.
+ “Her power doesn't work on 
+\emph on
+herself
+\emph default
+.
+ In fact...
+ she doesn't think she's beautiful at all.
+ To herself she looks about as pretty as the average human, although even
+ with her power turned all the way down she's objectively in Rosalie's league.
+ But to other people's eyes, she gets more enchanting the more insecure
+ she feels about her looks.
+ Weird,” I said again.
+ “She's trained herself to go into and out of the state practically at will.
+ She used to have almost no control at all and it'd fluctuate wildly depending
+ on how much she cared about the opinion of whoever was looking at her,
+ and how her hair was behaving on a given day, and stuff like that.”
+\end_layout
+
+\begin_layout Standard
+“Hmm,” said my mother.
+ “I'm almost certainly immune to Heidi.
+ If I insulted her appearance in the middle of a battlefield would she be
+ insecure enough about that that she'd blind everybody else with her magical
+ beauty and I could go around taking down anyone else I liked?”
+\end_layout
+
+\begin_layout Standard
+“I'm not sure.
+ Maybe,” I said.
+ “She doesn't usually get negative comments on her appearance.
+ It'd be too obviously false.
+ But you're a good liar.”
+\end_layout
+
+\begin_layout Standard
+She nodded.
+ “Abdelmajid?” she prompted.
+\end_layout
+
+\begin_layout Standard
+“He sees through stuff,” I said.
+ “But he has to be calm to do it.
+ When he's anxious at all, it cuts down on the thickness of what he can
+ see through.
+ Like, if he's completely, absolutely calm, he could see all the way through
+ this mountain like it wasn't here
+\begin_inset space ~
+\end_inset
+
+--” I tossed my head to indicate the heap of rock we were sitting on.
+ “That'd be about his limit.
+ If he were really preoccupied, he could see through a sheet of paper --
+ and he has a bad habit of looking through people's clothes -- but nothing
+ more than that.
+ And there's everything in between.
+ He has a breathing exercise he does if he needs to look through a thick
+ wall or something.”
+\end_layout
+
+\begin_layout Standard
+“And who's Razi?”
+\end_layout
+
+\begin_layout Standard
+“A teleporter,” I told her.
+ “The Volturi had him for a while, in the dungeon, but he got away during
+ my first jailbreak and they couldn't catch him again.
+ He's like the opposite of Abdelmajid and jumps from place to place when
+ he's scared or distracted.
+ In order to stay in one place he needs to be really absorbed in whatever
+ he's doing -- but he can jump wherever he wants, so sometimes if he's agitated
+ but doesn't want to go far he'll just go an inch to the left and an inch
+ to the right over and over.”
+\end_layout
+
+\begin_layout Standard
+“Interesting,” she murmured.
+ “How did the Volturi hold him?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“He can't pick a destination when he doesn't know which way is up,” I said.
+ “His power won't send him to a random place without him selecting one even
+ if he's feeling, you know, 
+\emph on
+jumpy
+\emph default
+, but he's just naturally disposed to think of someplace else he'd rather
+ be when he does feel that way.”
+\end_layout
+
+\begin_layout Standard
+My mother looked up at the sky, and said, “Are all the unusual behaviors
+ of my shield likely to be run by the same emotion?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” I said.
+ “The basic shield -- what it's like when it's not doing anything -- probably
+ is too, but in the background more.”
+\end_layout
+
+\begin_layout Standard
+She blinked once, slowly, and then said, “Elspeth, do you have any way to
+ get in touch with Razi? He could be useful and might help -- in general,
+ not with my shield in particular.”
+\end_layout
+
+\begin_layout Standard
+“No -- well, Dwi could talk to him, but Dwi works for the Volturi so I don't
+ think Razi would answer him now.
+ Razi didn't have a coven, doesn't have a mate, and never owned a phone
+ or used e-mail.
+ And he was pretty sure that a neighbor of his would have moved into his
+ territory once he was gone, so he probably wouldn't have returned there.”
+\end_layout
+
+\begin_layout Standard
+“Of course,” she sighed.
+ “My shield works against what it works against without any attention or
+ prompting.
+ It worked to hedge Edward's mindreading out before I knew mindreading was
+ possible.
+ How could that be?”
+\end_layout
+
+\begin_layout Standard
+“Well,” I said, “my best guess is that it has to do with how you would have
+ thought about mindreading if someone had told you it was going on.
+ I don't currently know of any witches whose power is to fly, but if I met
+ one there's some way I would feel about that.
+ There was already some way you were inclined to feel about having your
+ mind read before you got within range of Dad.”
+\end_layout
+
+\begin_layout Standard
+“Terrified,” she murmured.
+ “But I was scared of Jasper's power, at once, when I heard about it --
+ and wasn't immune to it at first.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Jasper
+\emph default
+ doesn't think of his power as something to fear,” I said, pulling up Alice's
+ memories of conversations with him, since I didn't have her husband's own
+ recollections of anything.
+ “He 
+\emph on
+can
+\emph default
+ use it that way, he even does sometimes, but mostly he thinks of it as
+ an extension of his charisma.
+ But Dad has always felt intrusive listening to other people's thoughts.
+ He does sort of think of it as something that it would be reasonable to
+ find scary.”
+\end_layout
+
+\begin_layout Standard
+“Explains Kate,” my mother said after a beat.
+\end_layout
+
+\begin_layout Standard
+“Yeah,” I said.
+ “Kate thinks she's scary.
+ Jane 
+\emph on
+revels
+\emph default
+ in being scary.
+ Eleazar got a partial look at your power, when you first met him, right?
+ Almost like you didn't immediately think it would be that big a deal, and
+ then
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“And then I noticed all the inferences it let Eleazar make about Harry...”
+ she murmured.
+ “Eleazar can still 
+\emph on
+partially
+\emph default
+ detect me, though.”
+\end_layout
+
+\begin_layout Standard
+“He's pretty strong; it 
+\emph on
+could
+\emph default
+ be a matter of him just incompletely overpowering you,” I said with a shrug
+ of my good shoulder.
+ “He also doesn't think of it as something harmful himself.
+ Anyway, I can't 
+\emph on
+know
+\emph default
+.
+ I can't read your mind, and neither can anybody else I remember who's tried.
+ But I think your shield probably runs on fear.
+ Were you scared about being knocked out for a few hours when I was about
+ to blast you?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” she said, unwillingly, tipping her head down again to look at me
+ instead of the sky.
+\end_layout
+
+\begin_layout Standard
+“But the first time you encountered my power I was the least scary thing
+ ever: a tiny baby,” I said.
+ “And I stayed harmless and stayed harmless and then suddenly I wasn't,
+ so now I guess your shield thinks I'm scary.”
+\end_layout
+
+\begin_layout Standard
+“I'm not afraid 
+\emph on
+of you
+\emph default
+,” she said.
+ “And I wasn't particularly afraid in the moment I first developed an immunity
+ to Jasper.”
+\end_layout
+
+\begin_layout Standard
+“Well, it's not all that specific, or I'd still be able to give you harmless
+ sendings,” I said.
+ “But I could be totally wrong.
+ This is the sort of thing Addy can taste directly, so I don't have a lot
+ of interview techniques to go on and I'm making it up based on patterns
+ in witches she's looked at before.
+ But it seems like an okay guess, doesn't it?”
+\end_layout
+
+\begin_layout Standard
+“Why wouldn't I have developed my own genuine immunity to Alice when I was
+ afraid of her spying on my...
+ extracurricular activities?” she asked after a moment's thought.
+\end_layout
+
+\begin_layout Standard
+“Because your extracurricular activities didn't take place in your head?”
+ I guessed.
+ “Your power definitely isn't to be protected from 
+\emph on
+everything
+\emph default
+ that scares you, but it 
+\emph on
+might
+\emph default
+ be to protect you from mental witch powers that scare you.
+ 
+\emph on
+Plausibly
+\emph default
+-mental witch powers or death,” I added, thinking of Kate, and my mother's
+ two brushes with trauma that would have killed any other vampire.
+ “I think maybe your immunity to Kate could have something to do with the
+ fact that when she zaps people they lose control of their bodies for a
+ moment -- convulsing and falling over and stuff.
+ It's not quite like she outright possesses them, since she can't control
+ how they flail around, but it's close enough that your power might interpret
+ it the same way.”
+\end_layout
+
+\begin_layout Standard
+“I'm not sure I think much of this theory,” said my mother.
+ “But I suppose it bears testing -- if I could think of a good test, anyway.”
+\end_layout
+
+\begin_layout Standard
+“Well, the test would be if shielding a number of people for a long time
+ got easier when you focused on something scary, especially something scary
+ that you could otherwise prevent,” I said.
+ “But I don't think you should shield Jake again unless there's some kind
+ of emergency, if you can't hedge out whoever the packmate is, because it
+ would look bad for the packmate to suddenly be intangible to Chelsea's
+ power or invisible to Marcus or whatever.
+ So just focus on me for now.”
+\end_layout
+
+\begin_layout Standard
+“I have plenty to be 
+\emph on
+anxious
+\emph default
+ about, but there's nothing 
+\emph on
+immediate
+\emph default
+ here to be afraid of,” she said.
+ “I was briefly alarmed about the possibility of Pera being here, but I
+ think you're right that it's too unlikely to worry about.”
+\end_layout
+
+\begin_layout Standard
+“I suppose I could attack you or something, but I'm not very threatening,
+ especially since I can't blast you,” I said.
+ “And Jake would have a hard time threatening a houseplant right now.” I
+ shrugged my good shoulder.
+ “Maybe we can figure something out with Kate? She could threaten to zap
+ me...
+ maybe after I'm healed,” I added, looking at my bad shoulder and frowning.
+ “In the meantime maybe work on the distance exercise again?” She stepped
+ back to a distance of some twenty-five feet, closing her eyes and sighing.
+ “I don't know what getting Tased with a broken shoulder would -- Mama?”
+\end_layout
+
+\begin_layout Standard
+My mother was staring past me; I looked around but couldn't figure out why.
+ “Is something wrong?” I asked, speaking up over the meaningless murmurs
+ coming from behind me.
+\end_layout
+
+\begin_layout Standard
+“Elsie, come here,” my mother said, slowly and carefully, without moving
+ from her vantage point, but her voice trembled.
+\end_layout
+
+\begin_layout Standard
+“I don't want to wake Jake,” I said.
+ “Why
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Elspeth Annarose Cullen
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--” she began shrilly, and then suddenly I noticed Allirea crouched over
+ me with her mouth open near my throat, and I let out a startled 
+\emph on
+eep
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“I was helping,” announced Allirea, standing up from her crouch and folding
+ her arms as she spoke to my mother, whose eyes were wide and furious.
+ “If that helped, then you do not need to let Katrina electrify Elspeth.
+ Isn't that preferable?” she inquired.
+\end_layout
+
+\begin_layout Standard
+I looked around at Allirea.
+ “You were threatening me to scare her?” I asked.
+ “That sounds...
+ like a really dangerous thing to do.
+ For you, I mean.”
+\end_layout
+
+\begin_layout Standard
+“I would not have really harmed you,” said Allirea.
+ “I have no wish to, and Isabella would certainly have killed me if I had,
+ although I was close enough to you that I could have managed some amount
+ of injury before she would have gotten me away from you.
+ But look,” she said smugly.
+ “I am completely faded, and you are speaking to me, and Isabella has not
+ yet lost hold of her shield.”
+\end_layout
+
+\begin_layout Standard
+“...
+\begin_inset space ~
+\end_inset
+
+It 
+\emph on
+did
+\emph default
+ feel easier,” admitted my mother slowly, still looking daggers at Allirea
+ but not moving to take revenge for the scare.
+ “And it feels stable now.”
+\end_layout
+
+\begin_layout Standard
+“Can I affect Elspeth if we are both under your shield?” Allirea asked.
+\end_layout
+
+\begin_layout Standard
+“Let me check,” my mother said.
+\end_layout
+
+\begin_layout Standard
+“Check what?” I asked.
+\end_layout
+
+\begin_layout Standard
+“Yes, apparently,” my mother said, as Allirea flared into importance again
+ beside me.
+ “How odd.
+ Unfade,” my mother told Allirea, “I hear someone coming.” I didn't notice
+ any difference in Allirea.
+ Over the next mountain, my grandparents came into view.
+ 
+\end_layout
+
+\end_body
+\end_document

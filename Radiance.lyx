@@ -425,7 +425,13 @@ par
 \align center
 
 \size large
-Book II
+Book II of
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Luminosity -- A Re-imagining of Twilight
 \end_layout
 
 \begin_layout Standard
@@ -1022,6 +1028,16 @@ filename "Radiance-31.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-32.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-33.lyx"
 
 \end_inset
 
