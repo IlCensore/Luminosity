@@ -42,11 +42,12 @@
 \renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
 
 \frenchspacing
-\widowpenalty1000
 
 
 
 %% to disable the Th ligature
+\usepackage{ifxetex}
+\ifxetex
 \XeTeXinterchartokenstate=1
 \newXeTeXintercharclass\FirstClass
 \XeTeXcharclass`T\FirstClass
@@ -54,7 +55,62 @@
 \XeTeXcharclass`h\SecondClass
 
 \XeTeXinterchartoks\FirstClass\SecondClass={\penalty\@M\hskip\z@}
+\fi
 %
+
+
+
+%% ToC
+\renewcommand\partnumberline[1]{}
+\renewcommand\chapternumberline[1]{#1~\raisebox{.2ex}{\scalebox{0.75}{·}~}}
+\renewcommand\cftchapterpagefont{\normalfont}
+\renewcommand\cftchapterfont{\normalfont\scshape\small}
+\renewcommand\cftpartpagefont{\normalfont}
+\renewcommand\cftpartfont{\normalfont\large}
+
+\newlength\ToCindent
+\setlength\ToCindent{4.0em}
+
+\makeatletter
+\renewcommand*{\l@part}[2]{%
+  \ifnum \c@tocdepth >-2\relax
+    \cftpartbreak
+    \begingroup
+      {\leftskip0pt\noindent
+       \interlinepenalty\@M
+       \leavevmode
+       \parbox[t]{\ToCindent}{\makebox[2em][r]{\cftpartpagefont #2}\hfill}%
+       \parbox[t]{\dimexpr\textwidth-\ToCindent\relax}{\cftpartfont #1}%
+       }
+      \par\nobreak
+        \global\@nobreaktrue
+        \everypar{\global\@nobreakfalse\everypar{}}%
+    \endgroup
+  \fi}
+
+\newcommand*{\l@mychap}[3]{%
+  \def\@chapapp{#3}
+  \vskip2ex%
+  \par%
+  \noindent\parbox[t]{\ToCindent}{\makebox[2em][r]{\cftchapterpagefont#2}\hfill}%
+  \parbox[t]{\dimexpr\textwidth-\ToCindent\relax}{\cftchapterfont#1}\par%
+}
+
+\renewcommand*{\l@chapter}[2]{%
+  \l@mychap{#1}{#2}{\chaptername}%
+}
+
+\renewcommand*{\l@appendix}[2]{%
+  \l@mychap{#1}{#2}{\appendixname}%
+}
+\makeatother
+%% end ToC
+
+
+
+\widowpenalties 2 10000 0
+%\raggedbottom
+\clubpenalty 10000
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -62,9 +118,9 @@
 \language_package default
 \inputencoding auto
 \fontencoding 
-\font_roman Warnock Pro
+\font_roman Jauria
 \font_sans Twilight
-\font_typewriter Source Code Pro
+\font_typewriter Latin Modern Mono
 \font_math auto
 \font_default_family default
 \use_non_tex_fonts true
@@ -78,8 +134,8 @@
 \bibtex_command default
 \index_command default
 \float_placement bp
-\paperfontsize 10
-\spacing other 1.3500000000000001
+\paperfontsize 9
+\spacing other 1.35
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -106,12 +162,12 @@
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 6in
-\paperheight 9in
-\leftmargin 1.2in
-\topmargin 0.85in
-\rightmargin 1.2in
-\bottommargin 1.2in
+\paperwidth 5.5in
+\paperheight 8.5in
+\leftmargin 1.1in
+\topmargin 0.75in
+\rightmargin 1.1in
+\bottommargin 1.1in
 \secnumdepth 3
 \tocdepth 0
 \paragraph_separation indent
@@ -181,7 +237,102 @@ Radiance
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang italian
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Luminosity -- A Re-imagining of Twilight
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Book 
+\noun on
+i
+\emph on
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Luminosity
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Book 
+\noun on
+ii
+\emph on
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Radiance
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Short stories
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+Flashes
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Spin-off
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+Effulgence
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -207,18 +358,9 @@ thispagestyle{empty}
 \align center
 
 \family sans
-\size larger
+\size largest
 \noun on
 Alicorn
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\family sans
-\size giant
-\color red
-Radiance
 \end_layout
 
 \begin_layout Standard
@@ -229,8 +371,61 @@ Radiance
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+resizebox{0.618
+\backslash
+linewidth}{!}{
+\backslash
+sffamily Radiance}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+par
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \align center
-Luminosity -- Book II
+
+\size large
+Book II
 \end_layout
 
 \begin_layout Standard
@@ -326,31 +521,21 @@ thispagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-Twilight
-\emph default
- © Stephenie Meyer.
-\end_layout
-
-\begin_layout Standard
+\align center
 
 \emph on
 Radiance 
 \emph default
-and 
-\emph on
-Luminosity
-\emph default
- © Alicorn.
- Published at 
+© 2010 Alicorn
+\end_layout
+
+\begin_layout Standard
+\align center
+Official website
+\begin_inset Newline newline
+\end_inset
+
+
 \size small
 
 \begin_inset ERT
@@ -360,7 +545,7 @@ status open
 
 
 \backslash
-url{http://luminous.elcenia.com/}
+url{luminous.elcenia.com}
 \end_layout
 
 \end_inset
@@ -369,6 +554,28 @@ url{http://luminous.elcenia.com/}
 \end_layout
 
 \begin_layout Standard
+\align center
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Twilight
+\emph default
+ © Stephenie Meyer
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
 Typesetted by Cato Philosophus (
 \size small
 
@@ -399,17 +606,43 @@ LaTeX
 
 \end_inset
 
-, using Warnock Pro, 
+, using Jauría (© Pablo Marchant), 
 \family sans
 Twilight
 \family default
  and 
 \family typewriter
 \size small
-Source Code Pro
+Latin
+\begin_inset space ~
+\end_inset
+
+Modern
+\begin_inset space ~
+\end_inset
+
+Mono
 \family default
 \size default
 .
+\end_layout
+
+\begin_layout Standard
+\align center
+Cover by Cato Philosophus, based on art by Freepik (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{www.freepik.com/free-vector/feathers-elements-free-vector_716162.htm}
+\end_layout
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Standard
