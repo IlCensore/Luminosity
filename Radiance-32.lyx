@@ -362,7 +362,7 @@ I nodded, and my shoulder twinged.
  for you.
  He could have behaved better when he met you, Chelsea or no, though I can't
  say I'm not just bewildered that anyone lets her -- look at me, saying
- “lets her” like anyone 
+ `lets her' like anyone 
 \shape italic
 lets
 \shape default
@@ -441,7 +441,11 @@ Detachedly, I supposed that “will understand” was, coming from my mother,
  a confident version of “try to understand” rather than a rephrasing of
  “do understand“.
  She was pretty sure that if she tried she'd succeed, so she didn't bother
- with the weaker word “try“, but she hadn't tried 
+ with the weaker word “try
+\begin_inset Quotes erd
+\end_inset
+
+, but she hadn't tried 
 \shape italic
 yet
 \shape default
@@ -571,7 +575,11 @@ She watched it, closing her eyes.
 \end_layout
 
 \begin_layout Standard
-“...Killing people?” I asked, this being the only obvious misdeed of Demetri's
+“...
+\begin_inset space ~
+\end_inset
+
+Killing people?” I asked, this being the only obvious misdeed of Demetri's
  besides simply working for the Volturi, which Jake had already spent time
  technically guilty of.
  “Yeah, I don't think Jake would kill anyone unless it was to defend me

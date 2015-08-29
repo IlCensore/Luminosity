@@ -484,7 +484,7 @@ Allirea looks up at me, makes eye contact, and flinches.
 \begin_layout Standard
 
 \shape italic
-“I think you mean “either of you“, not “any“, Mr.
+“I think you mean ‘either of you’, not ‘any’, Mr.
  Demetri,” Noemi says in a helpful voice.
  “I made that mistake often when I learned English
 \begin_inset space ~
@@ -496,7 +496,7 @@ Allirea looks up at me, makes eye contact, and flinches.
 \begin_layout Standard
 
 \shape italic
-“No, I mean “any“, there's three of you.” I point at Iseul, Noemi, and Allirea,
+“No, I mean ‘any’, there's three of you.” I point at Iseul, Noemi, and Allirea,
  and Allirea shrinks in towards herself.
  She looks panicky.
  Maybe her power is misbehaving, and she's not trying to hide, she's only
@@ -993,12 +993,19 @@ really
 \end_layout
 
 \begin_layout Standard
-“NO!” bellowed Demetri, and the shout reverberated off the scenery.
+“
+\noun on
+No
+\noun default
+!” bellowed Demetri, and the shout reverberated off the scenery.
  I wondered if we were close enough to the Denalis' houses that he'd be
  heard.
  “
 \shape italic
-NO!”
+\noun on
+No
+\noun default
+!”
 \shape default
  
 \end_layout
@@ -1084,9 +1091,13 @@ I broke Allirea's grip, surprised Esme enough to dodge her abortive grab
 \end_layout
 
 \begin_layout Standard
-“ELSPETH!” my mother shouted, but didn't she have the scar to prove that
- she could survive being bitten, the baldness to prove that she could survive
- being powdered and ignited? She didn't need me.
+“
+\noun on
+Elspeth
+\noun default
+!” my mother shouted, but didn't she have the scar to prove that she could
+ survive being bitten, the baldness to prove that she could survive being
+ powdered and ignited? She didn't need me.
  Jake did.
  
 \end_layout
