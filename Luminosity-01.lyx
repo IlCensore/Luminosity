@@ -1892,13 +1892,26 @@ Talk to Jessica about trig
 Talk to gym coach 
 \strikeout on
 about how I probably have an inner ear problem and that's so a medical excuse
+\emph default
 \strikeout default
- 
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\emph on
 \strikeout on
 and make vague insinuations about lawsuits or something if I crack my head
  open
 \strikeout default
  
+\emph default
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\emph on
 \strikeout on
 and 
 \noun on
