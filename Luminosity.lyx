@@ -613,15 +613,15 @@ Twilight
  and 
 \family typewriter
 \size small
-Source
+Latin
 \begin_inset space ~
 \end_inset
 
-Code
+Modern
 \begin_inset space ~
 \end_inset
 
-Pro
+Mono
 \family default
 \size default
 .
@@ -629,7 +629,20 @@ Pro
 
 \begin_layout Standard
 \align center
-Cover by Cato Philosophus, based on art by unknown author.
+Cover by Cato Philosophus, based on art by Freepik (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{www.freepik.com/free-vector/feathers-elements-free-vector_716162.htm}
+\end_layout
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Standard
