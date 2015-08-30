@@ -625,7 +625,11 @@ Oh my word,
 \begin_inset Quotes eld
 \end_inset
 
-As long as they leave his eye intact, can it -?
+As long as they leave his eye intact, can it
+\begin_inset space ~
+\end_inset
+
+--?
 \begin_inset Quotes erd
 \end_inset
 
@@ -769,11 +773,7 @@ Right,
 \end_inset
 
 Chelsea is...
- I guess you could call it 
-\begin_inset Quotes eld
-\end_inset
-
-addicted"...
+ I guess you could call it `addicted'...
  to being loved...
  and without her mate she would basically be unable to function.
  She might get hit even worse than Marcus did, I'm not sure.
@@ -1298,16 +1298,8 @@ I doubt it,
 It's possible, but seems unlikely to me.
  I tend not to stick with single plans start to finish -- I revise on the
  fly to react to new information.
- If she could 
-\begin_inset Quotes eld
-\end_inset
-
-taste
-\begin_inset Quotes erd
-\end_inset
-
- that, then she'd hang onto the power until she was done accomplishing whatever
- it is she wants to accomplish.
+ If she could `taste' that, then she'd hang onto the power until she was
+ done accomplishing whatever it is she wants to accomplish.
  She's fairly good at not changing powers by accident.
 \begin_inset Quotes erd
 \end_inset
@@ -1541,12 +1533,16 @@ Fine,
 \end_inset
 
  and then the conversation turned to trivialities such as how Alice and
- Jasper would get on the plane (they had ID forged on their behalf in Italy,
- but the Volturi were aware of it and would be able to notice where they
- were going) and where we were going (Denali, but only because Jake couldn't
- be moved; as soon as he was well enough to travel, and, ideally, the local
- purveyors of forged documents had filled rush orders for all the undocumented
- vampires, we would fly out to Heathrow and join the British contingent).
+ Jasper would get on the plane (they had 
+\noun on
+id
+\noun default
+ forged on their behalf in Italy, but the Volturi were aware of it and would
+ be able to notice where they were going) and where we were going (Denali,
+ but only because Jake couldn't be moved; as soon as he was well enough
+ to travel, and, ideally, the local purveyors of forged documents had filled
+ rush orders for all the undocumented vampires, we would fly out to Heathrow
+ and join the British contingent).
 \end_layout
 
 \begin_layout Standard
@@ -1563,7 +1559,11 @@ Wait,
 \begin_inset Quotes eld
 \end_inset
 
-The Volturi can track our ID, like you said.
+The Volturi can track our 
+\noun on
+id
+\noun default
+, like you said.
  They might wait until they're sure Demetri isn't coming back, but even
  if they do, this whole mess might take longer than that.
  And 
