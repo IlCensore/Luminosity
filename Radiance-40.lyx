@@ -1,0 +1,2347 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Jumper
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ coughed Jake.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, leaning in.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Th' other wolf,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, and took a deep, difficult breath.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Quil.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You think that Quil is the wolf who was still in your pack when you phased?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, to confirm.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mmhm.
+\begin_inset Quotes erd
+\end_inset
+
+ His eyes closed again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Interesting,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Siobhan, interrupting the overcomplicated conversation about travel
+ to address this information.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's hard to know if there's more than one remaining packmate...
+ but if they had several who hadn't been moved to one of the girls' packs
+ yet, I think we could expect them to have been watching for Jake to phase
+ in shifts, so he would have noticed a second presence as soon as he phased,
+ instead of afterwards.
+ It's probably just Quil.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why would they leave just one, instead of two who could trade off on surveillanc
+e?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother wondered.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe they didn't,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Quil has an imprint.
+ If he has some reason to believe Claire is threatened, he could defect
+ on his own, just like Brady did on Pera's say-so five years ago.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jake,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured, touching his shoulder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jake, can you remember anything Quil was thinking? I know you were asleep,
+ but if there were odd dreams or anything...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Claire,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake whispered, cracking one eye open.
+ I felt bad about waking him -- until his healing routed from his system
+ the last of the venom I'd failed to remove, and got to work repairing the
+ direct damage it had done, he was going to be in significant discomfort
+ while awake.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about her?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't know...
+\begin_inset Quotes erd
+\end_inset
+
+ His eyes fluttered closed again and I let him drop back off, glad that
+ he wasn't an insomniac or in too much pain to sleep.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course Quil was thinking about Claire one way or another,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's his imprint.
+ I'd be infinitely more surprised if he managed to think about something
+ else.
+ What would possibly threaten Claire, though? The Volturi don't have any
+ reason to hurt her.
+ She's a seven year old girl.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's eight now,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Her birthday is the sixth of July...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eight, then
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother, 
+\begin_inset Quotes eld
+\end_inset
+
+there's no significant difference.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If she turned up with significant witchcraft they might want to turn her...?
+\begin_inset Quotes erd
+\end_inset
+
+ I proposed skeptically.
+ I'd seen no hint of any unusual power from Claire when I'd been traveling
+ with Jake's pack before our capture.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But not that young, and I'm not sure if Quil would take her away from Volterra
+ rather than let them do it anyway.
+ Brady didn't kick up that much of a fuss over Pera.
+ He didn't like it, but they didn't have to keep him unconscious or anything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They wouldn't turn her that young -- 
+\emph on
+unless
+\emph default
+ it was exceptionally useful withcraft and she were dying,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Like Jane and Alec.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't fit,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If Claire were dying, Quil would want her turned rather than 
+\emph on
+dead
+\emph default
+, wouldn't he?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ coughed Jake, waking again, and I wondered if we'd better move somewhere
+ else so our talking wouldn't disturb him.
+ I decided after a moment's thought that he'd probably prefer to have me
+ present even if I was going to make noise.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Really?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked skeptically.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Being a vampire is a fate worse than death according to Quil?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jake had worn himself out, and didn't answer; I speculated in his place.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+For a little girl, maybe,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Especially if she's not 
+\emph on
+definitely
+\emph default
+ dying.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think we're veering a little too far away from the information we actually
+ have,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice, can you catch an image of Claire when she's not affected by wolves,
+ or does Quil hover too much to allow that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uh, hang on,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+I've got a look at her sleeping, alone in her room.
+ She looks fine to me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There goes that idea,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I suppose there could just be a gap in the schedule, if they have a schedule,
+ of who keeps an eye out for Jacob?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Possibly,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So there could be two, and Jake phased between when the one went off duty
+ and Quil took over...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Or Addy found out a way to poach him that we haven't thought of and he's
+ trying to get in touch with Jake,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+or something else is going on.
+ We don't know, and have no good way to get more data.
+ Let's get back to the issue with Pera.
+ We don't have a mate for her handy.
+ We can't guarantee that Elspeth will be able to deprogram her.
+ She has no Genevieve-like relatives lurking in Mexico that the Volturi
+ have plausibly overlooked.
+ And she could singlehandedly kill us all with the exception of Allirea,
+ anybody Allirea shields, and maybe Kate.
+ Discuss.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Somebody could e-mail her and offer to bribe her outright,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Doesn't have to be someone known to be affiliated with the resistance --
+ we could make a dummy account or something, or pretend to be another person
+ altogether.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She probably has weaker connections to the guard than most,
+\begin_inset Quotes erd
+\end_inset
+
+ mused Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+because she's hidden so much of the time and Chelsea can't work on her incidenta
+lly throughout the day like she can with everyone else...
+ so something like that might work.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Razi,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, naming the teleporter witch who'd escaped the dungeon for
+ good.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pera could sneak up on him and take him apart and bring him home, especially
+ if Demetri were still alive -- she's probably the only way he'd ever get
+ recaptured.
+ He'd be a believable source for a bribe offer.
+ But what would he -- or anyone -- offer? The Volturi aren't cagey with
+ their vast fortune when they're trying to keep their guard happy...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice, can you see Razi?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked abruptly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I wrote off the possibility of getting him to help us before, because we
+ had no way to find him, but even though he never managed to develop the
+ ability to take passengers for all Addy's trying, he would be 
+\emph on
+outrageously
+\emph default
+ useful...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Plain as day.
+ He's all over the place, though.
+ He's in Shanghai -- aaaaand now he's underwater someplace -- that's France
+ or at least someplace that has French on the signs -- a boreal forest of
+ some kind -- the man cannot hold still, I'm going to get dizzy -- is that
+ Tasmania?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I heard a pen scratching.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Does his moving around mean that you can't share a vision with him?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you writing?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked, as Alice said, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think so.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A description of Pera's power -- I'm leaving out Demetri's fate for the
+ time being to make it sound more threatening -- and an offer to let him
+ join us and a statement of where we are,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Razi doesn't have a mate,
+\begin_inset Quotes erd
+\end_inset
+
+ I remembered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe 
+\emph on
+he'll
+\emph default
+ wind up mated to Pera.
+ He hasn't met her yet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We'd better hope he winds up that way 
+\emph on
+after
+\emph default
+ agreeing to join us, and not before, if that's the case,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said gravely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bella, is there anything you think I should add to the note?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell him he can contact us by writing something so Alice can see it, in
+ case he has further questions,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother proposed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now that is one way to go skydiving...
+\begin_inset Quotes erd
+\end_inset
+
+ Alice muttered, presumably observing Razi teleport himself somewhere high
+ above the ground.
+ He usually didn't let himself hit bottom.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Say when.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+\end_layout
+
+\begin_layout Standard
+We waited, silently, and then Alice said, 
+\begin_inset Quotes eld
+\end_inset
+
+He's
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ said Razi's voice from Siobhan's end of the phone connection, wary, but
+ cordial.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Welcome,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, would you like to join us to help catch our guest up on what's
+ been going on?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+On my way,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, hopping to my feet and taking off down the mountain with a brief
+ wave in my mother's direction.
+ I kept the phone open and held to my ear in case more was said while I
+ was en route.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who's Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Razi suspiciously.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth is a half-vampire witch whose power involves being able to communicate
+ very quickly and understandably,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You might remember me from when you escaped from the dungeon,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't notice you,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+As soon as I had my senses back I got out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I caused it,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+By replacing Addy's power.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ said Razi.
+ It seemed like an awfully terse -- albeit sincere-sounding -- thing to
+ say under the circumstances, but Memory informed me that Razi wasn't the
+ type to attach extraneous words just to make the same basic message sound
+ more context-appropriate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're welcome.
+ I'll be there in a couple minutes, and then I can tell you -- or show you
+ -- whatever you want to know,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, beginning to compose a summary in my head that carefully excluded
+ pictures of Pera in case it was necessary to save that possibility for
+ later.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I look forward to it,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, with the strange discontinous ripple in his voice that meant he
+ was flickering from place to place mid-word.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I turned up at the houses soon after.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Which house are you in?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked into the phone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Over here in the gray, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, from the middle house of the three, and I ducked inside it;
+ Siobhan and Razi were both in the large front hall, along with Alice, and
+ the two American nomads Mary and Randall.
+ I heard footsteps shuffling around up the stairs, and spotted Liam through
+ the open door into the next room, where he kept an eye on his mate and
+ the newcomer.
+ Razi was swapping locations every second or two between the corner of the
+ colorful rug and a spot three feet to the left of it.
+ He'd shaved off what patches of hair his time in the dungeon had left him,
+ presumably for a more even look than the patches of what had previously
+ been a long head of black hair, and he had his arms folded and a skeptical
+ look on his face.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Razi,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want me to tell you anything specific, or just hit you with a summary
+ of everything important straight off?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan was looking apprasingly at Razi's less-than-comfortable body language
+ and location-jumping, and said to me, 
+\begin_inset Quotes eld
+\end_inset
+
+Why don't you just start with the part where we don't wish him any harm.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We don't wish you any harm,
+\begin_inset Quotes erd
+\end_inset
+
+ I obliged.
+ The teleportation slowed down a little, although he didn't relax his posture
+ at all.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We just want your help.
+ We don't like the Volturi, and want them to go away, and we figure you
+ don't like them either, and would also want them to go away.
+\begin_inset Quotes erd
+\end_inset
+
+ I copied his style of speaking deliberately, remembering that he tended
+ to become impatient with more roundabout ways of talking.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Approximately correct,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't dare jump into Volterra, though.
+ I could land someplace where Alec is projecting a field, or close enough
+ to Jane that she can knock me down, or something with one of the others
+ who were in there with me -- I have no idea what they do -- could happen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+With people helping you, the situation wouldn't be irrecoverable if something
+ like that happened,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan pointed out.
+ I had the impression that she was mimicking his style too.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What, specifically, do you want me to do?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We don't know yet,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, go ahead with the summary.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I looked to Razi for confirmation, and he nodded once, and I flung the condensed
+ version of who was who and what information we had at him.
+\end_layout
+
+\begin_layout Standard
+Razi disappeared, and I opened my mouth to make some displeased sound, but
+ Siobhan held up one finger.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Give him a minute.
+ He could just be going someplace more comfortable to process everything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sure enough, thirty seconds later, he popped back into place, newly damp
+ and with a bit of seaweed clinging to his shirt.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You lead an interesting life,
+\begin_inset Quotes erd
+\end_inset
+
+ he told me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Recently, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I agreed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want in?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll bail on you if it goes badly,
+\begin_inset Quotes erd
+\end_inset
+
+ he stated, twitching six inches to the right.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wouldn't expect you to die for a failed attempt at a coup when you could
+ just as easily escape to the middle of the Gobi Desert,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan derisively, as though he was stupid to have bothered pointing
+ out anything so obvious.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I just want you to try to help make it go 
+\emph on
+well
+\emph default
+, and not turn on us outright.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do we have a plan?
+\begin_inset Quotes erd
+\end_inset
+
+ he inquired archly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+About a quarter of one,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth here can reverse some of what Chelsea does -- the generative half,
+ not the destructive half.
+ Also, she's a wolf's imprint, and so wolves won't attack her.
+ That means she can in theory enter the wolf village and deprogram them
+ safely.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Won't they be expecting that?
+\begin_inset Quotes erd
+\end_inset
+
+ Razi asked, twitching to a spot behind me and then back to his original
+ location.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I learned to deprogram people after leaving Volterra,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They don't know I can.
+ They do know wolves won't attack me, but since that doesn't prevent the
+ wolves from attacking anyone I bring with me, or holding me still, or telling
+ the vampires I'm there, it wouldn't normally be that dangerous without
+ the deprogramming on top of it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then what?
+\begin_inset Quotes erd
+\end_inset
+
+ Razi said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you know who Allirea is?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It just occurred to me that with Bella too far away to shield her, Elspeth
+ will have neglected her existence.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Huh?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Case in point.
+ Well?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Haven't heard of her,
+\begin_inset Quotes erd
+\end_inset
+
+ Razi said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why would Elspeth neglect her existence?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I rolled my eyes as Siobhan prattled to Razi about trivialities, again.
+ I understood that we didn't need to feel too hurried, but it was such a
+ waste of time even so.
+ I watched Mary and Randall play backgammon, in a variation that seemed
+ to be mostly about who could best get the dice to fall favorably via assorted
+ methods of cheating.
+ Alice was sitting at Tanya's harp, looking at it but not playing; as I
+ observed she reached out and turned a page on the sheet music sitting on
+ the nearby stand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're done talking about boring, unimportant things now,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan told me dryly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can stop zoning out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So apart from what I just discussed, and possibly Kate,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan told Razi, 
+\begin_inset Quotes eld
+\end_inset
+
+Pera is basically unstoppable.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+we have somebody besides Kate who could fight Pera?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan rolled her eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't matter, Elspeth.
+ Anyway.
+ Razi, even you could be in deep trouble if Pera snuck up on you and separated
+ your head from your body.
+ Since it's possible that Elspeth won't get any chance to deprogram her,
+ the other thing we thought of was figuring out in advance via Alice if
+ Pera will find a mate on our side, so we can plan around that.
+ Nobody we've already signed on is a candidate, but...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You want me to have a look at her?
+\begin_inset Quotes erd
+\end_inset
+
+ Razi asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I suppose if she's my mate, at least that way I won't need to add `paranoia
+ about a witch who can behead me on no notice' to the list of things that
+ make me want to risk trying to teleport to the Moon...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can't see her just now,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice told her.
+\end_layout
+
+\begin_layout Standard
+Siobhan frowned, then looked at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+As long as Alice can't do it, might as well give your communication style
+ a try,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If it doesn't work we'll have Alice try when Pera's about to be visible
+ again...
+ if it does we'll have learned something new.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hold on a second,
+\begin_inset Quotes erd
+\end_inset
+
+ Razi said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If Elspeth shows me Pera, and my reaction is something on the lines of `this
+ woman is lovelier than the stars and I wish to spend the rest of my eternal
+ life with her', what is it precisely that you want me to do after, presumably,
+ dropping myself into her room and getting the reciprocal response? I can't
+ teleport her here.
+ How's she supposed to get out?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She can do that by herself if she wants,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She just has to hide and...
+ walk out.
+ They were very, very careful about turning her, because after doing that
+ it became impractical to have Addy physically control her, and now they
+ don't even 
+\emph on
+have
+\emph default
+ Addy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Speaking of which, do you know where Addy is so I can at least mildly injure
+ her before she takes my power and escapes?
+\begin_inset Quotes erd
+\end_inset
+
+ Razi said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I owe her for putting me in that dungeon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We'd like nothing more than for you to displace the power we think she has
+ now, which is mine,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said with a sigh, 
+\begin_inset Quotes eld
+\end_inset
+
+but we don't have her whereabouts.
+ She's blocking Alice with a half-vampire or a wolf.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Damn,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway.
+ Let's have a look at Pera,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, looking back in my direction.
+\end_layout
+
+\begin_layout Standard
+I offered him a purely visual memory of Addy's, for the benefit of vampirically
+ clear vision and because of the fact that she was my only source of memories
+ of Pera as a vampire.
+ In theory, human Pera would have had the same effect, but it seemed like
+ a better idea to present her in her current form.
+\end_layout
+
+\begin_layout Standard
+Razi tilted his head at a peculiar angle and quit flickering.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Where is she?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked in a low voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is she
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I started to ask.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Obviously,
+\begin_inset Quotes erd
+\end_inset
+
+ he said snappishly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Where is she?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hang on, Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ muttered Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you planning to bring her back, Razi, or run off with her by yourself
+ and forget about helping us with the Volturi?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Show me where Pera is,
+\begin_inset Quotes erd
+\end_inset
+
+ Razi said insistently to Alice, who shook her head once, and Siobhan frowned
+ and dialed what sounded like Maggie's number.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What are you doing?
+\begin_inset Quotes erd
+\end_inset
+
+ he demanded.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm calling my lie-detector friend,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Convince said friend that you're going to do your best to convince Pera
+ to come here, let Elspeth deprogram her, and help us -- again, I don't
+ expect her to do anything other than flee at top speed if things go seriously
+ south -- and Alice will show you where your mate is so you can go fetch
+ her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello?
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie's voice, and Siobhan recited a condensed version of the Razi-relate
+d events, while the teleporter fumed and began jumping around the room again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do I know this isn't some kind of trap for her?
+\begin_inset Quotes erd
+\end_inset
+
+ he demanded.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How would we trap her?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, bewildered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Kate has a kind of 
+\emph on
+defense
+\emph default
+ against her, potentially, but no offense.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you got her to unhide and Allirea was there -- ugh, never mind, you wouldn't
+ understand,
+\begin_inset Quotes erd
+\end_inset
+
+ he snarled, red eyes flashing as he appeared standing on top of Mary and
+ Randall's backgammon game.
+ Randall hissed at him, annoyed, and Razi jumped back to his spot on the
+ carpet.
+\end_layout
+
+\begin_layout Standard
+I blinked, puzzled, by this statement -- I had an awful lot of memories
+ about what it was like to have a mate, in spite of lacking one of my own,
+ so I thought it was reasonable to imagine that I 
+\emph on
+would
+\emph default
+ understand.
+ But I let it go, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Not only do we not have a way to hurt Pera, we wouldn't want to if we didn't
+ have to.
+ My mother wants to be queen of the world and use the hiding place as a
+ kind of jail for vampires who break laws, as an intermediate step between
+ letting people off with a warning and the death penalty.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Randall and Mary looked up at that.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How would the prisoners 
+\emph on
+hunt
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Mary, shocked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's actually kind of the idea, is that they would have to hunt animals
+ or at least only drink blood that nobody died to produce,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Randall shuddered, and looked like he might lodge some complaint, but Razi
+ interrupted.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell me where she 
+\emph on
+is
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ he snarled at Alice, appearing inches away from the tiny precog, and Jasper
+ rushed into the room, a blur flashing down the stairs to stand near Alice
+ and growl menacingly.
+ Razi's hostile body language diminished, presumably as a result of Jasper
+ practicing his empathy, and he flickered away from Alice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said, offering Razi the phone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tell her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He snatched the phone out of her hand and brought it to his ear in one continuou
+s motion.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ he snapped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When I find Pera I will attempt to talk her into joining this little group
+ and its efforts to destroy the Volturi, with the `deprogramming' that implies.
+ Satisfied?
+\begin_inset Quotes erd
+\end_inset
+
+ He thrust the phone back into Siobhan's hand; Maggie's little voice trilled
+ out of it a confirmatory response.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Close enough,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, hit him with our contact information -- Razi, you seem to be in
+ a hurry, so I won't bother you about obtaining a phone of your own today.
+ You can just swipe one or teleport into somebody's house with a landline
+ if you need us.
+ But that means we'll have to ask Alice to show you a note if we need to
+ get ahold of you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fine,
+\begin_inset Quotes erd
+\end_inset
+
+ barked Razi as I sent him everyone's phone numbers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Fine.
+ Just show me where
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go for it, Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+\end_layout
+
+\begin_layout Standard
+Alice closed her eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ she started to say, but Razi was already gone.
+\end_layout
+
+\begin_layout Standard
+After a beat, Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, that was convenient.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now he's invisible too,
+\begin_inset Quotes erd
+\end_inset
+
+ frowned Alice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course he is,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan replied, letting out a breath through her teeth.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you think he'll bother to stop back here, or just escort her?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He has enough information to gather that we'll be able to notice his hiddenness,
+ so he might assume there's no reason to check in if she agrees to come
+ here.
+ At any rate, Elspeth, you can go back to your wolf now unless there was
+ something else here you wanted to accomplish.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This will make getting everybody onto a plane easier,
+\begin_inset Quotes erd
+\end_inset
+
+ I observed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pera can just hide us and we can walk right on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's 
+\emph on
+if
+\emph default
+ Razi succeeds -- if he doesn't change his mind entirely,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We have cause for optimism, but there are still wild cards, including Pera's
+ suggestibility.
+ And the fact that we still don't know what Addy is up to.
+ That said, yes, our transportational woes will be effectively over with
+ Pera on our side.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are we invincible if Pera decides to help us?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Their witches are better equipped to fight her than the few we've got.
+ If Benjamin figures out where Pera is, he may be able to set her on fire
+ by setting some object near her on fire.
+ Vasanti's animals, like animals in general, are going to be in both the
+ hiding place and outside, so Vasanti will be able to keep track of her.
+ We don't know if Corin's shield or Emere's knife will go through to the
+ hiding place, but they might.
+ Li-qing's gravity adjustments will probably be just as able to catch Pera
+ in midair as anyone else.
+ Pera will be able to hear Pyotr if he commands her to do something whether
+ she's hidden or not.
+ Emel could at least inconvenience Pera with shaped metal getting in the
+ way of whatever she was trying to do.
+ And we don't know if Marcus's sight can observe people in the hiding place,
+ but I would be surprised if it 
+\emph on
+couldn't
+\emph default
+, especially as long as the hidden person has relationships with unhidden
+ people.
+ No.
+ We are not invincible.
+ We are not even slightly invincible.
+ But we have a fighting chance, now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

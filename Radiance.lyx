@@ -30,7 +30,7 @@
   \renewcommand*{\printchapternonum}{%
     \vphantom{\chapnumfont \@chapapp 1}\par
     \parbox{0.5in}{}\par}
-  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\chaptitlefont}{\normalfont\HUGE\sffamily}
   \renewcommand*{\printchaptertitle}[1]{%
     \centering \chaptitlefont\textsc{##1}}}
   \renewcommand*{\afterchaptertitle}{\par\vspace\par}
@@ -435,14 +435,26 @@ Luminosity -- A Re-imagining of Twilight
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\begin_inset VSpace medskip*
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\align center
+\begin_inset Graphics
+	filename feather.eps
+	lyxscale 30
+	height 2.54in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip*
 \end_inset
 
 
@@ -1086,6 +1098,16 @@ filename "Radiance-38.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-39.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-40.lyx"
 
 \end_inset
 
