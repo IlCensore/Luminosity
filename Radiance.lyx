@@ -118,7 +118,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding 
-\font_roman Jauria
+\font_roman EB Garamond
 \font_sans Twilight
 \font_typewriter Latin Modern Mono
 \font_math auto
@@ -1076,6 +1076,16 @@ filename "Radiance-37.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-38.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-39.lyx"
 
 \end_inset
 
