@@ -1,0 +1,2008 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Hunter
+\end_layout
+
+\begin_layout Standard
+Esme distributed phones, and Carlisle recited a litany of phone numbers
+ for us to memorize: every phone-bearing person in Denali and everyone in
+ Britain whose number Cath had provided.
+ We didn't program the numbers into the phones in case they were somehow
+ lost -- 
+\begin_inset Quotes eld
+\end_inset
+
+it's not a terrible risk, but Siobhan thought that as long as we can just
+ memorize the numbers, we should,
+\begin_inset Quotes erd
+\end_inset
+
+ Esme explained.
+\end_layout
+
+\begin_layout Standard
+I did program Allirea's number into my phone, but I labeled it 
+\begin_inset Quotes eld
+\end_inset
+
+Emergency
+\begin_inset Quotes erd
+\end_inset
+
+ -- not because Allirea would be the best emergency contact, but because
+ that way I would be able to actually 
+\emph on
+call
+\emph default
+ it in an emergency.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Siobhan wanted you to call her,
+\begin_inset Quotes erd
+\end_inset
+
+ Carlisle told me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She should be clear of the house by now, so...
+ Alice shouldn't present a problem.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I dialed Siobhan's number.
+ She picked up immediately.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, I need you to go to Biloxi,
+\begin_inset Quotes erd
+\end_inset
+
+ she said without preamble.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, failing to immediately figure out why I would need to be sent
+ to Biloxi.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+James, 1920...?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do I need to spell
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Oh!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ I exclaimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, I think I get it, one sec
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+My Vicky, she knows me.
+ She knows just what will strike my fancy.
+ A neatly buttoned up loony bin, secure as can be, hard to get into and
+ out of undetected...
+ yet full of nibbles no one is likely to truly miss.
+ Full of nutcases who were squirreled away here in the first place because
+ their families didn't want them.
+ The orderlies and the analysts and what all might be in a tizzy, but try
+ getting the cops excited about a dead snack in a place like this.
+ As long as my lunch is obviously a dead mental patient, not an escaped
+ mental patient, they'll just pin it on another lunatic.
+ Challenging hunt -- simple coverup.
+ Ah, my Vicky, she gives such lovely presents.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I smell two things, approaching the madhouse:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+First, dinner -- lots of it, crowded in close and warm and only a little
+ soured with bughouse drugs (my Vicky picked me an institution that prefers
+ flavor-preserving treatments like electroshock, my lovely Vicky knows me)
+ -- and one
+\emph default
+ dessert
+\emph on
+.
+ I don't think she's one of those 
+\begin_inset Quotes eld
+\end_inset
+
+singers
+\begin_inset Quotes erd
+\end_inset
+
+ I've heard about, or not quite...but she does smell 
+\emph default
+delectable indeed
+\emph on
+.
+ I've made up my mind to sink my teeth into whoever's leaving 
+\emph default
+that
+\emph on
+ trail the instant I breathe it in.
+ There's no trail of her leading away from the place, so she's cracked,
+ not a shrink or a nurse or anything of the kind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Second, a vampire -- not me, and not Vicky.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And that scent is laid down
+\emph default
+ thick
+\emph on
+.
+ This other vampire didn't just pop in here for breakfast and scurry off.
+ This other vampire didn't just pass through the courtyard on his way to
+ visit New Orleans and eat wayward Mardi Gras partiers.
+ (Mm.) He's here every day.
+ He's been here every day for a long time.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+...
+\begin_inset space ~
+\end_inset
+
+Why?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is a vampire doing here like the inedible trinket in a box of Cracker
+ Jacks? As a patient he'd be found out right away.
+ The Volturi would be on this place in a blink.
+ Is he
+\emph default
+ working
+\emph on
+ here? Or maybe prowling around unofficially? I don't smell a hunt on the
+ premises.
+ He's not sneaking maniacs onto his plate.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Is he going to get between me and my treat?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Wouldn't that be interesting?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I double back to my Vicky and thank her for the most fascinating present
+ I have ever in my life received.
+ Whatever the hell he's doing there, he's bound to give me an interesting
+ time swiping my crazed confection off the dessert cart
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+I stake out the place around nightfall, hiding up in a tree, and watch personnel
+ go in and out.
+ The vampire hasn't been found out yet, so obviously he's on the night shift
+ in this sunny weather.
+ I spot him going up to the door, picking him out by gait first of everything.
+ He's brazen as my Vicky showing off her shinies in the daylight to some
+ morsel she's about to slurp up, but the humans aren't going to notice how
+ nice and even he walks, how he smells like coconut and blood, how he's
+ too pale and too pretty.
+ Or they'll notice, but won't know what it means.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Nobody mentions his eye color when he goes in; they just call him 
+\begin_inset Quotes eld
+\end_inset
+
+Dr.
+ Carver
+\begin_inset Quotes erd
+\end_inset
+
+, tell him good evening.
+ Probably he's passed it off as some condition.
+ Or he eats light, takes a couple days off, goes to work black-eyed.
+ Didn't see him from that angle.
+ But he works there.
+ They know him.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I wait.
+ He comes out of the building again before dawn.
+ (Red eyes.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And he smells of my sweetmeat.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He doesn't
+\emph default
+ reek
+\emph on
+ of her, and the other kooks have rubbed off on him some too.
+ I'm sure he didn't have her for supper.
+ But he did spend more time with the morsel than with any of her fellow
+ fruitcakes.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+This is no pediatric psycho ward.
+ If my nibble were his mate, he'd have turned her already, without fear
+ of the Volturi and their vendetta against immortal children.
+ If he were going to eat her...
+ why wait? She's not the newest bat in the belfry, the smell of her hangs
+ around this place too heavily for her to be recent.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He left himself a good hour between quitting time and sunrise.
+ Once he's well away, I climb down my tree, slide some shoes on to look
+ presentable, and go in to investigate.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me,
+\begin_inset Quotes erd
+\end_inset
+
+ I say to the first person I see -- a nurse.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My name's James Carver.
+ Is my brother here?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She flutters her eyelashes at me.
+ Vicky'd probably kill her for that if Vicky were here, but she's not.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dr.
+ Carver is your brother? I don't believe he's mentioned you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, brothers.
+ Well, most people can tell, on account of the...
+\begin_inset Quotes erd
+\end_inset
+
+ I wave at my eyes.
+ Red.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Oh, I didn't realize that ran in his family,
+\begin_inset Quotes erd
+\end_inset
+
+ she says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm afraid you've just missed Dr.
+ Carver.
+ He's gone home.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Shucks!
+\begin_inset Quotes erd
+\end_inset
+
+ I'm just toying with her now, playing my role.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was going to meet him here! He was talking about his patient in his last
+ letter -- been talking about her for some time now, but I've just got no
+ memory for names, can't quite recall what he called her, might have had
+ an E in it? -- anyway he thought she was an interesting case study.
+ I'm working on a book,
+\begin_inset Quotes erd
+\end_inset
+
+ I add.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+He's been particularly interested in Miss Brandon's case,
+\begin_inset Quotes erd
+\end_inset
+
+ the nurse tells me, raising an eyebrow.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+A
+\emph default
+ B
+\emph on
+ in her name, that was it,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, snapping my fingers, 
+\begin_inset Quotes eld
+\end_inset
+
+There any chance I could meet Miss Brandon now rather than waiting 'till
+ my brother's back tomorrow? Only my wife's not well, I'd have stayed with
+ her if I hadn't had this trip planned so long but she didn't want me to
+ jeopardize my book to fuss over her, and I'd like to make all my observations
+ quick and get home to her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure...
+\begin_inset Quotes erd
+\end_inset
+
+ The nurse wavers, looks at the ring on my finger, the earnest expression
+ I'm putting on.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I'll just be in and out, lickety-split,
+\begin_inset Quotes erd
+\end_inset
+
+ I promise.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't need to interview Miss Brandon tonight or even wake her up if she's
+ sleeping.
+ Just have to get a first impression of her to introduce her case in the
+ book.
+\begin_inset Quotes erd
+\end_inset
+
+ And in fact I don't plan to eat 
+\begin_inset Quotes eld
+\end_inset
+
+Miss Brandon
+\begin_inset Quotes erd
+\end_inset
+
+ right now.
+ That would be too easy, and too obvious to the people who look out for
+ this sort of thing.
+ But I do intend to learn where her room is, and leave a trail of my own
+ for 
+\begin_inset Quotes eld
+\end_inset
+
+Dr.
+ Carver
+\begin_inset Quotes erd
+\end_inset
+
+ to find.
+ Let him make this interesting.
+ I don't know why he's so interested in Miss Brandon if he's not going to
+ eat her and she's not his mate, but maybe he'll make me work for my dessert.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Miss Brandon -- 
+\begin_inset Quotes eld
+\end_inset
+
+What's her first name? Did it have an R...?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mary, she's Mary Alice Brandon
+\begin_inset Quotes erd
+\end_inset
+
+ -- is a tiny restless tidbit.
+ She's asleep when we go to her room, a miserable windowless cube in the
+ basement, but wakes up soon enough, eyes unfocused.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I'll let you be, I've got other errands,
+\begin_inset Quotes erd
+\end_inset
+
+ says the nurse.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can show yourself out, I'm sure, Mr.
+ Carver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ I reply, my attention on Miss Brandon.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+It's you,
+\begin_inset Quotes erd
+\end_inset
+
+ Miss Brandon says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please -- please don't
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+What is it you think I'm going to do?
+\begin_inset Quotes erd
+\end_inset
+
+ I ask her, amused.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+You want to kill me,
+\begin_inset Quotes erd
+\end_inset
+
+ she says, 
+\begin_inset Quotes eld
+\end_inset
+
+but you're not going to do it today...
+\begin_inset Quotes erd
+\end_inset
+
+ She fumbles her fingers through her hair, which they've shorn very short,
+ probably to make her easier to wash.
+ She sounds lucid, for a loon.
+ And the statement about me is quite uncanny.
+ But she might be a paranoid who thinks everyone wants to kill her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I can't see...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+It
+\emph default
+ is
+\emph on
+ dark,
+\begin_inset Quotes erd
+\end_inset
+
+ I drawl.
+ Maybe Carver is interested in her for her entertainment value, although
+ I imagine she'd get old after a while.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I won't remember,
+\begin_inset Quotes erd
+\end_inset
+
+ she says, blinking wide eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sin.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Sin?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Little sin.
+ I won't remember,
+\begin_inset Quotes erd
+\end_inset
+
+ she says again, sounding less and less lucid, 
+\begin_inset Quotes eld
+\end_inset
+
+one way or the other.
+ You won't kill me today, can I sleep, please?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Be my guest,
+\begin_inset Quotes erd
+\end_inset
+
+ I reply, smiling.
+ I back out of the room as she slumps back down into sleep, and let her
+ be
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+I thought you would fight me for her, maybe move her someplace harder to
+ sneak into!
+\begin_inset Quotes erd
+\end_inset
+
+ I shout at Carver.
+ He's standing over little Miss Brandon.
+ She's halfway through changing, already undelicious, barely even screaming.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I thought you'd make it an interesting challenge! I didn't think you'd haul
+ off with her and
+\emph default
+ turn
+\emph on
+ her!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+You were wrong,
+\begin_inset Quotes erd
+\end_inset
+
+ he says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Here she is.
+ Do you still want her?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I snarl.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+His lip curls up.
+ Just a
+\emph default
+ little
+\emph on
+ too smug
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Those ravings of hers...
+\begin_inset Quotes erd
+\end_inset
+
+ I say.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+What about them?
+\begin_inset Quotes erd
+\end_inset
+
+ Carver asks.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You did notice she was in a sanitarium
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I noticed she was in a damn sanitarium.
+ She's a
+\emph default
+ witch
+\emph on
+, isn't she? An unbalanced witch, but still magic and not just mental.
+ She told you where to go to avoid me long enough and told you I wouldn't
+ want her if she were changed!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+I have to object 
+\emph default
+somewhat
+\emph on
+ to your giving her all the credit,
+\begin_inset Quotes erd
+\end_inset
+
+ he says.
+ Too smug, too smug by half, he's barely even watching me for an attack.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It does take work to decipher what she says.
+ She only sees, doesn't hear...
+ she's thrown off by unmade decisions...
+ often there are too many pictures for her to keep track of and she experiences
+ dreadful headaches...
+ I 
+\emph default
+wanted
+\emph on
+ to fully study how her power functions in its current form before turning
+ her, but you've forced my
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I throw myself forward, and he dodges and runs, but I chase him down and
+ tear him apart.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He goes down easily.
+ I don't even think about springing back and running and fetching my Vicky
+ to help.
+ He was counting on my wanting Miss Brandon only for her blood, and it's
+ true I don't want her any longer...
+ she's safe from me now...
+ but
+\emph default
+ him,
+\emph on
+ him I am all too happy to kill.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I burn him.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I watch the witchy crackpot change.
+ It's like she doesn't even notice the pain.
+ She talks, sometimes -- about 
+\begin_inset Quotes eld
+\end_inset
+
+sin
+\begin_inset Quotes erd
+\end_inset
+
+ and how she won't remember.
+ When she's nearly done, I hide out and watch her.
+ If she notices me, well, I can handle one newborn alone; if she doesn't,
+ well, let her be, and who knows what she'll do, but I don't care anymore.
+ My dessert's gone.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She opens her eyes, and it's like she's never seen the sun before
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+That's the sun.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know how I know that.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I see a man.
+ One day I will meet that man.
+ I don't know where or when or how, but I will meet him one day, and we
+ will love each other.
+ I think I already love him.
+ The vision goes away and I don't know how to make it come back, but somehow
+ I can remember the face I saw anyway, all scars and blond hair.
+ His eyes are red and I don't know why.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know who I am.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I think my name might be Alice, or have an Alice in it.
+ I think that's an okay name.
+ Alice.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know where I am.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I get up and look around, but I don't see any clues.
+ It's a woods.
+ It could be any woods.
+ I think I feel very strong and very thirsty.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know what I'm comparing myself to.
+ I don't remember being weak or being without the pain in my throat.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'd better go this way.
+ If I go that way, someone will see me, and I'll be in terrible trouble
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+***
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay, I don't think I understand after all,
+\begin_inset Quotes erd
+\end_inset
+
+ I said to Siobhan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you remember when your mother told Alice about what James told her?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan prompted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And what Alice thought of that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice was thinking she'd look herself up and figure out where she came from,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She never got around to it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, Alice is currently one of the most unanswerable strengths of the
+ Volturi,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Even when we can 
+\emph on
+block
+\emph default
+ her, that blocking is noticeable.
+ We need Alice away from the Volturi's side and on ours.
+ She's been Chelseaed to hell and back.
+ But think about when Chelsea 
+\emph on
+fails
+\emph default
+, Elspeth, you're a clever girl.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea can snip relationships with dead people, people you've never met
+ in person, people who are right there or far away -- just about the only
+ thing she can't do is mates, but I don't see how Jasper would be any easier
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea cannot snip your relationships with people who 
+\emph on
+you don't know exist
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, exasperated.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you had a sister wandering around, and you didn't suspect that she existed,
+ Chelsea wouldn't be able to affect how you would react to that sister upon
+ meeting her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You think Alice has living relatives and doesn't know it,
+\begin_inset Quotes erd
+\end_inset
+
+ I breathed, finally making the leap.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Exactly.
+ Now, the tricky part is getting ahold of Alice and her mate in such a way
+ that you can deprogram them and we can give her a relative to latch onto
+ so she doesn't stick with the Volturi out of inertia -- but the 
+\emph on
+easy
+\emph default
+ part is for you, invisible to Alice as you are, to go to Biloxi and look
+ Alice up and see who there might be.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My head was spinning.
+ The 
+\emph on
+usual
+\emph default
+ means by which the Volturi shed guards was death (like Demetri) or the
+ discovery of a mate (like Eleazar).
+ But on a handful of occasions, guards had learned that they had a child
+ or grandchild or sibling unbeknownst to them, and -- presented with a family
+ that Marcus couldn't see coming and Chelsea couldn't have taken from them
+ -- decided to depart.
+ Losing a particularly valuable witch this way (who'd abandoned the guard
+ to be with his son, depriving the Volturi of his invisibility power) in
+ 1602 had been the last straw for Caius, who'd called for more stringent
+ relative-finding procedures -- partly to check for heritable witchcraft,
+ and partly to kill or controllably snip away stray kin.
+\end_layout
+
+\begin_layout Standard
+They had not bothered with this for witches in their dungeon.
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+expected
+\emph default
+ that they would have started up with it after my seeding had left their
+ prisoners up and about and capable of meeting such relatives.
+\end_layout
+
+\begin_layout Standard
+But they wouldn't know where to look for relations of Alice's.
+\end_layout
+
+\begin_layout Standard
+Alice's own memories provided no significant clue to where she'd come from
+ -- when she retraced her steps a couple of years after turning, to figure
+ out where she'd been created, she'd found the place, all right -- hundreds
+ of miles west of Biloxi.
+ Dr.
+ Carver had moved her there, trying to buy her time in their escape from
+ James.
+\end_layout
+
+\begin_layout Standard
+My mother had later told her what James had said, but he hadn't named the
+ city or even the exact year in the twenties.
+ It would have been tiresome detective work to find out 
+\emph on
+which
+\emph default
+ hospital Alice had come from, knowing only the fact that she had woken
+ up with an American accent, 
+\emph on
+might
+\emph default
+ have 
+\begin_inset Quotes eld
+\end_inset
+
+Alice
+\begin_inset Quotes erd
+\end_inset
+
+ somewhere in her legal name, and was in an asylum at some point between
+ 1920 and 1929.
+ I peeked, and noted that when my mother had begun explaining all of this
+ information, Alice had actually balked at the implied tedium before even
+ learning that 
+\emph on
+James
+\emph default
+ had been the source of the information.
+ She'd never followed up later, either.
+ It was a reasonable guess, but not one she'd bothered to make.
+\end_layout
+
+\begin_layout Standard
+Aro had 
+\emph on
+James's
+\emph default
+ memories.
+ But Aro had no reason to think James and Alice were connected.
+ He'd only read the tracker to determine whether he was witch enough to
+ bring into the guard, troublesome enough to kill.
+ He'd relied on Santiago's memories about what James had said to apprehend
+ the basic situation between the tracker and his captive...
+ he'd chosen to read James merely to determine the nature of his witchcraft...
+ he couldn't read my mother, from whom I'd heard the story...
+ He certainly 
+\emph on
+might
+\emph default
+ be able to figure out whence Alice by idly browsing through James's exploits
+ of a century previous, but with so much else to look at, he wasn't likely
+ to find the information that way.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan through the phone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, right,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice, relatives, Biloxi.
+ But -- but I can't go.
+ Jake is sick
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you get some food and water into him?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked, knowing as well as I did all the accumulated information
+ about how to care for a bitten wolf.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, but then he had to phase...
+\begin_inset Quotes erd
+\end_inset
+
+ I explained what my mother's power had shown her and how we'd determined
+ that Jake still had at least one packmate, who had presumably been out
+ of wolf form when I'd first asked about it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's going to be fine, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan impatiently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Eve is the only wolf who ever actually 
+\emph on
+died
+\emph default
+ of vampire bites, or even failed to make a full recovery eventually, and
+ she had three bites, not one.
+ He's not the first wolf to take one bite and have to wait out the sickness
+ in human form.
+ Do you think I can send 
+\emph on
+Allirea
+\emph default
+ to Biloxi? I'll take her help in a pinch, but I don't want to send her
+ on a long-distance mission and rely on her loyalty to see that she ever
+ comes back instead of running to her father and sisters, or her kids, or
+ just off by herself where nobody can look at her.
+ Do you have another half-vampire or werewolf up your sleeve? Can you suggest
+ another person who will be able to explain to Alice's granddaughter or
+ nephew or whoever you find this entire mess, believably, and get him or
+ her to travel to Alaska to participate in the next step?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I sighed, smoothing Jake's hair again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My shoulder is still broken...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can walk, and it'll be healed soon enough,
+\begin_inset Quotes erd
+\end_inset
+
+ she replied.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do I have to go alone?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked softly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jake can't travel.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ You shouldn't go alone,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You should take a non-witch vampire or two with you, to look out for you
+ while you sleep, help you find Alice's relatives, and fend off unexpected
+ threats.
+ Any preferences?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The non-witch part ruled out my mother, so I didn't waste time feeling guilty
+ about finding the idea of bringing her awkward.
+ I considered my grandparents, but decided Carlisle was probably an important
+ rallying point for most of the local allies and shouldn't be running hither
+ and yon.
+ Especially the Denalis, who I decided against promptly -- I didn't know
+ how sure to be of their changed loyalties.
+ I considered Kachiri and Senna, who I remembered through their captured
+ sister Zafrina's eyes.
+ I considered Carlisle's various friends who I remembered through his history.
+ I spent all of two seconds considering Cath and Ilario.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Rosalie and Emmett?
+\begin_inset Quotes erd
+\end_inset
+
+ I suggested finally.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They have legal identities so they can fly normally.
+ I can borrow someone else's, maybe, or go in a suitcase if there's a way
+ to get me through the x-ray machine safely.
+\begin_inset Quotes erd
+\end_inset
+
+ My aunt and uncle had been familiar, but not cloyingly so -- they were
+ aware of the rift, even if they were only so aware because I'd gone missing
+ from their lives for five years.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're a minor,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You don't need 
+\noun on
+id
+\noun default
+ to fly domestic.
+ They 
+\emph on
+can
+\emph default
+ ask for proof of age, but they don't have to.
+ I think if 
+\emph on
+you
+\emph default
+ tell them you're underage, they'll let you by.
+ If it comes up, you 
+\emph on
+are
+\emph default
+ legally an American citizen just because of your parents -- I suppose someone
+ could make it into a fight over paperwork, but in case you thought being
+ born in Norway made a difference...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Okay.
+ I did know about the citizenship thing.
+ I grew up in a series of libraries and read a lot of Wikipedia.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you did,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan after a moment to retrieve the memory.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All right.
+ Rosalie and Emmett have agreed to go with you.
+ We'll get you tickets -- probably for tomorrow -- and send you on your
+ way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Should we get in touch with Peter and Charlotte as long as we're there-ish?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I don't think so.
+ They're not witches, and 
+\emph on
+might
+\emph default
+ report us to the Volturi just so they can stay out of things.
+ If we decide the thing to do is bury the enemy in bodies, better to do
+ it with a newborn army than with a couple of people who would rather not
+ be involved and feel beholden to one of said enemy more than any of us.
+ We can reconsider it if we successfully pull out Alice and Jasper.
+ 
+\emph on
+However
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ she said thoughtfully, 
+\begin_inset Quotes eld
+\end_inset
+
+perhaps you should fly into the airport near them, so as to have a plausible
+ explanation for the trip, and then drive the rest of the way.
+ Alice won't be able to see you, but if you travel legally there's a trail
+ of records.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What should I do if I find a relative of Alice's? Bring them to Alaska?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell them everything, answer their questions, ask for their help, and then
+ call me,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The plan could change a lot between then and now.
+ We might need them in Alaska or Britain or Italy or in an inaccessible
+ bunker in Antarctica.
+ We might need them turned or human.
+ Keep in touch, is the upshot of all this.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Antarctica?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+An example of a place where one might build a relatively inaccessible bunker.
+ I don't have plans for one; my point is that I don't yet know what to do
+ with Alice's relative or relatives if and when you find one, and you'll
+ just have to call me after the fact for an update.
+ Go ahead and spend the rest of today looking after your wolf, and get a
+ good night's sleep, and in the morning you and your aunt and uncle will
+ fly out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When Jacob wakes up next, if you can get him to tell you anything about
+ the packmate, let me know immediately,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think, under the circumstances, that he'll have sent them anything
+ they can use.
+ Not as loopy as he's got to be under the venom and the painkillers, and
+ not with as much cover for incriminating notions as his habit of watching
+ you dream can provide.
+ But I could be wrong, so -- as I said.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and Siobhan hung up.
+\end_layout
+
+\begin_layout Standard
+My mother was looking at me sadly.
+ I blinked at her, then shrugged my good shoulder and turned my attention
+ back to Jake, still sleeping.
+\end_layout
+
+\begin_layout Standard
+A few hours later, he woke up again, and I gave him more water and some
+ of the non-sheep food that we had, and got him to blink me a confirmation
+ that he didn't know who his packmate was or whether they'd heard anything.
+ My mother was on the phone with Siobhan, going over the limitations of
+ her shield and how she could be deployed in a fight, so I just relayed
+ this information aloud, assuming that Siobhan would hear me.
+ My mother nodded.
+\end_layout
+
+\begin_layout Standard
+After dark, I found a way to lie down that didn't put pressure on my shoulder,
+ tucked my hand into Jake's, and drifted off.
+ The last thing I noticed was my mother gently taking my other hand.
+ 
+\end_layout
+
+\end_body
+\end_document
