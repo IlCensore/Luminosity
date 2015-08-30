@@ -425,18 +425,36 @@ par
 \align center
 
 \size large
-Book I
+Book I of
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Luminosity -- A Re-imagining of Twilight
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\begin_inset VSpace medskip*
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill*
+\align center
+\begin_inset Graphics
+	filename feather.eps
+	lyxscale 30
+	height 2.54in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip*
 \end_inset
 
 
