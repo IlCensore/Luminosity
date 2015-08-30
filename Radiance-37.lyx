@@ -1,0 +1,2292 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Viewer
+\end_layout
+
+\begin_layout Standard
+I woke up in our hotel room again, tucked into bed and in the company of
+ the same four vampires.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you're up,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie when I opened my eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Good morning.
+ Siobhan talked Alice and Jasper into letting you try to de-Chelsea them
+ like you did with your wolf.
+ He's okay, by the way.
+ Choked down some more food late last night, otherwise mostly sleeping.
+ He woke up and was lucid enough to talk for a bit a few hours ago, so Bella
+ told him where you were and that you were safe and so on and he seemed
+ to take it all right.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's good,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are we going to go back to Denali soon?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Siobhan didn't say,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We're supposed to call back after you try fixing Alice and Jasper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and I climbed out of bed and walked over to Alice, holding out
+ my hand.
+ She took it, and I tried, just as I had with Jake before.
+ 
+\emph on
+I'm so sorry I seeded you.
+ I was wrong, please don't think what I let her make you think...
+\end_layout
+
+\begin_layout Standard
+Alice didn't visibly react, but Emmett prodded, 
+\begin_inset Quotes eld
+\end_inset
+
+So, pseudo-sis, what's your up-to-date opinion on...
+ say...
+ the Volturi's in-house brain-scrambler?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Alice, sounding vague, and scrunching up her nose as she placed the
+ description.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's...
+ well, if she didn't exist I'd probably still be gravel, but I think that's
+ the nicest thing I can think of to say about her unless I went into her
+ value as a go opponent, in which capacity she'd be pretty easy to replace.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought you were a chess girl,
+\begin_inset Quotes erd
+\end_inset
+
+ remarked Rosalie.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only when I have Edward around to play.
+ Anyone else, I have an unfair advantage, playing a game I'm that familiar
+ with.
+ Give me long enough and I wouldn't want to play go with anyone besides
+ Edward, either.
+\begin_inset Quotes erd
+\end_inset
+
+ She tilted her head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are we going to get him out?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do we want Bella to let us live?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Rosalie, raising an eyebrow.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe Elspeth could give you a run for your money at chess.
+ You can't see her.
+\begin_inset Quotes erd
+\end_inset
+
+ Alice shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway, that seems to have...
+ partially...
+ worked.
+ Jasper?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I dropped Alice's hand and took Jasper's, repeating the procedure.
+ He was similarly noncommital about the Volturi when Emmett asked.
+ It wasn't clear to me that this was an actual improvement -- they hadn't
+ gone back to Volterra when called, after all, so Chelsea had clearly been
+ wearing off some anyway -- but Rosalie dialed Siobhan's number and reported
+ a 
+\begin_inset Quotes eld
+\end_inset
+
+success, not a resounding success, but a success".
+\end_layout
+
+\begin_layout Standard
+I took out my own phone to join in the call without having to piggyback
+ on Rosalie's.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What's next?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did I miss anything while I was asleep?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just generic catchup and speculation.
+ You're the only one with all of the memories besides me; you're useful
+ to bounce things off of, and I wanted to know how much effect we can expect
+ from you deprogramming people besides Jacob before committing to a next
+ action.
+ Everything has been fairly quiet, and with Demetri dead and the Volturi
+ not knowing it, we can afford to bide a little time.
+ As to what's next: next, I try adding various subtitles to the piece of
+ paper Alice may show Marcus, to narrow down his possible reactions so we
+ can make a more precise
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ah!
+\begin_inset Quotes erd
+\end_inset
+
+ cried Alice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Marcus...
+\begin_inset Quotes erd
+\end_inset
+
+ she breathed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Siobhan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Show me,
+\begin_inset Quotes erd
+\end_inset
+
+ I suggested, and braced myself for the vertigo.
+\end_layout
+
+\begin_layout Standard
+Marcus was
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+A pile of wreckage in the dungeon
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Why
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ I exclaimed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why 
+\emph on
+what
+\emph default
+? What's going on?
+\begin_inset Quotes erd
+\end_inset
+
+ demanded Siobhan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Marcus is in the dungeon in bits, next to my father and David,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Why
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know!
+\begin_inset Quotes erd
+\end_inset
+
+ snapped Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I see the future, not the past!
+\begin_inset Quotes erd
+\end_inset
+
+ Everyone else began to mutter in low voices, some over the phone, some
+ in the hotel room, but I focused on Alice and Siobhan's voices.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And in the future as far as I can see, he's a pile of rocks like the other
+ two!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait...
+\begin_inset Quotes erd
+\end_inset
+
+ Like my father.
+ Like my father, whose uncontrollability hadn't made keeping Addy around
+ a priority because simply by touching him Aro could -- 
+\begin_inset Quotes eld
+\end_inset
+
+Alice, look at 
+\emph on
+Aro
+\emph default
+ -- show me
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Aro was standing in his throne room, sighing sadly, patting Chelsea's hand
+ -- he's speaking to Caius -- sideways he confers with Renata, gravely,
+ he will thank Santiago for something -- sideways he collects the entire
+ guard, delivers a speech -- he's dictating an explanation for Corin to
+ deliver to the wolves -- he's placing an apologetic kiss on Chelsea's forehead,
+ looking fatherly -- sideways, he shifts to stand, and his hood falls away
+ from his head, and
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+And he is wearing, around his neck, a choker made of wire which presses
+ against his throat
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+A single, whole, filmy red eye.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh my word,
+\begin_inset Quotes erd
+\end_inset
+
+ whispered Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+As long as they leave his eye intact, can it -?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It must,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Normal vision no -- normal vision the eye needs to be physically connected
+ to the brain -- but Marcus can see relationships with his eyes closed,
+ why not with his eyes detached...? And if that hadn't worked they could accomplish
+ the same thing by just taking his head off entire, he wouldn't be much
+ danger that way either.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Ew
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Also, that is bad, bad news.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If that works and Aro was willing to try it, why didn't he do it a week
+ ago, after the compound was first blasted?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan demanded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why wait?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He was away at the time, or Caius wouldn't have ordered Addy executed.
+ He wouldn't have come back until the day after or the day after that...
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's still about a week ago,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This is a 
+\emph on
+weighty
+\emph default
+ decision, but it's a straightforward one.
+ Marcus had a certain risk of learning about Didyme's death on any given
+ day and a certainty of learning it eventually; and there was a relatively
+ fixed risk of any cover story associated with neutralizing Marcus getting
+ that information out early.
+ Chelsea in particular is the one he needs to be concerned with.
+ Alice said her visions indicated a tendency for Chelsea to panic and try
+ to run away if she learned of it.
+ Now, Chelsea wasn't in the compound at the time.
+ She was in Nicaragua with Aro.
+ But 
+\emph on
+Afton
+\emph default
+ was in the blast and she'll believe anything he tells her, so she could
+ still find out in a way that she'd have to take seriously if he stumbles
+ across the memory or if she has him confirm someone else's statement.
+ Or a shared vision.
+ And then she could panic and try to run away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea is...
+ I guess you could call it 
+\begin_inset Quotes eld
+\end_inset
+
+addicted"...
+ to being loved...
+ and without her mate she would basically be unable to function.
+ She might get hit even worse than Marcus did, I'm not sure.
+ To the point where I don't think Aro would dare hurt Afton, actually, since
+ Chelsea 
+\emph on
+is
+\emph default
+ essential to the operation, but that wouldn't stop her from freaking out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think we may have to revise our opinions of what Aro would and would not
+ dare,
+\begin_inset Quotes erd
+\end_inset
+
+ growled Jasper.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He can't use 
+\emph on
+Chelsea's
+\emph default
+ power by proxy,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Jasper shot Alice a nervous look.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or Alice's, really,
+\begin_inset Quotes erd
+\end_inset
+
+ I added reassuringly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Her power would be so much less useful with the steering under her own control
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd buy that it took Aro twelve hours to come to a decision and act.
+ Not a week,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And last night, Alice saw Marcus standing in his room, reacting to the shared
+ vision she'd planned to give him like it was 
+\emph on
+news
+\emph default
+.
+ She never actually sent it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe Aro didn't exactly come to a decision.
+ Marcus -- or someone else who would have told Marcus -- could have just
+ come across the information overnight by chance,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, 
+\begin_inset Quotes eld
+\end_inset
+
+and then Marcus could have gone nuts and gotten himself dismantled for his
+ trouble, and now he's an eye in a necklace and scree in a dungeon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe,
+\begin_inset Quotes erd
+\end_inset
+
+ muttered Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+but then whoever told him would certainly have been found out by now, and
+ I have some doubt that Marcus could have been incapacitated before managing
+ to shout something suggestive.
+ Alice, check the others in the guard...?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice closed her eyes, and after a minute, she said, 
+\begin_inset Quotes eld
+\end_inset
+
+All present and accounted for and physically contiguous except me and Jazz,
+ Marcus, and Demetri.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan muttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy sent Jasper and Alice away...
+ Alice? Can you see her?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said, 
+\begin_inset Quotes eld
+\end_inset
+
+and I couldn't see her when she called me, either.
+ She's probably with a half-vampire or a wolf.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does it have to be a 
+\emph on
+half-
+\emph default
+vampire?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked suddenly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Noemi has a quarter-human son, can you see him?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alice shook her head, slowly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan muttered something unimportant, then said, 
+\begin_inset Quotes eld
+\end_inset
+
+Alice, you and Jasper checked the wolf village -- did you take attendance,
+ or ask if everyone was there?
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper shook his head, muttering a negative.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Even if they had,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+that wouldn't necessarily have done the trick; people are often away from
+ the village on errands for more than just a day or two and that's nothing
+ unusual, I wouldn't expect anybody to mention it as a worrisome thing.
+ The day the blast hit, Shawn was in Venice, just him and Lise and Sarah
+ while Camellia stayed home with her toddlers...
+ And Nina and Olivia would have made their grocery run later that day.
+ And Addy would know all that as well as I would.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So there was an opportunity for Addy to kidnap or entice away a wolf,
+\begin_inset Quotes erd
+\end_inset
+
+ summarized Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+which Alice can't check up on directly, or Addy could have the company of
+ Noemi, Iseul, Noemi's son, or...
+ some other hybrid.
+ But still...
+ why would Addy have notified Marcus? Or, for that matter, arranged for
+ Alice and Jasper to desert?
+\begin_inset Quotes erd
+\end_inset
+
+ Jasper didn't seem to like the word 
+\begin_inset Quotes eld
+\end_inset
+
+desert
+\begin_inset Quotes erd
+\end_inset
+
+, probably an artifact of his military background (I wondered if he was
+ technically an 
+\emph on
+actual
+\emph default
+ deserter, not having returned to duty after being turned into a vampire...)
+ but he didn't protest out loud.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is she trying to be helpful?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's certainly a 
+\emph on
+strange
+\emph default
+ way to demonstrate it, but the effects...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The effects include the fact that any chance we had of 
+\emph on
+directing
+\emph default
+ Marcus's reaction to finding out about Didyme are gone,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That 
+\emph on
+could
+\emph default
+ be accidental, since however it happened it didn't involve Alice, but I'm
+ not going to count Addy as an ally just yet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fair enough,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What 
+\emph on
+is
+\emph default
+ she trying to do? If she's got your power, shouldn't we assume that she's
+ 
+\emph on
+succeeding at it
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Or at least making progress,
+\begin_inset Quotes erd
+\end_inset
+
+ acknowledged Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She 
+\emph on
+could
+\emph default
+ be trying to render herself necessary to the Volturi again, and it's only
+ a matter of her bad luck that Marcus turns out to be...
+ usable...
+ without his acquiescence 
+\emph on
+or
+\emph default
+ hers.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're relying on someone with Siobhan's power having bad luck?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Jasper dryly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My power is not 
+\emph on
+good luck
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ snapped Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+it's good 
+\emph on
+planning
+\emph default
+ if it's anything.
+ If Addy did communicate with Marcus somehow, then we shouldn't assume on
+ that basis that everything turned out exactly the way she wanted it by
+ chance -- we should assume that she has adequate 
+\emph on
+contingency
+\emph default
+ plans to recover from any misfortune this result represents.
+ 
+\emph on
+If she was involved at all
+\emph default
+, which we do 
+\emph on
+not
+\emph default
+ know, since nearly forty people were blasted with those memories 
+\emph on
+including Marcus himself
+\emph default
+.
+ Marcus could have found the information without help, reacted in one of
+ several ways that caused him to be disassembled without leaving anyone
+ else knowing too much for their own good, and become a prisoner that way.
+ He could have been informed by one of the guard, who Aro forgave for some
+ reason.
+ Or Aro could have preemptively attacked on the understanding that Marcus
+ would 
+\emph on
+eventually
+\emph default
+ find out, although that leaves us with the puzzle of why Aro would have
+ waited for a week.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy might have gotten rid of your power by now,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I doubt it,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's possible, but seems unlikely to me.
+ I tend not to stick with single plans start to finish -- I revise on the
+ fly to react to new information.
+ If she could 
+\begin_inset Quotes eld
+\end_inset
+
+taste
+\begin_inset Quotes erd
+\end_inset
+
+ that, then she'd hang onto the power until she was done accomplishing whatever
+ it is she wants to accomplish.
+ She's fairly good at not changing powers by accident.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Her plan could 
+\emph on
+require
+\emph default
+ her to change powers,
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Emmett.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That would be a very drastic thing to try,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+since she doesn't have any good way of getting at me to replace the planning
+ power if she needs it again.
+ She might do it anyway, but it'd probably be when she was confident in
+ being near the end of her plan or after putting in motion some series of
+ events that would let her have access to me again.
+ I don't know what she's aiming at, but I doubt the current state of the
+ world is it, so my guess is that she's still holding onto my power.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you suppose,
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie said, backtracking to the prior topic, 
+\begin_inset Quotes eld
+\end_inset
+
+that whatever Aro did to get the rest of the guard to accept Marcus being
+ deposed just took a week to lay groundwork for?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a silence, and then Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+Plausible.
+ Without knowing the official story, it's hard to guess how hard it would
+ have been to swallow, but plausible.
+ Marcus 
+\emph on
+was
+\emph default
+ one of the three kings for more than one millennium and it wouldn't be
+ trivial to undo his status all in one go even if everyone understands that
+ Aro is really in charge.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+what's next?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+have a look, please, at what Chelsea would do if you just shared the vision
+ of my piece of paper with 
+\emph on
+her
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Show me,
+\begin_inset Quotes erd
+\end_inset
+
+ I added, even though I was growing to hate the experience of watching a
+ shared vision, because I wanted to be able to relay everything to Siobhan
+ later in case she was able to pick up some detail from the full vision
+ that a verbal description would leave out.
+ Alice closed her eyes again...
+\end_layout
+
+\begin_layout Standard
+Chelsea will watch, and tip her head to the side ever so slowly, and her
+ smile will falter and disappear, she's drawing her limbs in towards herself
+ like she's cold, she whirls round and goes to (blankness)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Afton's in the village, or something, I can't see past that because she'll
+ only react so much without him,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice reported.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Try again in half an hour,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want you all in the car on your way to the Nashville airport now that
+ Elspeth is awake, though.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I started collecting the clothes I'd brought into my suitcase, and Alice
+ said, 
+\begin_inset Quotes eld
+\end_inset
+
+But Genevieve...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Call her and make something up about why you've got to go, once you think
+ she'll be awake,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You weren't telling her the truth to begin with, why start 
+\emph on
+now
+\emph default
+? You can come back and tell her anything you like after this is all over.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a silence, and Alice said 
+\begin_inset Quotes eld
+\end_inset
+
+Fine,
+\begin_inset Quotes erd
+\end_inset
+
+ and then the conversation turned to trivialities such as how Alice and
+ Jasper would get on the plane (they had ID forged on their behalf in Italy,
+ but the Volturi were aware of it and would be able to notice where they
+ were going) and where we were going (Denali, but only because Jake couldn't
+ be moved; as soon as he was well enough to travel, and, ideally, the local
+ purveyors of forged documents had filled rush orders for all the undocumented
+ vampires, we would fly out to Heathrow and join the British contingent).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, while we were halfway out the door of the hotel room.
+ Siobhan was still on the phone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Volturi can track our ID, like you said.
+ They might wait until they're sure Demetri isn't coming back, but even
+ if they do, this whole mess might take longer than that.
+ And 
+\emph on
+we
+\emph default
+ didn't fly into Nashville.
+ We flew into Gulfport-Biloxi International.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And?
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you worried someone from Volterra is going to put the pieces together
+ and harm your niece? You didn't tell her anything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But she 
+\emph on
+is
+\emph default
+ the only person on the planet I still care about besides Jasper,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They could turn her into a hostage.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Go ahead and extract her,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+and bring her with you, but I don't think you had better bring her to Denali
+ proper, not if you're going to leave her human.
+ Put her up in a hotel in Fairbanks.
+ I should probably tell Bella to bring in her parents and stepfather and
+ any extended family she has alive, too...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think she'll say no,
+\begin_inset Quotes erd
+\end_inset
+
+ I predicted, as I and the four vampires arranged ourselves snugly in Rosalie's
+ new car.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Volturi can't contact her -- as far as they know, she's alone with no
+ phone and an e-mail she's not going to check, and it'd be reasonable to
+ bet she's immune to Dwi, so they can't contact her that way.
+ There's no way for a hostage notification to reach her, so there's no reason
+ to take her parents or stepfather or any other humans she cares about.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll tell her regardless,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+but duly noted.
+ Alice, give me your niece's full name and we can go ahead and add her to
+ your flight.
+ You have enough leeway that as long as you get her to go with you in under
+ an hour you won't miss it.
+\begin_inset Quotes erd
+\end_inset
+
+ Alice recited the name, and we drove to the little white house.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My goodness,
+\begin_inset Quotes erd
+\end_inset
+
+ said Genevieve when we rang her doorbell.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Another unexpected visit! Come in, why don't you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry to bother you so early, Genevieve, but it's important and might
+ be urgent,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice, going inside as the rest of us trailed after her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, if you'd do the honors -- one of those convenient summaries?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure how it works on humans,
+\begin_inset Quotes erd
+\end_inset
+
+ I said warningly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It might be better if I just said it in words...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I beg your pardon?
+\begin_inset Quotes erd
+\end_inset
+
+ said Genevieve.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Humans?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I puzzled for a second over how to start, and then simply said, 
+\begin_inset Quotes eld
+\end_inset
+
+Genevieve, me and Alice and Jasper and Rosalie and Emmett 
+\emph on
+aren't
+\emph default
+ humans.
+ They're vampires and I'm a half-vampire.
+ But we aren't here to hurt you -- we're here because you're Alice's niece.
+ She's your mother's older sister
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But she's so young!
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Genevieve.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Vampires don't age,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice was nineteen when she changed and still looks it even though it was
+ ninety-one years ago.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Vampires are only a story...
+\begin_inset Quotes erd
+\end_inset
+
+ said Genevieve weakly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know it's a lot to take in, and I'm sorry to have to spring it on you
+ so abruptly,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+but because you 
+\emph on
+are
+\emph default
+ Alice's niece, and the vampire world is gearing up to be at war, it's not
+ safe for you to simply stay here.
+ Someone might hurt you to get to her.
+ We need to take you with us to Alaska.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't go to 
+\emph on
+Alaska!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Genevieve.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What about Snowflake? What about the crocheting workshop I said I'd teach?
+ Or the
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We will pay to kennel Snowflake if you have nowhere else to put him, for
+ as long as necessary,
+\begin_inset Quotes erd
+\end_inset
+
+ put in Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Everything else has to be second to your safety.
+ The people we are dealing with are not going to leave you alone just because
+ you didn't do anything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have a dentist appointment a week from this coming Friday...
+\begin_inset Quotes erd
+\end_inset
+
+ Genevieve said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And with any luck you will be home in time to keep that appointment, but
+ you need to come with us to Alaska first,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can tell everyone you've just decided to take a vacation, can't you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I can't go to Alaska...
+ And you can't be vampires, vampires aren't real.
+\begin_inset Quotes erd
+\end_inset
+
+ She didn't sound frightened or anxious, which was probably Jasper's doing,
+ but she did seem quite adamant on those points.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You must, and we are,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I -- I can't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+At what point,
+\begin_inset Quotes erd
+\end_inset
+
+ whispered Jasper, pitched above Genevieve's hearing and sped up too fast
+ for her to parse even if she'd heard the words, 
+\begin_inset Quotes eld
+\end_inset
+
+do we just pick her up and leave with her whether she likes it or not?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think we can do that,
+\begin_inset Quotes erd
+\end_inset
+
+ trilled Alice back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hard to get an unwilling woman onto an airplane without threatening her,
+ and I don't want to do that...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If we can't convince her...
+\begin_inset Quotes erd
+\end_inset
+
+ replied Jasper.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If we can't convince her she'll just have to stay here,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice tightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not going to drag my niece unwilling onto a plane to Alaska.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Genevieve, please,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, hoping to render that argument moot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We aren't lying to you.
+ You are in real danger because you're related to Alice, and we want to
+ help.
+ Is there any way we can prove to you that it's true?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about the rest of my family?
+\begin_inset Quotes erd
+\end_inset
+
+ Genevieve asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hattie and her
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think they'll be hurt,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They're more distantly related, or not related to Alice at all if they're
+ on your father's side of the family.
+ And we're in a hurry and can't stop to explain all of this to more people.
+ Please, Genevieve, how can we convince you to come with us?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It took a lot more repetition and pleading, an impromptu demonstration of
+ Emmett's superhuman abilities in the form of plate-juggling, and an exacting
+ comparison of Alice's face with the one surviving photograph of human Alice
+ that Genevieve had, but eventually we coaxed her into the car with us.
+ (Alice sat on Jasper's lap to make room.) Genevieve called her cousin Hattie
+ about Snowflake the dog and then packed a bag with our help.
+ I spent the rest of the car trip to Nashville gently explaining to her
+ the same basic concepts over and over.
+ It was surprisingly difficult to make it sink in -- she didn't think I
+ was lying, but once advanced the opinion that I was 
+\begin_inset Quotes eld
+\end_inset
+
+a very imaginative girl
+\begin_inset Quotes erd
+\end_inset
+
+ and suggested that I'd perhaps 
+\begin_inset Quotes eld
+\end_inset
+
+read this in a book somewhere and then forgot where you heard it".
+\end_layout
+
+\begin_layout Standard
+Alice and Jasper parted ways with the rest of us when we got to the airport,
+ so they could sneak on while we rode conventionally.
+ Rosalie took a detour to give away her car.
+ She looked regretful when she rejoined the group.
+ Genevieve slept through much of the flight, while I amused myself with
+ browsing my stored memories and chatting about nothing in particular with
+ Emmett and Rosalie.
+ During the second leg of the flight I fell asleep, too, only to be awakened
+ at our destination.
+\end_layout
+
+\begin_layout Standard
+After the dreary trip, and a reunion with the illicit passengers, we set
+ up Genevieve in a hotel in Fairbanks under the assumed name 
+\begin_inset Quotes eld
+\end_inset
+
+Jean Baker".
+ Alice wanted to leave someone to guard her, but Genevieve insisted that
+ she would be fine without a 
+\begin_inset Quotes eld
+\end_inset
+
+nursemaid
+\begin_inset Quotes erd
+\end_inset
+
+, and that as long as someone would come and tell her when it was all right
+ to go home again, she could simply enjoy a vacation in Fairbanks on her
+ own.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not going to turn her?
+\begin_inset Quotes erd
+\end_inset
+
+ Emmett asked Alice on the way back to Denali.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's not dying,
+\begin_inset Quotes erd
+\end_inset
+
+ said Alice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's only old.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella wasn't dying either,
+\begin_inset Quotes erd
+\end_inset
+
+ Emmett pointed out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know that,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But no, I'm not planning to turn her.
+ I don't think she'd like the idea, considering, do you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ admitted Emmett.
+\end_layout
+
+\begin_layout Standard
+I split off from the vampires part of the way to Denali -- they were going
+ to the houses, and I was going to see Jake up in the mountains.
+ He was asleep when I arrived and didn't stir when I sat nearby.
+ I was mildly surprised to find my mother still hanging around nearby, since
+ there was no longer a reason to keep the Denali houses visibly innocent
+ of features that would attract Volturi notice, but I supposed she was just
+ keeping an eye on Jake, and she said, 
+\begin_inset Quotes eld
+\end_inset
+
+Sure, why not,
+\begin_inset Quotes erd
+\end_inset
+
+ when I suggested this.
+ This seemed like a strange way to phrase the answer, but I decided that
+ whatever was causing her to do so wasn't important.
+\end_layout
+
+\end_body
+\end_document

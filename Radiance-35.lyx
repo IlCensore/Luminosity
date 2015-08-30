@@ -1,0 +1,1759 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{31}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Genealoger
+\end_layout
+
+\begin_layout Standard
+When I woke up, my mother promptly released my hand, not making eye contact.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Couldn't make it work,
+\begin_inset Quotes erd
+\end_inset
+
+ she murmured.
+ I felt sorry for her, a little -- I didn't care if she wanted to watch
+ my dreams, but it obviously mattered to her that she no longer could.
+ Sometime overnight she'd taken back the jewelry she'd tossed me during
+ the previous day's fight; she was wearing her rings, her bracelet, and
+ her locket with my father's wedding ring strung onto the chain.
+ Rosalie and Emmett were nearby, with three packed bags, waiting for me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Morning, early-bird,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All set?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We have enough time before the flight for you to hunt, if you like,
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie said, 
+\begin_inset Quotes eld
+\end_inset
+
+or we can stop and get you something on the way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I didn't feel like trying to kill anything while I had an injury, and I'd
+ gotten more used to human food over the past month and a half.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let's just get something at the airport,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, sitting up and gently prodding my shoulder.
+ It was tender, but as long as I didn't crazily windmill my arms I thought
+ it would be all better by the evening.
+\end_layout
+
+\begin_layout Standard
+I looked at Jake.
+ He was still fast asleep.
+ I smoothed his hair again, and sent him a summary of where I was going
+ and why so he wouldn't be confused when he woke up with no one but my mother
+ nearby.
+ He didn't stir, but I assumed it would be there for him to remember when
+ he woke up and wondered where I was.
+\end_layout
+
+\begin_layout Standard
+I followed Rosalie and Emmett out of the mountain range to where they'd
+ parked a car -- I didn't know if it was hers or one of the Denalis', but
+ I hadn't seen it before.
+ She drove, and the pair of them engaged me in gentle conversation about
+ how each of us had spent the five years following my 
+\begin_inset Quotes eld
+\end_inset
+
+disappearance
+\begin_inset Quotes erd
+\end_inset
+
+ (as Rosalie kept calling it -- I had a hard time thinking of myself as
+ having disappeared).
+\end_layout
+
+\begin_layout Standard
+I had Rosalie's memories up until the day she'd been to Volterra to retrieve
+ Ilario from his sickbed.
+ Demetri had noticed her, 
+\begin_inset Quotes eld
+\end_inset
+
+invited
+\begin_inset Quotes erd
+\end_inset
+
+ her to the compound for a brief visit, and conducted her to Aro, who read
+ her, all in the time it took the hospital to deem Ilario ready to travel.
+ The Volturi had let her go without incident or subtext-laden conversation,
+ although Aro had pressed a jeweled hairclip on her.
+ It was a fairly routine check -- which left me with recollections of most
+ of my aunt's life, and through her eyes, a majority of Emmett's too.
+\end_layout
+
+\begin_layout Standard
+Emmett found this fascinating.
+ He kept asking me for numbers of various memory types -- how many times
+ did I remember getting married, how many firsthand perspectives did I have
+ on the fall of Rome, how many authentic Sanskrit accents could I do, how
+ many books I now had memorized, how many instruments could I now play if
+ I got my hands on them.
+ I couldn't answer most questions like that without at least a few hours
+ to look for the answers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Lots,
+\begin_inset Quotes erd
+\end_inset
+
+ I tended to answer each such question, or sometimes 
+\begin_inset Quotes eld
+\end_inset
+
+several
+\begin_inset Quotes erd
+\end_inset
+
+, followed by a few examples, which he seemed to find just as satisfactory
+ as a numerical answer.
+\end_layout
+
+\begin_layout Standard
+Rosalie wanted me to settle a long-running argument between her and her
+ husband about whether or not she had in fact seen Elvis in a department
+ store in 1960; she'd told Emmett she had, but he was skeptical, and on
+ inspection I was pretty sure he was right.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It 
+\emph on
+did
+\emph default
+ look like him,
+\begin_inset Quotes erd
+\end_inset
+
+ I said when Rosalie pouted at this pronouncement, 
+\begin_inset Quotes eld
+\end_inset
+
+but I think Elvis was across the country at the time, so it was probably
+ just someone else.
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie did not ask me to arbitrate any other disagreements, and subsequently
+ only wanted to hear things I knew from the memories of an ill-fated race
+ car factory employee Aro had once eaten.
+ By the time we arrived at the airport, Rosalie had a lot of outdated corporate
+ espionage on Lamborghini.
+\end_layout
+
+\begin_layout Standard
+We got onto our airplane with little fuss, after stopping to buy me several
+ sandwiches and bags of snackfood.
+ I nibbled through these absentmindedly between my turns in our ongoing
+ conversation, which had begun to revolve around art history and how 
+\begin_inset Quotes eld
+\end_inset
+
+unbelievably cute
+\begin_inset Quotes erd
+\end_inset
+
+ it was that I remembered a lot of it.
+ Rosalie teased tangles out of my hair.
+ Emmett informed me that I'd been loaned some of Kate's clothes, again,
+ which were in the suitcase they'd packed for me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do either of you actually know how to go about looking up Alice?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked during a lull in the conversation.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't you have lots of memories of how to find stuff like this?
+\begin_inset Quotes erd
+\end_inset
+
+ teased Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, Genealoger Extraordinaire!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have 
+\emph on
+too many
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+From all over the world over thousands of years of history.
+ I could probably pick out the ones that will most likely be applicable
+ to 2011 Biloxi if I thought about it all day, but it would be easier if
+ one of you had an idea of what to do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, first, I think we should see if the hospital is still there,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie briskly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can find the building,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or if it's gone, the place where it was.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then, if it's still a hospital,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emmett, 
+\begin_inset Quotes eld
+\end_inset
+
+we talk or intimidate or sneak or trick our way into their records...
+ but they probably don't have ninety-year-old patient lists with convenient
+ next of kin listings.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then why go there at all?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If they probably don't have records, I mean.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If it 
+\emph on
+does
+\emph default
+ have records, that's the obvious place to find what we're looking for.
+ If it doesn't, then we need to find a genealogical library, or church records,
+ or talk to people in a nursing home who might have known the family, or
+ something like that -- how well do you know your way around Biloxi, Elspeth?
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Modern Biloxi? Not at all.
+ And even in 1920 James didn't explore much,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So we'll need to consult someone for directions to places like that anyway,
+ and may as well try asking at the hospital, if it's a hospital,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The nursing homes in particular they could probably tell us how to find.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That makes sense,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can do your honesty voice claiming Alice is your aunt, right?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She's not too alienated or too non-biological or anything?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Honesty voice, is that what you call it?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, I can, but I think I look too young to have an aunt who was born a
+ hundred and eleven years ago.
+ And we also don't know for sure if she had any siblings or was ever married
+ before, and if she didn't and wasn't she couldn't have a niece of 
+\emph on
+any
+\emph default
+ age.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Genealogy is a fuzzy business,
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can say that you're 
+\emph on
+pretty sure
+\emph default
+ she's your aunt, and let people assume you 
+\emph on
+mean
+\emph default
+ great-aunt or great-great-aunt.
+ It's possible she was an only child, but not very likely, and given the
+ time scale we're looking at here, no one is likely to call you on it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Emmett looked between me and Rosalie speculatively, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+I think we'll say you're our niece, Elspeth, on Rose's side, and that Alice
+ is Rose's great-aunt and your great-great-aunt.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Me, why not you?
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You've got the dark hair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice is a teeny person who probably had a teeny family, and I'm not even
+ slightly teeny,
+\begin_inset Quotes erd
+\end_inset
+
+ said Emmett.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Besides, for all anybody knows you could dye
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do 
+\emph on
+not
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie grumpily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know you don't,
+\begin_inset Quotes erd
+\end_inset
+
+ laughed Emmett, placating her with a peck on the cheek, and we continued
+ hammering out the details of how we'd present ourselves in trying to justify
+ our interest in Alice's background.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+The plane landed.
+ Rosalie bought a car (
+\begin_inset Quotes eld
+\end_inset
+
+I've had my eye on this model for a while...
+ there's no place to put it after we're done with it, but I know a charity
+ with an arm in Nashville that'll take it and then I can get another one
+ later,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, sounding vaguely disdainful of rented cars in general), and I
+ slept through the drive.
+ By the time I woke up we were in a hotel.
+ Or rather, Rosalie and I were in a hotel, and Emmett was already out and
+ about learning his way around town.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Couldn't you have been nocturnal?
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Rosalie, looking out at the brief remaining darkness that was letting
+ her mate go out and about sans elaborate disguise.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Our sleep schedules are pretty random, I think,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Noemi is outright nocturnal.
+ Cody gets up and goes to sleep a couple hours before me.
+ Iseul can stay up later than I can.
+ And Nahuel gets up at noon every day.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do you know?
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie asked, tilting her head and looking amused.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I met Cody in person.
+ And my parents kept Nahuel talking about how the species works for a while,
+ while they were trying to figure out whether they could have me or not,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied, unsure why this would be amusing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, hmph,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I thought you would make a confused face and not know how you knew that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why would I do that?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+Rosalie pursed her lips in thought, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+How many 
+\emph on
+grandchildren
+\emph default
+ does Joham have?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Four, unless Nahuel...
+ has...
+ wait...
+\begin_inset Quotes erd
+\end_inset
+
+ I scrunched my eyebrows together, wondering where the extra three came
+ from, and Rosalie laughed, giving me a careful hug that avoided my shoulder
+ even though it had no remaining signs of injury.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Huh?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ah, you look all grown up but you're still such a cute kid,
+\begin_inset Quotes erd
+\end_inset
+
+ laughed Rosalie.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said uncertainly.
+ She ruffled my hair, smiling, and then ushered me down to the hotel's cafeteria
+ for breakfast.
+ Emmett joined us soon enough, and the vampires sipped water while I ate
+ off three plates for the sake of appearances.
+\end_layout
+
+\begin_layout Standard
+Rosalie's comment about my schedule aside, the fact that most places we
+ could go for information were not open in the middle of the night meant
+ that they'd come equipped for daywalking and expected to do some of it.
+ By the time I finished eating, there were enough clouds that they didn't
+ need coverage even outside the car, but they did stash their sweaters and
+ gloves and hats in the trunk while I directed us to the lot that had held
+ Alice's sanitarium.
+\end_layout
+
+\begin_layout Standard
+It was not a sanitarium anymore, and the building hadn't even been converted
+ -- it had been knocked down entirely, and the area now appeared to be part
+ of a trailer park.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Well, that's disappointing,
+\begin_inset Quotes erd
+\end_inset
+
+ remarked Emmett.
+\end_layout
+
+\begin_layout Standard
+I participated very little in the rest of the hunt -- I recited facts and
+ shared memories when my aunt and uncle asked me, and I followed them around
+ when they left the car to cast my precognition shadow over our activities,
+ but mostly I fretted about Jake and tried to distract myself from unproductive
+ worry by processing recollections of interesting events.
+ Rosalie and Emmett didn't seem to mind my disengagement.
+ Emmett remarked, in a voice he might have thought too low for me to hear,
+ that while the research project wasn't as good as getting to pulverize
+ some Volturi, it was better than milling around Denali waiting for someone
+ to have an idea or for the guard to get around to wiping them out.
+\end_layout
+
+\begin_layout Standard
+Rosalie flipped through stacks of compiled genealogical data at the library
+ with a sourly envious expression on her face, doubtless looking at all
+ the arrows pointing from parents to their broods of children and wishing
+ for the millionth time to trade what Carlisle had given her for never having
+ needed it in the first place.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This lady seems to have been so popular that all three of her sons, and
+ two of her daughters, named one of their girls Mary Alice after her,
+\begin_inset Quotes erd
+\end_inset
+
+ she muttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That must have been a confusing family to belong to.
+ I bet it was a family joke or something after the first couple...
+ No wonder some of them would have gone by middle name and our Alice would
+ have woken up forgetting her first name.
+ Only that means we have three Mary Alice Brandons to sort through...
+ ah, no, it's four, this one married a fellow adopted by another branch
+ of the Brandon family and got the surname that way...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I remembered that I was -- sort of -- named after my mother and my (biological)
+ paternal grandmother.
+ Bored anyway, I looked through what I'd been blasted with about the latter.
+ I had a handful of memories about her: moth-eaten, paper-thin impressions
+ that had survived her son's turning, and a few vivid hours from Carlisle.
+\end_layout
+
+\begin_layout Standard
+My father remembered his mother as a pleasant background fact about the
+ world he'd lived in until age seventeen.
+ She cooked, she scolded him when he misbehaved, she dispensed suitably
+ embarrassing hugs in front of even-more-vaguely-remembered friends, she
+ fretted about his intention to join the army as soon as he was able and
+ fight in World War I.
+ Then they both came down with the Spanish flu and rendered that plan moot.
+ That was how Carlisle had encountered my father in the first place...
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+Mrs.
+ Masen is hurting her chances, trying to nurse her son.
+ I thought he would go quickly, like his father -- Edward Masen, Sr., who
+ I never saw wake -- but no, she's up and at the boy's side, looking after
+ him through her own illness, whenever I happen by that part of the vast
+ grid of beds makeshift and otherwise.
+ I start spending more time in that corner, trying to attend to her son
+ so she won't feel she needs to.
+ I become a little less careful about hiding my speed, a little more willing
+ to stay through the times I should pretend to be sleeping when I think
+ it will pass without notice.
+ There are many other things for my colleagues to pay attention to than
+ my late hours and rapid work, and the patients are generally too delirious
+ to notice, or be believed if they do.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I come in after sunset, after a day of pretending to sleep and having nothing
+ to do but dream, insofar as I can dream, of Esme.
+ I can only hope the plague has spared her part of Ohio, or wherever she's
+ living now, if she's moved.
+ (Let her have moved.
+ One of these years I won't be able to go on alone anymore, and I 
+\emph default
+will
+\emph on
+ look for her, but let her have moved, let her be impossible to find, let
+ her escape this fate...) If I left Esme behind to lead a normal, happy, human
+ life, only for her to fall victim to this devastation exclusive to humans
+ (she would be only twenty-two, now! so young!), then no protestation of
+ having left for her own good will measure up to the loss...
+ I must not dwell on Esme.
+ It will do her no good.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+When I can emerge, I check on Elizabeth Masen and her son first.
+ I'm attached to them, with their matching green eyes and bronze hair, her
+ obvious self-sacrificing care for her child, his tenacious grip on life
+ through a severe case of the illness.
+ There have been so many patients, an endless march of them, all worth attachmen
+t, but I avoid it when I can, or the job would be too heartbreaking.
+ I've failed in that, here.
+ Perhaps the loneliness is catching up with me in more ways than the obvious.
+ Elizabeth does vaguely, distantly resemble Esme, I suppose, though I'd
+ never mistake one for the other.
+ I think Esme would be a devoted mother like her.
+ I hope she gets that chance.
+ (Another thing I would be tempted to take from her.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Elizabeth's not at her son's side, but in her own bed -- I've been telling
+ her over and over to stay there, but read it as a bad sign anyway.
+ And I'm not wrong.
+ She's taken a decided turn for the worse, her fever is out of control,
+ she's too weak to fight it off anymore.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She glares at me, when I approach, and sounds stronger than she looks
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Save him!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I take her hand, knowing that anything will feel cold to someone so feverish.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll do everything in my power,
+\begin_inset Quotes erd
+\end_inset
+
+ I promise.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+You must,
+\begin_inset Quotes erd
+\end_inset
+
+ she says, and she clings to my hand tightly enough that I wonder if I wasn't
+ mistaken, if she doesn't have the reserves to pull through...
+ Hard, emerald eyes bore into mine.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You must do everything in
+\emph default
+ your
+\emph on
+ power.
+ What others cannot do, that is what you must do for my Edward.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I know a moment of fear -- she knows, she must know something! Why else
+ would she ask 
+\emph default
+that
+\emph on
+, if she didn't know me to be inhuman, if she didn't know that I have resources
+ others lack...? How could she know? Some supernatural trick, like what Aro
+ calls 
+\begin_inset Quotes eld
+\end_inset
+
+witchcraft"?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She releases my hand, her arm falls onto the sheet, and she lapses into
+ unconsciousness.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I've considered making a companion for myself.
+ Considered it for decades, actually, although most sorely tempted seven
+ years ago...
+ just one person in the world who I would have no need to hide from, who
+ I could in good conscience keep as a companion instead of an occasionally-visit
+ed, ineffectually-entreated friend at a distance.
+ But I have never been able to justify making anyone like myself.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Elizabeth dies less than an hour after making her demand.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Edward is not far behind, I know.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Could she truly want a life like mine for her son?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+There's something about his face, even in fitful, fevered sleep.
+ Some goodness shining out of it.
+ His mother had every right to be proud, to be protective, to -- perhaps
+ -- die of a disease that needn't have killed her, trying to help her son.
+ If I had ever had a son, I would have wanted him to look something like
+ that...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Whim, of all things, drives me.
+ I wheel Elizabeth into the morgue, and then turn around and come back for
+ Edward.
+ No one stops me, no one checks him for breathing, for a pulse; there aren't
+ enough eyes or hands to keep track of half the patients who
+\emph default
+ aren't
+\emph on
+ already in the morgue.
+ No one else living is there.
+ I steal him away out the back door, and go across rooftops to take him
+ home --
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie, jostling me out of my reminiscence.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think we have a good idea where to go next.
+ One of the Mary Alice Brandons was listed as dying in 1920 -- the others
+ all lasted another decade apiece except one who died when she was two.
+ Had no kids, 
+\emph on
+but
+\emph default
+ had a little sister, born in 1909 when our Alice was eight, died in '86,
+ but had one daughter in 1940, who's still alive -- Alice's niece, if I'm
+ right.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Names?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, getting up to follow her to the pay phone outside the library.
+ It had a phone book, which she flipped through to the white pages.
+ Emmett pulled faces at his reflection in the nearest window.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The sister was Cynthia...
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie began.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+little sin
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Little 
+\emph on
+Cyn
+\emph default
+, maybe?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+
+\begin_inset space ~
+\end_inset
+
+née Brandon, married name Patterson, the daughter's Genevieve Lydia Patterson,
+ never married.
+ Genevieve would be over seventy, now,
+\begin_inset Quotes erd
+\end_inset
+
+ Rosalie said, frowning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There wasn't a death date written for her, but if it was recent there wouldn't
+ be.
+ I hope she lives by herself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We'll try one of the cousins if Genevieve is dead?
+\begin_inset Quotes erd
+\end_inset
+
+ I guessed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I suppose, but the farther away in the tree we have to go, the less likely
+ it is to help.
+ We'll hope Genevieve's okay,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rosalie.
+ She peered at the phone book.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your honesty voice works on the phone, right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+Rosalie pointed out the only Genevieve Lydia Patterson in the phone book.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Call her up.
+ Tell her you think she's your aunt Mary Alice's niece and ask if you can
+ visit with your aunt and uncle, to learn more about the family,
+\begin_inset Quotes erd
+\end_inset
+
+ she directed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There are enough Mary Alices in the family that at worst she'll think you
+ mixed our Alice up with one of her cousins.
+ You're a cute, harmless, trustworthy little girl who's related to her and
+ she's a childless spinster -- I doubt you'll have trouble getting her to
+ meet us.
+ Then we spring the exciting `surprise! vampires!' bombshell as gently as
+ possible and hope it doesn't give her a stroke.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I pulled out my phone and punched in the number, anxiety creeping up my
+ spine, but my voice didn't shake after the ringing stopped and a woman's
+ voice said 
+\begin_inset Quotes eld
+\end_inset
+
+Hello?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can I speak to Ms.
+ Patterson, please?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Speaking.
+ Who's calling?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My name is Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I -- I'm doing a genealogy project.
+ I think you might be related to my aunt Mary Alice Brandon.
+ If you're Genevieve Lydia Patterson and your mother was Cynthia
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh my,
+\begin_inset Quotes erd
+\end_inset
+
+ exclaimed Genevieve.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I am, and she was.
+ I didn't think Aunt Alice had family of her own before she passed, though.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's very complicated.
+ Would it be possible for me, and my aunt Rosalie and uncle Emmett, to meet
+ you?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My goodness.
+ I have dinner with my book club today, but after that I don't see why not,
+ I suppose,
+\begin_inset Quotes erd
+\end_inset
+
+ she fluttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My goodness.
+ Did you find me in the phone book?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, then, you have my address,
+\begin_inset Quotes erd
+\end_inset
+
+ Genevieve said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I'm telling my cousin Hattie's boy I'm having visitors and giving him
+ all your names, so you know,
+\begin_inset Quotes erd
+\end_inset
+
+ she added in a warning tone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When would it be okay for us to visit you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mmm...
+ eight?
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Genevieve.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think I can dig up all the family photo albums and things like that by
+ then! Oh, this will be fun, I haven't looked at those old boxes for years.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Great.
+ Thank you, Ms.
+ Patterson,
+\begin_inset Quotes erd
+\end_inset
+
+ I said brightly, and we exchanged farewells and I closed my phone.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Genevieve lived in a small white house and kept a small white dog out in
+ her yard, which stayed as far away from Rosalie and Emmett as it could
+ when we walked up to the front door.
+ (We had killed the afternoon reporting on our progress and making general
+ chit-chat with our Denali contingent.
+ Siobhan was delighted that we'd located a niece, but didn't stay on the
+ phone long, only saying that she wanted another call as soon as Genevieve
+ was caught up on what was going on.)
+\end_layout
+
+\begin_layout Standard
+I rang the doorbell, and Genevieve answered the door.
+ She was the most little-old-lady-like little old lady I had ever seen in
+ my life: five feet tall, wispy snow-white hair, a face covered in smile-wrinkle
+s, and a spindly, scrunched frame.
+ She seemed able enough, though, ushering us in with enthusiastic gestures
+ and shutting the door behind us.
+ Her eyes lingered a bit on Rosalie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You look like you could use some sleep, Mrs...
+\begin_inset Quotes erd
+\end_inset
+
+ She trailed off, waiting for a last name.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hale,
+\begin_inset Quotes erd
+\end_inset
+
+ supplied Rosalie.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you too, Mr.
+ Hale,
+\begin_inset Quotes erd
+\end_inset
+
+ said Genevieve, assuming that they'd share a last name based on their introduct
+ion as my aunt and uncle.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you'll be Elspeth, I suppose?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But...
+ I didn't tell you the entire truth about why we're here.
+ You see, we 
+\emph on
+do
+\emph default
+ think you're my aunt Alice's niece...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I looked at the family Bible,
+\begin_inset Quotes erd
+\end_inset
+
+ mused Genevieve, 
+\begin_inset Quotes eld
+\end_inset
+
+and I just don't know how that can be, although I imagine you could be some
+ sort of family.
+ The Bible has Mary Alice in there, and if they left 
+\emph on
+her
+\emph default
+ in when she was sent off to die in a mental hospital, I don't think they're
+ hiding any other siblings, are they? How else would I be your aunt's niece?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice didn't die,
+\begin_inset Quotes erd
+\end_inset
+
+ I said carefully, leaning hard on my magic, and Genevieve's eyes went wide.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She was released from the hospital by someone who worked there, but didn't
+ know where she'd come from, or how to get home.
+ She was eventually adopted by another family -- um, Aunt Rosalie's parents.
+ That's how she's my aunt.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Me oh my,
+\begin_inset Quotes erd
+\end_inset
+
+ said Genevieve after a silence.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's quite a story.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I heard the front doorknob twist, and the door pull open, and Rosalie and
+ Emmett sprang to their feet too fast, and Genevieve gasped
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Quite a story,
+\begin_inset Quotes erd
+\end_inset
+
+ agreed Alice's voice, softly.
+\end_layout
+
+\end_body
+\end_document

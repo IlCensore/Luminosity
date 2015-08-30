@@ -1044,5 +1044,162 @@ filename "Radiance-33.lyx"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-34.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-35.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-36.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-37.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-38.lyx"
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Here ends 
+\family sans
+Radiance
+\family default
+,
+\begin_inset Newline newline
+\end_inset
+
+book 
+\noun on
+ii
+\noun default
+ of 
+\noun on
+Luminosity -- A Re-imagining of Twilight
+\noun default
+.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Short stories in this same narrative universe
+\begin_inset Newline newline
+\end_inset
+
+are collected in the book 
+\family sans
+Flashes
+\family default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size small
+Book typesetting by Cato Philosophus (
+\size footnotesize
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{cato.philosophus@gmail.com}
+\end_layout
+
+\end_inset
+
+
+\size small
+),
+\begin_inset Newline newline
+\end_inset
+
+completed on November 30
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+th
+\end_layout
+
+\end_inset
+
+, 2015.
+\end_layout
+
 \end_body
 \end_document
