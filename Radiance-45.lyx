@@ -1,0 +1,1959 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{43}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Executioner
+\end_layout
+
+\begin_layout Standard
+Before Addy got me all the way to the throne room, we were met in the hallway
+ by my parents -- my mother still half-supporting my father, who was covered
+ in shallow fissures along his skin that hadn't healed yet and leaning his
+ head on her shoulder.
+ The piece of his thumb that Aro had taken was back where it belonged.
+ Behind them, fanned out in a nicely intimidating V, were Siobhan and Liam,
+ Jasper, Tanya and Kate and Garrett and Eleazar, Nathan, and Maggie.
+ I heard the voices of the others who'd made it through the battle intact,
+ back in the throne room.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Unhand my daughter,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother demanded.
+\end_layout
+
+\begin_layout Standard
+Addy let me go without further ado, and I stumbled a step and then crossed
+ the distance; my mother put her free arm around my shoulders.
+ And then Addy gave me -- and to judge by the slight shifts in posture from
+ everyone else except my mother, all of us -- a summary of the answers to
+ her remaining mysteries.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy, my mother's immune to my power now,
+\begin_inset Quotes erd
+\end_inset
+
+ I said helpfully, before even unpacking the sending, 
+\begin_inset Quotes eld
+\end_inset
+
+she didn't get that...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addy blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, well then, I suppose I'll have to resort to the use of language.
+ How inelegant.
+\begin_inset Quotes erd
+\end_inset
+
+ She coughed, for effect, then said, 
+\begin_inset Quotes eld
+\end_inset
+
+Bella, you're welcome.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And what,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother, quietly, 
+\begin_inset Quotes eld
+\end_inset
+
+am I welcome to?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alice and Jasper,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, ticking off fingers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Stefan and Vladimir.
+ Nathan.
+\begin_inset Quotes erd
+\end_inset
+
+ She ticked off the entire hand, then pointed at Nathan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+She
+\emph default
+ sent you?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked, turning incredulously to him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why didn't you mention that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Time wasn't proper,
+\begin_inset Quotes erd
+\end_inset
+
+ he said easily, smiling.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you knew Nathan, why wasn't he in the dungeon with all the other useful
+ witches you'd met?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother wanted to know.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We hadn't met,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy corrected.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+suspected
+\emph default
+ him when I thought about it, via very indirect mentions in Carlisle's memories
+ and Edward's regarding Siobhan's coven's long-term suspicions that someone
+ from thereabouts been poaching in her territory.
+ The Isle of Man was on my way out, so I stopped in, 
+\emph on
+he
+\emph default
+ found 
+\emph on
+me
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It seemed like a good time to go for a walk along that road,
+\begin_inset Quotes erd
+\end_inset
+
+ reminisced Nathan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And wouldn't you know it, I was right again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd assumed you'd heard about the meeting from the fellow in Newcastle,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie indignantly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I knew Cath didn't invite you!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You assumed, but you didn't ask,
+\begin_inset Quotes erd
+\end_inset
+
+ Nathan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But come on.
+ Would you have trusted me if you'd known Addy sent me? But I'm trustworthy.
+ I was helpful, wasn't I? I did half the work!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You were,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, still fixing her gaze on Addy and holding me and my father
+ close on either side of her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And Stefan and Vladimir?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Them I didn't contact directly,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+An old friend -- she's got a minor tracking power, nothing compared to Demetri,
+ the Volturi didn't want to bother with her -- lives near their area.
+ I told her, she told them, I take it they showed up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They did,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Siobhan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And I assume you know about how I got Alice and Jasper peeled off, although
+ I wasn't sure how to get them to rendezvous with you,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy went on, 
+\begin_inset Quotes eld
+\end_inset
+
+so good job finding them anyway!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a silence, during which Addy smiled brightly at the dumbfounded
+ collection of vampires facing her, and finally, my mother very carefully
+ said, 
+\begin_inset Quotes eld
+\end_inset
+
+Thank you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're welcome, as I said,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I imagine your next question is why, if I'm so helpful, I didn't just stick
+ with Siobhan and company.
+ Is that right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd think you read my mind,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said dryly, 
+\begin_inset Quotes eld
+\end_inset
+
+except that even with my husband's toe in your pocket, you can't do that.
+ Give that over, by the way, it's not yours.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll swap powers if I touch it, and I'm still using this one,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said in a very reasonable tone, 
+\begin_inset Quotes eld
+\end_inset
+
+for everyone else's benefit, if not yours.
+ Maggie's not comprehensive enough to notice all the little deceptions I
+ could conceivably throw in.
+ If I toss it over can I borrow Elspeth again for a moment?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother examined that request for barbs, then finally said, 
+\begin_inset Quotes eld
+\end_inset
+
+Eleazar, would you go take it out of her pocket and bring it here, please?
+\begin_inset Quotes erd
+\end_inset
+
+ I supposed she picked him because Addy wouldn't want to touch him; his
+ power would displace mine without giving her any notable advantage.
+ Eleazar broke formation and moved carefully forward, and reached into the
+ front pouch on Addy's sweatshirt while she stood there innocuously with
+ her hands up and a cocky smile on her face.
+ He retrieved my father's toe and handed it over to its owner, who leaned
+ down carefully to hold it in place for longer than it should have taken
+ to reattach.
+ My father straightened up and Eleazar went back into his place in the V.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy once the transfer of the toe was complete, 
+\begin_inset Quotes eld
+\end_inset
+
+I was hedging my bets.
+ Not gonna lie.
+ There's three reasons why I can't do that...
+\begin_inset Quotes erd
+\end_inset
+
+ She pointed at me, at my father, and at Maggie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I'd worked overtly for your side, and you'd then lost, I'd be a fugitive
+ at best and ashes at worst.
+ I left Volterra on bad terms in the first place, had my leverage rendered
+ pretty much moot, and was generally wanted dead -- that being why I ran
+ off to begin with.
+ Rescuing your daughter in the process, incidentally, Bella.
+ In fact, the only way I could expect to live through a Volturi victory
+ would be if they were weakened enough in the witchcraft department that
+ they needed me to cover their gaps.
+ So I had a double motive for taking Alice away from them, although I did
+ 
+\emph on
+hope
+\emph default
+ they'd find you.
+ I would have convinced more of their witches to leave but didn't have an
+ angle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother again, not blinking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And now you're here because?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here to welcome our new golden-eyed overlords,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy promptly.
+\end_layout
+
+\begin_layout Standard
+My mother blinked, and said flatly, 
+\begin_inset Quotes eld
+\end_inset
+
+You're looking for a job.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've always been very clear about my motives,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy earnestly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want witches to taste -- new, interesting, varied powers to train up and
+ play with.
+ I can understand how my past behavior would be...
+ unsettling...
+ to the point where you wouldn't like me to be running around where you
+ can't keep an eye on me.
+ I managed to hide from Alice for a while, but I didn't have a good way
+ to predict whether you'd have Demetri after the dust settled, and even
+ if you didn't I couldn't hide from Alice 
+\emph on
+forever
+\emph default
+.
+ But I can potentially get what I want, or most of it, 
+\emph on
+while
+\emph default
+ you keep an eye on me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Unsettling?
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You sent my daughter to 
+\emph on
+Jane
+\emph default
+.
+ You were complicit in Elspeth's imprisonment and Edward's -- in fact, you
+ were essential to Edward being worth imprisoning 
+\emph on
+and torturing
+\emph default
+ in the first place.
+ When you left the Volturi's sphere of influence you abandoned the rebellion
+ against them as soon as you had something useful to take with you.
+ You have killed...
+ oh...
+ how many people now? with no 
+\emph on
+hint
+\emph default
+ of being even 
+\emph on
+vaguely
+\emph default
+ open to the possibility of stopping.
+ And now you want me to 
+\emph on
+hire
+\emph default
+ you while you have that 
+\emph on
+smug look on your face
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you going to kill me because I have a smug look on my face?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Addy lightly.
+ My mother didn't answer, and Addy said, 
+\begin_inset Quotes eld
+\end_inset
+
+I taught your daughter to expand her power in ways that have helped her
+ immensely.
+ I carried her out of Volterra when I didn't have to bother.
+ I sent you five allies, two of which at least you found valuable and the
+ other three of which you could have found so if you'd gone with a different
+ plan.
+ I showed up here today instead of making you hunt me down.
+ And, yes, I have a smug look on my face, because I 
+\emph on
+know
+\emph default
+ how smart you are, and I 
+\emph on
+know
+\emph default
+ how smart it would be for you to keep me in your back pocket and 
+\emph on
+use
+\emph default
+ me.
+ You've got a mindreader.
+ You've got a lie detector.
+ You can turn 
+\emph on
+me
+\emph default
+ into someone who cannot effectively tell a lie by asking your daughter
+ to poke me.
+ It wouldn't be difficult to keep tabs on me, and it wouldn't be too much
+ trouble to keep me happy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother stared at her, ground her teeth a little, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+You want to do something useful?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mm-
+\emph on
+hm
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Find a piece of Vasanti, take her power, and go out and bring in some live
+ nonsapient food for Edward and David and everyone on our side who was broken.
+ If you set foot out of Edward's range -- I trust you're aware of how far
+ it extends -- then I will have you killed, no further negotiating,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes ma'am,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, winking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or, do you have a title picked out yet?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't.
+ Shoo.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, one more thing,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You didn't burn Chelsea's hands with the rest of her.
+ For the next two weeks or so I'll still be able to take her power by touching
+ them; after that, parts that size will be starved to death.
+ If there's anything you're regretting not having the chance to fix that
+ requires her, I mean.
+ Anyway.
+ Vasaaaaanti...
+\begin_inset Quotes erd
+\end_inset
+
+ She turned around and picked her way through the debris, looking for a
+ piece of the animal-charmer.
+\end_layout
+
+\begin_layout Standard
+My mother watched, a stricken look on her face, as Addy rounded the corner
+ in her search.
+\end_layout
+
+\begin_layout Standard
+A chilly feeling crept up my spine and tingled at the back of my neck.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+We repaired our broken comrades, mostly victims of Heidi's lure who'd been
+ drawn into close range before my mother had been able to shield them for
+ the moment it took to lurch away.
+ Alice had sorted everyone in the throne room, friend and foe, into heaps
+ during the conversation in the hall.
+ I didn't directly piece anyone together, because I wasn't as fast or precise
+ as a vampire, but I broadcasted blankness to everyone in pain while they
+ were reassembled.
+ Alice moved on into the hall to consolidate all of the other Volturi parts
+ from where they were scattered throughout the compound.
+\end_layout
+
+\begin_layout Standard
+My mother put together Esme, no less rapidly than the people she worked
+ next to, but there was a distant, distracted look on her face.
+ My father, still covered in little cracks and trying not to move much,
+ sat next to her with one hand on her knee.
+ He was murmuring something to her.
+\end_layout
+
+\begin_layout Standard
+I took a step closer, to hear what he was saying.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+if you want,
+\begin_inset Quotes erd
+\end_inset
+
+ I caught.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I do,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother murmured back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know I do, really, but I feel like I shouldn't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't mind,
+\begin_inset Quotes erd
+\end_inset
+
+ he told her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What Chelsea left behind isn't natural either way...
+ but it could be 
+\emph on
+better
+\emph default
+, even so...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You didn't handle Elspeth very well, you know,
+\begin_inset Quotes erd
+\end_inset
+
+ she muttered back to him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Even with what Chelsea did to you...
+ you could have done better.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, Bella.
+ If you want me to let Addy undo it I will.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But it's not really 
+\emph on
+undoing
+\emph default
+ it, that's the problem,
+\begin_inset Quotes erd
+\end_inset
+
+ whispered my mother.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's not like Elspeth's deprogramming that really does 
+\emph on
+only
+\emph default
+ undo what was done.
+ It's building something new where something old was permanently destroyed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't want it,
+\begin_inset Quotes erd
+\end_inset
+
+ I said softly.
+\end_layout
+
+\begin_layout Standard
+My mother glanced up for a moment to look at my face, then turned back to
+ Esme, half-finished, and continued putting her together.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Then you don't have to take it,
+\begin_inset Quotes erd
+\end_inset
+
+ she said quaveringly, almost under her breath.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+It might not stick, with you, anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It might,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+I still care about Jake and the villagers, which Chelsea did, but...
+ I just don't want 
+\emph on
+more
+\emph default
+ of that in my head than I already have.
+ Like you said -- building something new where something was permanently
+ destroyed, not undoing it for real -- and if I'm going to have that again
+ I want it to be natural.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother pursed her lips tightly and nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Think about it,
+\begin_inset Quotes erd
+\end_inset
+
+ she said tentatively, 
+\begin_inset Quotes eld
+\end_inset
+
+because you can't change your mind after Chelsea's hands die and Addy gets
+ rid of the power...
+ but if you don't want it you don't have to take it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll take it,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jasper gravely from where he was working on Randall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think Alice will too...
+ we're...
+ very alone, at the moment.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anyone who wants it,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+can have it when Addy gets back.
+ She's behaving?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked, looking into my father's eyes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She has a herd of deer and a couple of boars following her now -- and some
+ pigeons she couldn't shake off -- and she's on her way back.
+ I haven't heard anything untoward.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother nodded.
+ She completed enough of her work that Esme was able to sit up and finish
+ the rest of it herself, and shifted a foot to the right to start work on
+ Carlisle.
+ Her face was solemn, and preoccupied, but calm.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alistair left after all?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, not noticing him coming together under anyone's hands.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Offered to stay behind with Jacob and Pera and Razi,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+and we decided it would be safest to take him up on that, rather than bring
+ another body into the fight when he didn't want to be there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I should call Jake and tell him he can come in...
+\begin_inset Quotes erd
+\end_inset
+
+ I pulled out my phone and dialed.
+ Jacob answered and, after a brief exchange during which I repeatedly confirmed
+ that I was uninjured, he said he was on his way and Alistair would follow.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said my father after I'd hung up the phone, and when everyone on our side
+ who'd been damaged was reconstructed and no longer needed the blank sending,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+would you go show Marcus what's happened? He may have a reaction worth noting,
+ but at the moment he doesn't know anything except that Aro was looking
+ at a lot of people who have no obvious reason to be here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Should I bring his eye back to the rest of him?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It rolled under that throne,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, pointing.
+\end_layout
+
+\begin_layout Standard
+I picked up the eye gingerly -- it was smooth and dry and cold, not very
+ eyeball-like, but it was still an 
+\emph on
+eye
+\emph default
+ -- and carried it to the dungeon, which was now empty of anyone but parts
+ of Marcus.
+ I put the eye with the rest of him, composed a summary, and sent it over.
+\end_layout
+
+\begin_layout Standard
+Addy passed me in the hall, leading deer and wild boars behind her single
+ file to their doom, and waved.
+ Her eyes were a brilliant gold.
+ Show of good faith, I supposed.
+ I waved back, and waited.
+ A minute later, my father, looking much improved, and my mother, no longer
+ propping him up, entered the room.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He wants to kill Aro himself,
+\begin_inset Quotes erd
+\end_inset
+
+ my father murmured.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm tempted to keep Aro disassembled for use -- via Addy and Elspeth, he's
+ a very good way of getting large volumes of complex information from one
+ person to another -- but I think recent events have demonstrated the long-term
+ non-viability of that imprisonment strategy,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If we decide to kill him, and I think we have to -- even with Pera's help
+ on our side, which we still can't count on, he's too much of a threat...
+ The only issue I can think of with letting Marcus light the match is whether
+ Marcus will make a nuisance of himself should he be permitted to heal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Should I pass that on?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked her, and she nodded, and I did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He'll work for us, he'll do whatever you tell him,
+\begin_inset Quotes erd
+\end_inset
+
+ my father reported slowly, 
+\begin_inset Quotes eld
+\end_inset
+
+if you let him kill Aro for what he did.
+ He worked for his mate's murderer for millennia...
+ he'll promise a lot for revenge.
+ But as far as I can hear, he's sincere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He wouldn't be unusually difficult to subdue if it came to that,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He has almost no practice fighting -- he's basically done 
+\emph on
+nothing
+\emph default
+ since Didyme died but help Chelsea work, and she died relatively early
+ in his life.
+ And his power doesn't help in combat.
+ Plus he has the dead skin -- he's going to be absolutely covered in scars
+ when he's put back together.
+ It won't heal on the surface.
+ Those will be points of weakness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother pursed her lips and thought.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It'll probably disappoint Stefan and Vladimir,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I suppose they should be able to content themselves with Caius, Athenodora,
+ and Sulpicia, though.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably,
+\begin_inset Quotes erd
+\end_inset
+
+ agreed my father.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And Jane, if you aren't going to try keeping her...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think keeping her would work very well,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, shuddering.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Romanians can have Jane,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said darkly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is it possible to salvage Alec?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you let Addy snip him away from his sister,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+My mother frowned, but nodded slowly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll consider that...
+ it's better than killing him, if only marginally...
+ well, let's put Marcus together, shall we?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We got him in one piece, although he still looked like a wreck.
+ Unhealed lines along his skin radiated from every point of impact that
+ had taken him apart in the first place, leaving him looking like a jigsaw
+ puzzle even when he was complete.
+ But he sat up, and climbed with difficulty to his feet, and bowed to my
+ mother and then to my father and then to me with no trace of irony.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This way,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and we showed him into the throne room.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can see,
+\begin_inset Quotes erd
+\end_inset
+
+ said Marcus raspily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All too well.
+ I know which pile is his.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Should we keep a piece?
+\begin_inset Quotes erd
+\end_inset
+
+ Addy asked, from the portion of the throne room where she was keeping the
+ remaining couple of deer calm in spite of the other vampires.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It won't be able to read anyone itself with his brain gone, I think, but
+ I'd have a couple weeks able to read non-witches.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you care either way?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked Marcus.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ he murmured, eyes fixed on the pile, and Cath, who was nearest -- and had
+ newly gold eyes, I noted, probably having deigned to feed on one of the
+ animals after being reconstructed -- picked up what looked like Aro's knee
+ and stepped away from the pile.
+\end_layout
+
+\begin_layout Standard
+My mother gingerly handed Marcus her lighter, and he did the deed swiftly
+ and without discernable enjoyment of any kind.
+ I thought there might have been a grim satisfaction around the corners
+ of his eyes, but it was hard to read 
+\emph on
+any
+\emph default
+ expression on the scar-webbed face.
+ Aro burned, and Marcus turned back to my mother, returned the lighter,
+ and bowed again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Someone -- Cath -- find clothes for everyone, but not those awful black
+ cloaks,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother instructed, noting that a great many of the vampires in the room
+ were naked.
+ Cath zipped out of the room to obey.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Marcus, help yourself to one of the deer Addy brought us.
+ Don't touch her.
+\begin_inset Quotes erd
+\end_inset
+
+ He drifted towards the animals and fed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, deprogram him in case there's anything left after what they did
+ to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I did, but Marcus looked up after finishing his deer.
+ He looked strange -- subdued glitter under the evening sunlight falling
+ on him through the narrow window, craquelure complexion, gold bleeding
+ into his dark eyes as I watched.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+At first, the only thing that told me that Aro did not mean to do me a favor,
+\begin_inset Quotes erd
+\end_inset
+
+ he said quietly, 
+\begin_inset Quotes eld
+\end_inset
+
+was the fact that he left one of my eyes in the dungeon, where it could
+ see the ribbon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I blinked, then understood.
+ If Aro had worn both eyes, or put the second one somewhere else entirely,
+ Marcus wouldn't have had to look at the evidence of Didyme's loss.
+ Marcus might have done that to 
+\emph on
+himself
+\emph default
+ -- torn out his own eyes, let them die, permanently severed himself from
+ his agonizing power -- if his ability to see relationships hadn't been
+ the entire reason he was obliged to stick around.
+ But once it occurred to Aro to just wear one of the eyes, there would be
+ no reason for that.
+ The rest of the disassembly could have been some kind of subterfuge to
+ explain the sudden change of Marcus's status to the rest of the world.
+\end_layout
+
+\begin_layout Standard
+If Aro hadn't left the second eye there, Marcus might have considered it
+ a relief, on the whole.
+\end_layout
+
+\begin_layout Standard
+(Peeking at Marcus's memories, I saw that he'd asked for permission to take
+ out his eyes once Addy had joined the guard, and been refused on the grounds
+ that Addy was still new, was too busy copying anyone and everyone, might
+ find a mate and leave at the drop of a hat, needed her own relationships
+ manipulated and couldn't very well help Chelsea there, and was less experienced
+ in assisting Chelsea anyway.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's how I found the...
+ relevant memory,
+\begin_inset Quotes erd
+\end_inset
+
+ Marcus added quietly, and he gritted his teeth.
+ The corpse of the deer he'd eaten slumped to the floor as he stood.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't know why else he would do that, if not to help...
+ and so I sought, and found, the memory of my wife's murder, but could do
+ nothing about it.
+\begin_inset Quotes erd
+\end_inset
+
+ My mother nodded.
+ Marcus spread his hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What would you have of me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sit tight for now,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you really want to take your eyes out and put them somewhere else, go
+ ahead, just don't lose them or let them die.
+ When Cath gives you clothes, put them on.
+ There has been too much incidental nudity in my life recently.
+\begin_inset Quotes erd
+\end_inset
+
+ She ran a hand over her scalp, like she wanted to adjust her hair, but
+ there was barely any new growth since the last time she'd been set on fire.
+ (My father twitched when I thought that.)
+\end_layout
+
+\begin_layout Standard
+My mother pointed at several of our comrades.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Find boxes or bags or something and move all the Volturi from where they
+ are in the compound and collect them here.
+ And someone eat that last deer so Addy can ditch Vasanti's power and take
+ Alec's.
+ I don't care to 
+\emph on
+torture
+\emph default
+ anyone when it's not necessary.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The people she'd pointed at left to bring back scattered guard.
+ Cath returned with enough clothes for everyone naked, the outfits pilfered
+ from assorted closets.
+ Marcus put his designated outfit on and then departed silently, presumably
+ to tuck his eyes away in a safe nook.
+ My mother looked on as Volturi accumulated in the throne room.
+ Garrett ate the deer and Addy switched powers, waiting at the ready to
+ anesthetize the assembled when they were all in one place.
+ At last Mary and Randall carried in the last two -- who it was they brought,
+ I couldn't tell -- and stood back to let Addy do her work.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+deprogram all of them, and we'll go case-by-case on the potentially salvageable.
+ With Aro gone, we can summarily write off Sulpicia.
+ Is there any reason to keep Caius and Athenodora?
+\begin_inset Quotes erd
+\end_inset
+
+ I deprogrammed all of the Volturi as she asked, and was about to weigh
+ in on the subject of Caius and his mate, but Siobhan spoke first.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They're not witches, Caius is loyal to Aro dating back to before Chelsea,
+ and they're symbols of the old guard,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That last means that if you 
+\emph on
+could
+\emph default
+ turn Caius it would make it easier to get some of the other guard, but
+ not significantly more than it will be with Marcus...
+ and he'd be hard to turn.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother nodded once.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That last also means I wouldn't trust them imprisoned in the hiding place...
+ even if Pera would make up her mind in a positive direction about whether
+ she'll serve as warden for the new order.
+ They'd have too much potential to rally support for a resurgence of the
+ Volturi.
+\begin_inset Quotes erd
+\end_inset
+
+ She sighed and passed a hand across her eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Stefan, Vladimir, would you like to do the honors? And Jane, too.
+ Jane...
+ needs to go.
+ Leave Alec.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The short, ancient vampires nodded eagerly, undisguised glee in their eyes,
+ and produced matches from their pockets, obtained before the assault had
+ begun.
+ They threw them from a safe distance into the relevant piles, directed
+ by Alice, who knew which person was which.
+ Four more fires were soon crackling away busily.
+\end_layout
+
+\begin_layout Standard
+I heard footsteps too heavy to be Marcus's drifting gait, and went out to
+ meet Jake and usher him away from the smoke.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother called after me as I leaned into my wolf's open arms, 
+\begin_inset Quotes eld
+\end_inset
+
+why don't you go to the village, show-and-tell the other wolves and the
+ imprints and children what's happened -- be careful about being age-appropriate
+ for the little ones, please, and...
+ turn in for the night? It's...
+ almost your bedtime.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I wasn't sure whether to say 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Mama
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Your Highness
+\begin_inset Quotes erd
+\end_inset
+
+, so I simply nodded and went with Jake out of the compound.
+\end_layout
+
+\end_body
+\end_document
