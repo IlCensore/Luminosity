@@ -1,0 +1,2022 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{45}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Negotiator
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So do I call you `Princess Elspeth' now?
+\begin_inset Quotes erd
+\end_inset
+
+ Jake asked, elbowing me in the ribs as we went down the stairs towards
+ the tunnel to the village.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My mother might not wind up calling herself `queen'.
+ And there are fiddly technical details about who's a princess and who isn't,
+ in various systems of nobility, so I might not count even if she does.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She rules the world now,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She can declare you a princess if she wants.
+ And invent her own monarchy to technically make you one if she has to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, we beat the Volturi,
+\begin_inset Quotes erd
+\end_inset
+
+ I said slowly, 
+\begin_inset Quotes eld
+\end_inset
+
+but it remains to be seen if she can hold on to the power...
+ especially since she's not likely to be popular with vampires who want
+ to go on eating people, and won't have access to Chelsea's power forever.
+ Maybe even some of the people who helped us in the rebellion wouldn't like
+ the idea of her being queen when they think about it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jake dropped an arm around my shoulders and pulled me a little closer.
+ We reached the mouth of the tunnel and started along it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That might put you in danger, if people are trying to get at her...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's probably one of the billion things she's trying to figure out now,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure if I dare go to sleep,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, only half-joking.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tonight will probably be safe,
+\begin_inset Quotes erd
+\end_inset
+
+ I opined.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We'll be in the village overnight and someone would notice and make a fuss
+ if a random vampire tried to come in, and word won't have gotten out everywhere
+ for a while.
+ Tomorrow my mother will probably have an idea about how to deal with the
+ problem.
+ And we're not going to be out of my father's range.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We got to the border of the village.
+ Leah and Collin were both standing watch, in wolf form -- representatives
+ of Rachel's pack and Becky's respectively, to propagate information instantly
+ through the population if something happened.
+ They didn't growl at us, but they didn't stand aside, either.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Leah, Collin, and whoever else is listening,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, vaguely sheepish.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Um, we won.
+ Can we come in so I can tell everybody about it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rachel, in uniform, appeared between the two wolves a moment later; Becky
+ turned up shortly after her sister.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can you,
+\begin_inset Quotes erd
+\end_inset
+
+ Rachel asked, raising an eyebrow, 
+\begin_inset Quotes eld
+\end_inset
+
+elaborate at all?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure, um,
+\begin_inset Quotes erd
+\end_inset
+
+ and I hit both alpha women with a quickly improvised summary, on the theory
+ that they were both adults and, outside of wolf form, wouldn't telepathically
+ leak anything to the younger wolves.
+ Leah and Collin made mildly puzzled faces, presumably about being left
+ out, but didn't otherwise react.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Your room is still open,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rachel after a couple of minutes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're going to be out for the day soon, aren't you? You can crash there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We need to decide what to do next,
+\begin_inset Quotes erd
+\end_inset
+
+ Becky murmured.
+\end_layout
+
+\begin_layout Standard
+Rachel nodded, once, and gave Jake an appraising look.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We all do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Jake tucked me into my old bed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Won't be able to catch a front row seat to Elspeth's Brain Theater tonight,
+\begin_inset Quotes erd
+\end_inset
+
+ he sighed, 
+\begin_inset Quotes eld
+\end_inset
+
+have to go wolf to telepathically confer with the extended relations about
+ everything, but I can stay here by you in case something does happen.
+ I'll be up all night anyway, most likely.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I yawned, and I relaxed, burrowing into my pillow.
+\end_layout
+
+\begin_layout Standard
+The next morning, Jake was still sitting by my bed, still awake (if slightly
+ droopy) and still wolf-shaped.
+ He was making faces, insofar as he was able, reacting to the conversation.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can I get caught up?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ Jake nodded, but instead of shifting to explain what was going on to me,
+ he got to his feet and led me through the village to the assembly room.
+ Many of the wolves were there, although some of the younger ones and all
+ of the imprinted men were absent.
+ Also in attendance were both of my parents.
+ My father appeared to be feeding my mother a rapid-fire summary of everything
+ the wolves thought so she could follow what was going on, in place of a
+ cumbersome mechanism where the wolves phased and unphased to think together
+ and communicate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So what'd I miss?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, going up to my mother and father.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Almost nothing,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, manifestly frustrated.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We've got more factions here than we have feasible packs, and one thing
+ they can mostly agree on is that packs should stick together...
+ so the opportunity to split up is limited.
+ At about two a.m.
+ we narrowed it down to four different things people wanted to do, and Leah
+ had the reasonably clever idea of trying to turn Embry into a fourth pack
+ leader since one of the three likely candidates for his unidentified father
+ was Billy Black, which would 
+\emph on
+presumably
+\emph default
+ mean he could be an alpha like Rachel, Becky, and Jacob, but it didn't
+ work.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are the four groups?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A bunch of them want to stay here, minus the military operations,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, ticking off a finger.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'd be willing to maintain their budget as reparations, and I don't have
+ anything else in mind for the village structure, so that would be fine
+ with me.
+ A bunch of them want to go to La Push and rebuild the old Quileute town.
+ Potential legal awkwardness, but also fine; we can co-opt the contacts
+ the Volturi had to make things go smoothly with human authorities, and
+ I intend to start peeling back the masquerade in general.
+ A few of them have a taste for beating up `bad vampires' and want to be
+ a branch of my military, wherever I wind up installing myself.
+ I'm not going to complain about that.
+ And a few of them want to travel the world, sort of like Jacob's pack was
+ doing before, which is...
+ problematic, without Pera accompanying them, without routine larceny, and
+ considering how much I expect to rely on Alice.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, you're queen of the world; can't you just say that the first three
+ things are fine and one alpha can take a pack to do each of them and ban
+ the last one?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Actually, I decided to call myself Empress Regnant, in a fit of self-indulgence,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And I'm contemplating a gold-based theme for the rest of the necessary terminolo
+gy -- you know, because of the eyes.
+ Golden Coven, Gold Empire, etcetera.
+ Anyway.
+ I don't want to push the wolves around like that until I'm confident we
+ can't find a consensus of some kind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are the alphas thinking?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Becky thinks I should rule out of Volterra, so a single pack can cover the
+ ones who want to work for me and the ones who just want to live here,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+and thinks that this single pack should be Jake's, so she and anyone else
+ who wants to join her can go to La Push.
+ The trouble with that is that I'm not enthusiastic about ruling from Volterra,
+ although I'll cave on that if I need to.
+ Rachel's personally inclined towards wandering the earth but is willing
+ to head a pack anywhere necessary if we can just work out what they're
+ all supposed to do.
+ Jake wants to stick with you, and I'd like to keep you close by us unless
+ you have some overwhelming objection.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't, I guess,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, putting a hand on Jake's shoulder.
+ My hand sank into rusty brown fur halfway up my forearm.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's probably safer.
+ Who besides Rachel wants to wander the earth?
+\begin_inset Quotes erd
+\end_inset
+
+ My father listed a handful of wolves, all unimprinted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What exactly do they want to 
+\emph on
+do
+\emph default
+ while wandering the earth?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have the same question,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother muttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not interested in funding something that inconvenient.
+ They have no plans for supporting themselves if they want anything they
+ can't hunt for, let alone plans for remaining inconspicuous in accordance
+ with a 
+\emph on
+gradual, non-panic-inducing
+\emph default
+ demystification of the supernatural to the general population.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is Pera going to help you?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, an idea forming.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jasper calmed her down enough to let her consider the idea,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+after Addy...
+ helped...
+ him and Alice and your daddy with Chelsea's power.
+ She'll work for me, but she doesn't want to interact with me directly any
+ more than she has to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy copied Chelsea's power? Does that mean she was done with Alec's?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It means that we've got Alec working for us, although Addy did need to snip
+ him away from Jane, and now he's anesthetizing the remaining bits and pieces
+ while I'm here so Addy's freed up to do other things,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, not making eye contact.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway, yes, Pera's helping, is willing to at least attempt vegetarianism,
+ and can be deployed but is not to be invited over for the Christmas party.
+ What's your idea?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+you're going to need to start enforcing the vegetarianism thing.
+ You can get the news out by just having Dwi, or Addy borrowing his power,
+ tell everyone we're collectively aware of that there's a new regime in
+ town, and wait for it to spread by word of mouth.
+ But that doesn't handle 
+\emph on
+enforcement
+\emph default
+.
+ Pera could hide the wolves and travel with them, and they could back her
+ up and scout and stuff looking for anybody breaking the rules while they
+ run around, but they wouldn't have to actually be military-ish because
+ Pera can take apart anybody she wants all by herself.
+ You could pay them to do that, and Pera wouldn't have to be around you
+ and they'd get to travel inconspicuously and with economic support.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother tilted her head thoughtfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's an option.
+ The problem is that I was hoping to keep Pera local to wherever we wind
+ up so she can hide people I need to sentence to prolonged imprisonment
+ but don't want to kill.
+ Or my justice department sentences to prolonged imprisonment.
+ I haven't decided yet how I'm going to organize internal affairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The cohort that wants to travel isn't particularly interested in doing enforceme
+nt even on that level, anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ my father said.
+\end_layout
+
+\begin_layout Standard
+My mother chewed on her lip a little, then shook her head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This hasn't gone anywhere significant in the last several hours, I imagine
+ the wolves are all very tired from their all-nighter, and I've got more
+ Volturi to sort through and an administration to organize.
+ Let's pick up here in, say, ten hours after you guys are all caught up
+ on sleep?
+\begin_inset Quotes erd
+\end_inset
+
+ She gestured expansively at the groggy wolves.
+ Rachel and Becky both nodded, and the packs dispersed.
+ Jake nudged me affectionately in the back with his forehead, then trotted
+ off himself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want to come witness the historical moment?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked me, and I shrugged and followed her and my father out of
+ the village.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Alec was in the throne room, sitting on the chair that used to belong to
+ Caius.
+ Every now and then he turned his gaze from his still-dismantled former
+ covenmates to the throne, as though to confirm that he was really sitting
+ in Caius's chair, but he always returned his attention to maintaining the
+ knockout aura over the prisoners a moment later.
+ His eyes had gone gold -- Addy must have made another trip in to bring
+ animals overnight -- but otherwise he looked like I remembered, albeit
+ having sustained some hair damage.
+ Deceptively youthful, a distant and neutral expression on his face, very
+ like a calmer and thinner-lipped Jane.
+ I skirted the cluster of pieces to avoid falling in myself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi,
+\begin_inset Quotes erd
+\end_inset
+
+ I said to Alec, helping myself to Athenodora's chair.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+How are you doing?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess I'm okay,
+\begin_inset Quotes erd
+\end_inset
+
+ he said in a low voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Really?
+\begin_inset Quotes erd
+\end_inset
+
+ My mother walked into the middle of his affected area, unhindered, and
+ picked up a piece of someone, which she brought over to Addy and poked
+ her with before tossing it back where it had come from.
+ I thought it was probably Dwi, whose power would let Addy carry on bidirectiona
+lly telepathic conversations with the remnants of the Volturi to determine
+ who could and could not be salvaged.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess,
+\begin_inset Quotes erd
+\end_inset
+
+ he repeated.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How did my mother convince you to work for her?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What else would I do?
+\begin_inset Quotes erd
+\end_inset
+
+ Alec said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean? Whatever else, as long as it didn't involve killing people,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I said no when she asked me to work for her,
+\begin_inset Quotes erd
+\end_inset
+
+ Alec said, 
+\begin_inset Quotes eld
+\end_inset
+
+maybe she'd let me go -- maybe, if I convinced her and her mate I would
+ eat animals and not make trouble -- but someone else would recognize me
+ eventually and want to hurt me.
+ I was almost as feared as Jane.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You could protect yourself, though...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He shook his head, keeping his eyes fixed on his old covenmates.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Jane was fast with her power.
+ I'm not fast.
+ A coven coming from several directions could get me if I were on my own.
+ Or one person who was quick enough or good enough at hiding or had a power
+ that could get around or through mine.
+\begin_inset Quotes erd
+\end_inset
+
+ He glanced my way.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And I don't think your mom -- I mean, um, Her Imperial Majesty? I'm not
+ sure what I'm supposed to call her...
+ I don't think she'd want to send me out to go off independently with covenmates
+ who could keep me safe.
+ I'd be a threat that way.
+ She might look the other way if those Romanians wanted me dead, or something.
+ If I work for her she'll keep me safe.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And even if nobody would want to hurt me,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't have any practice being on my own.
+ I never have been.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jane,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Her,
+\begin_inset Quotes erd
+\end_inset
+
+ he agreed, 
+\begin_inset Quotes eld
+\end_inset
+
+but not just her, after we turned.
+ The whole coven.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Some of them will probably help us, like you,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you can make new friends too.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ He sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I let Addy make me not miss Jane.
+ I got the option.
+ It was...
+ easier, I guess, and missing her wouldn't bring her back, and if I want
+ Her Imperial Majesty to trust me it was probably the safe bet...
+ But I miss missing her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure I understand,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I could think of possibly-similar cases to compare against, but it would
+ be faster to let him explain.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure I do either.
+\begin_inset Quotes erd
+\end_inset
+
+ He pursed his lips, then said, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think I know how not to be a twin.
+ A non-dominant twin.
+ I don't know what to do with myself if not follow Jane around and help
+ her and make her happy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I had the oddest temptation to ruffle his hair -- he still had most of it,
+ and there was plenty to ruffle -- but I refrained; I knew he didn't like
+ people other than Jane to touch him.
+ (I wondered how long that would last without Jane around.) 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe you'll find a mate soon, or something,
+\begin_inset Quotes erd
+\end_inset
+
+ I suggested.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think so,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, lacing his fingers together and leaning his elbows on his knees.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think we're -- I think I was turned too young.
+ It's been a long time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stefan and Vladimir are both way older than you and were turned as adults
+ and they've never found mates,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out.
+\end_layout
+
+\begin_layout Standard
+He shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe.
+ I don't know.
+ I'm not going to count on it, though.
+ I've met lots of people.
+\begin_inset Quotes erd
+\end_inset
+
+ Then he looked at me again and tilted his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Am I supposed to call you Your Imperial Highness, or something?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure if I'm even technically a princess,
+\begin_inset Quotes erd
+\end_inset
+
+ I began.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can be a princess, Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, interrupting her exchange with Addy to call across the
+ room to me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Imperial Highness would be the style, but you don't have to go by it if
+ you don't want to.
+ And Alec, outside of formal contexts to be specified in the future, you
+ can call me Bella.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Call me Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ I told Alec.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, nodding once.
+ He turned back to his work.
+\end_layout
+
+\begin_layout Standard
+I got up and walked over to where my parents were standing with Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Were any other titles picked out?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy has invented for herself the title `Imperial Factotum', and your daddy
+ is an Emperor Consort,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's all, at least so far.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where's everybody else?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Scattered throughout the compound,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A few of them went out and about overnight but they're all back now.
+ The ones who haven't eaten their first animals yet are still not pleased
+ about the close quarters.
+ Alistair will probably return home soon to get away from all the people,
+ and I expect to shed most of the other Brits that way too -- they're not
+ as close to the core group.
+ I'm not yet sure who all will stick around as part of the new administration
+ beyond that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I nodded, and then I had an idea.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mama, I want to go visit the blast victims and see if I can help them somehow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are they likely to let you into the hospital?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Also, I'm not sure if you should go wandering around Volterra by yourself.
+ If Jacob weren't asleep I'd send him with you, but he and all the wolves
+ are in bed, and it's broad daylight...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I could bring Cody,
+\begin_inset Quotes erd
+\end_inset
+
+ I suggested.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He'd be awake, and he isn't sparkly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The point isn't company, it's safety, and Cody's less useful in a fight
+ than you are...
+ That said, everyone who might attack you while we've got everything buttoned
+ up here hasn't been blasted yet, since the former Volturi aren't going
+ anywhere and I'm keeping an eye on Addy.
+ And if we do lose control of things here somehow it would be better for
+ you to be out of harm's way anyway.
+\begin_inset Quotes erd
+\end_inset
+
+ She bit her lip and looked at me, scrutinizing.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Take your phone, check in every half an hour or so,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+but go ahead.
+ If they don't let you in, come back and we'll try something more elaborate
+ after sundown.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thanks,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and went to find the hospital.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Addy hadn't told me exactly where the blast victims were, but there was
+ only one plausible facility within my father's range even if I assumed
+ all the thoughts in question counted as familiar voices.
+ I walked there, pushed open the front door, and waited in line for the
+ receptionist.
+ When I got up to her desk, I said, 
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me, I heard that there were six psychiatric patients with unusual
+ symptoms here.
+ I'd like to
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, miss, but we've had an awful lot of gawkers here trying to see
+ them, and unless you're related to one of them, I can't let you in to visit,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My interest is...
+ professional,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, choosing my words carefully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not a relative, but I'm not some random person off the street who wants
+ to stare, either.
+ I've seen symptoms like theirs before, although not so prolonged.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She raised an eyebrow at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You look seventeen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're more than a decade off,
+\begin_inset Quotes erd
+\end_inset
+
+ I told her.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, my.
+ Um.
+ I'm sorry.
+ You're a psychiatrist?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I remember med school like it was yesterday.
+\begin_inset Quotes erd
+\end_inset
+
+ Magic twinged, but didn't outright itch; this was back in the familiar
+ territory of out-of-context, misleading truth, and she was a little cooperative
+ there, if not completely so.
+\end_layout
+
+\begin_layout Standard
+The receptionist blinked at me, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Let me call down Dr.
+ Valenti.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I talked my way past Dr.
+ Valenti, too, who let me into the room where they were keeping the six
+ blast victims during the day and stood in the doorway to supervise.
+\end_layout
+
+\begin_layout Standard
+They were four men and two women, and while they all seemed physically fine,
+ no two of them were speaking the same language, and most of them didn't
+ seem aware of their surroundings, instead slouching in their respective
+ chairs and reciting the inner monologues of vampires (only vampires, no
+ humans -- I wondered why) read long ago.
+ The two who were awake enough to notice my entrance were one of the men
+ -- who started shouting angrily in Old English, using mannerisms that I
+ identified as belonging to a long-dead vampire named John killed six years
+ after his creation for turning an immortal child.
+ They even looked alike.
+ Also apparently lucid was one of the women, who didn't speak at all, but
+ looked at me with troubled, dark eyes.
+ She looked familiar too, but then, nearly everyone did, with all the different
+ faces I remembered to compare to.
+ Since she wasn't talking, I turned to the other 
+\begin_inset Quotes eld
+\end_inset
+
+awake
+\begin_inset Quotes erd
+\end_inset
+
+ patient.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, switching to Old English to address the man, and conveniently avoid
+ Dr.
+ Valenti being able to effectively eavesdrop.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you know where you are?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Finally! No one here will speak a sane language!
+\begin_inset Quotes erd
+\end_inset
+
+ he exclaimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And there are arcane devices everywhere! I have tried to learn what they
+ are saying, but I cannot hold the memories properly! And besides that,
+ I am 
+\emph on
+weak
+\emph default
+ and 
+\emph on
+slow
+\emph default
+ and have been eating 
+\emph on
+food
+\emph default
+! Some witch has done something to turn me into a human! I demand that this
+ be fixed immediately!
+\begin_inset Quotes erd
+\end_inset
+
+ Dr.
+ Valenti made an intrigued sound and stared, but didn't interrupt.
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Who are you?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked the blast victim slowly, almost asking who he 
+\emph on
+thought
+\emph default
+ he was but deciding that was unnecessary and rude.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My name is John,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Who are you? You don't look like a vampire with those brown eyes, but not
+ quite human either...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My name is Elspeth.
+ Do you remember anything unusual happening, about two weeks ago?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was telling that bastard Aro to stay the hell away from Anne,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, referring to the immortal child the vampire he thought he was
+ had been executed for turning -- his actual daughter, who'd been dying
+ of the flu at age nine when he bit her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Then I was in some kind of delirious stupor for -- I don't know how long;
+ I can't count time normally anymore -- but some kind of stupor, several
+ days at least, but then I looked in a mirror here and remembered who I
+ was and noticed I'd been turned human!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you were confused about who you were until you looked in a mirror?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked slowly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I was.
+ As though I could have been any of a thousand people, but had to check.
+ But it was obvious once I saw.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I looked at him.
+ He didn't look 
+\emph on
+exactly
+\emph default
+ like John, even exactly like John had been as a human.
+ His hair was different -- John had worn it long -- and he had better teeth
+ (although not as good as a vampire's teeth), and his skin was a shade darker.
+ But the facial features were close enough that I could imagine that a mind
+ with no idea who it was would latch onto the identity.
+\end_layout
+
+\begin_layout Standard
+But I could think of half a dozen other people Aro had read who looked at
+ least as much like the man in front of me as John had.
+ Five humans, and one vampire who'd been read at the age of a hundred and
+ was -- as far as I knew -- still alive.
+ I wasn't sure what would make John's memories be the ones to stick, while
+ the human memories and the other vampire's didn't.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you remember anything else?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Besides being -- yourself?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He -- I decided to call him 
+\begin_inset Quotes eld
+\end_inset
+
+John
+\begin_inset Quotes erd
+\end_inset
+
+ in my head for lack of a better idea; he certainly wouldn't answer to whatever
+ name his body had come with -- shook his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nothing else.
+ Even my own memories won't stick properly.
+ I know I used to have a perfect memory -- but I'm forgetting things
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Things from when you were a vampire?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+He nodded, a concerned frown twisting his face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Some of them.
+ Not 
+\emph on
+important
+\emph default
+ things, not like Anne or my own name -- they keep calling me `Benito' for
+ some reason here, if I'm following what they say well enough to figure
+ that out -- but some things.
+ Do you know someone who can turn me back?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or where Anne is? Is Anne okay?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Maybe we can get you turned, um, back.
+ I'll need to talk to, um, the Empress Regnant.
+\begin_inset Quotes erd
+\end_inset
+
+ Anne had died in 1754, one of the immortal children Aro had kept around
+ in the hopes that they could be controlled, but had been disposed of with
+ the rest when he gave up on the project.
+ Magic itched at me, but I didn't want to tell him before he understood
+ what had happened to him, and I wasn't sure what that was myself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The who?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Volturi were overthrown, um...
+ yesterday,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, finding it remarkably awkward to talk about such momentous events
+ on such a short time scale.
+ It was so much easier to talk about revolutions that happened centuries
+ past.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now there's an Empress instead.
+ I'll talk to her about you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They're gone?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, blinking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All of them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aro and Caius and their wives are,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Marcus is still alive
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I felt a hand on my arm, and turned to see the quiet female patient, who'd
+ gotten up and crossed the room to approach me.
+ Her eyes were wide, and there was a trace of a smile on her face, in contrast
+ to the lost, watchful look she'd worn earlier.
+\end_layout
+
+\begin_layout Standard
+I realized who she most closely resembled.
+ Who she would have thought she was, if she looked in a mirror.
+\end_layout
+
+\begin_layout Standard
+Speaking Hellenistic Ancient Greek, Didyme asked, 
+\begin_inset Quotes eld
+\end_inset
+
+Did you say 
+\emph on
+Marcus
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
