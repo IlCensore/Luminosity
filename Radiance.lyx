@@ -435,7 +435,7 @@ Luminosity -- A Re-imagining of Twilight
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace medskip*
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -454,7 +454,7 @@ Luminosity -- A Re-imagining of Twilight
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace medskip*
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -1165,6 +1165,16 @@ filename "Radiance-45.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "Radiance-46.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-47.lyx"
 
 \end_inset
 

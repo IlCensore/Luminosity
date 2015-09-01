@@ -1,0 +1,2040 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{46}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Survivor
+\end_layout
+
+\begin_layout Standard
+I stared at her.
+ She blinked at me expectantly, looking hopeful.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One second,
+\begin_inset Quotes erd
+\end_inset
+
+ I said to John, and then I switched to her chosen Greek.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, that's what I said.
+ Um...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just how many languages do you know?
+\begin_inset Quotes erd
+\end_inset
+
+ Dr.
+ Valenti asked me from the doorway.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A 
+\emph on
+lot
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I told him in Italian.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hang on a minute, please.
+\begin_inset Quotes erd
+\end_inset
+
+ I turned back to Didyme and resumed speaking Greek.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+What about him?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You do mean Marcus of the Volturi, and not some other Marcus?
+\begin_inset Quotes erd
+\end_inset
+
+ she clarified, sounding very earnest about it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you tell me how to find him?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked urgently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't know where I am or how I came to be turned human, but I've been...
+ here, wherever this is...
+ for more than a week now, and I don't know the language, and I need to
+ find my husband.
+ And my brother,
+\begin_inset Quotes erd
+\end_inset
+
+ she added as an afterthought.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was with my brother when whatever happened, happened.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Didyme had never realized who killed her.
+ She'd thought they'd been ambushed, and at least until the moment Aro set
+ her aflame, she had never suspected her brother...
+\end_layout
+
+\begin_layout Standard
+I had no idea what the correct order to disclose information to this woman
+ was.
+ I didn't even know 
+\emph on
+whether
+\emph default
+ she needed to be updated on Didyme's details.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey,
+\begin_inset Quotes erd
+\end_inset
+
+ said John, 
+\begin_inset Quotes eld
+\end_inset
+
+I can't understand you like that.
+ Any chance we've all got some language in common?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You never learned Early Latin, and that's the only other language she picked
+ up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait, how do you know that?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you a witch? With the power to speak any language, or something?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's complicated.
+ I'm a witch but not that kind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did she use to be a vampire too?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, gesturing at Didyme.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's like you,
+\begin_inset Quotes erd
+\end_inset
+
+ I hedged, 
+\begin_inset Quotes eld
+\end_inset
+
+but she spent less than a year as a vampire so language learning wasn't
+ her top priority.
+\begin_inset Quotes erd
+\end_inset
+
+ I could have projected translations to either or both of them, but I didn't
+ want to risk scrambling their brains with more applications of my power
+ beyond what had already happened.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you know where Marcus is?
+\begin_inset Quotes erd
+\end_inset
+
+ Didyme asked again.
+ She'd been killed before the coven set up permanent shop in Volterra.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, pinned down by the direct question, and she lit up.
+ I didn't feel like I remembered it felt to be within her aura of happiness,
+ but like her brother, Didyme hadn't developed her witchcraft until after
+ turning.
+ It seemed like the power hadn't accompanied the memories.
+ She still had a cheering presence, but it couldn't dissolve the awkwardness
+ of the situation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know where he is, but I can't just take you out of here like that.
+ This is 
+\emph on
+super complicated
+\emph default
+.
+ Wait a minute while I talk to that guy.
+\begin_inset Quotes erd
+\end_inset
+
+ I would have said 
+\begin_inset Quotes eld
+\end_inset
+
+doctor
+\begin_inset Quotes erd
+\end_inset
+
+, but psychiatry wasn't easy to discuss in either dead language; I turned
+ to John and told him to wait too.
+\end_layout
+
+\begin_layout Standard
+Switching back to Italian, I asked Dr.
+ Valenti, 
+\begin_inset Quotes eld
+\end_inset
+
+What are their names?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Those two are Benito Bianchi and Paola Greco,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What languages are they speaking? How could they have learned them? They
+ were both monolingual Italian natives until July 4.
+ You said you've seen this kind of thing before? Is that how you learned
+ to talk to them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's speaking Old English and she's speaking Ancient Greek,
+\begin_inset Quotes erd
+\end_inset
+
+ I told him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My experience with this sort of thing is definitely related to why I know
+ the languages.
+ I've seen similar, but not identical, presentation.
+ I'll need to consult with some of my colleagues.
+ I might want to arrange for the patients to be moved to another facility,
+ where they can get specialist treatment.
+ Were they all identified? Are their families accessible?
+\begin_inset Quotes erd
+\end_inset
+
+ It was weird speaking as though I had authority to a guy who was probably
+ at least six or seven times my age and had an advanced degree, but I didn't
+ think I'd get anywhere by talking meekly, and unlike most of the people
+ I interacted with on a regular basis he wasn't my physical superior.
+ (Also unlike most of the people I interacted with on a regular basis, he
+ probably wasn't accustomed to considering violence a first or second resort
+ to solving differences of opinion, which made the physical superiority
+ thing less relevant.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, we know who they all are,
+\begin_inset Quotes erd
+\end_inset
+
+ Dr.
+ Valenti said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you want their files?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I could just look them over briefly,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+that would be perfect.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're thinking some kind of environmental cause,
+\begin_inset Quotes erd
+\end_inset
+
+ he told me, leading me out to where they kept their documents, 
+\begin_inset Quotes eld
+\end_inset
+
+because they were all near the same area at the time.
+ Two of the less aware patients are brothers...
+\begin_inset Quotes erd
+\end_inset
+
+ He went on about the circumstances under which all of the blast victims
+ had been discovered, and I paid the minimum amount of attention to be able
+ to replay the information for everyone else later; I paged through the
+ files with similar intent.
+\end_layout
+
+\begin_layout Standard
+I'd known from what Addy had said about the blast victims that the ones
+ left alive were only left that way because they were under too much scrutiny
+ to be done away with by the time the Volturi were in a position to deal
+ with the problem.
+ Dr.
+ Valenti gave no indication that he even knew about the other nine, and
+ none of the files I read mentioned them.
+ They would, I supposed, have fallen insensate into some location where
+ they were unlikely to be noticed; or 
+\begin_inset Quotes eld
+\end_inset
+
+recognized themselves
+\begin_inset Quotes erd
+\end_inset
+
+ promptly and wandered off lucidly enough not to be picked up; or crashed
+ their cars and been assumed to have head trauma instead of an inexplicable
+ psychological disorder.
+ At any rate, the six that were there were the six left alive, so I scanned
+ their files and discussed them with Dr.
+ Valenti.
+\end_layout
+
+\begin_layout Standard
+Paola was twenty years old -- two years older than Didyme had been when
+ Aro thought she was old enough to turn -- and she had living parents, two
+ brothers, and a handful of nieces and nephews, but she wasn't married and
+ had no kids.
+ Benito, thirty-six, was divorced with a young son, and he had a sister
+ and his father was alive.
+ I tried, and failed, to think of a good way to handle those families, and
+ the others, if it turned out that the original people were unrecoverable.
+\end_layout
+
+\begin_layout Standard
+John/Benito and Didyme/Paola waited impatiently, but calmly, while I did
+ all of this, the significance of the files and the modern Italian completely
+ wasted on minds more than a thousand years out of their times.
+ I was actually somewhat impressed with them for not being completely terrified
+ or bowled over by things like Dr.
+ Valenti's digital watch, or the computer that they could just see from
+ the dayroom, or the linoleum.
+ I didn't know whether to interpret it as leftover from Benito and Paola's
+ comfort with the twenty-first century, or leftover from John and Didyme's
+ vampiric confidence that anything not actively on fire wouldn't hurt them
+ much.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You've been giving them all this?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, pointing at a list of medications.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Trying, anyway.
+ Benito and Paola don't cooperate with the regimen.
+ Benito actually bit an orderly, and drew blood,
+\begin_inset Quotes erd
+\end_inset
+
+ said Dr.
+ Valenti.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Normally we don't need to restrain them; it's only when we administer the
+ drugs that they've ever become violent.
+ You see we're keeping the dosages low
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because you don't actually know what's wrong with them, and know you're
+ guessing,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, allowing my tone to become slightly clipped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I must recommend as strongly as possible that the medications be discontinued
+ as quickly as is safe, assuming they remain at this facility for any length
+ of time.
+ It's not going to help; they'll only get side effects.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Benito and Paola did respond to
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Benito and Paola's improved condition relative to the other four patients
+ is unrelated to the drug regimen,
+\begin_inset Quotes erd
+\end_inset
+
+ I interrupted confidently.
+ (The other four did bear assorted degrees of resemblance to people whose
+ memories I had stored in my head, but it was perhaps not close enough,
+ or they hadn't looked in a mirror, or there was something about John and
+ Didyme in particular that had allowed their memories to surface where others
+ hadn't.) 
+\begin_inset Quotes eld
+\end_inset
+
+At any rate, every person I've seen with this disorder has made a complete
+ recovery without any pharmaceutical intervention at all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, only slightly dubious under the force of my honesty.
+\end_layout
+
+\begin_layout Standard
+I looked at the wall clock; I'd been gone from the compound for nearly half
+ an hour and it was time to check in with my mother.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I need to contact my colleagues,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of...
+ course,
+\begin_inset Quotes erd
+\end_inset
+
+ said Dr.
+ Valenti.
+\end_layout
+
+\begin_layout Standard
+Taking a guess that nobody in the hospital would know what I was saying,
+ I greeted my mother in Norwegian when she answered the phone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Mama,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, speaking rapidly enough that I'd be tricky to understand even if
+ someone who knew the language 
+\emph on
+was
+\emph default
+ in earshot.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Four of the blast victims are comatose -- babbling about all sorts of things
+ from all sorts of people.
+ Two of them, though, got a look in the mirror, `recognized themselves'
+ as being dead vampires who looked similar, and are basically acting like
+ they were magically turned into humans and time-traveled.
+ I think the best thing to do would be to get Addy in here wearing Aro's
+ power, while she can, and have her check them out and see what's going
+ on.
+ But the really crazy thing is who the patient named Paola thinks she is...
+ Um, who's in the room with you?
+\begin_inset Quotes erd
+\end_inset
+
+ I would be able to whisper quietly enough that my voice shouldn't carry
+ any farther than that, but it would be too big a hint to ask directly if
+ Marcus was there.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A lot of disassembled Volturi -- we're keeping Renata, by the way, she doesn't
+ seem too upset about the regime change except for the new dietary requirements
+ -- and Alec, our 
+\emph on
+friend
+\emph default
+ the Imperial Factotum, and your daddy,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Because Paola thinks she's Didyme,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+There was a silence.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh my,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's about what I was thinking,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I finished conveying the details of the situation to my mother, and she
+ arranged for Addy to come bearing Aro's power just after sunset.
+ Since Paola-or-Didyme wasn't currently a witch, Addy's copying wouldn't
+ interfere with the read, and Addy would be able to figure out what was
+ there in her head.
+ Likewise with Benito-or-John.
+\end_layout
+
+\begin_layout Standard
+If there was any Paola left, we'd see about getting her to surface, if that
+ was possible.
+\end_layout
+
+\begin_layout Standard
+If there wasn't...
+ if Paola was somehow gone altogether and there was only Didyme...
+\end_layout
+
+\begin_layout Standard
+Then I wasn't sure.
+\end_layout
+
+\begin_layout Standard
+First things first.
+ My mother got Carlisle's help in creating an identity for our 
+\begin_inset Quotes eld
+\end_inset
+
+specialist facility
+\begin_inset Quotes erd
+\end_inset
+
+ in case we wound up needing or wanting to move the blast victims.
+ I was instructed to describe Paola and Benito as having 
+\begin_inset Quotes eld
+\end_inset
+
+mnemic displacement
+\begin_inset Quotes erd
+\end_inset
+
+ and the other four as having 
+\begin_inset Quotes eld
+\end_inset
+
+mnemic overload
+\begin_inset Quotes erd
+\end_inset
+
+, which were accurate enough terms (given what we knew) that I expected
+ to be able to deliver them without a blip in my 
+\begin_inset Quotes eld
+\end_inset
+
+honesty voice".
+\end_layout
+
+\begin_layout Standard
+I told Dr.
+ Valenti that my 
+\begin_inset Quotes eld
+\end_inset
+
+colleague
+\begin_inset Quotes erd
+\end_inset
+
+ (Addy) would be on her way shortly to make a more detailed examination
+ of the six patients, and assured him that she was 
+\begin_inset Quotes eld
+\end_inset
+
+at least my equal
+\begin_inset Quotes erd
+\end_inset
+
+ in the field of mnemic disorders.
+ It wasn't lost on me that Addy was responsible for the patients' condition
+ in the first place.
+ Still, she hadn't gone out of her way to hurt them; it had been an accident,
+ albeit a predictable one.
+ She probably didn't really care about what she'd done but she didn't have
+ any reason to do worse, either.
+\end_layout
+
+\begin_layout Standard
+Addy showed up at the hospital shortly after sunset.
+ She was dressed up a little more formally than was usual for her, although
+ she hadn't turned up in a labcoat or anything like it, and she introduced
+ herself cordially to Dr.
+ Valenti and went to where the six patients were.
+ Under the guise of peering into their eyes like she was checking for dilated
+ pupils, she touched the chins of each of the six while I discreetly showed
+ her the files I'd read.
+ John and Didyme (or Benito and Paola -- I couldn't decide how to think
+ of them, I kept attaching both names to each one) knew immediately that
+ Addy was a vampire, although I had to explain to them why her eyes were
+ gold.
+ (John was disgusted, Didyme vaguely curious.) Addy herself didn't talk directly
+ to them; she was busy mulling over the memories she'd picked up.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked her in Norwegian, to prevent inopportune eavesdropping from the
+ staff or awkward listening in from either 
+\begin_inset Quotes eld
+\end_inset
+
+mnemic displacement
+\begin_inset Quotes erd
+\end_inset
+
+ sufferer.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The four folks we're saying have mnemic overload are weirder to read than
+ anyone else Aro or I ever pulled memory from before,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They're full of fragments from everybody in the payload -- me, you, Aro,
+ your father, everyone -- but it's 
+\emph on
+all
+\emph default
+ wispy and hard to get at, like a vampire's human memories are after the
+ vampire turns.
+ The human memories like from, say, Gianna, dramatically more so than yours
+ or the vampire memories.
+ As far as I can tell, everything I put in the blast is there, but not 
+\emph on
+attached
+\emph default
+ to what it should be.
+ For instance, they know, or their heads contain information about, where
+ I was on the fourth of July in 1857, and where I was on the fifth of July
+ in 1857, but those things don't flow together in sequence.
+ They'd have to connect them up manually, so to speak, and they don't have
+ enough of a train of thought to manage anything of the kind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And the mnemic displacement cases?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Contain less,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just the memories from John and Didyme respectively.
+ Mostly the vampire ones, and to a sharply lesser extent, the human ones.
+ They're losing bits of the vampire ones too as time wears on, though.
+ For instance, Paola couldn't tell you how many windows were in the room
+ where Didyme woke up when she finished turning.
+\begin_inset Quotes erd
+\end_inset
+
+ Didyme -- Paola -- the female mnemic displacement case was evincing interest
+ in our conversation, hearing 
+\begin_inset Quotes eld
+\end_inset
+
+her
+\begin_inset Quotes erd
+\end_inset
+
+ name, but Addy ignored her and I didn't pause to translate.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Whereas you and I, with brains designed to hold arbitrary amounts of information
+, have no trouble holding on to that data.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about Paola, or Benito?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are...
+ they 
+\emph on
+there
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The one thing that's 
+\emph on
+not
+\emph default
+ there, in any of the six, is the memories 
+\emph on
+these
+\emph default
+ humans used to have.
+ Those are 
+\emph on
+gone
+\emph default
+.
+ I couldn't have told you their names were Paola and Benito and so on if
+ you hadn't sent me what you remember of the files, let alone anything else
+ about them,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Completely gone?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked faintly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Unless something about the mnemic disorder, if that's what we're calling
+ it, interacts strangely with Aro's power and I just can't read those memories?
+ Yes.
+ Completely gone.
+ Not hidden, not repressed, not temporarily forgotten, not of lesser importance,
+ 
+\emph on
+absent
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For all practical purposes,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said, 
+\begin_inset Quotes eld
+\end_inset
+
+sitting over there are Didyme and John, vampires from centuries ago who
+ have been turned into humans and may have some genetic differences beyond
+ that.
+ And four irretrievable nutcases who might be salvageable if we get them
+ to look into reflective surfaces, although they all look at least as much
+ like 
+\emph on
+somebody
+\emph default
+ as the displacement pair look like who they think they are, so I'm not
+ sure how they've managed to avoid `displacing' for this long.
+ There are mirrors in this room.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I looked at the four slack, blank-eyed faces, and ran through mental lists
+ of all the people they looked sort of like.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Everybody they could have recognized themselves as was a lot older than
+ John and Didyme were,
+\begin_inset Quotes erd
+\end_inset
+
+ I observed after a moment's thought.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or was human.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+True,
+\begin_inset Quotes erd
+\end_inset
+
+ she mused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You think that's related?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The vampire memories are sharper and stand out more...
+ and the more of them there are for any given person the harder it would
+ be for the human brain to handle them...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That would explain why Benito would look in the mirror and think he was
+ John instead of the other fellow, or why Paola would think she was Didyme
+ and not, oh, that woman who led the newborn army near New Mexico,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy agreed.
+\end_layout
+
+\begin_layout Standard
+I blinked, tipping my head to the side.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There is really a lot less variation in vampire appearance than in human
+ appearance.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's what you get when you make us all so pretty,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said cheerfully, as though I were personally responsible for vampire
+ aesthetics.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Tends to even out the distinctive features.
+ Anyway.
+ So we've got Didyme and John and four people who don't look much like any
+ young vampires.
+ Near as I can tell, there's no way to get anything else out of this situation.
+ The question is how Marcus will react.
+ And, I suppose, whether we turn John, and what we tell the biological families.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess he'll be able to tell by looking if she's...
+ real 
+\emph on
+enough
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Presumably.
+ And I doubt she'll object.
+ Look at her, shiny-eyed waiting for us to take her to her mate, insofar
+ as he can retain that distinction to a human-brained person.
+ Her family might complain, of course, and the strategy `kill them if they
+ become inconvenient' is probably off the table with our favorite Empress
+ Regnant in charge.
+ John, on the other hand...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know how to tell him about Anne,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He didn't have anybody else.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addy shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He has 
+\emph on
+biological
+\emph default
+ family, and I could go discreetly read them all and then we'd be able to
+ catch him up on how to pretend to be Benito-with-some-amnesia.
+ He could keep the life the body comes with.
+ I suppose Didyme could do that too, but she's less likely to want to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is there a way to fix the other four, do you suppose?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Find face matches, blast them with the first year or six of those lives
+ again and stop there?
+\begin_inset Quotes erd
+\end_inset
+
+ suggested Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+See if that knocks everything loose? Turn them and hope their new, improved
+ brains can sort out the information in some less comatose way? But getting
+ back who they used to be, nope, don't think so.
+ They weren't backed up ahead of time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know,
+\begin_inset Quotes erd
+\end_inset
+
+ said Dr.
+ Valenti, 
+\begin_inset Quotes eld
+\end_inset
+
+I would really appreciate it if you would speak Italian.
+ I know you're both fluent.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Our apologies, doctor,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy sweetly, turning and batting her eyes at him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The other language has a number of specialized technical expressions we
+ use to discuss mnemic disorders, but you're correct, it's unkind to leave
+ you out of the loop.
+ Do you have a background in mnemic disorders -- a rotation with them during
+ school, perhaps? -- or does your specialty lie 
+\emph on
+elsewhere
+\emph default
+? Help me understand where I need to begin explaining.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're being awfully helpful,
+\begin_inset Quotes erd
+\end_inset
+
+ I remarked to her, not in Norwegian, just at a high pitch.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Daddy's listening,
+\begin_inset Quotes erd
+\end_inset
+
+ she sang back to me in a similar register.
+ Right -- this was within my father's range from the compound.
+ He was probably telling my mother everything, so Addy had to behave.
+ She ushered Dr.
+ Valenti away, engaging him in deftly patronizing conversation about his
+ inability to handle the memory blasted patients.
+\end_layout
+
+\begin_layout Standard
+I sat back down near...
+ Didyme and John.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I understand that there's something dreadfully complicated going on,
+\begin_inset Quotes erd
+\end_inset
+
+ Didyme keened gently, 
+\begin_inset Quotes eld
+\end_inset
+
+but if you know where Marcus is I don't understand why I can't go to him
+ now.
+ Am I a prisoner? Or if I can't leave, perhaps he could come here? Does
+ he know what's happened to me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I want to know what happened to Anne,
+\begin_inset Quotes erd
+\end_inset
+
+ demanded John.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did the Volturi bastards do something to her?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hoo boy,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and then I steeled myself to do what I did best.
+\end_layout
+
+\begin_layout Standard
+I told the truth.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I started with John.
+ He was just a little easier to confront.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The last time you saw Anne was in 1007,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sounds right,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How do you know
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This year is 2011,
+\begin_inset Quotes erd
+\end_inset
+
+ I told him.
+\end_layout
+
+\begin_layout Standard
+He gaped at me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm going to explain the rest of it without using the pronoun `you' because
+ otherwise it's going to be very confusing,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, fighting to keep my voice even.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In 1007, John was executed for
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was 
+\emph on
+what
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let me finish,
+\begin_inset Quotes erd
+\end_inset
+
+ I pleaded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+John was executed for creating an immortal child, Anne.
+ Most immortal children were killed with their creators but not her.
+ She was one of a handful that Aro brought to Volterra to watch and learn
+ about, in case they could be controlled.
+ She lived with the Volturi until 1754, and then Aro gave up on the project
+ and murdered her and the others.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+John was too enraged to let me go on uninterrupted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That evil bastard -- my 
+\emph on
+daughter
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aro's dead,
+\begin_inset Quotes erd
+\end_inset
+
+ I cut in.
+ He calmed down enough to shut his mouth, although there was still anger
+ burning in his eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In 2005, a witch joined the Volturi who had the power to copy other witches'
+ powers by touching them.
+ She copied Aro, and read all of the memories he had ever absorbed, including
+ John's up until shortly before his death in 1007.
+ Thirteen days ago, she borrowed 
+\emph on
+my
+\emph default
+ power, which is complicated but includes the ability to 
+\emph on
+send
+\emph default
+ memories.
+ And she sent them 
+\emph on
+all
+\emph default
+, to everybody within range, including a human man named Benito Bianchi,
+ and me and most of the Volturi.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He blinked several times, very rapidly, and opened his mouth to say something,
+ and then closed it.
+ I continued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The vampires and me -- I'm a half-vampire, don't ask, it's a story for later
+ maybe -- were able to recover from the blast.
+ The humans that the blast hit weren't equipped to handle so much information,
+ though.
+ Their original memories were erased completely.
+ But...
+ Benito looks a lot like John did.
+ Enough that when Benito saw his reflection after being hit with all of
+ the memories, he 
+\emph on
+recognized himself as
+\emph default
+ John, and all of the memories except John's faded.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I'm,
+\begin_inset Quotes erd
+\end_inset
+
+ began John, and he looked down at his hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're John,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, albeit with less confidence than I'd had in the rest of the story.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But you're in Benito's body.
+ And Benito had a son, and a sister, and a father, who all think you're
+ Benito.
+ Benito with something wrong with him, but still him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anne...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anne lived to be seven hundred and thirty seven years old,
+\begin_inset Quotes erd
+\end_inset
+
+ I soothed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She was...
+ well-fed...
+ and she had some other immortal children to play with and she was generally
+ happy.
+\begin_inset Quotes erd
+\end_inset
+
+ There was a two-year period in the fourteenth century where they tried
+ having Jane administer punishments to misbehaving children as a means of
+ controlling their tantrums and other unwanted tendencies, but that was
+ eventually discontinued, mostly because Jane didn't have a sufficiently
+ constrained definition of 
+\begin_inset Quotes eld
+\end_inset
+
+misbehaving.
+\begin_inset Quotes erd
+\end_inset
+
+ I decided not to tell John that, and just suffered through the itch from
+ Magic.
+\end_layout
+
+\begin_layout Standard
+John nodded, slowly, eyes slightly glazed over.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So...
+ now what?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I shrugged helplessly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You could potentially live Benito's life.
+ We don't have a way to get his memories, but the copying witch has a piece
+ of Aro leftover that she could use to read Benito's family and friends,
+ and then I could tell you what you would need to know to fill the role
+ passably.
+ We can probably get you out of this hospital even without doing that, although
+ it might be tricky, and then...
+ well, if you want to be a vampire, you'll have to take it up with the Empress
+ Regnant.
+ If you don't, she'd probably consider setting you up wherever with enough
+ money to get started doing whatever as reparations or something.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't know.
+ I need to think.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and then I turned to Didyme, who looked anxiously hopeful.
+\end_layout
+
+\begin_layout Standard
+I took a deep breath, and said to her, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm going to tell this story without using the pronoun `you', because otherwise
+ it will be too confusing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Didyme looked confused, but she nodded.
+\end_layout
+
+\begin_layout Standard
+I had to start with a brief aside about how we'd started numbering years
+ since Didyme's time, which in combination with the present number in use
+ stunned her enough that she remained completely silent through the rest
+ of my explanation, even when I revealed that her brother had murdered her
+ and tricked Marcus into working for him anyway for the next couple thousand
+ years.
+ Even when I told her that her brother was dead at her husband's hands as
+ part of a revolution against a government that she'd never seen take power.
+ Even when I explained that Marcus was just shy of a mile away, but didn't
+ know she was 
+\begin_inset Quotes eld
+\end_inset
+
+alive again
+\begin_inset Quotes erd
+\end_inset
+
+, and if he saw her, might or might not find her to be Didyme according
+ to the capricious magic of the mate bond.
+ Even when I made it clear that the knees she was looking at when she fixed
+ her gaze downward had belonged to someone named Paola Greco.
+\end_layout
+
+\begin_layout Standard
+When I was done with my explanation, she looked up from her knees to me
+ and said, 
+\begin_inset Quotes eld
+\end_inset
+
+I am sorry about Paola.
+ But I want to be Didyme.
+ If Marcus looks at me and says I'm not his wife...
+ then I suppose I can't be.
+ Then perhaps I'll be Paola instead if you and the other witch can do that,
+ to help her family.
+ But if I can, I want to be Didyme.
+ Marcus has already spent far longer with his loss than Paola's relatives
+ have.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's different than you remember,
+\begin_inset Quotes erd
+\end_inset
+
+ I cautioned, thinking not only of the cosmetic changes but of the toll
+ of centuries upon centuries of grief.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Whatever has happened,
+\begin_inset Quotes erd
+\end_inset
+
+ Didyme said securely, 
+\begin_inset Quotes eld
+\end_inset
+
+he is Marcus, and that is who I need him to be.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
