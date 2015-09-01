@@ -1,0 +1,2011 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{40}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Timer
+\end_layout
+
+\begin_layout Standard
+Cowed somewhat by the many ways we could still be slaughtered even with
+ Pera's help, I excused myself meekly and ran back to the mountain where
+ Jake was recuperating.
+\end_layout
+
+\begin_layout Standard
+When I got close enough, my mother shielded me again, which I noticed because
+ I was abruptly able to notice that Allirea was perched on the mountainside
+ eating an orange.
+ I wasn't sure why she'd do that in favor of hunting an animal, even if
+ my mother wasn't permitting her to eat humans the way she normally would.
+ It could have been sheer laziness, I supposed, since fading didn't work
+ on animals and they would run from her if chased.
+\end_layout
+
+\begin_layout Standard
+My mother still had her phone out, sitting open on the rock next to her,
+ so I assumed she'd heard everything, and I just waved at her in acknowledgement
+ before settling beside Jake again.
+ He was sleeping, albeit more fitfully than before; I touched his cheek
+ and attempted to calm him with another blank sending, to decent effect.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you let me braid your hair?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked in a low voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's still braided from when I did it on the plane ride,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Since I'd gotten it cut I'd been able to braid it myself, although it was
+ threatening to get too long for that again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There are wisps coming out all over the place,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, sounding like she was fighting to keep her voice even, 
+\begin_inset Quotes eld
+\end_inset
+
+and the strands are mismatched...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fine,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, shrugging, and turned away from her.
+ She knelt behind me and undid and re-plaited my hair, more slowly than
+ I remembered, but it was easy enough to ignore since she was pretty good
+ at not pulling it.
+\end_layout
+
+\begin_layout Standard
+She twisted the elastic around the end of the braid when she'd finished.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't dare try to parent you,
+\begin_inset Quotes erd
+\end_inset
+
+ she murmured, quietly enough that I wasn't sure if she meant me to hear
+ at all.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't dare claim any closeness, because of what she did to you, and because
+ I don't dare do anything that might drive you away more...
+ but I can't 
+\emph on
+forget
+\emph default
+ that you're my daughter, I can't pretend that you're some arbitrary girl
+ who's signed onto the cause...
+ and I don't know what that leaves me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, you get Dad back, if we win,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ I didn't have much of anything 
+\emph on
+against
+\emph default
+ my mother.
+ I didn't want her to feel bad.
+ But making her not feel bad in the way she wanted would involve some form
+ of subterfuge.
+ While her shield's current state meant that I might be able to pull it
+ off without Magic being able to give me away, it still wasn't my strong
+ suit or something I wanted very much to practice.
+\end_layout
+
+\begin_layout Standard
+I didn't know 
+\emph on
+how
+\emph default
+ to undo Chelsea's work the other way around.
+ It didn't feel like the sort of thing that fell under my bailiwick.
+ There was nothing particularly untrue about her destructive tendencies
+ -- I didn't think I could make myself love my mother again just because
+ I once had any more than I should expect to bring people back from the
+ dead just by pointing out that they had previously lived.
+\end_layout
+
+\begin_layout Standard
+She ran her palm across my hair, once, and then let her hand drop to her
+ side.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's something,
+\begin_inset Quotes erd
+\end_inset
+
+ she muttered ruefully.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's your mate,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out, unnecessarily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't that supposed to make it more than just something?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She took a step back from me, and I turned my head to look at her; she was
+ staring skyward.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe it'll be different when I see him,
+\begin_inset Quotes erd
+\end_inset
+
+ she said finally.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+You're
+\emph default
+ right here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+you can kill Chelsea.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Believe me, that's my intention.
+ Somehow I doubt it's going to be like fairy tales in which slaying an evil
+ witch causes all of her ongoing effects to evaporate, though.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah,
+\begin_inset Quotes erd
+\end_inset
+
+ I said uncomfortably.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Probably not.
+ Chelsea's cousin had a power sort of like hers except she dealt more with
+ negative relationships, and what she'd done didn't go away that Chelsea
+ could detect when she died.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Still looking up at the sky, my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+Maybe we're wrong and her work does depend on her continuing to live.
+ Maybe you'll learn to undo it...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe,
+\begin_inset Quotes erd
+\end_inset
+
+ I said dubiously.
+\end_layout
+
+\begin_layout Standard
+My magic itched, but I didn't tell her anyway, that I wasn't sure if I 
+\emph on
+would
+\emph default
+ exercise that ability that way given the chance.
+\end_layout
+
+\begin_layout Standard
+After a silence, my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+Am I going to need to kill Afton too, do you think?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Probably not you personally,
+\begin_inset Quotes erd
+\end_inset
+
+ I told her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's too good in a fight and you've only been a vampire for six years and
+ change, I don't think you could kill him if you tried.
+ But yeah, if Chelsea dies he won't exactly stand for it, and if you're
+ going to kill her he'll probably need to be out of the way first.
+ Actually, killing him might make her somewhat Marcus-like and make it a
+ lot easier to do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The variation in how vampires cope with the loss of mates is...
+ strange,
+\begin_inset Quotes erd
+\end_inset
+
+ she observed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think you had it about right when you conjectured that it was connected
+ to witchcraft,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Marcus is practically a zombie mostly because he can still see his half
+ of the mate bond.
+ It 
+\emph on
+looks
+\emph default
+ like a torn white ribbon, but he knows it means his mate is dead.
+ And he has to stare at it twenty-four hours a day.
+ The few times he's managed to look away from it for a second, he's been
+ much more typical in his reaction -- which would be sort of like Irina.
+ She was focused on revenge above everything else but she was able to be
+ basically sane about it.
+ I mean, up until the point where her plan backfired and the people she
+ wanted dead were instead collected by the Volturi except for the ones who
+ escaped altogether.
+ Then she did something very stupid, running at the contingent of Volturi
+ who were in La Push all by herself, but up until that point she was mostly
+ functional.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Jasper felt Alice dying, for all that this was apparently a fake by
+ Addy...
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ Well, and part of the craziness you saw was because Alice was sharing visions
+ with him and he didn't know how to handle them or what they were, but a
+ good chunk of it was Addy's stunt,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And since she can only share visions while she's having them, and what she
+ was primarily trying to communicate was that she was alive, this involved
+ a lot of images of her lying on the floor of the dungeon under Alec's power
+ staring blankly into space.
+ Or in little bits.
+ So there's that.
+ But I'm pretty sure that what Addy did had an effect too.
+ You just 
+\emph on
+heard
+\emph default
+ what you thought was Dad dying is all -- I mean, I'm sure it was horrible,
+ but it wasn't like feeling it directly, or staring at evidence of it all
+ the time forever.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ she murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And you think Chelsea's power will make her react with unusual intensity
+ if Afton dies?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like a combination of regular mate death, and the worst kind of drug withdrawal,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Drug withdrawal,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother mused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How does that work?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd offer to show you, but...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ she sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ I am working on it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We lapsed into silence, and I thought about Chelsea and her addiction
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+He's almost ready.
+ His heart is speeding up.
+ Soon it will stop and he will look at me with new eyes.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He
+\emph default
+ must
+\emph on
+ love me.
+ There has been no change in the twist of leathery-feeling admiration that
+ I spun out of the original seed since I bit him.
+ That's not enough.
+ I want him to 
+\emph default
+adore
+\emph on
+ me.
+ I want him to 
+\emph default
+need
+\emph on
+ me.
+ This isn't enough.
+ I figured out yesterday that he must be my mate or I wouldn't want him
+ so much.
+ That means that I'm supposed to be his mate, too, doesn't it? He's supposed
+ to be mine.
+ But there's no impenetrable diamond, not yet.
+ There's nothing particularly durable about this string.
+ I could cut it if I wanted, leave him with nothing at all -- his other
+ connections have stopped trying to grow back.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I
+\emph default
+ don't
+\emph on
+ want to do that.
+ It's inadequate, this thin little tendril of rope, even though I've poured
+ more work into it than anything else I've ever crafted and don't know how
+ to pull it any tauter or force it to grow any bigger.
+ It's still not enough.
+ He must 
+\emph default
+love
+\emph on
+ me.
+ More than 
+\emph default
+this
+\emph on
+.
+ Where is 
+\emph default
+my
+\emph on
+ diamond link to my mate...? I can't feel the half of it extending out from
+ myself.
+ I can't feel any of my 
+\emph default
+own
+\emph on
+ relationships.
+ It must be there, I suppose Marcus would see it if he looked, but I ought
+ to be able to feel Afton's, but 
+\emph default
+I
+\emph on
+ can't tell and I don't know what to do to make sure everything is as it
+ ought to be when Afton doesn't feel diamond-ly towards me -- 
+\emph default
+he must love me
+\emph on
+, why hasn't it happened yet...?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Did I -- no, it's impossible, but -- did I ruin something, interfering with
+ the relationship before he turned -- 
+\emph default
+no,
+\emph on
+ that can't happen, that's not how it works, it must simply not kick in
+ until his heart stops.
+ That's what it must be.
+ I haven't ruined everything.
+ This must be normal, is all.
+ Why would a vampire mate bond exist before he's completely a vampire? I
+ shouldn't worry.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm worried.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm 
+\emph default
+terrified
+\emph on
+.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I wish one of the others had needed to turn their own mate, so I would know
+ what happens.
+ Then I would 
+\emph default
+know
+\emph on
+ this is normal, and only to be expected, and that Afton will love me properly
+ when he's through changing...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I do know that.
+ He must love me, that's all.
+ He must.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+His heart beats faster, louder, it's humming so fast and there is still
+ 
+\emph default
+no diamond love coiling itself around me
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+--!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And then where the next beat would have been is silence and there's 
+\emph default
+still nothing
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+This morning I caught him a couple of humans to relieve the thirst that
+ will come with his newness.
+ They're tied up nearby.
+ He attacks them instinctively without even looking at me.
+ 
+\emph default
+He didn't even look at me
+\emph on
+, and there's still nothing out of the ordinary between us when my fingers
+ twitch impotently through the air, 
+\emph default
+this is as much as I know how to do and it's not enough and he must love
+ me
+\emph on
+!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And then the humans are both dead and drained and he 
+\emph default
+does
+\emph on
+ look at me.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He
+\emph default
+ stares
+\emph on
+ at me.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He
+\emph default
+ gazes
+\emph on
+ at me and it snaps into place, all at once, a sudden rightness in the universe.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea,
+\begin_inset Quotes erd
+\end_inset
+
+ he says, like my name is a prayer, and I can feel it, I can feel it all
+ around me like an embrace, he loves me, he loves me, he loves me, he loves
+ me, the air is singing with it...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Everything I created before, every thread I poured myself into bolstering,
+ was a faint squeak of a prelude to this.
+ He's mine.
+ It worked after all.
+ Mine mine mine mine.
+ I needed him all along and didn't know it and now he's mine, properly mine,
+ and he loves me he loves me he loves me.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Afton,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, beaming at him and holding out my arms
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan's voice through my mother's phone, still lying open on the
+ ground.
+ My mother snatched it up and held it to her ear.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Razi dropped by for about four seconds.
+ He and Pera are going to get on a plane to join us here so she can hide
+ everybody and get us to Europe safely,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They should be here tomorrow afternoon, by which time it should be reasonably
+ safe to move Jacob.
+ Bella, Pera still doesn't like you due to the thing where she was your
+ singer and you almost ate her, so don't antagonize her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Noted,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Should I apologize to her, or just avoid interacting with her as much as
+ possible?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're going to have to get a bead on her preferences on the matter yourself
+ when she shows up,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Four seconds wasn't long enough for Razi to go into a lot of detail about
+ Pera's current attitudes towards you.
+ Anyway, Pera's iffy on actually participating in the fight after we finish
+ traveling, but she's willing to hear us out en route to Europe, and Razi
+ says he's still trying to talk her around.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure, they're 
+\emph on
+talking
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I heard Tanya say skeptically.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's sure what 
+\emph on
+I'd
+\emph default
+ do if I'd just found my mate and we were invisible to everyone around us
+ and had more than half a day of an airplane ride ahead of us during which
+ there was nothing in particular we had to do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, and I suspected she was rolling her eyes, 
+\begin_inset Quotes eld
+\end_inset
+
+so he's probably only 
+\emph on
+intermittently
+\emph default
+ trying to talk her around, but he did have verbal information to convey
+ about her when he dropped in, so there is at least some conversation happening.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Speaking of mates,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+there should probably be some contingency plan for if someone on our side
+ winds up mated to someone on theirs.
+ I assume not everybody we're calling an ally has already personally met
+ every member of the Volturi guard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You assume correctly,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think we should wait to find that out until we launch an offensive.
+ I think Elspeth should show everyone working with us a slideshow of the
+ current guard -- since we know from our experiment with Razi and Pera that
+ her method works as well as Alice's, and more comfortably -- once we're
+ all massed in London.
+ Then we can use those pairings, if applicable, to pry off a few more opponents
+ from the guard the way we just did with Pera.
+ As long as we're ready for the possibility and they aren't thinking about
+ it, we 
+\emph on
+should
+\emph default
+ be able to avoid having it go the other way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Such as how?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nobody else we're working with can teleport in, and nobody else with the
+ Volturi can get privacy right away so effectively.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm aware of that,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The obvious thing would be to have the half of the pair we've got to stand
+ in some easily recognizeable place, like under the Eiffel Tower, and get
+ Alice to send their mate an image of that.
+ At some time when they aren't about to touch Aro, moreover.
+ We can give our half a sign to hold -- `come here alone and don't tell
+ them where you're going' or something.
+ Then Elspeth can be hiding nearby and deprogram the Volturi in question
+ when he or she shows up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Presumably I'd have to be well away from the Eiffel Tower when Alice did
+ the shared vision?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You and Jacob both.
+ How is he doing, by the way? Do you anticipate any issues with getting
+ him onto a plane?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think he'll be okay to get picked up and moved tomorrow afternoon,
+\begin_inset Quotes erd
+\end_inset
+
+ I reported.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I wouldn't want to make him walk anywhere, but I can carry him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And he should be fine by the time we land in Heathrow.
+ Let's go back to the question of what we're going to do in Volterra itself
+ -- operating under the pessimistic assumption that we don't succeed in
+ doing any further matchmaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When Alice says that everyone who should be in the compound is, me and Allirea
+ and a vampire who Allirea fades go into the wolf village, by breaking a
+ skylight or something,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+and I deprogram everybody while Allirea and whoever make sure they don't
+ trap me or pass a message to the compound.
+ Right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Pessimistically, let's assume that deprogrammed wolves etcetera want nothing
+ to do with our fight, and either evacuate entirely or hole up in the village.
+ They won't be able to attack anyone in your contingent between your imprint
+ status and Allirea's fading, so if they were hostile you could get a message
+ to us, so we don't need to be concerned about the possibility that they'll
+ turn on us anyway -- we can just steer clear if going to the village would
+ be liable to provoke a fight.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If I'm the third person in that group,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+then Allirea and I could 
+\emph on
+start
+\emph default
+ the attack -- without a nail-varnishing break -- and see how much we could
+ get done before my shield snapped, or without going anywhere that Marcus's
+ eyes are pointing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How are we supposed to know when that happens and you need reinforcements?
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Alice can't see anything Allirea's near, even if you left Elspeth behind
+ in the village.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If the wolves help,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+they could have Rachel or Becky wait nearby -- not doing anything suspicious
+ to the Volturi, just standing within earshot -- and she could phase and
+ tell Jake as soon as she realized what was going on.
+ But Allirea would have to unfade briefly to let her know to do that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's not a terrible idea,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+but assumes wolf cooperation beyond just Jacob, which we aren't assuming
+ for the moment.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wait one moment,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother suddenly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Aro is wearing Marcus's eye to use it as a prosthetic vision device.
+ What makes us think he doesn't have some part of -- of Edward on his person?
+ Isn't he keeping Edward as a mindreading antenna? Wouldn't that be the
+ best way to do it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's possible,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan allowed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Unlike the eye, which needs line of sight to be useful, it wouldn't matter
+ if he were wearing such a piece of Edward under his sleeve or something,
+ so Alice might not have seen...
+ what's your point?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My point is that just like Demetri could notice Allirea whether she faded
+ or not,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, 
+\begin_inset Quotes eld
+\end_inset
+
+Edward can probably notice me whether or not Allirea is fading me.
+ If Aro is constantly reading him, that means he might be able to notice
+ thoughts about me -- even if it's only Edward reading Allirea thinking
+ about me, since he can't hear my thoughts directly.
+ And unlike with Marcus's eye, we can't prevent that just by avoiding line
+ of sight.
+ If my shield slips, then no matter where we are in Edward's range, this
+ is a risk.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a silence, and Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+Alice? Can you have a look at that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only if I spy on Aro changing clothes in the future to see if he's got any
+ Edward-bits on him tucked under the cloak,
+\begin_inset Quotes erd
+\end_inset
+
+ Alice said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This is somewhat important,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said tightly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your sense of propriety is somewhat less so.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After a pause, Alice said, 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ Half a thumb, tied to his forearm.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother shuddered, and Siobhan swore quietly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's a lot of ifs, but we can't rule any of them out,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If Bella slips...
+ If Edward can notice Allirea's thoughts even when Allirea is faded, should
+ they concern Bella...
+ if Aro can notice Edward's noticing, even when they concern a faded Bella
+ via a faded Allirea...
+ but we can't rule it out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can we ask Pera to go in and get Edward -- in his entirety -- out first?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm aware we can't wait for his reassembly before proceeding with the attack
+ from there, since his disappearance will certainly be noticed, but at least
+ he could be taken away as a weapon from the enemy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If Pera helps beyond getting us onto an airplane,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said tiredly, 
+\begin_inset Quotes eld
+\end_inset
+
+we can ask her.
+ If she 
+\emph on
+doesn't
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe we should wait until we know if we have her help before trying to
+ come up with something clever to do on the contingency that we don't,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mother.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now that Pera is absent without leave, we should step up our timeline a
+ bit,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The Volturi are not stupid, and if they decide to put some kind of plan
+ into motion, they 
+\emph on
+don't
+\emph default
+ have to wait for a day and a half until an airplane has departed from Italy,
+ flown to Alaska, and then flown back again before they can get started.
+ Okay.
+ Supposing we have no Pera and no wolves other than Jacob, what do we do?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alistair is a tracker, right?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He can tell where various people are.
+ If he were the third person, he could go in with Allirea, keep his sense
+ on the lookout for Aro, not be particularly inclined to think about my
+ mother, and let Allirea kill a bunch of people before running into anyone
+ who can notice her.
+\begin_inset Quotes erd
+\end_inset
+
+ I didn't remember a great deal about Alistair, in spite of him styling
+ himself Carlisle's friend, but I was familiar with the basics of how his
+ power (mostly deployed to let him stay far away from his fellow persons)
+ worked.
+ His power was a lot like Harry Clearwater's had been.
+\end_layout
+
+\begin_layout Standard
+There was a pause while my mother and Siobhan thought that over, and then
+ Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+Okay, that's our current default steps one and two.
+ Elspeth, Alistair, and Allirea, latter two faded, break into the village,
+ deprogram the wolves and imprints and pups, and then Alistair and Allirea
+ go into the compound together with Alistair executing a planned pattern
+ of announcing Aro's location even though he won't be able to remember that
+ Allirea is there.
+ However, I'm 
+\emph on
+somewhat
+\emph default
+ concerned about Alistair's reliability.
+ Do we have any other ideas for the case where he absconds in the night
+ rather than follow through with anything so risky?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I resent that,
+\begin_inset Quotes erd
+\end_inset
+
+ snapped Alistair's voice in the background.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you resent it, feel free to prove my suspicions unjustified,
+\begin_inset Quotes erd
+\end_inset
+
+ retorted Siobhan.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I invite you to do so.
+ I'd like nothing more.
+ In the meantime, I'm the one with magical planning powers, so if I feel
+ inclined to plan for you running off, I'm not going to ignore the impulse
+ just to spare your feelings.
+ Elspeth, Bella -- more ideas?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nathan might have some valuable ability,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I don't know how to plan for that when he won't tell us what it is.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hang on,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+I have another call.
+ Liam, love, you call Bella to keep the line open
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ Various beeping noises later, I could hear Siobhan answer the new call
+ through Liam's phone and my mother's, and patched into the conversation
+ myself to be able to hear.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hello.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Siobhan!
+\begin_inset Quotes erd
+\end_inset
+
+ said Nathan's voice cheerfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have the notion that this is a good time to tell you what it is that I
+ do.
+ What d'you think?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The only way to improve on this moment would be via the irresponsible use
+ of time travel, Nathan,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan deadpanned.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is your power that, by any chance?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nah, I wish, that would be keen,
+\begin_inset Quotes erd
+\end_inset
+
+ he replied.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Close, though!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan growled, 
+\begin_inset Quotes eld
+\end_inset
+
+out with it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Supernaturally good timing,
+\begin_inset Quotes erd
+\end_inset
+
+ he said cheerfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I'm considering doing a thing, I know when would be the best moment to
+ do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a moment of quiet, and then Siobhan said, 
+\begin_inset Quotes eld
+\end_inset
+
+And what, pray tell, made 
+\emph on
+this
+\emph default
+ rather than a week ago Wednesday the best moment to share this information?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Haven't a bloody clue,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, still cheerful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't get reasons.
+ Just times.
+ But I'm always right.
+ I know when would be best to come visit your island and when would be best
+ to swim home again.
+ I know when's best to dodge, when's best to strike, when's best to do anything
+ I set my mind to really.
+ Couple awkward limits to it, though.
+ F'rinstance, doesn't help me think of especially clever things to time
+ brilliantly.
+ If I want to know the best time to set myself on fire, my power will oblige,
+ but that wouldn't make it any less liable to kill me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How could there be a best time to set yourself on fire?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not rightly sure,
+\begin_inset Quotes erd
+\end_inset
+
+ he told me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Told you -- I don't get reasons, just times.
+ The other limit is that I need to have roughly the right time scale in
+ mind to get the most useful answer.
+ If I'm thinking that I want to visit Bath sometime this week, I'll know
+ the best time this week, but if I'm thinking I want to go sometime this
+ decade, I'll know the best time this decade, which isn't likely to be this
+ week.
+ That's gotten me into trouble once or twice.
+ Anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+maybe you lot can tell me -- why was this the best time for me to share
+ my secret with the group?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, we'll be there with Eleazar anyway in a little over a day,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And we're currently trying to figure out who gets to be in the team that
+ first enters the compound,
+\begin_inset Quotes erd
+\end_inset
+
+ said Siobhan, 
+\begin_inset Quotes eld
+\end_inset
+
+and Nathan, I think you get the job.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

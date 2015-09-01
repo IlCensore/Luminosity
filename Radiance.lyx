@@ -1112,6 +1112,13 @@ filename "Radiance-40.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-41.lyx"
+
+\end_inset
+
+
 \begin_inset Newpage newpage
 \end_inset
 
@@ -1221,11 +1228,11 @@ url{cato.philosophus@gmail.com}
 \begin_inset Newline newline
 \end_inset
 
-completed on November 30
+completed on September 1
 \begin_inset script superscript
 
 \begin_layout Plain Layout
-th
+st
 \end_layout
 
 \end_inset
