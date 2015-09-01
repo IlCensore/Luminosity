@@ -1,0 +1,2006 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{48}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Restorer
+\end_layout
+
+\begin_layout Standard
+We left Marcus and Didyme alone, or relatively so -- we didn't go far, just
+ went to talk about the other five blast victims in a separate room.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't turn her, at least not yet,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother warned Marcus before departing, and he nodded once.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We should probably bring in the families one at a time,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, starting to pace.
+ Renata followed her around, a blank, distant look on her face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy, there's no way to get back the people they originally were?
+\begin_inset Quotes erd
+\end_inset
+
+ Since Addy was more actively involved in the conversation, I took over
+ translating for John.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not really, no,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They don't contain those memories anymore, or not accessibly.
+ If I'd read them ahead of time, maybe it could be done.
+ As is, the best I can imagine doing would be to read their social circles
+ and give them an idea of who they're 
+\emph on
+supposed
+\emph default
+ to be from outside perspectives.
+ And I'm not sure if that would hold.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can we `turn them into' other dead people?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother wanted to know.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or are they stuck like this?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It would be worth a try, if that were a desirable outcome,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think Didyme and John were resurrected, as it were, because they were
+ very young at the time they were read.
+ It's probably just a coincidence that they actually died shortly afterwards.
+ Well, most very young vampires Aro read only when they were young did die
+ shortly thereafter, but that's not 
+\emph on
+why
+\emph default
+ those two instead of someone older.
+ There's no obvious reason that, say, this gentleman couldn't turn into
+ the 400 
+\noun on
+bce
+\noun default
+ edition of Stefan...
+ I just don't think we can turn him into the 500 
+\noun on
+ce
+\noun default
+ version.
+\begin_inset Quotes erd
+\end_inset
+
+ She pointed at one of the mnemic overload victims who did indeed vaguely
+ resemble Stefan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stefan?
+\begin_inset Quotes erd
+\end_inset
+
+ my mother asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not saying we need another Stefan.
+ One is probably enough, and think of how confused Vladimir would be.
+ I'm just pointing out that this guy looks sort of like him, only taller,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Depending on how flexible the recognizing-oneself-in-the-mirror thing is,
+ there's at least a dozen vampires we've got backed up that he could be
+ convinced he is, and similar options for the others.
+ If Sukutai hadn't left already, maybe she or I could mess with their coloring
+ and get more variety.
+ I suppose that much could be accomplished with ordinary hair dye and makeup.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I see,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said, scrutinizing the patients with a frown.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+We need to bring in the families.
+ Everybody in the immediate family of each patient, one at a time.
+ Paola's first, since I imagine Didyme and Marcus want her turned promptly
+ and I think they should know what's going on first.
+ Addy, will you handle that? Call them and set up appointments with one
+ family per day for the next six or seven? Tell them to come in through
+ the office building entrance, and we can have you meet them there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure thing,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, and she slipped out into the hallway.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, if you don't mind, I'll want you at those meetings to help the
+ information be met with something other than inconvenient disbelief,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother went on.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And now that Jacob is no longer up at bizarre hours negotiating the long-term
+ plans of the wolves,
+\begin_inset Quotes erd
+\end_inset
+
+ she added, 
+\begin_inset Quotes eld
+\end_inset
+
+and is heading up the pack that works for me, tell him he needs to get his
+ sleep schedule under control and have at least two wolves following you
+ around as bodyguards.
+ He should probably take at least one of those slots himself when he's awake.
+ I don't think you're 
+\emph on
+overwhelmingly
+\emph default
+ likely to be attacked or I'd want you to stick with me and your daddy and
+ Renata twenty-four hours a day, but it would be good to have you visibly
+ guarded anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I nodded, waited a moment for further instructions, and ducked out when
+ there were none.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Jake was disgruntled about being awoken after only six hours of sleep, but
+ grudgingly acknowledged that if we were going to be in town for another
+ week dealing with blast victims, it was probably worth his time to become
+ vaguely diurnal again.
+ I told him what my mother had said about keeping a guard detail on me,
+ and he summoned Grace to join him in flanking me everywhere I went for
+ the rest of the day, and tagged Embry and Gwyn to take the first night
+ shift.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it pretty definite who's in your pack to stay, now?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uh, let's see if I remember everybody,
+\begin_inset Quotes erd
+\end_inset
+
+ he said sheepishly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Grace and Embry and Gwyn.
+ Zach.
+ ...
+\begin_inset space ~
+\end_inset
+
+Paul? No, not Paul.
+ I have it written down somewhere,
+\begin_inset Quotes erd
+\end_inset
+
+ he added, fumbling around in one of the drawers in his room.
+ Eventually he came up with a wad of euros and an untidily-scrawled chart
+ of which wolves were going where, which I scanned and memorized.
+ Jake's pack was the largest, Becky's the second even if one didn't count
+ Cody, but none of the wolves under Jake were likely to bring children with
+ them.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hey,
+\begin_inset Quotes erd
+\end_inset
+
+ Jake said, 
+\begin_inset Quotes eld
+\end_inset
+
+is Maggie still around or did she go home already? I owe her money.
+\begin_inset Quotes erd
+\end_inset
+
+ He brandished the bills.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's around,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+but might not be for that much longer.
+ Her witchcraft doesn't totally overlap with my dad's, but it's close enough
+ that I think she's just going to head back to Wexford and live her life
+ like before with Gianna and Molly.
+ I'm not sure what Ilario and Cath are planning to do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't owe Ilario or Cath money.
+ Do you have anything pressing going on or can we find Maggie and pay her
+ back?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm free until Paola's relatives show up, I think,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and I led him and Grace into the compound and along halls until
+ we found the lie-detector's temporary room -- she'd taken over Jane's,
+ and I repressed a shiver as I leaned into the open doorway.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Maggie?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Maggie looked up from Jane's jewelry box, which she was apparently looting;
+ a string of pearls dangled from her hands and she'd already sorted the
+ top tray into four piles.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Elspeth.
+ What's up?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I believe I owe you a hundred euros,
+\begin_inset Quotes erd
+\end_inset
+
+ said Jake, handing over the money he'd counted out.
+ Maggie plucked it from his hand, re-counted it, and put it in her pocket.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thanks,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you going home soon?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, I have a flight up tonight,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Would've gone yesterday when the bulk of the other nonessential personnel
+ cleared out, but Cath and Ilario can't make up their minds about whether
+ they're going to live with me and Gianna or in Swindon yet, and I'm trying
+ to balance going home to my family pronto with being able to tell Molly
+ when she should expect to see her Unclario again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you stealing Jane's jewelry?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Grace, peering at the pearls that Maggie was still holding.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jane 
+\emph on
+is
+\emph default
+ dead,
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie pointed out innocently.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I asked Alec -- you know, her only surviving relative and therefore totally
+ the executor of her estate -- if he cared what happened to her stuff, and
+ he said no, so I'm looking through it.
+ Why, do you want some of it? She had ridiculous amounts.
+ I think Aro might have given her something expensive and shiny every time
+ she had a birthday.
+\begin_inset Quotes erd
+\end_inset
+
+ That was actually true, although she'd worn out or lost or sold a fair
+ fraction of the pieces over the years to avoid being buried under them.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This is box two of six.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Grace blinked, then glanced at Jake for permission, got a shrug, and started
+ rummaging through what Maggie hadn't already claimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't looting fun?
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie asked, humming to herself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess my dad probably knows what's going on and would tell my mom,
+\begin_inset Quotes erd
+\end_inset
+
+ I said dubiously, 
+\begin_inset Quotes eld
+\end_inset
+
+and my mom would have said something if she objected, but...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pfft,
+\begin_inset Quotes erd
+\end_inset
+
+ said Maggie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She rules the world now.
+ Why bother with how a dead evil girl's stuff is disposed of? I guess some
+ of the stuff in the treasury would be worth her hanging onto -- the historicall
+y significant antiques and whatnot -- but she's not going to stop me from
+ taking this bee-yoo-tee-ful hair clip, I think.
+\begin_inset Quotes erd
+\end_inset
+
+ Maggie tucked an enameled pin into her curls.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or giving my mate a pretty bracelet.
+ Other people are going through the other rooms.
+ You could take some stuff, Elspeth, I bet you know where everything you'd
+ like is.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Grace retreated from the heap of jewelry to stand at my shoulder again,
+ newly ornamented, but I didn't want anything of Jane's.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll think about it,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, idly contemplating the other deceased owners of nice things and
+ what they'd have left behind.
+ I didn't think I'd wind up taking any of it.
+ I wasn't much for jewelry anyway, and somehow didn't think it was going
+ to be a limited resource in my future if I changed my mind.
+ My mom was having enough fun with being the Empress of the Golden Empire
+ that I wouldn't be astounded if she had a crown made for me and insisted
+ that I wear it to official functions, with such functions to be concocted
+ out of thin air later.
+\end_layout
+
+\begin_layout Standard
+Grace wanted to alert everyone else in the village to the looting opportunity,
+ and I didn't have any reason to direct her elsewhere, so back we went.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Paola's relatives arrived that afternoon -- just her parents and both of
+ her brothers.
+ Her sisters-in-law and her nieces and nephews were home; I suspected that
+ it would be up to her more immediate family what, if anything, to tell
+ them.
+ Jake and Grace and I waited with Addy for them to arrive at their appointment.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This doesn't look like a hospital,
+\begin_inset Quotes erd
+\end_inset
+
+ said Giotto, the elder of the brothers, as they walked into the office
+ building that contained one of several entrances to the Volterra compound.
+\end_layout
+
+\begin_layout Standard
+It was in fact not even slightly a mental hospital -- the offices in the
+ building were mostly financial and legal -- but we didn't stay in the building
+ long.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This way, please,
+\begin_inset Quotes erd
+\end_inset
+
+ I addressed the Grecos, catching their eye.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who are you?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Rino, the middle Greco child.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My name is Elspeth Cullen,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, glancing at Addy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dr.
+ Cullen and I -- I'm Dr.
+ Bauer -- are the world's leading experts on mnemic disorders,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy inserted smoothly.
+ Until we were in the compound itself, we weren't going to start telling
+ the truth.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The facility where Miss Greco is staying is not here; this is just the most
+ convenient entrance.
+ Please, follow us.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Using the key that allowed the building's elevator to drop as far as the
+ basement level, we accessed the tunnel that led to the compound.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What kind of hospital has a tunnel entrance?
+\begin_inset Quotes erd
+\end_inset
+
+ Giotto wanted to know.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not 
+\emph on
+exactly
+\emph default
+ a hospital,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, incapable of keeping quiet about it anymore.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I beg your pardon?
+\begin_inset Quotes erd
+\end_inset
+
+ said Mrs.
+ Greco.
+ Jake tensed up beside me at the hostility in her voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Paola's not really 
+\emph on
+ill
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I continued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's extremely complicated, and you're going to need to bear with me for
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you really a doctor?
+\begin_inset Quotes erd
+\end_inset
+
+ demanded Mr.
+ Greco.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sort of?
+\begin_inset Quotes erd
+\end_inset
+
+ I allowed.
+ I did have memories of medical school several times over.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean, 
+\emph on
+sort of
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ insisted Paola's father.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What kind of answer is that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rino actually stopped in his tracks, and his brother and then their parents
+ followed suit.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What in the 
+\emph on
+world
+\emph default
+ is going on?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're taking you to Paola,
+\begin_inset Quotes erd
+\end_inset
+
+ I promised.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please just follow us and we'll explain everything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Humans 
+\emph on
+can
+\emph default
+ tolerate 
+\emph on
+summaries
+\emph default
+, can't they?
+\begin_inset Quotes erd
+\end_inset
+
+ Addy asked me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I acknowledged, still a little wary of using my power on humans at all
+ given the harm Addy had been able to wreak with it, 
+\begin_inset Quotes eld
+\end_inset
+
+but
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you don't want to do it, I can,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy offered, holding out her hand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ Addy was borrowing Aro's power so she could read the Grecos when it was
+ convenient; I didn't want to displace it.
+ I sighed, turned back to the unsettled family, and created the most minimal,
+ unintrusive summary I could compose to send to all of them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bullshit,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rino, uncertainly, and I sighed, half-wishing that I could compel
+ belief outright.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How did you do that?
+\begin_inset Quotes erd
+\end_inset
+
+ shrieked Mrs.
+ Greco, pressing the heels of her hands to her temples and breathing irregularly.
+\end_layout
+
+\begin_layout Standard
+And Giotto stood stock-still, processing the information, and then lurched
+ angrily at Addy, who ducked his attempt at an attack neatly and then seized
+ his wrists so he wouldn't fall over.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't realize you were going to include that tidbit,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy told me dryly.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Greco grabbed his wife's elbow and turned to bolt, wheezing something about
+ monsters; I sprinted around them to block the way, my wolf and his packmate
+ at my heels.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+your daughter is
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Incurable!
+\begin_inset Quotes erd
+\end_inset
+
+ shouted Mr.
+ Greco.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I'm to believe you, incurable! And going to be turned into a monster
+ like -- like you! If my daughter is gone
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Paola you 
+\emph on
+knew
+\emph default
+ is gone but Didyme is still your biological daughter!
+\begin_inset Quotes erd
+\end_inset
+
+ I cried.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Her 
+\emph on
+genes
+\emph default
+ didn't change, she's still 
+\emph on
+related
+\emph default
+ to 
+\emph on
+you
+\emph default
+, not the family the original Didyme had thousands of years ago
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My daughter is dead!
+\begin_inset Quotes erd
+\end_inset
+
+ roared Mr.
+ Greco, and I ground my teeth.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Your Im
+\emph on
+per
+\emph default
+ial 
+\emph on
+High
+\emph default
+ness,
+\begin_inset Quotes erd
+\end_inset
+
+ sang Addy, who was now holding both of the brothers immobile and looking
+ exasperated with me, 
+\begin_inset Quotes eld
+\end_inset
+
+perhaps we'd best escort our guests to the throne room whether they like
+ it or not so their propensity to make nuisances of themselves can be evaluated
+ by the Emperor? Somehow I don't think we want to `peel back the Masquerade'
+ quite this 
+\emph on
+fast
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The who?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Giotto, as Mrs.
+ Greco squeaked, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Imperial Highness
+\emph default
+? 
+\emph on
+Emperor
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+That's right
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I snapped in frustration, taking a step forward and startling Mr.
+ and Mrs.
+ Greco into stumbling backwards, 
+\begin_inset Quotes eld
+\end_inset
+
+I am the 
+\emph on
+princess
+\emph default
+ of the 
+\emph on
+Golden Empire
+\emph default
+.
+ I can erase a human personality with my 
+\emph on
+thoughts
+\emph default
+.
+ I remember more centuries of experiences than you can even count.
+ 
+\emph on
+I can resurrect the dead
+\emph default
+.
+ And you are going to 
+\emph on
+calm down and listen to me
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The four Grecos all went rather quiet at that, and Addy said, 
+\begin_inset Quotes eld
+\end_inset
+
+Well then,
+\begin_inset Quotes erd
+\end_inset
+
+ and began marching Rino and Giotto down the hall briskly.
+ I made an expansive gesture, inviting Mr.
+ and Mrs.
+ Greco to go under their own power ahead of me and the two wolves instead
+ of needing to be hauled as their sons were.
+ Mr.
+ Greco's mouth worked soundlessly for a moment, but finally he put his hand
+ on his wife's shoulder and they turned and continued towards the compound.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Resurrect the dead?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Rino in a small voice, halfway to the compound.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Select eligible dead individuals,
+\begin_inset Quotes erd
+\end_inset
+
+ I muttered under my breath, 
+\begin_inset Quotes eld
+\end_inset
+
+subject to terms and conditions, side effects include human sacrifice, void
+ where prohibited
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not Paola, I can't bring her back,
+\begin_inset Quotes erd
+\end_inset
+
+ I said a little louder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She wasn't...
+ backed up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Backed up? Like a computer?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Giotto, sounding queasy about applying digital terminology to his
+ sister.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Something like that.
+ Paola was overwritten with the memories of a woman who 
+\emph on
+was
+\emph default
+ backed up right before she died,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And even if Paola had records kept, she was a human, and our theorizing
+ suggests that being human would make her un-resurrectable anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And now she's...
+ Didyme,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Mrs.
+ Greco, scrunching her eyebrows together as she processed the summary.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, keeping it simple.
+ I didn't think it would make them feel any better to describe how happy
+ Marcus was to have her.
+ In fact, it seemed likely to be a bad idea to require the Grecos to interact
+ with Marcus...
+ possibly ever.
+ Anyone that happy about what was, to them, a tragedy would probably be
+ painful to be around.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+For her part, Didyme was very gracious to the Grecos.
+ She clasped their hands warmly and greeted her brothers by name -- having
+ been coached ahead of time on what they were called -- and her parents
+ as 
+\begin_inset Quotes eld
+\end_inset
+
+Mamma
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Papà
+\begin_inset Quotes erd
+\end_inset
+
+, which words she'd learned for the occasion in spite of knowing no other
+ Italian.
+ She endured their mistrustful, uncomfortable stares with an apologetic
+ smile, and assured them through my translation that she was very sorry
+ to have 
+\begin_inset Quotes eld
+\end_inset
+
+arrived
+\begin_inset Quotes erd
+\end_inset
+
+ at the expense of their Paola, but eager to be a part of their family anyway
+ on the grounds of blood relation if they'd have her.
+ Or willing to bow out quietly if they didn't want to deal with the stranger
+ who had taken over their daughter's body.
+\end_layout
+
+\begin_layout Standard
+Rino did most of the talking once the family was actually in the room with
+ Didyme.
+ He wanted to know about her, in her original incarnation -- where she'd
+ come from, what her life had been like, how she'd died -- and she obliged
+ them with enough details that one would think she was speaking to intimates
+ and not approximate strangers.
+ She even described how Aro had killed her -- which she still didn't remember,
+ and had only been told about -- and this seemed to rouse some fraternal
+ protectiveness in Rino.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're planning to be turned into a...
+ `vampire'?
+\begin_inset Quotes erd
+\end_inset
+
+ Mrs.
+ Greco interrupted abruptly when Rino was halfway through asking Didyme
+ about the fragments of her childhood she recalled.
+ (I was actually better able to answer such questions than she was, since
+ Aro had read his sister before he turned her and the new Didyme held almost
+ exclusively vampire memories, but I knew Rino didn't want to talk to 
+\emph on
+me
+\emph default
+.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Didyme levelly, dipping her head and looking up at Mrs.
+ Greco.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But isn't that something that...
+ this Aro person 
+\emph on
+did
+\emph default
+ to you, long ago? And then he killed you.
+ I don't understand why you're going back to something like that,
+\begin_inset Quotes erd
+\end_inset
+
+ said Mrs.
+ Greco peevishly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is true that Aro turned me, the first time,
+\begin_inset Quotes erd
+\end_inset
+
+ acknowledged Didyme, 
+\begin_inset Quotes eld
+\end_inset
+
+and that he did not turn out to be a loyal brother to me.
+ But there are advantages to being a vampire.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To being a 
+\emph on
+monster
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ said Mrs.
+ Greco, snappish, with a quick glare at me.
+\end_layout
+
+\begin_layout Standard
+Didyme didn't take the bait.
+ She said, 
+\begin_inset Quotes eld
+\end_inset
+
+I am sorry if you do not approve.
+ This matter is between me and my husband, with the kind permission of Her
+ Imperial Majesty.
+\begin_inset Quotes erd
+\end_inset
+
+ (Didyme seemed to be adjusting very well to my mom being the ruler of the
+ vampires; it might have been helpful that she'd lived during the Romanians'
+ reign and they'd never impinged on her life while she fell under their
+ technical jurisdiction.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Your husband,
+\begin_inset Quotes erd
+\end_inset
+
+ said Giotto faintly.
+\end_layout
+
+\begin_layout Standard
+Didyme nodded and her smile got a bit wider at the thought of Marcus.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He is not here because it was thought that he would be intruding on our
+ meeting, but yes, my husband.
+ I suppose we have been married for more than two thousand years, now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not married,
+\begin_inset Quotes erd
+\end_inset
+
+ sputtered Mr.
+ Greco.
+\end_layout
+
+\begin_layout Standard
+Didyme tilted her head thoughtfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I suppose you are right,
+\begin_inset Quotes erd
+\end_inset
+
+ she said after a pause.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In a way.
+ Legally I suppose I am Paola Greco, and Paola Greco is not legally married.
+ But in the ways that matter, he is my husband and I am his wife.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I want to meet this...
+ person,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rino suddenly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you sure?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, but take me to him anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rino with a resigned sigh.
+\end_layout
+
+\begin_layout Standard
+Marcus was standing in the next room over, unwilling to get too far from
+ Didyme and having compromised only that far because of the delicacy of
+ the situation with her family.
+ Since Rino seemed to be the only one interested in being introduced, I
+ got up and led him next door, leaving Addy in the room with Didyme and
+ the other three Grecos as backup translator.
+\end_layout
+
+\begin_layout Standard
+Rino visibly recoiled when he first got a look at Marcus and his shattered
+ face, but controlled himself; Marcus gazed back impassively with a slightly
+ unfocused look in his eyes, and I suspected he was examining the relationships
+ emanating from Rino more than Rino's person.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do 
+\emph on
+you
+\emph default
+ speak Italian?
+\begin_inset Quotes erd
+\end_inset
+
+ Rino asked after a silence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fluently,
+\begin_inset Quotes erd
+\end_inset
+
+ Marcus replied.
+\end_layout
+
+\begin_layout Standard
+Rino chewed on the inside of his cheek a bit, and then said, 
+\begin_inset Quotes eld
+\end_inset
+
+You're a vampire, right?
+\begin_inset Quotes erd
+\end_inset
+
+ Marcus didn't even distinguish this question with a nod, let alone a verbal
+ reply, and Rino moved on after an awkward lull.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How many people have you killed?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked boldly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't count them,
+\begin_inset Quotes erd
+\end_inset
+
+ said Marcus, a low edge of menace in the sentence.
+\end_layout
+
+\begin_layout Standard
+I laughed nervously and added, 
+\begin_inset Quotes eld
+\end_inset
+
+Rino, um, killing people is illegal now, so however many it was, the number's
+ not going to go up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I just want to know if...
+ my sister...
+ is safe with this weirdo,
+\begin_inset Quotes erd
+\end_inset
+
+ said Rino.
+ He paused.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And what do you mean, illegal 
+\emph on
+now
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean, illegal for vampires, as declared by an authority that could conceivably
+ enforce it,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+For all practical purposes vampires have never been subject to human authority...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Marcus, meanwhile, did not exactly draw himself up to his full height, because
+ he hadn't been slouching, but he did adjust his shoulders and peer down
+ at Rino in a way that Rino obviously found intimidating.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Suggest that I would mistreat Didyme again,
+\begin_inset Quotes erd
+\end_inset
+
+ he invited in a soft growl.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm just 
+\emph on
+concerned
+\emph default
+!
+\begin_inset Quotes erd
+\end_inset
+
+ shrieked Rino, shuffling backwards almost into the hall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Calm down! Last month my sister's name was Paola, and the most challenge
+ I had to deal with in a given day was my daughter's colic, and 
+\emph on
+you
+\emph default
+ were dermatologically impossible!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Marcus stared Rino down, in stony silence, and I piped up, 
+\begin_inset Quotes eld
+\end_inset
+
+She's the 
+\emph on
+last
+\emph default
+ person Marcus would ever hurt, Rino.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rino backed up a few more steps, looking warily at Marcus from narrowed
+ eyes, and went back to the room with his parents and brother and sister.
+\end_layout
+
+\begin_layout Standard
+The rest of the visit passed stiffly, although Didyme's sweetness was unfailing
+ and her brothers, at least, were doing their best to adjust to the situation.
+ Her parents were huffy and indignant by turns, casting about for someone
+ more breakable than (unflappable) Addy or more detestable than (kind) Didyme
+ to blame for the situation.
+\end_layout
+
+\begin_layout Standard
+After having agreed to my parents' satisfaction and with various levels
+ of irkedness that it would be a poor choice to go to the newspapers with
+ the secrets they had learned, the Grecos finally took their leave.
+ It was late evening, and they trooped out muttering awkwardly about keeping
+ in touch via various media that Didyme did not know how to use.
+ Me and Jake and Grace escorted them out to the office building exit --
+ it wasn't well-lit, and while there weren't branching corridors to get
+ lost via and going 
+\emph on
+up
+\emph default
+ from the basement didn't require a key, it seemed prudent to have them
+ accompanied.
+ When the Grecos were safely out the door, my wolf guards and I all headed
+ back to the village, because I, at least, needed to get to bed.
+\end_layout
+
+\begin_layout Standard
+After I was tucked in with my hand in Jake's, but before I nodded off, I
+ heard from next door Albert and his imprint Amanda having some sort of
+ dispute.
+ It sounded more like Amanda was shouting and Albert was panicking about
+ the fact that she was shouting, actually.
+ Their baby Eve was fussing loudly, unaccustomed to disagreements in her
+ vicinity.
+\end_layout
+
+\begin_layout Standard
+They 
+\emph on
+never
+\emph default
+ fought -- none of the imprints ever fought with their wolves -- it didn't
+ happen because
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh
+\emph default
+, I thought, just before I slipped into unconsciousness, 
+\emph on
+it's my fault
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\end_body
+\end_document
