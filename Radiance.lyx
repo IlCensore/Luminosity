@@ -1139,6 +1139,16 @@ filename "Radiance-43.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-44.lyx"
+
+\end_inset
+
+
 \begin_inset Newpage newpage
 \end_inset
 

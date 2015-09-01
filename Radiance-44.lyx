@@ -1,0 +1,1716 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{43}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Breaker
+\end_layout
+
+\begin_layout Standard
+My footsteps echoed weakly in the long hallway between the village and the
+ compound.
+ I could have made the run in under a minute, but I was reluctant to sprint,
+ so I went at nearly Olympic slowness instead -- peak human speed, no more.
+ When I got to the last hundred feet of tunnel, I slowed further still,
+ wondering at the fact that no vampires from the compound had heard me coming
+ and moved to intercept.
+\end_layout
+
+\begin_layout Standard
+I stepped around the last corner, and saw the basement entrance, covered
+ in snowdrifts of vampire fragments.
+\end_layout
+
+\begin_layout Standard
+I couldn't tell who anyone was; although shreds of hair among the rubble
+ gave me clues, there was no way to be sure from that alone.
+ There were at least two, maybe three people's worth of pieces scattered
+ haphazardly around the room.
+ I gawked for a moment, then tiptoed through the mess and slipped up the
+ stairs.
+\end_layout
+
+\begin_layout Standard
+There were pieces everywhere.
+ I saw more on the next floor, and the next, in chunks of increasing size
+ as though someone had come via the same route as me and been in more and
+ more of a hurry as they went.
+ There was someone's hand, minus a pinky but otherwise intact, scrabbling
+ around in the debris blindly; I shuddered.
+\end_layout
+
+\begin_layout Standard
+I wished I could just let out an ambient blast, like Addy had twelve days
+ previously, but that ran the risk of hitting anyone on our side who'd gotten
+ within range, and Siobhan had told me in no uncertain terms that I was
+ to hit only 
+\emph on
+Renata
+\emph default
+ (and Chelsea, if I happened to spot her in something other than a thousand
+ pieces, but that was not likely since she didn't have any unusual protection
+ from physical attack, and a lot of that had obviously been going on recently).
+ I'd managed to communicate with Jake prior to my second escape from Volterra
+ without laying eyes on him, but that use of my power had proven to have
+ better range than the memory blast, as Addy had shown, or Jake would have
+ been caught in that too.
+ I had to actually 
+\emph on
+find
+\emph default
+ Renata.
+\end_layout
+
+\begin_layout Standard
+When I climbed past the ground floor, I was able to hear the sounds of ongoing
+ fighting.
+ Awful screeching noises as vampires were torn limb from limb, incoherent
+ snarls and screams of fury and a high flutelike shriek that I was sure
+ belonged to Jane.
+\end_layout
+
+\begin_layout Standard
+I went up and up stair after stair, dread mounting somwhere behind my collarbone
+, and burst through the open door into the throne room.
+\end_layout
+
+\begin_layout Standard
+There was still more rubble in the huge circular room, but it was also full
+ of whole and whole-enough-to-move vampires.
+ I saw about half of the insurgency (no Jake, he was away to make sure that
+ my imprint status couldn't be abruptly revoked) -- I couldn't tell at a
+ glance how many missing were scattered on the floor and how many had abandoned
+ the cause at the last minute.
+ In the middle of the room was Renata in the center of a shifting ring of
+ crouching, protected Volturi: Jane, her face a mask of fury; Alec, stoic
+ yet wide-eyed; Aro with the necklace holding Marcus's eye to the nape of
+ his neck; Sulpicia, trembling, not seeming to know what to do with her
+ hands; Santiago, poised to dance her way into a fight as soon as someone
+ got close enough; Chelsea, looking lost and waifish without her Afton;
+ and
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+beauty incarnate
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+My brain overloaded.
+ I stared.
+ She was just ideally put together, art defying reality with her resplendent
+ perfection, ornamenting the world, too enchanting to be real...
+ I took a step forward...
+\end_layout
+
+\begin_layout Standard
+I heard my mother's voice shouting my name, and I stopped in my tracks and
+ blinked, and there was Heidi, lovely but not overwhelming, in a combative
+ crouch hissing at a cluster of rebels who were drifting her way.
+ My mother growled wordlessly and the group -- Emmett, Kate and her new
+ mate Garrett, and Eleazar -- snapped out of the spell abruptly and scrambled
+ back.
+ My mother, perched on the back of one of the huge wooden thrones with her
+ face screwed up in concentration, was not looking directly at me, but I
+ would be within her peripheral vision.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Keep
+\emph default
+ that damn shield 
+\emph on
+up,
+\emph default
+ Bella!
+\begin_inset Quotes erd
+\end_inset
+
+ roared Siobhan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't!
+\begin_inset Quotes erd
+\end_inset
+
+ my mother snarled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not forever!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Siobhan, a quarter of the way around the circular wall to my right, was
+ shielding Liam's eyes from Heidi's spell, and had her own tightly shut.
+ I saw Maggie hiding behind one of the other thrones, protecting herself
+ via more mundane means from Jane or Heidi or some combination of the two.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, blast Renata and Chelsea 
+\emph on
+now
+\emph default
+!
+\begin_inset Quotes erd
+\end_inset
+
+ Siobhan cried.
+\end_layout
+
+\begin_layout Standard
+I looked Chelsea right in her miserable, pleading red eyes, and obeyed.
+\end_layout
+
+\begin_layout Standard
+They each dropped like a stone.
+\end_layout
+
+\begin_layout Standard
+And then everyone was shouting, and Jane 
+\emph on
+screeched
+\emph default
+, and Renata howled in pain and stood up again and swatted Jane across the
+ face.
+\end_layout
+
+\begin_layout Standard
+Jane hissed and burned Renata again, but only for an instant, and then she
+ hit Chelsea too, then they were an intact circle around their shield again.
+\end_layout
+
+\begin_layout Standard
+Siobhan swore loudly and my mother shouted over the din of snarling and
+ hissing, 
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth, 
+\emph on
+run
+\emph default
+!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I bolted.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I went to the witch dungeon, hoping that my father at least, and David too
+ for preference, were close enough to intact that I could put them back
+ together and add help to the fight.
+ My mother should be able to shield her mate, and shielded, he'd have a
+ fighting chance against the circle, if Jane couldn't burn him and Alec
+ couldn't knock him out and Heidi couldn't entrance him...
+ in straight combat Santiago could hold her own against him, her skill to
+ his mindreading, but if my mother could fight and shield him at the same
+ time
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+The door into the gray, dim dungeon was already open.
+ Marcus's eye was perched on top of one tidy heap.
+ Tufts of David's brown hair and an isolated curl of my father's bronze
+ served to identify the other two consolidated piles, which were about halfway
+ to healed according to what I remembered about the timing on the care and
+ feeding of captive witches.
+ I saw an elbow with a few chips out of it, a foot short three toes, a complete
+ lower jaw, the front half of a shoulder.
+ A freshly scattered fourth person, probably the day's guard on the dungeon
+ broken by insurgents on their way in, was mostly in the hallway with a
+ few bits in the dungeon.
+ I fell to my knees on the smooth stone, beside my father's component parts,
+ and started the puzzle, moving as fast as I usefully could.
+\end_layout
+
+\begin_layout Standard
+Knuckle to hand, that sharp piece to that section of arm, half the attempts
+ I made were mistakes and wouldn't knit together when I held them flush
+ and then I had to find where the piece 
+\emph on
+really
+\emph default
+ went.
+ That icy hemisphere was from an eye, there was most of the rest of it,
+ those went under the pieces of the left orbit that I'd assembled, that
+ didn't work, I didn't have the right eye socket yet, that was his knee
+ and went 
+\emph on
+there
+\emph default
+, the ankle connected to the shinbone, this would be a 
+\emph on
+terrible
+\emph default
+ time to start singing
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+As he came together I paid more attention to broad structure than to the
+ contiguity of his surface.
+ The little pieces prickled my hands to handle, though there wasn't enough
+ venom coating their surfaces to really do more than that.
+ Once his cold hands were working and had a line of contact to his brain
+ he could help with his own reassembly -- even without his eyes, he'd be
+ able to look through mine -- I found the fifth finger of his right hand
+ and pressed it into place.
+ I fixed the corresponding wrist, filled in a gap in the arm, connected
+ his neck to the base of his skull, found a large chunk from the crown of
+ his head and half-flung it where it belonged.
+ I pieced together his shoulder and the arm twitched in the first possibly
+ purposeful motion it had made since I'd arrived.
+\end_layout
+
+\begin_layout Standard
+With that arm in something like working order, I focused on his spine, collectin
+g vertebrae and half-guessing, half-remembering the order they belonged
+ in.
+ His working arm was groping awkwardly but rapidly through the pieces it
+ could reach, squeezing them together at the right edges and finally shoving
+ a complete pelvis against the end of the spine I'd put together.
+ I started work on his other arm, making sure I had a view of everything
+ he could reach so he could use my vision.
+\end_layout
+
+\begin_layout Standard
+When his second arm was intact except for the half-thumb Aro was wearing,
+ I started picking through the tinier pieces to complete his eyes.
+ I found what turned out to be the left socket, and put it in the correct
+ place on his face, and looked for suspiciously rounded pieces for the eye
+ itself.
+ I finished the eye, put it under his brow, and started placing dry, almost
+ venomless teeth into his jaw, drawing on the training of a dentist Aro
+ had eaten once.
+\end_layout
+
+\begin_layout Standard
+He'd put his own ribcage and its contents together by the time I finished
+ that, although he hadn't moved from his prone position; I busied myself
+ with his left leg.
+ He found part of his neck I'd missed, put it where it belonged, and, weakly,
+ drew breath.
+ Just the once, like he was testing his lungs, and then he stopped.
+\end_layout
+
+\begin_layout Standard
+After shy of six minutes, he was finished except for the stolen part he'd
+ need to take off Aro and a couple of smaller bits that I thought might
+ have been kicked into the hallway when the guard had been taken apart.
+ I didn't know how to figure out which belonged to him, at least not quickly,
+ and it was only a toe and a wedge-shaped piece of his thigh, nothing he
+ would need urgently.
+ He sat up, but was eerily still, and I wondered if he had the strength
+ to move and fight immediately -- he would have been fed the subsequent
+ week if the normal schedule had been followed, but he also wouldn't have
+ needed to get up at any point.
+ He took a shallow breath.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Blood,
+\begin_inset Quotes erd
+\end_inset
+
+ he mouthed, barely producing sound.
+\end_layout
+
+\begin_layout Standard
+I got up and ran to Vasanti's room.
+ I didn't know what animals she had at the moment, but there would be some
+ of them, and they would contain blood, albeit maybe not enough.
+ Some of them would be in cages or otherwise restrained and couldn't have
+ scattered during the initial assault.
+ I found a mazelike network of tubing full of rats, a ten-foot terrarium-dwellin
+g python, a pair of hooded hawks tied to perches, and a small dovecote with
+ half a dozen pigeons in it.
+ I tore a tapestry off of her wall, broke the birds' wings so they couldn't
+ fly away, bundled up all the animals in the weaving without much caring
+ if they got hurt in the process, and ran back to my father.
+\end_layout
+
+\begin_layout Standard
+He drained the snake first, moving carefully as though afraid he'd disintegrate,
+ but once he had that first mouthful of blood he visibly sped up.
+ He ate everything except the last three rats, which he left scrabbling
+ around in the wad of fabric, and then he tipped himself up to his feet
+ and was gone in a burst of motion.
+\end_layout
+
+\begin_layout Standard
+I sat beside David's pieces and began to solve the second puzzle.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+David couldn't read my mind, but I sent him a stream of what I was looking
+ at so he could help me once one of his arms was repaired.
+ I spent what mental capacity I didn't need to seek and combine pieces,
+ or share my eyes, on composing a summary of what was going on outside the
+ dungeon.
+ When he was together, he ate the three rats my father had left behind,
+ but didn't immediately get to his feet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Coppertop?
+\begin_inset Quotes erd
+\end_inset
+
+ he whispered, when he could, looking at me and around at the room with
+ Marcus's fragments and the few guard bits, and out into the hallway with
+ more white and pale olive twitching debris.
+\end_layout
+
+\begin_layout Standard
+I pushed the summary at him, and he shook his head slowly as though to clear
+ it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can I help?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, wheezy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't know what's going on except as of fifteen minutes ago, and you didn't
+ get much to eat...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I got enough,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You go somewhere safe, Coppertop.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ I was thinking of the fight with Demetri, how I'd been able to help even
+ without blasting, but I couldn't think of any truths I could throw at the
+ Volturi that would so much as slow them down.
+ Even deprogramming them wasn't likely to help.
+ They were hemmed in by people who saw them as a group, and had little choice
+ but to work together.
+ They also had some non-negligible 
+\emph on
+real
+\emph default
+ reasons to like each other that wouldn't evaporate if I deprogrammed them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Go to the wolves, or outside, or -- go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He took off, towards the throne room, and I stood there in the dungeon beside
+ the quivering fragments of Marcus for a moment, and then I went.
+\end_layout
+
+\begin_layout Standard
+I didn't bother to run.
+ No one was getting out of the throne room until the fight was decided one
+ way or the other.
+ I walked briskly down the hall, intending to re-join the wolves and maybe
+ get a head start on explaining everything to them.
+\end_layout
+
+\begin_layout Standard
+When I was halfway to the stairwell, someone I did not expect to see blurred
+ around the corner, zipped up to me too fast for my reflexes to be of any
+ help, and seized me firmly around the middle, pinning my arms.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, flabbergasted.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So sorry to disappoint,
+\begin_inset Quotes erd
+\end_inset
+
+ she purred in my ear, 
+\begin_inset Quotes eld
+\end_inset
+
+but you are absolutely right.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wh-what are you doing here?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, trying ineffectually to break her grip.
+ My arms slid around in their sleeves as I squirmed, but I couldn't even
+ twist around to try to bite her.
+ Kicking at her knees with my free legs wouldn't do anything beyond wear
+ out my sneakers.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Holding you still,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not planning to hurt you.
+\begin_inset Quotes erd
+\end_inset
+
+ She'd borrowed my power as soon as she'd touched me, and that sounded true,
+ but...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm just going to hang onto you so your friends don't hurt 
+\emph on
+me
+\emph default
+.
+ They need to hear me out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you going to tell them?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, come on, you don't expect me to spoil the surprise, do you?
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You'll hear what I have to say when everything's calmed down in there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's happening?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do you know?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addy tucked her free hand into her pocket and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Your mother's keeping your father shielded.
+\begin_inset Quotes erd
+\end_inset
+
+ This didn't sound true, but I couldn't think why it wouldn't be...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And he's managed to pull Jane away from Renata and fling her to the others
+ to take care of, so that's the little torture device done for...
+ and the same with Alec; he wasn't fast enough to anesthetize anyone before
+ they took him apart...
+ and your mother had to break Heidi herself, although the Romanians helped
+ her some, with their eyes closed...
+ Santiago got one good hit in against your father when he got too close
+ to her reaching for Sulpicia.
+ He probably could have taken it and been up to fight again under normal
+ circumstances, but he's not in such fine shape right now in spite of your
+ clever idea to feed him Vasanti's pets.
+ So he's healing, slowly, while your mother tries to shield everyone else
+ long enough to let them bypass Renata.
+ She'd go in herself but 
+\emph on
+Chelsea
+\emph default
+ could break her, let alone Santiago, so shielding from a safe distance
+ it is.
+ She's not having much luck, but she'll manage it eventually, and the Volturi
+ have no offensive power left.
+ The intermittent shielding 
+\emph on
+does
+\emph default
+ mean Chelsea hasn't been able to get a secure enough grip on anyone's threads
+ to do any cutting so far.
+ I'm sure you'll be pleased about that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're...
+ lying...
+\begin_inset Quotes erd
+\end_inset
+
+ I said, not accusatory, just puzzled.
+\end_layout
+
+\begin_layout Standard
+She blinked at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, no, not a bit,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, pulling her hand out of her pocket and tapping me gently on the
+ nose with her index finger.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't lying,
+\begin_inset Quotes erd
+\end_inset
+
+ she repeated, and she wasn't.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then why...?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You were looking for this?
+\begin_inset Quotes erd
+\end_inset
+
+ she said, showing her teeth in a smug smile and pulling out of her pocket...
+ a toe.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that my father's?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, staring at it.
+\end_layout
+
+\begin_layout Standard
+She pocketed it again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Who else? I'll give it back.
+ I don't know where that other missing piece went, by the way.
+ I think your `kicked out into the hall' theory was right about that.
+ He'll find it eventually, I'm sure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He didn't tell me you were here...
+ he'd have noticed...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I sincerely don't wish you harm,
+\begin_inset Quotes erd
+\end_inset
+
+ she said brightly, 
+\begin_inset Quotes eld
+\end_inset
+
+so I'm sure that wasting his energy on telling you I was here took a backseat
+ to rushing to his mate's aid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Oh.
+ How were you invisible to Alice?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+She pulled a phone off a holster attached to her belt loop and dangled it
+ from her fingers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Guess how many wolves obsessively update their Twitter feeds,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, almost singsong with self-satisfaction.
+\end_layout
+
+\begin_layout Standard
+I stared at her, my head twisted around my neck as far as it would go to
+ let me look her in the eye.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Twitter feeds
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ I repeated.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't have to 
+\emph on
+interact
+\emph default
+ with a wolf to be blanked out,
+\begin_inset Quotes erd
+\end_inset
+
+ she lectured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have to have my actions 
+\emph on
+affected by
+\emph default
+ a wolf.
+ Your mother noticed that, back when she was in contact with the wolves
+ from across the world and giving Alice headaches.
+ And you know as well as I do that they're allowed Internet access.
+ It lulls a little during the local night, but there's always someone up
+ late with a screaming puppy who has nothing better to do while rocking
+ her than log on and type 
+\emph on
+the baby will not go to sleep again omg this is the last kid I swear
+\emph default
+.
+ If too long went by without anything new to read I was prepared to call
+ Joham's grandchildren or something, but it didn't prove necessary.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And it affects your actions when Trent is up with Chiara and posts that
+ she won't sleep?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked skeptically, squirming again.
+ She didn't relax her iron hold around me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That was Ken and Ken Junior, actually, but that's neither here nor there,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway, I wasn't watching the updates for my personal entertainment, I was
+ doing it specifically to foil Alice.
+ I made a variety of trivial but highly visible decisions based on the number
+ of words in each message.
+ And then, when they went unusually quiet, and the one post that did go
+ up was Leah writing that she heard barking from North -- phrased to make
+ it sound to the outside world like she heard her neighbor's dog making
+ a fuss, of course, but I knew what she was talking about -- I risked approachin
+g a little closer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How did you avoid my dad and Aro noticing you?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There I had to take a calculated risk,
+\begin_inset Quotes erd
+\end_inset
+
+ she said solemnly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But I figured I was pretty safe hiding among the blast victims.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+The who?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, picturing amputees who'd stepped on mines or something and not
+ finding this enlightening.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy patronizingly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This compound is in a city.
+ Humans 
+\emph on
+live
+\emph default
+ in cities.
+ I wasn't really 
+\emph on
+aiming
+\emph default
+ when I busted us out of here, I'm sure you remember.
+ I caught about fifteen human-type people in the radius, not just most of
+ the Volturi.
+ And it turns out humans do not recover at all well from the experience.
+ And six of them were not readily turned into prey -- intrusive family or
+ too much publicity or something, I suppose.
+ So the blast victims are in a hospital not far from here, babbling their
+ little heads off about how beautiful Beijing was in 1142 and how ripe an
+ opportunity for unrestrained feeding is presented by this Herr Hitler's
+ new and exciting policies, and most of what they're saying isn't in Italian
+ in the first place.
+ They can't let much slip that's actually damaging -- anyone who actually
+ walks into the castle at their urging can be eaten or politely thrown out
+ for trespassing or Heidi can show them out or Pyotr can order them to leave
+ and keep their mouths shut as many times as it takes.
+ And of course it wouldn't be at all unusual for one of them to be thinking
+ 
+\emph on
+rather
+\emph default
+ a lot like me, so I gambled on it sounding natural enough if I hid among
+ them until I was all set to dive in.
+ I got the timing very neatly, apparently, although it was close.
+ I climbed the wall and let myself into the dungeon, found the guard already
+ dispatched for me, borrowed your father's toe, and hid out down the hall
+ to listen in on what was going on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, badly wrong-footed.
+\end_layout
+
+\begin_layout Standard
+She reached her free hand into her pocket again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, lovely!
+\begin_inset Quotes erd
+\end_inset
+
+ she exclaimed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your mother's done it, apparently...
+ I can't read anyone on your side, she's got the shield up nice and steady,
+ but Renata is in just precisely the sort of pain I would expect if she'd
+ been smashed up good and proper.
+ Siobhan made short work of Santiago after that, and the Romanians ganged
+ up on Aro and Tanya and Kate took Sulpicia.
+ Chelsea's missing her hands, so she can't do anything, and now your mother's
+ monologuing at her.
+ I'll send you a copy of what Chelsea's thinking of that when she's done,
+ if you like.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Thanks?
+\begin_inset Quotes erd
+\end_inset
+
+ I said uncertainly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're welcome,
+\begin_inset Quotes erd
+\end_inset
+
+ she said blithely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you going to explain 
+\emph on
+why
+\emph default
+ you did all this?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or why you sent Alice and Jasper to Biloxi, or why you ran away in Dublin
+ if you're not actually out to get us?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+When everyone's listening,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, 
+\begin_inset Quotes eld
+\end_inset
+
+like I told you.
+ Why repeat myself?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, since there was nothing much else I could do but talk to her, 
+\begin_inset Quotes eld
+\end_inset
+
+how did you know about the blast victims? You didn't find out about them
+ before you left us behind in Ireland.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're right, I didn't,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Leah tweeted the human news story about it.
+ Or, well, she didn't tweet it directly, but she had enough suggestive remarks
+ in her feed that I was able to find it on my own and figure out from there
+ what the deal was.
+ Aha, your mother's all done monologuing at Chelsea.
+ Want to see? I got it via your father, so it won't be as high-fidelity
+ as the memories from Aro, but it should do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Sure,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+She touched my nose again -- 
+\begin_inset Quotes eld
+\end_inset
+
+Boop!
+\begin_inset Quotes erd
+\end_inset
+
+ she said -- and showed me.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+my hands my hands -- fire -- 
+\emph default
+Afton!
+\emph on
+ They mustn't burn him, no, no, no nononono not my Afton I need him 
+\emph default
+kill me first kill me first
+\emph on
+ if we have to die 
+\emph default
+kill me first
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She's not burning my Afton, she's just holding the lighter...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+doesn't dare, with her friends on the floor too? might catch them in the
+ fire?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He loves me
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea,
+\begin_inset Quotes erd
+\end_inset
+
+ she says, I couldn't feel 
+\emph default
+anything
+\emph on
+ off her, it's like she doesn't love anyone, like she can't, like she's
+ a ball of hate that walks and talks and has the mindreader loving her like
+ that anyway.
+ And now my hands are gone and I can't feel anything, I can't even feel
+ my Afton, but I 
+\emph default
+know
+\emph on
+ my Afton...
+ but it's hard now that I can't feel it to know
+\emph default
+...
+ but he loves me.
+ He loves me, that doesn't just go away
+\emph on
+, even without my hands...
+ right? But I can't feel it, I can't...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't answer her.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Do you have any idea what you did to me?
+\begin_inset Quotes erd
+\end_inset
+
+ she says, but I didn't do anything to her, I could 
+\emph default
+never
+\emph on
+ feel her, she's not even 
+\emph default
+there
+\emph on
+, how could I do anything?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Her mate, she's holding him up with the other arm not holding the lighter
+ (how 
+\emph default
+can
+\emph on
+ she have a mate, loving no one?) whispers in her ear, rests his head on
+ her shoulder (I want my Afton)...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Do you have 
+\emph default
+any
+\emph on
+ idea,
+\begin_inset Quotes erd
+\end_inset
+
+ she snarls, taking a step closer, clutching her mate (it's not fair) 
+\begin_inset Quotes eld
+\end_inset
+
+what you 
+\emph default
+destroyed
+\emph on
+? What you have casually ruined for everyone around you for thousands of
+ years now? I'm given to understand that you put a lot of stock in love.
+ You want everyone to love you, is that right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Mmhm...
+\begin_inset Quotes erd
+\end_inset
+
+ My wrists hurt, I want my hands back, I want to feel my Afton with me even
+ if we're going to die, he loves me, doesn't he? He loves me...
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+No one really does,
+\begin_inset Quotes erd
+\end_inset
+
+ she hisses.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You can't create that.
+ The closest you have is Afton, and even him you 
+\emph default
+could not leave alone
+\emph on
+, you couldn't just turn him and wait for it to happen on its own like any
+ other vampire would have done.
+ And because you don't have the real thing, I can't 
+\emph default
+show
+\emph on
+ you 
+\emph default
+quite
+\emph on
+ what you did to me.
+ I literally do not know how to hurt you that badly.
+ You ruptured my 
+\emph default
+family
+\emph on
+.
+ And I think I am vindictive enough, I am vengeful enough, I am 
+\emph default
+pissed off enough
+\emph on
+ that I would do the same thing to you.
+ If you had one.
+ You don't.
+ And that really ties my hands.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Me first,
+\begin_inset Quotes erd
+\end_inset
+
+ I say, 
+\begin_inset Quotes eld
+\end_inset
+
+kill me first, 
+\emph default
+me first
+\emph on
+, not my Afton
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My daughter doesn't love me anymore, you bitch!"
+\emph on
+ she screams.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My 
+\emph default
+husband
+\emph on
+ doesn't love our 
+\emph default
+daughter!
+\emph on
+ If you had your way he wouldn't love me either, you utter 
+\emph default
+plague
+\emph on
+ on the 
+\emph default
+world
+\emph on
+! And I don't think you would 
+\emph default
+understand
+\emph on
+ that even if I torched your mate in front of you.
+ I don't think you can be 
+\emph default
+made
+\emph on
+ to understand that, because I'm the only one who feels it, and I can't
+ get that 
+\emph default
+hurt
+\emph on
+ into your head out of mine for the same reason I'm not a third 
+\emph default
+direct
+\emph on
+ victim of your 
+\emph default
+fucking around with my family
+\emph on
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Me first,
+\begin_inset Quotes erd
+\end_inset
+
+ I whisper, 
+\begin_inset Quotes eld
+\end_inset
+
+me first, not my Afton
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She hisses and reaches forward and the fire touches my chin and catches,
+ and it hurts it hurts, but he loves me
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think it's time to go up and say hello,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy with sickening cheer, and she hauled me along the corridor towards
+ the throne room.
+\end_layout
+
+\end_body
+\end_document
