@@ -1,0 +1,2486 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{52}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Soothsayer
+\end_layout
+
+\begin_layout Standard
+Everyone who needed to fly to Washington (twenty-five wolves in Jake's pack
+ plus a handful of puppies associated with them, thirteen wolves with imprints
+ and puppies in Becky's, and the entire Golden Coven) fit onto the Volturi
+ private airplane we appropriated, but just barely.
+ Most of the puppies sat on laps, and many of the vampires stood in the
+ aisle.
+ We would shed a lot of our passengers in Washington, move on to Québec
+ and drop off more, and then go to Florida with our standard operating crew.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We're going to be doing a lot of traveling for the next few months,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother told me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you don't want to see all the buildings go up, we can drop you off in
+ Québec...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I'll come along,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's a historical bunch of days.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I sat between Jake and Ashleigh, my ostensible guards for the day, although
+ Jake had only put the twelve-year-old on duty because he was pretty sure
+ we weren't going to be attacked on an airplane.
+\end_layout
+
+\begin_layout Standard
+I slept on the way, and when I woke up, we had nearly landed.
+\end_layout
+
+\begin_layout Standard
+It was rainy at the tiny Forks airport where we landed, so the vampires
+ didn't need extra daywalking clothes.
+ After we'd all disembarked, Pera hid everyone (including, grudgingly, my
+ mom) so we could travel quickly.
+ We went first to the Cullen family house, but then our primary construction
+ workers (Benjamin, Emel, and Addy) took off with Becky's pack to get started
+ on rebuilding La Push.
+ Later they'd double back and scout out the intended capital site on the
+ plot the Cullen family owned in town.
+ (A lot of it was planned to go underground, so the original house would
+ stay intact, but there was also enough acreage around the house that there
+ could be outbuildings and the like.)
+\end_layout
+
+\begin_layout Standard
+Since the capital wasn't going to unfold before our eyes immediately, a
+ smaller group, consisting of me, my parents, Renata, and Jake split off.
+ A second wolf guard was deemed unnecessary for the day as long as I stayed
+ within range of Renata.
+ The five of us unhid to drive into town in one of my dad's cars from the
+ family garage.
+\end_layout
+
+\begin_layout Standard
+My grandfather had no idea we were coming.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you worry we're going to give him a heart attack?
+\begin_inset Quotes erd
+\end_inset
+
+ Jake asked, as we turned onto the street; I'd never been to the neighborhood,
+ but remembered it through my dad's memories among others.
+ I fidgeted as we went up the street.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Among other concerns,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother murmured.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think calling ahead would be much of an improvement in that department,
+ though.
+ This way we have a doctor on hand if he does come down with some sudden
+ surprise-related malady.
+\begin_inset Quotes erd
+\end_inset
+
+ She gestured with her head at my father, in the passenger seat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You suppose he'll be home?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He probably hasn't retired yet.
+ He's only forty-eight.
+\begin_inset Quotes erd
+\end_inset
+
+ After a pause, it occurred to me, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, you made your parents grandparents before 
+\emph on
+they
+\emph default
+ were forty-five.
+ And you didn't even grow up as fast as me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I rule the world and I am allowed to be slightly hypocritical,
+\begin_inset Quotes erd
+\end_inset
+
+ said my mom loftily, although there was a hint of laughter in her voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Anyway, you're familiar with why you were born when you were instead of
+ later, Elspeth.
+ Are you in a 
+\emph on
+hurry
+\emph default
+ to have kids?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not even sure who I'd have them with.
+\begin_inset Quotes erd
+\end_inset
+
+ Jake was the obvious candidate, but it wasn't like that with us and I hadn't
+ been brought up in the environment Quil's imprint Claire had, to consider
+ it automatic.
+ I supposed there was plenty of time to figure things out later if and when
+ the type of his affection changed, or mine did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then there's no cause to complain, is there? Anyway, I think he'll be home
+ at this hour, unless he's taken to working much later than he ever used
+ to.
+\begin_inset Quotes erd
+\end_inset
+
+ She made a thoughtful clicking noise with her tongue.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Which is 
+\emph on
+possible
+\emph default
+, depending on how he coped with, um, my death, and Billy's and Harry's...
+ I wonder if we should have brought Harry along.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think he should be a separate surprise after Grandpa Charlie has gotten
+ through the first one without dying of a heart attack,
+\begin_inset Quotes erd
+\end_inset
+
+ I opined.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're probably right.
+\begin_inset Quotes erd
+\end_inset
+
+ We pulled onto his street.
+\end_layout
+
+\begin_layout Standard
+His police cruiser was in the driveway.
+\end_layout
+
+\begin_layout Standard
+My mom cut speed and crawled up to the house, then finally shut the car
+ off at the curb.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now the question is who to put front and center when we knock on the door,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll go, if you want,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's sort of my job.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Charlie's not exactly a member of the Public with whom we are Relating in
+ a conventional matter,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But sure.
+ You can ring the bell.
+\begin_inset Quotes erd
+\end_inset
+
+ She opened her door and stepped out; everyone else followed suit.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't think you're necessarily dead, anyway; Carlisle told him you
+ went missing, back when I found you in 2006, but Charlie hasn't gotten
+ any followup information since.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He might not recognize me,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think he probably will,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For one thing, he knows what year it is,
+\begin_inset Quotes erd
+\end_inset
+
+ murmured Jake.
+\end_layout
+
+\begin_layout Standard
+We reached the front step, and everyone else clustered behind me as I raised
+ my hand and pushed the doorbell button.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just a minute!
+\begin_inset Quotes erd
+\end_inset
+
+ called Charlie's voice from inside.
+ He sounded tired.
+ After a short wait, the door swung open.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, trying to look friendly instead of apprehensive.
+ Charlie appeared to have aged more than five years in five years, but other
+ than gray peppering his temples and worry lines fanning out from the corners
+ of his eyes, he looked like I remembered him through others' eyes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Can I help y-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He saw my parents, standing behind me and Jake.
+\end_layout
+
+\begin_layout Standard
+He scrubbed at his eyes with his knuckles, and looked again, and I said,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm your granddaughter, Elspeth.
+ Everything is a lot better than you thought it was.
+ Can we come in?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Charlie blinked at me, and looked at my mom and my dad, and did a double
+ take at Jake.
+ He spluttered something, then backed out of the way to let us by.
+\end_layout
+
+\begin_layout Standard
+We all filed in and sat ourselves around the living room, except for Renata,
+ who stood behind the sofa that held my parents and looked intently at the
+ wallpaper.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Dad,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said softly after an awkward silence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where were you?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All over the place,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+was
+\emph default
+ at La Push when it burned.
+ They did 
+\emph on
+try
+\emph default
+ to kill me.
+ But it turns out I'm more immortal than I thought.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then why...?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie asked, but he couldn't complete the question, and just stared helplessl
+y.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you'll let me,
+\begin_inset Quotes erd
+\end_inset
+
+ I murmured, and I started to tell the whole story, beginning with how my
+ mom had survived and going on with where my dad was during this time, explainin
+g how she found me and why she didn't contact anyone to let them know she
+ was alive, what Jake and his fellow massacre escapees had done, and finally
+ the series of thrillingly earthshaking events beginning the previous May.
+ I mostly used words, but I did tentatively push across summaries of a few
+ complicated background concepts, like mental footnotes, and I showed him
+ images of some relevant faces.
+\end_layout
+
+\begin_layout Standard
+Charlie listened with grave, rapt attention, although he did shoot an annoyed
+ look at my mom when I related that he'd been kept in the dark for his own
+ safety.
+ She muttered, 
+\begin_inset Quotes eld
+\end_inset
+
+It worked, didn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ under her breath, but I was pretty sure her dad didn't hear.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie, when I'd gotten to the part that explained why we were in
+ Forks, 
+\begin_inset Quotes eld
+\end_inset
+
+to summarize all the things I've been misled about.
+ My best friends' tribe wasn't wiped out, just 
+\emph on
+mostly
+\emph default
+ wiped out, with the survivors working for the enemy or going on a secret
+ camping trip across the country with some girls they kidnapped
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think the girls would agree with you,
+\begin_inset Quotes erd
+\end_inset
+
+ protested Jake.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Claire Casey's a child, it doesn't matter if she 
+\emph on
+thinks
+\emph default
+ she was kidnapped,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie, 
+\begin_inset Quotes eld
+\end_inset
+
+that's not the law.
+ Thea Singer
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thea Parker,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She married Darren.
+ They have a son.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thea,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie, 
+\begin_inset Quotes eld
+\end_inset
+
+was also a minor at the time.
+ Do you have any idea how long her parents forced her case to stay open
+ after she disappeared? Refused to believe that she'd been on the rez, had
+ all manner of unkind things to say about young Mr.
+ Parker, thought something else had happened to her, and I guess they were
+ right, weren't they? Emily Young was an adult, Kim Connweller and Maureen
+ Keller had both squeaked over their sixteenth birthdays when they vanished,
+ but legally speaking
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Legally speaking,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother began, but Charlie cut her off with a sharp one-handed gesture.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I did hear the part where you declared yourself queen of the world, Bells,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, 
+\begin_inset Quotes eld
+\end_inset
+
+and I suppose I can't stop you doing whatever you like, protecting whoever
+ you want from legal consequences because there's some magic explanation,
+ but I'm saying the Singers and the Caseys and the Youngs and the Kellers
+ -- no Connwellers left to complain, now -- aren't likely to welcome your
+ lot as heroes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Those girls would have died, or been taken to Volterra, if their wolves
+ hadn't saved them,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They could've let their families know they were all right.
+ 
+\emph on
+You
+\emph default
+ could've let 
+\emph on
+your
+\emph default
+ family know you were all right,
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I had no way to know if you were being watched or not,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Would you have wanted me to risk alerting the Volturi to my survival so
+ you could know about it? They had Alice, and there was a six-month period
+ before I found Elspeth where I was easily visible to her -- if they'd known
+ I was alive they could have had a more thorough strike team on me in hours.
+ Then I 
+\emph on
+would
+\emph default
+ be dead.
+ Same with the girls, except the pack 
+\emph on
+knew
+\emph default
+ they were being chased and periodically attacked -- giving the Volturi
+ more incentive to use their families as bait would not have been helpful
+ to anyone, because the wolves would not have 
+\emph on
+let
+\emph default
+ the imprints endanger themselves for their relatives, so the Volturi would
+ have followed through on any relevant threats!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sure you've got paragraphs and paragraphs of justifications,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie, holding up a hand in a calming gesture, 
+\begin_inset Quotes eld
+\end_inset
+
+and for all I know you're absolutely right and this was the best anybody
+ could do under the circumstances.
+ I'm not saying anybody 
+\emph on
+should've
+\emph default
+ contacted anybody else, necessarily.
+ I guess all told I'm not angry about it, for myself.
+ I'm saying you could've, and they could've, and none of you did, and this
+ will annoy some folks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fair enough,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother sighed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who's that?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie asked, nodding in Renata's direction.
+ Renata was observing the progress of a housefly along the baseboard.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My bodyguard, Renata,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I swiped her from the previous administration.
+ I'm trying to get in the habit of keeping her around whether I think it's
+ necessary or not.
+ I have a different one too, who's on vacation at the moment.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You do? Who?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+My mother looked at me, and sighed, and for a flicker of an instant I realized
+ I knew the answer to the question, and then I decided it didn't matter.
+ Charlie looked at us, appeared to conclude that this was some sort of inside
+ joke, and let it lie.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Moving on in my summary to make sure I got it all,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Bells, you weren't dead, you were just set on fire and they didn't double-check...
+ Edward, you weren't dead, you were just captured and, er, stored, in Volterra...
+ but Bells, you thought he was dead, and, you wandered around until you
+ stumbled across Elspeth in a park in Michigan...
+ you grabbed her without explaining to your in-laws because you didn't want
+ anyone to know you were alive and you wanted your little girl...
+ you ran around more or less at random bringing her up until you ran afoul
+ of the Volturi's wolves in Iowa...
+ Elspeth got picked up by Jake's pack and got imprinted on...
+ Bells, you weren't recognized but got set on fire 
+\emph on
+again
+\emph default
+...
+\begin_inset Quotes erd
+\end_inset
+
+ He shuddered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+and recovered and met up with Elspeth and Jake's pack in New York, but the
+ hiding witch didn't let Elspeth out and wouldn't let you back in after
+ your 
+\emph on
+incident
+\emph default
+...
+\begin_inset Quotes erd
+\end_inset
+
+ He went on with a summary in basically this vein, getting the key points
+ right.
+ He seemed vaguely suspicious of Jake, probably regarding the imprint just
+ like my mom had been, but let it be (probably expecting that she'd have
+ checked it out).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's about the size of it, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said when he got to the part where we were on a tour of the world
+ to build Golden Coven outposts at strategic locations around the globe
+ and were putting one in Forks.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have you told Renée?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+\end_layout
+
+\begin_layout Standard
+My mom shook her head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Florida's our stop right after Québec.
+ We'll visit her then.
+ Then Norway, and so on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did it cross your mind to call ahead instead of turning up in Jacksonville
+ to surprise her?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Crossed my mind, yes, seemed clever, no,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Especially since Renée knows even less than you did.
+ She'd think it was a prank call, or maybe an escaped mental patient who
+ sincerely believed some very weird things if Elspeth did the talking.
+ Elsie's good at making herself believed, but doesn't outright force it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Charlie chewed on his lip, considering this.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're just all going to show up on her doorstep together?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you have a competing idea, I'm willing to listen,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+D'you want me to go along?
+\begin_inset Quotes erd
+\end_inset
+
+ he offered.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you want to join us on our architecturally contributory tour of the Earth,
+ you are more than welcome,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure if you should come along to visit Renée, though.
+ It's not exactly customary for you to fly down to see her and might not
+ lessen the impact any.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're right, it's not.
+\begin_inset Quotes erd
+\end_inset
+
+ He paused a moment, then said, 
+\begin_inset Quotes eld
+\end_inset
+
+Wait, how did you know we weren't getting together regularly to talk about
+ you, or something, in the last five years?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know the password to Renée's e-mail and have been looking at it occasionally,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh.
+\begin_inset Quotes erd
+\end_inset
+
+ He sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I suppose you'll want me to follow you lot around for safety reasons and
+ will badger me about it until I change my mind if I just want to stay here?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The offer to turn you is still good,
+\begin_inset Quotes erd
+\end_inset
+
+ she said tentatively.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Then it would be 
+\emph on
+reasonably
+\emph default
+ safe for you to stay put.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My answer's still no thank you, Bells.
+ Doesn't appeal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've got a witch working for me who can make sure it doesn't hurt...
+\begin_inset Quotes erd
+\end_inset
+
+ she said enticingly.
+\end_layout
+
+\begin_layout Standard
+Charlie shook his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll just join the world tour to forestall the safety objections rather
+ than...
+ fanging up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We don't have 
+\emph on
+fangs
+\emph default
+, and even if you want to come with us, planes are a lot more comfortable
+ as a vampire...
+\begin_inset Quotes erd
+\end_inset
+
+ she coaxed.
+\end_layout
+
+\begin_layout Standard
+He shook his head again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ But stay a while.
+ I've got a daughter to catch up with and a granddaughter to get to know.
+\begin_inset Quotes erd
+\end_inset
+
+ He looked at me like he didn't know entirely what to make of me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Your other grandpa never brought you down to visit.
+ Didn't want to be seen in town looking too young.
+ I was going to come up the end of May that year and meet you, but then...
+ you were gone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I wasn't sure if I was supposed to apologize for that.
+ I'd been all of six months old when my mother had found me, not an instrumental
+ decision-maker even with accelerated maturation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm looking forward to getting to know you too,
+\begin_inset Quotes erd
+\end_inset
+
+ I said instead of an awkward 
+\begin_inset Quotes eld
+\end_inset
+
+sorry".
+\end_layout
+
+\begin_layout Standard
+We hung out at Grandpa's house for the rest of the day, making less consequentia
+l chitchat.
+ I wound up talking about myself a lot, although my mom chipped in with
+ some stories that I'd borne witness to as well.
+ My dad didn't have much to add, as he'd spent most of the intervening years
+ doing nothing but listen in on the hubbub of Volterra's aggregate consciousness.
+ Jake talked a bit about his time with the nomadic pack.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure how you're planning to present the sudden return of inhabitants
+ to La Push,
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie said while heating up some microwaveable dinners for himself and
+ Jake, frowning at Bella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's largely up to Becky.
+ I'm not taking a direct managerial role with her pack or Rachel's,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That said, after we've got all the capitals built, we're going to live in
+ this one first, so anyone who spots a wolf and questions the sighting with
+ enough persistence to find something more incriminating can be directed
+ to our Public Relations office.
+ Québec's site is a bit more remote, less likely to attract notice.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was thinking more of the fact that the arson of the place is an unsolved
+ federal case than the fact that most of the people living there will be
+ wolves...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's an unsolved federal case because the Volturi had a sufficent number
+ of feds in their pockets,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+One apparently does not operate a secret vampire government for thousands
+ of years without some remarkably extensive political leverage, which I've
+ conveniently inherited if I need it.
+ I delegated that particular mess to Santiago, who was handling it for my
+ predecessors and is in the correct department already.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Charlie blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll get used to me ruling the world eventually, Dad,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said, patting his arm and winking.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not so sure,
+\begin_inset Quotes erd
+\end_inset
+
+ he muttered.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Most little girls who say they want to take over the world don't actually
+ 
+\emph on
+do
+\emph default
+ it, you know.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We have one more surprise that you...
+ I'm going to say `might'...
+ like.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Another? Bells, how many shocks am I going to take today?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie said wearily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm pretty sure that this is the only other major one,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's about the Clearwaters.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go on,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie, when the sentence didn't, by itself, cause his hair to turn
+ white.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well...
+ they're alive.
+ Leah and Seth and Cody are all alive in the usual way -- the wolves in
+ Volterra, Cody with Jake's pack till recently.
+ Harry and Sue are a more complicated story.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm listening,
+\begin_inset Quotes erd
+\end_inset
+
+ said Charlie.
+\end_layout
+
+\begin_layout Standard
+I took over.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Harry and Sue stayed behind when the Volturi attacked La Push.
+ Aro, who used to be one of the people ruling the world, could copy a person's
+ entire memory into himself by touching them.
+ He did that to Harry and Sue, and then had them killed.
+ But, by accident, we found out that when I -- or Addy who copies powers
+ -- send a lot of vampire memories very quickly to a human, they wipe out
+ the human's original memories.
+ That happened to a bunch of people back in Italy, with 
+\emph on
+all
+\emph default
+ the memories Addy had at the time, including all the ones Aro had collected
+ last she checked.
+ Two of the humans it happened to saw themselves in the mirror and thought
+ they were vampires who'd been dead a long time.
+ There were four others who hadn't recognized themselves as anyone in particular.
+ We got their families' permission, and I used them to...
+ bring back Harry and Sue.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Charlie blinked at me.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So...
+ Harry and Sue are alive...
+ but in the bodies of some Italian people who were caught in an accident...
+ who Addy basically killed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, although while Addy doesn't have anything in particular against killing
+ people, she really didn't mean to kill those ones,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You wouldn't recognize Harry and Sue now if you just saw them.
+ I had to put a lot of makeup on them to make them react to the mirror properly
+ and it's all off now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are they going to get turned into vampires, er, again?
+\begin_inset Quotes erd
+\end_inset
+
+ Charlie asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They haven't said, one way or the other, which they want,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The two people who were resurrected without help both want to turn, and
+ we picked out the other resurrection on behalf of the body's wife whose
+ criteria didn't include that, so he doesn't.
+ The other survivor of the accident is being cared for at home by his son
+ without being turned into anyone else.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The topic drifted away again, and I fell asleep, flopping onto Jake in the
+ process.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+When I woke up, I was in a bed that, after a moment, I recognized as being
+ in my mom's old room in Charlie's house.
+ Most of the distinguishing possessions that she hadn't taken to Norway
+ with her were boxed up, but the furniture was where she'd left it.
+ My mom was sitting on the bed, between me and the wall, and my dad was
+ standing on the bed's other side; each had hold of one of my hands, which
+ they released as I sat up.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Morning,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, noting that Jake was snoozing in my mom's old chair, slumped over
+ the desk, and Renata was counting the threads in the curtains or something.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What'd I miss?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+More chat,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said, 
+\begin_inset Quotes eld
+\end_inset
+
+and Dwi let us know that everything Benjamin and Emel are going to do for
+ La Push is done.
+ They've started on the capital.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess there won't be that much to see as they're doing most of it underground,
+\begin_inset Quotes erd
+\end_inset
+
+ I remarked.
+\end_layout
+
+\begin_layout Standard
+My mom nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And most of the underground is done now.
+ The outbuildings haven't gone up yet, though, so you can watch those.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where's Grandpa?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Still asleep.
+ We're going to take him with us when we go look in on the capital after
+ he and Jacob wake up.
+ The official story among humans will be that he's retiring young on some
+ unexpected family money and going on a long trip around the world -- which
+ happens to be exactly true.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We waited around, talking about nothing in particular, for the wolf and
+ the human to get up, and then we all piled into Dad's car (I had to sit
+ on Jake to make room) and drove out to the first capital complex of the
+ Golden Empire.
+\end_layout
+
+\begin_layout Standard
+Watching Benjamin and Emel put up the buildings was sort of eerie.
+ Benjamin pulled stones out of the earth and shaped them so they fit perfectly
+ together without any need for mortar.
+ Whatever Emel was doing, I couldn't really see; it mostly took place inside
+ the walls, although I did get to watch her sending the scrap metal she'd
+ been provided in through the holes Benjamin provided, and each dollop of
+ it moved like a flying mercury snake under her command.
+ Addy had Benjamin's power copied, but wasn't working directly with him,
+ instead constructing separate buildings.
+ I explored in the tunnels, but they weren't lit -- Emel could do wiring,
+ but not conjure lightbulbs -- and my darkvision wasn't good enough to make
+ out much interesting detail.
+ It was mostly a series of oddly angular caves at this early stage anyway,
+ as Esme hadn't gone through with carpet glue and attractive sconces.
+\end_layout
+
+\begin_layout Standard
+When I climbed up the stairs out of what would later be the entrance to
+ the 
+\noun on
+prpr
+\noun default
+ department, everything was just about done, and Esme was on the phone with
+ a glazier ordering window glass.
+ We left her behind to do her work, and Carlisle to keep her company since
+ his ethical consulting could be done remotely if there were any call for
+ it this early on, and the rest of us returned to the airport to fly to
+ Québec.
+\end_layout
+
+\begin_layout Standard
+In Québec, we again built on land that came with a preexisting Cullen house,
+ although there was more room and so more of it was above the ground, and
+ the house itself wasn't incorporated into the design.
+ We lingered long enough to make sure the wolf village section was livable
+ for the eight wolves and dozen puppies who would move in.
+ (The poor puppies were so jetlagged that they'd probably have slept on
+ the stone floor, but this was widely deemed a poor idea.) The village was
+ big enough to hold Jake's whole pack, but most of them came with us to
+ Florida.
+\end_layout
+
+\begin_layout Standard
+The site that they'd wound up picking in Florida wasn't particularly close
+ to Jacksonville, so we left the builders to their work while we took a
+ trip to Renée's house in a rental car.
+ Charlie didn't come along; it was just my nuclear family plus Jake and
+ Renata again.
+\end_layout
+
+\begin_layout Standard
+I didn't have anyone's memories of the house in Jacksonville.
+ My mother had been there, one time when they weren't home, that was all.
+ My father had seen a couple of photographs of Renée and her second husband,
+ Phil, and my mom had talked about them some, but that was all the knowledge
+ I had of them.
+\end_layout
+
+\begin_layout Standard
+Timing the trip for when Alice said it would be cloudy, my mom drove again
+ -- Jake pointed out that it was typical for bodyguards to do the driving,
+ and my mom pointed out that she was the only person who knew how to get
+ there -- and pulled in to the house after about an hour and a half on the
+ road.
+ There were two cars in the driveway, so we parked on the street and, once
+ again, I rang the doorbell.
+\end_layout
+
+\begin_layout Standard
+Phil answered, and obviously had no idea who any of us were: he'd met my
+ mother, but only as a human with hair; he'd probably looked at my parents'
+ wedding pictures but had no reason to have studied them enough that he'd
+ recognize my dad; and he had no way to identify me, Renata, or Jake.
+ Phil himself was only thirty-six, a good deal younger than Renée, and looked
+ like the photographs I remembered secondhand: he was in decent shape, as
+ he still played baseball, and looked out on the world from a boyish blue-eyed
+ face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What can I do for you?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked our odd assembly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hi, Phil,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom spoke up.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do I know you?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, looking at her quizzically.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We need to talk to you and Renée.
+ It's good news,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is she home? Can we come in?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Honey!
+\begin_inset Quotes erd
+\end_inset
+
+ Phil yelled up the stairs.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's two teenage girls, a teenage boy, and a man and a woman here with
+ what they say is good news and no visible scriptures! They know our names!
+ I'm a bit confused!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Coming,
+\begin_inset Quotes erd
+\end_inset
+
+ Renée called down.
+ My mother twisted her hands together with a rocky scraping noise at the
+ sound of her voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're not missionaries,
+\begin_inset Quotes erd
+\end_inset
+
+ I assured Phil hurriedly, wishing I'd used some phrasing other than 
+\begin_inset Quotes eld
+\end_inset
+
+good news".
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh.
+ You're sure? She tends to like missionary visits,
+\begin_inset Quotes erd
+\end_inset
+
+ he said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sure,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sorry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, matter of interpretation,
+\begin_inset Quotes erd
+\end_inset
+
+ chuckled Jake.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Peddling immortality's usually a hallmark...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother burst into helpless laughter at this suggestion and was still
+ grinning when Renée shuffled down the stairs.
+ She looked like a much older version of my mom, except with lighter, curlier,
+ and more existent hair, and hazel eyes rather than the warm brown I'd inherited
+ from my mother's human self.
+ After joining Phil at the door, she looked at us, appeared to find us as
+ a group vaguely familiar but not enough to comment, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+So what's the good news, then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do I look familiar at all?
+\begin_inset Quotes erd
+\end_inset
+
+ my mom asked in a whisper.
+\end_layout
+
+\begin_layout Standard
+Renée blinked at her, a confused look descending over her face, before saying
+ only, 
+\begin_inset Quotes eld
+\end_inset
+
+Yes...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's me, Mom,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I...
+ I don't understand,
+\begin_inset Quotes erd
+\end_inset
+
+ Renée murmured.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's your daughter Bella,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can we come in?
+\begin_inset Quotes erd
+\end_inset
+
+ my mom asked.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Renée's lack of independent recognition of any of us meant that she could
+ get the revelations one at a time: that her daughter was alive and a vampire.
+ That her son-in-law was also alive, and also a vampire.
+ That I had been born, and was a half-vampire, which explained why I was
+ not yet six and looked like a youngish seventeen.
+ That Jake was a werewolf, imprinted on me, and the son of Charlie's (really
+ dead) best friend.
+ By the time that had all been revealed, Renée was looking with great trepidatio
+n at Renata, like she might be a long-lost ancestor and also a pagan deity
+ there to grant her three wishes.
+ She seemed an odd mix of disappointed and relieved to find that Renata
+ was only another vampire inherited in the capacity of bodyguard from the
+ deposed prior government.
+\end_layout
+
+\begin_layout Standard
+Renée didn't give my mother any grief about leaving her in the dark.
+ She was too ecastatic that we were alive.
+ She took in the information about the new rulership of the vampire world
+ with very childlike enthusiasm, actually clapping her hands when she heard
+ that the builder witches were, as we spoke, building us our third capital
+ complex an hour and a half away from her home.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, we have to go see it,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, turning to Phil.
+\end_layout
+
+\begin_layout Standard
+Phil seemed too thrown by the whole 
+\begin_inset Quotes eld
+\end_inset
+
+vampires exist
+\begin_inset Quotes erd
+\end_inset
+
+ thing (less so by his step-descendants being alive) to say much, but he
+ did nod mutely when his wife said that in his direction.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Actually,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said sheepishly, 
+\begin_inset Quotes eld
+\end_inset
+
+I think it would be best if you came with us...
+ more permanently than just a visit to the Florida complex.
+ I'm concerned that someone might target you to get at me.
+ It turns out that, enforcing a no-murder law among vampires? Not a good
+ re-election strategy.
+ Not that I was elected.
+ Benevolent despot here.
+ My point is that I want you both safe, and I don't have a brilliant way
+ to keep you safe here, unless you want to be turned into vampires, which
+ I would be more than happy to arrange but I don't think it would be any
+ more conducive to living your normal lives.
+ Not in sunny Florida.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, my,
+\begin_inset Quotes erd
+\end_inset
+
+ Renée said, clasping her hands and frowning thoughtfully.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We can't just go on as we have? Phil works...
+\begin_inset Quotes erd
+\end_inset
+
+ I remembered from my mom's description that Renée had been a kindergarten
+ teacher in Phoenix, but -- it was unclear whether from lack of trying --
+ had not found a job in Florida.
+ Apparently that hadn't changed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm past my peak,
+\begin_inset Quotes erd
+\end_inset
+
+ demurred Phil.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They've already started talking about retiring me.
+ If you want to go, honey...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The couple continued to lob the question back and forth, engaging with it
+ like it was a choice instead of a necessity along the lines of the Witness
+ Protection Program.
+ My mother sat silently, rather than point out that she couldn't in good
+ conscience 
+\emph on
+let
+\emph default
+ them refuse.
+ There would be a chance to say that if they didn't agree on their own.
+\end_layout
+
+\begin_layout Standard
+Phil seemed to consider traveling with the Golden Coven to be a matter of
+ fairness: Renée had given up her daughter living with her so she could
+ travel with Phil, and it had been some time and Phil's career was imminently
+ no longer a obstacle, so it was only appropriate that Renée now get a chance
+ to travel with my mom instead.
+\end_layout
+
+\begin_layout Standard
+Renée didn't seem to want to make a definitive choice either way.
+ She waffled, and finally my mom took one of her noncommital remarks as
+ a 
+\begin_inset Quotes eld
+\end_inset
+
+yes
+\begin_inset Quotes erd
+\end_inset
+
+, and cut in with, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm so glad to have you with us, Mom.
+ We're probably going to head out tomorrow, and go to the site in Brazil.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Brazil, oh my,
+\begin_inset Quotes erd
+\end_inset
+
+ said Renée.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You won't have time to do much touristy stuff this time around, but we'll
+ stay longer in the future,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Would you like some help packing? I can also ask Esme, my mother-in-law,
+ to stop by here and grab anything you don't take now.
+ She's following behind us at a bit of a lag to make additions to the capital
+ complexes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I -- oh, all right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Renée, laughing, and we spent the rest of the day prowling the house
+ for various items she wanted and stuffing them into suitcases and laundry
+ baskets and whatnot.
+ My mom made subtle insinuations that being a vampire was really awesome
+ -- and she showed off a little in the course of helping her mom and stepfather
+ pack -- but kept it to a light background thread of conversation.
+ Renée seemed intrigued by the idea but frightened by the permanency, and
+ Phil appeared to be a little shell-shocked yet, too much so to have the
+ conversation.
+\end_layout
+
+\begin_layout Standard
+Renée got on the phone and made excuses to various persons and institutions
+ about cancellations for future plans -- lunch get-togethers, yoga class,
+ volunteer work, and a lecture she'd intended to attend at the local community
+ college.
+ Phil had less of a social calendar, but did need to make a few calls about
+ work, as it was the middle of baseball season.
+ He seemed kind of annoyed that no one made a fuss about his sudden desire
+ to go to Brazil.
+\end_layout
+
+\begin_layout Standard
+I fell asleep before we started back for the capital site, and when I woke
+ up, my mom was holding me in her arms, just like she had when I was little.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+It was near the end of August when we put up our capital in Australia and
+ finally came full-circle back to Washington.
+\end_layout
+
+\begin_layout Standard
+Esme had outdone herself.
+ I had a cute little office all to myself in the 
+\noun on
+prpr
+\noun default
+ section, which was close to the tunnel leading to La Push.
+ (The part of Jake's pack that stayed with the Golden Coven instead of living
+ in Québec lived there while we were in the area, rather than the Washington
+ capital having its own village attachment.) Alec, Santiago, and Rosalie,
+ the other permanent employees of the department, also had offices, and
+ there were several spare rooms for later expansion and miscellaneous purposes,
+ and one for Alec to oversee suitably-anesthetized turning in.
+ (Addy had pushed for a control group on Caius's hypothesis about the pain
+ of turning causing improved witchcraft.
+ Everyone had ignored her.)
+\end_layout
+
+\begin_layout Standard
+As soon as we were all set to settle down in one place for a while, Didyme,
+ John, Harry, and Sue all wanted to be turned.
+ Sue had declined the opportunity to have eggs harvested -- 
+\begin_inset Quotes eld
+\end_inset
+
+Three is enough,
+\begin_inset Quotes erd
+\end_inset
+
+ she said -- and Didyme's surgery had been and gone, using the equipment
+ that was already there leftover from my mother's years previously.
+ Charlie and Renée and Phil were all opting to stay human, for the time
+ being, although I thought Renée in particular might be wending her way
+ to a change of heart.
+\end_layout
+
+\begin_layout Standard
+At any rate, Alec did his job very quietly, standing almost perfectly still
+ for three days straight and holding his power in place while his charges
+ changed, periodically asking me to replenish his stack of books.
+ I did a little entertaining for the future vampires -- sending them memories
+ in real time of random things like movies and attractive scenery -- to
+ prevent them from being too dreadfully bored, although every vampire I
+ asked said that being bored was still an overwhelming improvement on the
+ old procedure.
+\end_layout
+
+\begin_layout Standard
+I busied myself by writing up informational pamphlets and, when my mom had
+ approved them, running off stacks of them with our new copy machine.
+ The 
+\noun on
+prpr
+\noun default
+ office's entrance was the one closest to the street, so anyone who drove
+ up and happened to be curious would see it first.
+ People who 
+\emph on
+literally
+\emph default
+ just came in off the street were to be turned away without receiving any
+ pamphlets and told that the complex was an exclusive private spa, but if
+ they arrived with some inkling of what was going on, they might as well
+ get a more complete understanding.
+\end_layout
+
+\begin_layout Standard
+While we'd been gone, all of the imprints with living family in the region
+ -- Claire, Emily, Maureen, and Thea -- had been reunited with their families,
+ and those were some of the first people I met in my official capacity.
+ The only one who wanted to be turned into a vampire was Emily's younger
+ brother -- everyone else just came in to learn more about who and what
+ they were now related to (or, in Claire's case, not exactly related to
+ but inextricably associated with).
+ Or to scream at me for lack of anyone else to rage at.
+ Claire's parents kicked up enough of a fuss that I had to turn them over
+ to Santiago.
+ I'd expected something of the kind from Thea's family as well, but Thea
+ herself was more effectively able to intervene in that matter and I didn't
+ see them at all.
+\end_layout
+
+\begin_layout Standard
+My mom's policies called for Emily's brother to be turned away.
+ He wasn't a witch, wasn't anybody's mate, didn't want to work for the Golden
+ Coven, and Sam -- his closest supernatural relation, by virtue of being
+ his brother-in-law -- was not interested in vouching for him.
+ And we were already processing applications from a half-a-dozen vampires
+ who'd found human mates since our takeover and didn't want to risk antagonizing
+ us.
+ Alec's services were free, but he could only cover so much area at a time,
+ and Addy could only double our capacity.
+ More problematic still was getting access to an adequate food supply and
+ systematizing the control of newborns who weren't allowed to eat people
+ nor kill them to cover up accidental exposure.
+ I told the brother to reapply in six months, by which time we expected
+ to have a better idea of the rate of application and the difficulties of
+ scaled-up newborn-wrangling, and sent him home.
+\end_layout
+
+\begin_layout Standard
+At the end of my office hours, which lasted from just after breakfast to
+ four in the afternoon, I (and Jake and whoever else was guarding me for
+ the day) usually loitered around what 
+\emph on
+would
+\emph default
+ have been a throne room if it had contained any chairs.
+ My mom and dad spent much of their time there, handling the running of
+ things, and I liked listening in and occasionally submitting input.
+ Sometimes I sat with Alice for a while instead, and let her show me the
+ jerky swirl of images she collected in the course of making her eye checks.
+ Once I tagged along with Vasanti as she made arrangements to open a slaughterho
+use within commuting distance of the capital, so that the vampires could
+ get access to fresh animal blood on a regular basis without the ecological
+ risks of hunting.
+\end_layout
+
+\begin_layout Standard
+Jake and I had a little house in La Push, and usually, when I was ready
+ to go to sleep, he would watch a few hours of my dreams -- and then stand
+ aside when he was ready to go to bed himself, to let my parents see the
+ rest.
+\end_layout
+
+\begin_layout Standard
+I still usually can't remember my dreams, but I'm told, and have every reason
+ to believe, that they are happy ones.
+\end_layout
+
+\end_body
+\end_document

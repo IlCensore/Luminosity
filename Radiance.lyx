@@ -1219,6 +1219,26 @@ filename "Radiance-51.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-52.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Radiance-53.lyx"
+
+\end_inset
+
+
 \begin_inset Newpage newpage
 \end_inset
 
@@ -1328,11 +1348,11 @@ url{cato.philosophus@gmail.com}
 \begin_inset Newline newline
 \end_inset
 
-completed on September 1
+completed on September 3
 \begin_inset script superscript
 
 \begin_layout Plain Layout
-st
+rd
 \end_layout
 
 \end_inset

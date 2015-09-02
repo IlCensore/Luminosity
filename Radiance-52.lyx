@@ -1,0 +1,2059 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{51}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\footnotesize Chapter\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+
+\widowpenalty10000
+\clubpenalty100
+\end_preamble
+\use_default_options true
+\master Radiance.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Twilight
+\font_typewriter Ubuntu Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing other 1.35
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.2in
+\topmargin 0.85in
+\rightmargin 1.2in
+\bottommargin 1.2in
+\headsep 0.15in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Resurrector
+\end_layout
+
+\begin_layout Standard
+My mother couldn't give a verdict on Harry and Sue Clearwater's resurrection
+ immediately.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We don't know what the families of the three men are going to do,
+\begin_inset Quotes erd
+\end_inset
+
+ she said gently, as though it were me she was threatening to disappoint
+ and not Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm not 
+\emph on
+sure
+\emph default
+ whether resurrecting Sue without Harry would be a terribly cruel thing
+ to do or not, given that she'd show up in a human body without a mate bond
+ like Didyme, but it's not an experiment I'm prepared to authorize,
+\begin_inset Quotes erd
+\end_inset
+
+ she continued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+However, if -- 
+\emph on
+if
+\emph default
+ -- one of the men is available, I don't have my heart set on any other
+ females who meet the criteria the way Sue does...
+\begin_inset Quotes erd
+\end_inset
+
+ Addy raised her hand, rather than interrupting, and my mother glanced in
+ her direction.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Addy?
+\begin_inset Quotes erd
+\end_inset
+
+ she inquired.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+May I suggest,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, 
+\begin_inset Quotes eld
+\end_inset
+
+that you wait on deciding what to do with donated bodies until Didyme is
+ turned and you learn whether or not she's going to...
+ regain...
+ her witchcraft?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My mother was silent for a moment, and then asked quietly, 
+\begin_inset Quotes eld
+\end_inset
+
+Do you have anyone in mind?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, Aro wasn't in the habit of letting powerful witches who crossed his
+ path die...
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy languidly, 
+\begin_inset Quotes eld
+\end_inset
+
+but...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aro himself,
+\begin_inset Quotes erd
+\end_inset
+
+ my dad muttered, his face close to my mom's ear.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Didyme and Aro both gained powers only after they turned.
+ If she has the same one after she's had her eggs out and changed again,
+ then her brother...
+\begin_inset Quotes erd
+\end_inset
+
+ I hadn't been aware that Didyme was having eggs extracted.
+ I supposed Marcus wouldn't like her to take the risk of bearing a half-vampire
+ herself and wanted her turned as soon as possible anyway.
+ They might or might not want children, and could use the extra time to
+ decide.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We just went to a great deal of trouble to 
+\emph on
+kill
+\emph default
+ Aro,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother pointed out testily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To kill Aro at age twenty-three centuries and change,
+\begin_inset Quotes erd
+\end_inset
+
+ Addy corrected.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If he can be brought back, he can only be brought back at age human-years-plus-o
+ne-point-four-seconds, because that's the amount of time he had alive before
+ he first touched someone and got a dose of life history, putting way too
+ much in his head to stay put in a human.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Still too dangerous,
+\begin_inset Quotes erd
+\end_inset
+
+ my father murmured.
+ My mother was quiet, waiting for Addy to complete her argument.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Siobhan said that vampire personalities are fixed...
+\begin_inset Quotes erd
+\end_inset
+
+ I recalled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He wouldn't remember everything else, at least not until he touched someone
+ who'd been blasted, but he'd still be the same person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, shrugging with an innocent smile.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So you 
+\emph on
+would
+\emph default
+ be bringing back a sociopath with an annoying propensity for calling people
+ by endearments, because that is Aro's personality.
+ But Elspeth, Edward, 
+\emph on
+look
+\emph default
+ at his early development.
+ You know it as well as I do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I looked.
+\end_layout
+
+\begin_layout Standard
+Caius had turned Aro, while Athenodora looked on, on what amounted to a
+ whim.
+ They were looking for witches, and, having found no human ones, had taken
+ to turning people nearly at random to see if they developed powers.
+ Some they'd been disappointed by and sent to live on their own, some they'd
+ been disappointed by and killed.
+ They'd found Marcus first and 
+\begin_inset Quotes eld
+\end_inset
+
+kept
+\begin_inset Quotes erd
+\end_inset
+
+ him when he turned up talented, and then Aro.
+\end_layout
+
+\begin_layout Standard
+Aro as a human, in the misty memories he'd retained from his own perspective
+ and the sharply recorded ones of his covenmates' observations, had been
+ acquisitive and sociopathic and self-interested and had used his uncommon
+ (if nonmagical) insight about people to become too familiar with them and
+ manipulate them as called for.
+\end_layout
+
+\begin_layout Standard
+He had not been particularly interested in politics.
+\end_layout
+
+\begin_layout Standard
+He'd adopted Caius's project of taking over the world for himself, pursuing
+ it with a certain singlemindedness that, in conjunction with the nature
+ of his power, had ultimately led to his taking the central role in the
+ coven.
+ Caius hadn't intended to create his own leader, but didn't have Aro's drive,
+ and let it happen over the first half-century of Aro's vampire life without
+ much fuss.
+\end_layout
+
+\begin_layout Standard
+One point four seconds after he'd turned, before he'd first grabbed and
+ eaten the humans that Caius and Athenodora and Marcus had left for him,
+ Aro had not been unusually inclined to take over the world.
+\end_layout
+
+\begin_layout Standard
+My father was whispering a breakdown of this information into my mother's
+ ear.
+ She was frowning.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Be all that as it may,
+\begin_inset Quotes erd
+\end_inset
+
+ she said when he'd finished, 
+\begin_inset Quotes eld
+\end_inset
+
+I can't think of any clever way to ensure that he never touches someone
+ who was in the blast and catches up, as it were.
+ Especially you, Addy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was just a thought,
+\begin_inset Quotes erd
+\end_inset
+
+ said Addy, and she turned around, poked Razi in the shoulder, and waited
+ for Nathan to send her on her next errand abroad.
+ Nathan pointed her to a set of coordinates somewhere in the Philippines
+ and she was off.
+\end_layout
+
+\begin_layout Standard
+My mother leaned to the left, crooked her wrist around my neck, and drew
+ me in close.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+When I'm not shielding you, can you remember anything Aro read from Allirea?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked in an undertone.
+\end_layout
+
+\begin_layout Standard
+I blinked.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, I never think to, even when it would be relevant.
+ Um, where is she, anyway? Wasn't she guarding you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She agreed to stick around long enough that you could tell everyone honestly
+ that there was an inexplicable reason no one ought to attack me, and now
+ she's visiting her family.
+ She'll join up with us in a couple of weeks.
+ In your opinion,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+if you blasted Allirea, and then Aro read her 
+\emph on
+while she was faded
+\emph default
+ before reading anyone else in his reincarnation, how would that affect
+ his ability to remember the other contents of the read?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I blinked rapidly, thinking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He automatically filtered out redundancies, so he wouldn't copy those same
+ things again if he touched someone else who had them.
+ And if he got them from Allirea, then he might ignore them the way he'd
+ ignore her own memories no matter where they came from.
+ But Allirea unfades sometimes -- like, I'm sure she's not 
+\emph on
+just
+\emph default
+ lurking about her kids' houses and watching them, right? She'd unfade to
+ say hi.
+ I often don't think about her even when she's unfaded when she's not around
+ because I don't usually have a reason to.
+ But for a reincarnated Aro, to suddenly be able to access all of those
+ memories would be noticeable, I think.
+\begin_inset Quotes erd
+\end_inset
+
+ Standing a ways back, Jake and Iris were looking politely confused about
+ what I was talking about.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Occasionally, she does, yes,
+\begin_inset Quotes erd
+\end_inset
+
+ my mother acknowledged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And short of me accompanying her to shield her relatives every time she
+ wants to visit them, there's no obvious way around that.
+\begin_inset Quotes erd
+\end_inset
+
+ She pulled her lower lip between her teeth, thoughtful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I may think of something else before we need to make a decision.
+ I'm not sold on the idea to the point where if we wind up with only one
+ male patient to spare I'd refuse to bring back the Clearwaters, at any
+ rate.
+ Especially since we'd be so likely to have to kill Aro 
+\emph on
+again
+\emph default
+ even if everything worked as well as could possibly be hoped.
+ And that would not be the happiest ending I could think of to the story
+ of the blast victims.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So if one of the guys' families says we can reincarnate someone with their
+ relative, I can try to bring back Cody's parents?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+My mother thought, still worrying her lip between her teeth, and then nodded
+ once.
+\end_layout
+
+\begin_layout Standard
+On impulse, I spun towards her and gave her a hug.
+\end_layout
+
+\begin_layout Standard
+I wouldn't have noticed the hesitation if I hadn't thought to look for it,
+ but after a stunned pause, her arms closed around me and she squeezed me
+ back.
+ It didn't occur to me to be uneasy about it until we'd been standing like
+ that for more than a couple of seconds, at which point I decided that being
+ uneasy about it would be silly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth,
+\begin_inset Quotes erd
+\end_inset
+
+ she said suddenly, sounding enthralled, like she'd just opened her eyes
+ to see some stunning scenery.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Say something.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+Something?
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+State something,
+\begin_inset Quotes erd
+\end_inset
+
+ she revised, a touch of strain in her voice for some reason.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will be six in October,
+\begin_inset Quotes erd
+\end_inset
+
+ I tried, not sure what she was getting at.
+\end_layout
+
+\begin_layout Standard
+She hugged me tighter.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I did it,
+\begin_inset Quotes erd
+\end_inset
+
+ she murmured in my ear.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What did you do?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I let you in.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Through your shield?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked, and she released me from the hug to put her hands on my shoulders,
+ look me in the eye, and nod.
+ She was grinning.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just for a couple of seconds,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+and now I've lost it -- it takes concentration, even more than shielding
+ another person, but I did it...
+\begin_inset Quotes erd
+\end_inset
+
+ She let me go, and leaned back to tuck her head under my father's chin.
+ She scrunched her eyes shut in focus, obviously clenching her teeth, and
+ after a moment, my father's face lit up in indescribable wonder.
+ Almost too fast for me to follow, he seized her, dipped her low to the
+ floor, and gave her a kiss that prompted some very discomfiting memories
+ to stir up in my head.
+ I looked at the ceiling, until my mother breathlessly laughed, 
+\begin_inset Quotes eld
+\end_inset
+
+I can't concentrate enough to relax the shield if you're going to do that,
+ Edward...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\emph on
+love
+\emph default
+ you,
+\begin_inset Quotes erd
+\end_inset
+
+ he enthused, purring at her, and she straightened up and entwined her fingers
+ behind his neck, replying in kind.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy is going to go out of her mind when she finds out,
+\begin_inset Quotes erd
+\end_inset
+
+ I predicted.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Addy,
+\begin_inset Quotes erd
+\end_inset
+
+ my mom said smugly, 
+\begin_inset Quotes eld
+\end_inset
+
+is going to have to work very, very hard to make me trust her enough that
+ it becomes even 
+\emph on
+theoretically possible
+\emph default
+ for me to let her through my inner shield to have that oh-so-disturbing
+ `taste' she wants.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I laughed, and my mom pulled me in for another hug and my dad's arm went
+ around my shoulders too, and for a few moments I was purely content.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+Benito's six-year-old son was surprisingly easy to explain things to.
+ He came in with his grandfather (Benito's dad) and aunt (Benito's sister).
+ Benito's ex-wife was remarried to a fellow from France and had not brought
+ her child with her when she moved abroad.
+\end_layout
+
+\begin_layout Standard
+The little boy's name was Nino, and he overwhelmed his shocked grandpa and
+ skeptical aunt with unreasonable enthusiasm about vampires and werewolves
+ and the fact that I was 
+\begin_inset Quotes eld
+\end_inset
+
+a real live 
+\emph on
+magical princess
+\emph default
+ for 
+\emph on
+real
+\emph default
+".
+ He didn't seem to understand that his father had been supplanted.
+ I told him, but the concept was over his head and my power didn't fill
+ the gap.
+ Instead, Nino seemed to react to John like he was an act his father was
+ putting on, who used a translator out of a desire to stay in character.
+ Nino cheerfully demanded stories about John's 
+\begin_inset Quotes eld
+\end_inset
+
+adventures
+\begin_inset Quotes erd
+\end_inset
+
+ from 
+\begin_inset Quotes eld
+\end_inset
+
+forever ago
+\begin_inset Quotes erd
+\end_inset
+
+ when he was a vampire.
+\end_layout
+
+\begin_layout Standard
+John was not immune to the charms of small children, or he wouldn't have
+ kept a close enough eye on his daughter Anne to know that she was sick,
+ let alone turned her.
+ He related moderately-fictionalized versions of his life a millenium previous,
+ which wound up taking up most of the meeting with the family.
+\end_layout
+
+\begin_layout Standard
+Addy discreetly extracted practical information from the relatives.
+ The grandfather was retired, but able enough for sixty-seven, and could
+ look after Nino indefinitely given financial support.
+ (If Nino's mother didn't take the opportunity to change her mind about
+ wanting to bring the child to France, which possibility the sister openly
+ derided as less likely than the existence of vampires.) John himself was
+ still inclined to be turned into a vampire 
+\begin_inset Quotes eld
+\end_inset
+
+again
+\begin_inset Quotes erd
+\end_inset
+
+, in spite of the new laws surrounding the consumption of humans as food
+ products.
+ Even if he adjusted immediately to the challenge of being around human-type
+ people he wasn't allowed to eat, he didn't yet have the comprehension of
+ the modern world to get along with and attempt to bring up 
+\begin_inset Quotes eld
+\end_inset
+
+his
+\begin_inset Quotes erd
+\end_inset
+
+ son in it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you can still write me,
+\begin_inset Quotes erd
+\end_inset
+
+ Nino said when it was explained that John was probably going to travel
+ the world with the 
+\begin_inset Quotes eld
+\end_inset
+
+magical princess
+\begin_inset Quotes erd
+\end_inset
+
+ and my 
+\begin_inset Quotes eld
+\end_inset
+
+friends
+\begin_inset Quotes erd
+\end_inset
+
+ in order to 
+\begin_inset Quotes eld
+\end_inset
+
+learn to be a vampire again".
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I can do that,
+\begin_inset Quotes erd
+\end_inset
+
+ John said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In Italian, even, once I'm turned and can easily learn the language, er,
+ again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nino with a conspiratorial wink, 
+\begin_inset Quotes eld
+\end_inset
+
+you have to learn it again so the magic princess can do magic princess stuff
+ instead of saying what you say!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I wondered how old Nino would be before it hit him that this wasn't a grand
+ game his dad was playing, but for the time being I was just grateful that
+ he wasn't devastated.
+ The grandfather had been looking after Nino while his father was in the
+ hospital anyway.
+ It would require a little legal maneuvering that we could delegate to Santiago
+ for Benito's disappearance to be officially explained and custody officially
+ transferred, was all.
+\end_layout
+
+\begin_layout Standard
+The subsequent day, the family of the brothers called in with their decision.
+ The married brother's wife remained adamant that she wanted him turned
+ into somebody, and wanted her pick of somebodies -- somehow I didn't think
+ Harry Clearwater would suit her, let alone Aro -- and the other brother
+ was up to us, as he couldn't be restored in his original form.
+ 
+\emph on
+He
+\emph default
+ might be the new Harry.
+ Addy made an appointment for the wife to come in before the last family's
+ appointment to pick her somebody off the limited menu.
+\end_layout
+
+\begin_layout Standard
+She wound up deciding, on Addy's advice, to help herself to a Sicilian vampire
+ who'd been executed in 1986 as part of a newborn army (built foolishly
+ close to Volterra, although there was no 
+\emph on
+good
+\emph default
+ place to hide such a project) that the Volturi had put down.
+ Aro had checked everyone there for interesting witchcraft as a matter of
+ routine, using his own power for the process since having been deprived
+ of Eleazar but before the acquisition of Addy.
+ The Sicilian in question had never been enthusiastic about being a vampire,
+ never had a mate, was not a witch, and was innocuous enough of disposition
+ that Addy suspected he'd suit his new vessel's wife adequately.
+ He spoke Italian natively and would only be arriving twenty-five years
+ out of his time, a far easier jump than John's or Didyme's.
+\end_layout
+
+\begin_layout Standard
+Santiago had gone into town previously to stock up on various forms of makeup,
+ on the contingency that we'd need it for exactly this purpose.
+ It took a lot of the stuff, caked on in thick layers, to make the woman's
+ husband resemble his intended self, but eventually we managed a passable
+ job (allowing for the changes that turning had wrought) and fetched a mirror.
+ Addy and I blasted him with a second dose of the Sicilian fellow together,
+ each at touch range in case that did anything to juice up the magic, and
+ she held the reflective surface in front of his face.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\noun on
+Aaaaaaah!
+\noun default
+
+\begin_inset Quotes erd
+\end_inset
+
+ was his first reaction.
+ This was reasonable enough, since the last thing he remembered was Aro
+ laying his hand across his forehead and then clucking to himself and saying
+ 
+\begin_inset Quotes eld
+\end_inset
+
+no
+\begin_inset Quotes erd
+\end_inset
+
+, by which he'd meant 
+\begin_inset Quotes eld
+\end_inset
+
+kill him".
+ But as we pulled our hands away from his face, he blinked, sat up dizzily,
+ and looked around.
+ He felt at his throat, ran his tongue over his teeth, looked at his arm.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm...
+ what...
+\begin_inset Quotes erd
+\end_inset
+
+ He stared at Addy, then at me, then at the woman who was, legally, his
+ wife.
+\end_layout
+
+\begin_layout Standard
+He answered to his name, took some calming down from what he recalled as
+ a near-death experience, was rather thrown by but pleased with his change
+ of species, and was bemusedly accepting of the fact that he was now invited
+ to live the life of the human he inhabited.
+ We gave the couple the necessary contact information to get in touch with
+ the Golden Coven if that were necessary, summarized the relevant rules
+ about discretion, and sent them home.
+ As they walked out via the office building, I heard the wife chattering
+ about the pros and cons of the man going by the human's original name or
+ the Sicilian vampire's.
+\end_layout
+
+\begin_layout Standard
+The last family consisted entirely of one grown son, who listened gravely
+ to my explanation of what had happened to his father, and told me politely
+ but firmly that he didn't think any further magical fooling around was
+ likely to be helpful and he'd prefer to just take his father home and take
+ care of him there.
+ He seemed to be operating under the theory that the condition might lift
+ on its own at least to the extent that his father would be able to walk
+ around and do simple tasks, which I thought was unlikely, but couldn't
+ definitively rule out.
+ Addy wrote him a large check out of the Empire checkbook (connected to
+ the old Volturi accounts, appropriated in the coup) as reparations and
+ to help cover the cost of looking after the man, gave him our contact info
+ in case he changed his mind, and sent him on his way.
+ The patient could technically walk, but it wasn't wise to oblige him to
+ do so for long distances, so Addy took the wheelchair that one of Heidi's
+ parcels had left in her handicapped-accessible bus and donated it to the
+ cause.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's that, then,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, after we'd seen them off.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Except for Harry and Sue,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, not sure whether I was referring to the stored memories or the
+ bodies that we'd try to fill with them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,
+\begin_inset Quotes erd
+\end_inset
+
+ agreed Addy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Do their kids want to be there or should we just do it now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I should ask,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right, you can find me up in the throne room between various instances
+ of teleporting all over creation if you need me again,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, smiling, and she left.
+\end_layout
+
+\begin_layout Standard
+\align center
+*** 
+\end_layout
+
+\begin_layout Standard
+I went with Jake and Beatrice to the village, and found Leah, Seth, and
+ Cody all together -- packing.
+ We were scheduled to head for Washington the next morning, early, so I
+ decided I'd need to pack too after finishing work for the day.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's one man and the one woman free,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And the resurrection worked on another guy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And...?
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody and Seth, simultaneously, but Cody was hopeful and Seth didn't
+ follow the significance of what I was saying.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And my mom said that yes, we could bring back your parents.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cody beamed and hugged me, but Leah and Seth didn't look thrilled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Awk
+\emph default
+ward,
+\begin_inset Quotes erd
+\end_inset
+
+ said Leah after a silence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Chelsea's hands are still alive enough that Addy can copy the power, if
+ you want that...
+ fixed,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+Leah looked like she was considering it, but Seth shook his head and she
+ imitated him after a pause.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It'd still be awkward,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They've been dead for nearly six years by this point.
+ There is no non-awkward way to handle the situation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you want to be there when I...?
+\begin_inset Quotes erd
+\end_inset
+
+ I made a vague gesture, addressing the question to all three Clearwaters.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+...
+\begin_inset space ~
+\end_inset
+
+They won't recognize me, will they?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not right away,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I mean, I'm sure they'll see the resemblance when you tell them who they
+ are.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will there be anything to 
+\emph on
+see
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Seth curiously.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Me putting enough makeup on them that they look adequately like your parents,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, 
+\begin_inset Quotes eld
+\end_inset
+
+and holding up a mirror with one hand and sending with the other.
+ I might or might not need Addy to send with me.
+ We did it together with the other guy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That sounds so unceremonious,
+\begin_inset Quotes erd
+\end_inset
+
+ observed Seth.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I was thinking, candles everywhere, choosing a date for the ritual based
+ on the moon or something, ominous Latin chanting...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can chant in Latin while I put the makeup on, if you want,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, feeling that it would probably be a good idea to have all three
+ Clearwater offspring in the room.
+ Seth and Leah looked the same as they had when their parents died, and
+ 
+\emph on
+would
+\emph default
+ be recognized immediately; it seemed likely to comfort Harry and Sue even
+ in the face of subsequent awkwardness.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Seth interestedly.
+ I nodded, and he shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Okay, I'll be there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Leah?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sure, why not, I guess if I don't come along they'll wake up and figure
+ I must be dead,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, shrugging, 
+\begin_inset Quotes eld
+\end_inset
+
+and then of course shout at me for making them worry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm pretty sure we're old enough that we don't need to stay put for parental
+ shouting anymore,
+\begin_inset Quotes erd
+\end_inset
+
+ Seth remarked as I led four wolves and a half-vampire up to the compound.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, I guess,
+\begin_inset Quotes erd
+\end_inset
+
+ said Leah.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I hope they move around with the Golden Coven instead of settling in La
+ Push with us, La Push is supposed to be wolves and humans, it was 
+\emph on
+always
+\emph default
+ supposed to be wolves and humans, the wolves are for the express purpose
+ of keeping vampires away...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They might not even want to be vampires again,
+\begin_inset Quotes erd
+\end_inset
+
+ Seth pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That was only to save both their lives, first time around.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I took up the makeup kit, complete with bits of putty to smooth and sculpt
+ over their faces, and began work on she-who-would-be-Sue first.
+ I muttered in Latin, attempting to keep a chantlike rhythm, even though
+ I was only talking about the process as I inexpertly added to and painted
+ the face.
+ I had memories from people who'd done various forms of art and makeup,
+ but it didn't translate automatically to body memory or procedural expertise,
+ just vague competence.
+ Seth observed that I didn't sound very ominous, so I deepened my voice
+ as far as it would go, which wasn't far; this caused all three of them
+ to crack up, although Cody laughed distractedly.
+\end_layout
+
+\begin_layout Standard
+I finished a passable Sue face, slowed down by the patient's insistence
+ on delirious murmuring, and decided to make up Harry before resurrecting
+ either so I could do the pair of them in rapid sequence.
+ (I'd have tried simultaneity, but I wasn't sure if I could do even one
+ resurrection completely alone.) He was faster -- there was more resemblance
+ to start with -- and eventually they both looked like they might be able
+ to see their intended selves in the mirror.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you think?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked the assembled children.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think it should be close enough,
+\begin_inset Quotes erd
+\end_inset
+
+ said Cody, twisting his hands together.
+ The wolves offered no opinions.
+ I wondered if Seth and Leah could even remember their parents' faces, with
+ flawed recall and no reason to cling tightly to the images.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you care who I wake first?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked.
+\end_layout
+
+\begin_layout Standard
+Cody frowned in thought, looking between them.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Start with Dad?
+\begin_inset Quotes erd
+\end_inset
+
+ he said uncertainly.
+\end_layout
+
+\begin_layout Standard
+I nodded and laid my hand against 
+\begin_inset Quotes eld
+\end_inset
+
+Harry's
+\begin_inset Quotes erd
+\end_inset
+
+ heavily decorated face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He might scream at first,
+\begin_inset Quotes erd
+\end_inset
+
+ I warned.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The other guy did.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cody dipped his head in acknowledgement, his eyes fixed on the man I was
+ about to turn into his father.
+ There were three months and change of vampire memories and the usual fragments
+ of human residue to send, and at the moment when the transfer was finished,
+ I held the mirror in place.
+\end_layout
+
+\begin_layout Standard
+Harry sat bolt upright, and would have smashed his face into the mirror
+ if I hadn't pulled it out of the way.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Sue
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ he gasped, and then he looked at Seth and Leah, boggled at them, failed
+ to choke their names out, and then flopped back onto the bed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, god.
+ Are you dead? Am I dead? I'm dead,
+\begin_inset Quotes erd
+\end_inset
+
+ he mumbled.
+ He turned his head to look at his children, although his eyes passed over
+ Cody with no recognition and he didn't acknowledge my presence, or my guards,
+ or the patient in the other bed, at all.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I tried,
+\begin_inset Quotes erd
+\end_inset
+
+ he said to Leah and Seth, who looked uncomfortable and didn't respond.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+We tried -- they were too strong
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dad,
+\begin_inset Quotes erd
+\end_inset
+
+ choked Cody.
+\end_layout
+
+\begin_layout Standard
+Harry sat up again, slowly, looking at Cody with puzzled scrutiny.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Cody
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ he breathed.
+\end_layout
+
+\begin_layout Standard
+Cody nodded, evidently unable to speak further.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I completely lost track of time but -- but how -- you were a baby
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--''}
+\end_layout
+
+\end_inset
+
+ Harry exclaimed.
+ Harry and Sue had both been read after they'd been disassembled, which
+ did have an extremely disorienting effect, although not so bad that Harry
+ could have failed to notice a whole year passing, let alone five and a
+ half.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You 
+\emph on
+were
+\emph default
+ dead,
+\begin_inset Quotes erd
+\end_inset
+
+ I said in a low voice.
+\end_layout
+
+\begin_layout Standard
+Harry's head swiveled around to point in my direction.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Who are 
+\emph on
+you
+\emph default
+ -- Jake, is that you? ...
+\begin_inset space ~
+\end_inset
+
+and Bea? Bea Hobson?
+\begin_inset Quotes erd
+\end_inset
+
+ he said, glancing at the wolves standing behind me and using a nickname
+ that Beatrice hadn't gone by since she was sixteen.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm Elspeth Cullen,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and the wolves behind me nodded, acknowledging their names.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What 
+\emph on
+year
+\emph default
+ is this?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Harry.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+2011,
+\begin_inset Quotes erd
+\end_inset
+
+ I said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You've been brought back from the dead via a memory backup Aro took, in
+ the body of an Italian dude,
+\begin_inset Quotes erd
+\end_inset
+
+ said Seth helpfully.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Elspeth's going to bring back Mom too, in an Italian lady,
+\begin_inset Quotes erd
+\end_inset
+
+ added Leah, pointing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+An Italian dude,
+\begin_inset Quotes erd
+\end_inset
+
+ repeated Harry blankly, picking unconsciously at the putty I'd used to
+ create the illusion of a stronger jaw than his host had.
+\end_layout
+
+\begin_layout Standard
+I moved over to where the last blast victim was lying, and quietly repeated
+ the process for Sue, who woke up much less violently.
+ She stared into the mirror, frowned, looked at me, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Where am I?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Volterra, Italy,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied.
+\end_layout
+
+\begin_layout Standard
+She processed this information, then shot her hand forward and attempted
+ to sock me in the face; Jake intervened and caught her wrist, protecting
+ her hand more than my nose.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is wrong with you?
+\begin_inset Quotes erd
+\end_inset
+
+ he snapped at her.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jacob?
+\begin_inset Quotes erd
+\end_inset
+
+ she said, puzzled, and tried to pull her hand out of his grip.
+ He let her go, after a moment, and she pushed herself into a sitting position.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I did just tell her she's in Volterra, and the last thing she remembers
+ is being taken prisoner by the Volturi,
+\begin_inset Quotes erd
+\end_inset
+
+ I pointed out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She doesn't know who I am and probably didn't notice right away she's not
+ a vampire any more.
+ If I'd been, say, Noemi, and worked for the bad guys, it would have been
+ reasonable...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not a vam- 
+\emph on
+what
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ Sue said.
+ She looked at her hands and flexed them, then took a deep breath, whether
+ to smell the air or confirm that she really did need air I wasn't sure.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How is this possible?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm told we're Italian now,
+\begin_inset Quotes erd
+\end_inset
+
+ said Harry, sounding vaguely manic.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Italian? Who are 
+\emph on
+you
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked, frowning at Harry, who had done enough damage to his fictional
+ features to be unrecognizeable as Harry Clearwater.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm Harry,
+\begin_inset Quotes erd
+\end_inset
+
+ he said, looking at a fragment of putty in his palm.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think.
+ They tell me you're Sue.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course I'm Sue
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Quotes erd
+\end_inset
+
+ She turned her head enough to take in the faces of her three children,
+ on the opposite side of her bed from me and my bodyguards.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Leah? Seth? And...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Cody,
+\begin_inset Quotes erd
+\end_inset
+
+ whispered Cody, his eyes shining with tears that hadn't yet escaped to
+ trail down his face.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm Cody, Mom.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sue stared at him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Someone had better explain all this to me from the beginning,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+I smiled very faintly, and began the story as requested.
+\end_layout
+
+\end_body
+\end_document
