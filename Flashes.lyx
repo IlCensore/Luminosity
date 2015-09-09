@@ -65,7 +65,8 @@
 \renewcommand\chapternumberline[1]{Flash \Numberstringnum{#1} ~\raisebox{.2ex}{\scalebox{0.75}{·}~}}
 \renewcommand\cftchapterpagefont{\normalfont}
 %%\renewcommand\cftchapterfont{\normalfont\scshape\small}
-\renewcommand\cftchapterfont{\normalfont\scshape}
+%%\renewcommand\cftchapterfont{\normalfont\scshape}
+\renewcommand\cftchapterfont{\normalfont}
 \renewcommand\cftpartpagefont{\normalfont}
 \renewcommand\cftpartfont{\normalfont\large}
 
@@ -2366,7 +2367,7 @@ She wasn't very worried about the arrogant female leader.
  Siobhan had seen the catlike gait before, and it was usually a sign of
  overconfidence -- it looked slick and self-assured, but it involved unnecessary
  motions, wasn't very efficient.
- Vamipres who walked like that didn't know how to discard style for force
+ Vampires who walked like that didn't know how to discard style for force
  in a pinch.
  If they couldn't beat you with flair they couldn't beat you at all.
 \end_layout
@@ -3664,7 +3665,7 @@ sure
  how far from Nashville proper Peter and Charlotte ranged, if she and Emmett
  had already missed them and were only getting farther and farther away.
  She wasn't sure if they were still in Nashville at all, instead of having
- relocated to Memphis or someplace in Arkansas -- or just having abanoned
+ relocated to Memphis or someplace in Arkansas -- or just having abandoned
  the maintenance of a territory altogether and beginning a strictly nomadic
  lifestyle.
  She wasn't sure if Alice and Jasper had elected to join the latter's old
@@ -6101,7 +6102,7 @@ talk
 \end_layout
 
 \begin_layout Standard
-Addy had other responsibilites: she needed to borrow the power from Marcus
+Addy had other responsibilities: she needed to borrow the power from Marcus
  (champagne) to help Chelsea.
  She needed to borrow Pera's (some sort of glazed meat, maybe apricot on
  mutton) to keep an eye on the reclusive new addition.
@@ -7116,7 +7117,7 @@ highly
 \emph on
  unusual, but the application is unlikely to succeed.
  Turnings of persons younger than 17 are subject to more scrutiny than applicati
-ons from indivduals 17 and older, but are not directly ruled out.
+ons from individuals 17 and older, but are not directly ruled out.
 \end_layout
 
 \begin_layout Standard
@@ -13451,7 +13452,7 @@ Your mamma worked for the Volturi when she was a human,
 \begin_inset Quotes eld
 \end_inset
 
-Marcus is the last suriving member of the ruling triad.
+Marcus is the last surviving member of the ruling triad.
  He's retired to Florida with his mate and kids, sure, but that doesn't
  change the fact that he was in power while those in power decided to kill
  her.
@@ -16281,8 +16282,8 @@ By the time Aro returned to the group to tell the particulars, the life
  bleeding from it (like he could).
  He heard the story Aro delivered, and pulled out of his stupor long enough
  to deliver violence to the perpetrators, and then -- stared at the ribbon
- again as it wavered in the air, torn edges interesecting the flames of
- the murderers.
+ again as it wavered in the air, torn edges intersecting the flames of the
+ murderers.
  It didn't catch.
  It wouldn't burn.
 \end_layout
@@ -16914,7 +16915,7 @@ jailbait
 \begin_inset Quotes erd
 \end_inset
 
- corrected Isuel, wagging a finger.
+ corrected Iseul, wagging a finger.
  
 \begin_inset Quotes eld
 \end_inset
@@ -18472,7 +18473,11 @@ But the name on the stone was her father's:
 \end_inset
 
 Jerry R.
- Cooper".
+ Cooper
+\begin_inset Quotes erd
+\end_inset
+
+.
  The inscription was for him: 
 \begin_inset Quotes eld
 \end_inset
@@ -19768,7 +19773,7 @@ hih
  Princess Elspeth Cullen (through the Golden Coven website) to receive detailed
  sensory information about the olfactory and instinctual issues that may
  trouble you if you should opt to turn.
- Disclaimers about the incommensurability between wolf impinting tendencies
+ Disclaimers about the incommensurability between wolf imprinting tendencies
  and vampire mating habits are attached.
 \end_layout
 
@@ -19970,7 +19975,7 @@ Of course,
 \end_inset
 
 I was born in 1731.
- I don't credit the high standards of healthcare and hygeine at the time
+ I don't credit the high standards of healthcare and hygiene at the time
  for 
 \emph on
 my
@@ -21976,7 +21981,7 @@ Tanya wished she could get drunk.
 \end_layout
 
 \begin_layout Standard
-It was easy, mechanical after millenia of practice, and even simpler in
+It was easy, mechanical after millennia of practice, and even simpler in
  an era where no one would try to stone her to death if she outright proposition
 ed someone in the wrong person's hearing.
  She was lovelier than the stars, she was pretty as a picture, she was hotter
@@ -23570,7 +23575,7 @@ Don't go anywhere,
 \begin_layout Standard
 She waited.
  Experimentally, she performed a backflip.
- It should have been exhilirating, but there was no dizzy urgency to the
+ It should have been exhilarating, but there was no dizzy urgency to the
  change in equilibrium -- she was just aware that she was temporarily upside-dow
 n.
  She didn't repeat the test; instead she looked around at the cabin.
