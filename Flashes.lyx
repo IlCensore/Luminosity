@@ -593,7 +593,11 @@ Twilight
 
 \begin_layout Standard
 \align center
-Typesetted by Cato Philosophus (
+Edited by Cato Philosophus
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -606,7 +610,12 @@ url{cato.philosophus@gmail.com}
 
 \end_inset
 
-) in LyX and 
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Typesetted by Cato Philosophus in LyX and 
 \begin_inset ERT
 status open
 
@@ -619,7 +628,11 @@ LaTeX
 
 \end_inset
 
-, using Jauría (© Pablo Marchant), 
+, using Jauría (©
+\begin_inset space ~
+\end_inset
+
+Pablo Marchant), 
 \family sans
 Twilight
 \family default
@@ -25431,7 +25444,11 @@ If you ever lie to her, it will end badly,
 \begin_layout Standard
 From up the stairs, Alice's thoughts reiterated: 
 \emph on
-Do NOT lie to Bella.
+Do 
+\noun on
+not
+\noun default
+ lie to Bella.
  Not even about this.
  See!
 \emph default
@@ -26123,8 +26140,10 @@ Chelsea nodded fervently, touched Addy's hand, and then went back to her
  ongoing work with the wolves, cutting and pulling and weaving.
  
 \emph on
-NO
+\noun on
+No
 \emph default
+\noun default
 , thought Edward again, but she could no longer hear.
  
 \emph on
@@ -26270,7 +26289,11 @@ Effulgence
 \begin_layout Standard
 \noindent
 \align center
-Book typesetting by Cato Philosophus (
+Book typesetting by Cato Philosophus
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -26283,20 +26306,20 @@ url{cato.philosophus@gmail.com}
 
 \end_inset
 
-),
+
 \begin_inset Newline newline
 \end_inset
 
-completed on September 3
+Completed on September 9
 \begin_inset script superscript
 
 \begin_layout Plain Layout
-rd
+th
 \end_layout
 
 \end_inset
 
-, 2015.
+, 2015
 \end_layout
 
 \end_body
