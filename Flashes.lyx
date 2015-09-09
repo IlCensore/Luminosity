@@ -30,7 +30,7 @@
   \renewcommand*{\printchapternonum}{%
     \vphantom{\chapnumfont \@chapapp 1}\par
     \parbox{0.5in}{}\par}
-  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\chaptitlefont}{\normalfont\HUGE\sffamily}
   \renewcommand*{\printchaptertitle}[1]{%
     \centering \chaptitlefont\textsc{##1}}}
   \renewcommand*{\afterchaptertitle}{\par\vspace\par}
@@ -56,7 +56,7 @@
 
 \XeTeXinterchartoks\FirstClass\SecondClass={\penalty\@M\hskip\z@}
 \fi
-%
+% to disable the Th ligature
 
 
 
@@ -24282,7 +24282,7 @@ He's moved away,
 \begin_inset Quotes erd
 \end_inset
 
- said the hospital's recceptionist when she asked.
+ said the hospital's receptionist when she asked.
 \end_layout
 
 \begin_layout Standard
