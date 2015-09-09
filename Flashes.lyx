@@ -11,7 +11,7 @@
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
 \makepagestyle{myheadings}
-  \makeevenhead{myheadings}{\footnotesize Flash\ \liningnums{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
+  \makeevenhead{myheadings}{\footnotesize Flash\ \Numberstringnum{\thechapter}\ ·\ \textsf{\leftmark}}{}{}
   \makeoddhead{myheadings}{}{}{}
   \makeevenfoot{myheadings}{\thepage}{}{}
   \makeoddfoot{myheadings}{}{}{\thepage}
@@ -62,7 +62,7 @@
 
 %% ToC
 \renewcommand\partnumberline[1]{}
-\renewcommand\chapternumberline[1]{Flash #1~\raisebox{.2ex}{\scalebox{0.75}{·}~}}
+\renewcommand\chapternumberline[1]{Flash \Numberstringnum{#1} ~\raisebox{.2ex}{\scalebox{0.75}{·}~}}
 \renewcommand\cftchapterpagefont{\normalfont}
 %%\renewcommand\cftchapterfont{\normalfont\scshape\small}
 \renewcommand\cftchapterfont{\normalfont\scshape}
